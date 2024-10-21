@@ -1,0 +1,34 @@
+project:
+  type: website
+bibliography: "biblio.bib"
+
+date: last-modified 
+website:
+  title: "neelsmith"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home  
+      - text: "Family history"
+        file: projects/index.qmd    
+     
+     
+    
+    right:
+      - icon: person-circle
+        menu:
+          - text: "My professional site"
+            href: https://neelsmith.quarto.pub
+        aria-label: Home
+
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
