@@ -12,7 +12,7 @@ website:
       - href: index.qmd
         text: Home  
       - text: "Family history"
-        file: projects/index.qmd    
+        file: familyhistory/index.qmd    
      
      
     

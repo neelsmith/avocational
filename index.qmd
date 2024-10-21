@@ -3,3 +3,10 @@ engine: julia
 ---
 
 # Neel Smith: personal site
+
+
+- Work on [family history](./familyhistory/)
+
+
+
+(For my professional work on line, see [https://neelsmith.quarto.pub/](https://neelsmith.quarto.pub/))

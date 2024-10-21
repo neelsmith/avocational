@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 06a796cf-4954-42e3-8ed3-5239336b528f
+      url: 'https://neelsmith.quarto.pub/personal'
