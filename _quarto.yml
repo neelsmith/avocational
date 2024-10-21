@@ -19,7 +19,7 @@ website:
     right:
       - icon: person-circle
         menu:
-          - text: "My professional site"
+          - text: "My professional work"
             href: https://neelsmith.quarto.pub
         aria-label: Home
 
