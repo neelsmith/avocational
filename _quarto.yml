@@ -4,6 +4,7 @@ bibliography: "biblio.bib"
 
 date: last-modified 
 website:
+  site-url: "https://neelsmith.quarto.pub/personal/"
   title: "neelsmith"
   navbar:
     background: primary
@@ -11,10 +12,11 @@ website:
     left:
       - href: index.qmd
         text: Home  
+      - text: "Posts"
+        file: posts.qmd        
       - text: "Family history"
         file: familyhistory/index.qmd    
-      - text: "Blog"
-        file: posts.qmd      
+      
      
     
     right:

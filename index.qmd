@@ -12,5 +12,5 @@ I'm keeping
 
 
 :::{.callout-tip title="My professional work on line"}
-For my professional work on line, see [https://neelsmith.quarto.pub/](https://neelsmith.quarto.pub/))
+I have a separate web site where I'm gradually migrating all of my on-line professional work. You can see it at [https://neelsmith.quarto.pub/](https://neelsmith.quarto.pub/) -- yes, that's just the root directory of the web service where this personal web site is located.
 :::

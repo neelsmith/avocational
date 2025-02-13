@@ -9,7 +9,7 @@ categories: [white] # self-defined categories
 citation: 
   url: https://neelsmith.quarto.pub/posts/2024-10-22-why-julia/ 
 image: Ebenezer-tombstone.png
-draft: false
+draft: true
 ---
 
 
