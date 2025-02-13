@@ -4,4 +4,20 @@ engine: julia
 
 # Family history
 
-- [White family letters](./whiteletters/)
+## Contents
+
+**Source material**: I'm developing an approach (below) to sharing all the primary source material I'm collecting for family historical research.
+
+**Commentary and interpretation**: I'm beginning by posting notes in the [blog section](../posts.qmd) of this site. It's not my intention to develop any kind of overarching historical narrative. Instead, I'm choosing to write about isolated episodes and people I find interesting, and can document adequately to support my text.
+
+I'm beginning (slowly) in 2025 by focusing on a collection of letters to and from members of the family of Ebenezer White (1779-1853).
+
+- see an introduction to the [White family letters](./whiteletters/)
+
+
+## Approach
+
+My first hope is that I can simplify sharing primary source material, licensed for open reuse, in simple data formats.
+
+In writing about particular topics, I am setting two limits: I won't write about people with living children (as far as I know), or who have died recently, whether or not they have children. I'm struggling to define "recent": perhaps 50 years will be a reasonable limit. In any case, members of the nineteenth-century White family I am starting will fall within any boundaries I might choose.
+
