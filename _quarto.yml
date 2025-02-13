@@ -13,7 +13,8 @@ website:
         text: Home  
       - text: "Family history"
         file: familyhistory/index.qmd    
-     
+      - text: "Blog"
+        file: posts.qmd      
      
     
     right:

@@ -5,8 +5,12 @@ engine: julia
 # Neel Smith: personal site
 
 
+I'm keeping
+
+
 - Work on [family history](./familyhistory/)
 
 
-
-(For my professional work on line, see [https://neelsmith.quarto.pub/](https://neelsmith.quarto.pub/))
+:::{.callout-tip title="My professional work on line"}
+For my professional work on line, see [https://neelsmith.quarto.pub/](https://neelsmith.quarto.pub/))
+:::

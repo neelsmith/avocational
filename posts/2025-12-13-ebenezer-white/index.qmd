@@ -1,0 +1,20 @@
+---
+title: "Introducing Ebenezer White"
+engine: julia
+description: "The collection of White family letters starts with Ebenezer."
+author:
+  - name: Neel Smith
+date: 2025-02-13
+categories: [white] # self-defined categories
+citation: 
+  url: https://neelsmith.quarto.pub/posts/2024-10-22-why-julia/ 
+image: Ebenezer-tombstone.png
+draft: false
+---
+
+
+## Ebenezer White
+
+- Letters in AAS
+- he is patriarch if that's the right term
+- 
