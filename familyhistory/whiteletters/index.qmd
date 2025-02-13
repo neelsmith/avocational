@@ -3,4 +3,7 @@ title: "White family letters"
 engine: julia
 ---
 
-In the AAS in Worcester
+
+The American Antiquarian Society in Worcester holds a collection of mid-nineteenth century letters to and from members of the family of Ebenezer White (1779-1853).
+
+I have made a preliminary inventory of the letters, and plan to share that, along with full transcriptions and illustrations of each letter.
