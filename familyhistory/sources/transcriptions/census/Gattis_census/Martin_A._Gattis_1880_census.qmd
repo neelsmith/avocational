@@ -1,0 +1,34 @@
+
+
+
+
+refersto::[[Martin A. Gattis]]
+Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Date::June 10, 1880
+
+House::123
+Family::144
+Name::Martin A. Gattis
+Race::W
+Sex::M
+Age::20
+Born this year::
+Relationship::Son
+Single::Yes
+Married::
+Widowed::
+Married this year::
+Occupation::Works on farm
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::
+Cannot read::
+Cannot write::
+Birthplace::Tenn.
+Father birthplace::Tenn
+Mother birthplace::Tenn

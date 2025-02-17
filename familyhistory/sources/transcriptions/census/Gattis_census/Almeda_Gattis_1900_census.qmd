@@ -1,0 +1,41 @@
+
+
+ 
+
+
+
+refersto::[[Almeda Gattis]]
+Enumeration::[Wartrace, Bedford, Tennessee](../../../../census-districts/Wartrace,_Bedford,_Tennessee.html)
+Date::June 1, 1900
+Street::Mill Alley
+Street number::
+House::26
+Family::27
+Name::Amedia Gattis
+Relationship::Daughter
+Race::W
+Sex::F
+Birth month::June
+Birth year::1866
+Age::34
+Marital status::S
+Years married::
+Children born::9
+Children living::5
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::
+Months unemployed::
+Attended school::
+Can read::Yes
+Can write::Yes
+Speaks English::Yes
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+

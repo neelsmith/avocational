@@ -1,0 +1,34 @@
+
+ 
+
+
+This is a substitute record:
+
+refersto::[[Martin Shofner]]
+Enumeration::[Orange, North Carolina](../../../../census-districts/Orange,_North_Carolina.html)
+
+
+
+Head of family::
+White males 16 and up:: 
+White males under 16:: 
+White females::
+Other free persons::
+Slaves::
+
+
+ Citation info
+
+
+citation::The National Archives in Washington, DC; Washington, DC; First Census of the United States, 1790.; Year: 1790; Census Place: Orange, North Carolina; Series: M637; Page: 95
+
+
+
+ Source information
+
+
+1790 United States Federal Census from Ancestry.com.
+
+Publisher::Ancestry.com Operations, Inc.
+Publisher date::2010
+Publisher location::Provo, UT, USA

@@ -1,0 +1,26 @@
+refersto::[Duncan Neel](../../../people/Neel-line/Duncan_Neel.html)
+date::1839
+
+
+ Citation
+
+ Source Citation
+
+The Tennessee State Library and Archives; Nashville, Tennessee; _Early Tax Lists of Tennessee_
+
+ Source Information
+
+Ancestry.com. _Tennessee, U.S., Early Tax List Records, 1783-1895_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2013. This collection was indexed by [Ancestry World Archives Project](https://www.ancestry.com/handler/domainrd.ashx?Domain=CommunityDomain&url=/wap/dashboard.aspx) contributors.
+
+Original data: Early Tax Lists of Tennessee. Microfilm, 12 rolls. The Tennessee State Library and Archives, Nashville, Tennessee.
+
+ Notes
+
+Misreading something, or there's an error: these numbers don't add up.
+
+
+- taxed on 650 acres valued at $2600, taxed $1.30
+- school land 150 valued at 150, taxed 7%
+- 1 horse valued at 700 taxed $0.35
+- state tax $1.65
+- total state and county $4.31

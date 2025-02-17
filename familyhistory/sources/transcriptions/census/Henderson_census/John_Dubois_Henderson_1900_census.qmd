@@ -1,0 +1,36 @@
+refersto::[[John Dubois Henderson]]
+
+Enumeration::[Herkimer, Herkimer, New York](../../../../census-districts/Herkimer,_Herkimer,_New_York.html)
+Date::1900-06-09
+Street::Cant Street
+Street number::119
+House::154/146
+Family::176/168
+Name::John DB Henderson
+Relationship::Son
+Race::W
+Sex::M
+Birth month::April
+Birth year::1887
+Age::13
+Marital status::S
+Years married::
+Children born::
+Children living::
+Birthplace::New York
+Father birthplace::New York
+Mother birthplace::New York
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::at School
+Months unemployed::
+Attended school::
+Can read::yes
+Can write::yes
+Speaks English::yes
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+

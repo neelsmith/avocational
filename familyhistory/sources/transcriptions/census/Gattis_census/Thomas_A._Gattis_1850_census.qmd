@@ -1,0 +1,19 @@
+
+
+
+refersto::[[Thomas A. Gattis]]
+Enumeration::[District 25, Bedford, Tennessee](../../../../census-districts/District_25,_Bedford,_Tennessee.html)
+Date::Nov. 9, 1850
+House::30
+Family::30
+Name::Thos. Gattis
+Age::26
+Sex::M
+Race::
+Occupation::Farmer
+Real estate vaue::
+Birthplace::Tenn
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

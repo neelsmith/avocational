@@ -1,0 +1,44 @@
+ 
+
+refersto::[[Mollie Grandey White]]
+
+Enumeration::[Pasadena,Los Angeles,California](../../../../../Pasadena,Los_Angeles,California.html)
+Date::January 9-10, 1920
+Street::North Marengo
+Street number::490
+House::1
+Family::2
+Name::Mollie G. Randall
+Relationship::Wife
+Owned or rented::R
+Owned free or mortgaged::
+
+Sex::F
+Race::W
+Age at last birthday::38
+Marital status::M
+
+
+Immigration year::
+Naturalization::
+Year of naturalization::
+
+Attended school::
+Can read::Yes
+Can write::Yes
+
+Birthplace::Vermont
+Mother tongue::
+
+Father birthplace::Vermont
+Father language::
+Mother birthplace::Vermont
+Mother language::
+
+Speaks English::Yes
+
+Occupation::Asst . Manager
+Industry::Stationery store
+Employment type::W
+Farm schedule::
+

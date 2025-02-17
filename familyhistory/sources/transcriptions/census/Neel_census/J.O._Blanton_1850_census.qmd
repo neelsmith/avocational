@@ -1,0 +1,18 @@
+refersto::[[John Owen Blanton]]
+
+Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Date::1850-09-03
+House::70
+Family::71
+Name::John Blanton
+Age::1
+Sex::M
+Race::W
+Occupation::
+Real estate value::
+Birthplace::Tenn
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::
+

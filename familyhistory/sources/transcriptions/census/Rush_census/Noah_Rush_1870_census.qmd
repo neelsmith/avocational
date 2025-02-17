@@ -1,0 +1,29 @@
+ 
+
+
+
+refersto::[[Noah Rush]]
+
+Enumeration::[Concord township, Randolph, North Carolina](../../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
+Date::Sept. 14, 1870
+House::180
+Family::179
+
+Name::Noah Rush
+Age::50
+Sex::M
+Race::W
+Occupation::Farmer
+Real estate value::3000
+Personal estate value::800
+Birthplace::North Carolina
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::1
+Male 21 and up vote denied::

@@ -1,0 +1,44 @@
+ 
+
+
+refersto::[[Sarah Elizabeth Neel]]
+
+
+Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Date::1910-04-28
+Street::
+Street number::
+House::116
+Family::16
+Name::Neal, Sarah E.
+Relationship::Sister
+Sex::F
+Race::W
+Age::49
+Marital status::S
+Years of present marriage::
+Children born::
+Children living::
+Birthplace::Tennessee
+Father birthplace::North Carolina
+Mother birthplace::North Carolina
+Immigration year::
+Naturalization::
+Speaks English::English
+Occupation::None
+Industry::
+Employer or employee or own account::
+Unemployed April 15::
+Months unemployed::
+Can read::yes
+Can write::yes
+Attended school::
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+Civil war veteran::
+Blind::
+Deaf and dumb::
+
+

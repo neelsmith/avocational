@@ -1,0 +1,30 @@
+
+
+
+
+
+
+refersto::[[Emma Dora Gattis]]
+Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Date::August 16, 1870
+
+House::152
+Family::152
+Name::E.D. Gattis
+Age::14
+Sex::F
+Race::W
+Occupation::At home
+Real estate value::
+Personal estate value::
+Birthplace::Tennessee
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::Yes
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::
+Male 21 and up vote denied::

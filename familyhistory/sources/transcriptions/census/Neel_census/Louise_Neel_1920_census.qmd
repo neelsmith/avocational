@@ -1,0 +1,47 @@
+ 
+
+refersto::[[Mary Louise Neel]]
+
+
+refersto::[[Willie Saudek Blanton]]
+Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Date::1920-01-11
+Street::Manchester Road
+Street number::frm
+House::53
+Family::56
+
+Name::Neel, Louise
+Relationship::Daughter
+Owned or rented::
+Owned free or mortgaged::
+
+Sex::f
+Race::w
+Age at last birthday::7
+Marital status::S
+
+
+Immigration year::
+Naturalization::
+Year of naturalization::
+
+Attended school::yes
+Can read::yes
+Can write::yes
+
+Birthplace::Tennessee
+Mother tongue::
+
+Father birthplace::Tennessee
+Father language::
+Mother birthplace::Tennessee
+Mother language::
+
+Speaks English::yes
+
+Occupation::none
+Industry::
+Employment type::
+Farm schedule::
+

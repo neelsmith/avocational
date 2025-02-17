@@ -1,0 +1,20 @@
+ 
+
+
+refersto::[[Roxanna Rush]]
+Enumeration::[Western division, Randolph, NC](../../../../census-districts/Western_division,_Randolph,_NC.html)
+Date::1860-08-18
+House::1257
+Family::1256
+Name::Roxanna Rush
+Age::16
+Sex::f
+Race::
+Occupation::h
+Real estate value::
+Birthplace::N.C.
+Married 1850::
+Attended school::1
+Cannot read and write::
+Disability::
+

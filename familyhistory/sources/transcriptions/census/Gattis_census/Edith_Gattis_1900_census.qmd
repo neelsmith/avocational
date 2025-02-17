@@ -1,0 +1,37 @@
+
+ 
+
+refersto::[[Edith Gattis]]
+Enumeration::[Civil District 11, Bedford, Tennessee](../../../../census-districts/Civil_District_11,_Bedford,_Tennessee.html)
+Date::June 5, 1900
+Street::
+Street number::
+House::16
+Family::16
+Name::Edith Gattis
+Relationship::daughter
+Race::W
+Sex::F
+Birth month::Apr.
+Birth year::1895
+Age::5
+Marital status::S
+Years married::
+Children born::
+Children living::
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::Farmer
+Months unemployed::
+Attended school::
+Can read::
+Can write::
+Speaks English::
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::

@@ -1,0 +1,33 @@
+
+ 
+
+
+
+
+
+refersto::[[Calvin Harris Rush]]
+
+
+Enumeration::[Concord township, Randolph, North Carolina](../../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
+Date::Sept. 14, 1870
+House::180
+Family::179
+
+Name::Calvin H. Rush
+Age::17
+Sex::M
+Race::W
+Occupation::farm labour
+Real estate value::
+Personal estate value::
+Birthplace::North Carolina
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::1
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::
+Male 21 and up vote denied::

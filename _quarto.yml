@@ -16,7 +16,8 @@ website:
         file: posts.qmd        
       - text: "Family history"
         file: familyhistory/index.qmd    
-      
+      - text: "Sources"
+        file: familyhistory/sources/index.qmd 
      
     
     right:

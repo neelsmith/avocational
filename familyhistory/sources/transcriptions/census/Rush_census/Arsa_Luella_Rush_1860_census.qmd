@@ -1,0 +1,19 @@
+refersto::[[Arsa Luella Rush]]
+
+
+Enumeration::[Western division, Randolph, NC](../../../../census-districts/Western_division,_Randolph,_NC.html)
+Date::1860-08-17
+House::1257
+Family::1256
+Name::Luella Rush
+Age::2
+Sex::f
+Race::
+Occupation::
+Real estate value::
+Personal estate value::
+Birthplace::N.C.
+Married this year::
+Attended school::
+Cannot read and write::
+Disability::

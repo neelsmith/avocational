@@ -1,0 +1,33 @@
+
+
+refersto::[[John Dryden Henderson]]
+Enumeration::[Norway, Herkimer, New York](../../../../census-districts/Norway,_Herkimer,_New_York.html)
+Date::1860-07-24
+House::437
+Family::428
+Name::Dryden Henderson
+Age::14
+Sex::M
+Race::
+Occupation::armer
+Real estate value::
+Personal estate value::
+Birthplace::New York
+Married this year::
+Attended school::yes
+Cannot read and write::
+Disability::
+
+
+ Citation
+
+The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Norway, Herkimer, New York; Roll: M653_760; Page: 804; Family History Library Film: 803760
+
+ Description
+
+City: _Norway_
+
+ Source Information
+
+Ancestry.com. _1860 United States Federal Census_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2009. Images reproduced by FamilySearch. 
+Original data:1860 U.S. census, population schedule. NARA microfilm publication M653, 1,438 rolls. Washington, D.C.: National Archives and Records Administration, n.d.

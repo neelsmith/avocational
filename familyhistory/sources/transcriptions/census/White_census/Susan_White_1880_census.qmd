@@ -1,0 +1,37 @@
+
+ 
+
+refersto::[[Susan White]]
+Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::June 24, 1880
+
+House::89
+Family::92
+Name::Susan White
+Race::W
+Sex::F
+Age::62
+Born this year::
+Relationship::Wife
+Single::
+Married::Yes
+Widowed::
+Married this year::
+Occupation::Keeping house
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::
+Cannot read::
+Cannot write::
+Birthplace::Vermont
+Father birthplace::Connecticut
+Mother birthplace::New Hampshire
+
+
+
+

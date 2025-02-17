@@ -1,0 +1,21 @@
+
+
+
+
+
+refersto::[Henry George White](../../../../people/Merrill-line/White-line/Henry_George_White.html)
+Enumeration::Burlington, Chittenden, Vermont
+Date::August 20, 1810
+House::525
+Family::694
+Name::Henry T. White
+Age::9
+Sex::M
+Race::
+Occupation::
+Real estate vaue::
+Birthplace::Vt.
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

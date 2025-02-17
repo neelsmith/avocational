@@ -1,0 +1,27 @@
+
+refersto::[[James Albee Merrill]]
+
+
+Enumeration::[Addison, Vermont](../../../../census-districts/Addison,_Vermont.html)
+Date::1870-07-07
+
+House::183
+Family::184
+Name::Albee J. Merrill
+Age::2
+Sex::M
+Race::W
+Occupation::
+Real estate value::
+Personal estate value::
+Birthplace::Vermont
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::
+Male 21 and up vote denied::

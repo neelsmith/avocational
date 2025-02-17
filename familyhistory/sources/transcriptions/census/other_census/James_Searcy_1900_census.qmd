@@ -1,0 +1,42 @@
+
+ 
+
+
+
+
+refersto::
+Enumeration::[Wartrace, Bedford, Tennessee](../../../../census-districts/Wartrace,_Bedford,_Tennessee.html)
+Date::June 1, 1900
+Street::Mill Alley
+Street number::
+House::26
+Family::27
+Name::James W. Searcy
+Relationship::Boarder
+Race::W
+Sex::M
+Birth month::Feb.
+Birth year::1845
+Age::55
+Marital status::Wid
+Years married::
+Children born::
+Children living::
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::Butcher
+Months unemployed::
+Attended school::
+Can read::Yes
+Can write::Yes
+Speaks English::Yes
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+
+

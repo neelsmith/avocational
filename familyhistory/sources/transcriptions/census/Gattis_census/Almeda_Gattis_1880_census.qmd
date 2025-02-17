@@ -1,0 +1,34 @@
+
+
+
+
+refersto::[[Almeda Gattis]]
+Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Date::June 10, 1880
+
+House::123
+Family::144
+Name::Almedia Gattis
+Race::W
+Sex::F
+Age::17
+Born this year::
+Relationship::Daughter
+Single::Yes
+Married::
+Widowed::
+Married this year::
+Occupation::
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::
+Cannot read::
+Cannot write::
+Birthplace::Tenn.
+Father birthplace::Tenn
+Mother birthplace::Tenn

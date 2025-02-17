@@ -1,0 +1,24 @@
+
+ 
+
+
+refersto::[[Martin Shofner]]
+Enumeration::[Hillsborough, Orange, North Carolina](../../../../census-districts/Hillsborough,_Orange,_North_Carolina.html)
+Date::
+
+Head of family::Martin Shofner
+White males under 10:: 1
+White males 10-15: 2
+White males 16-25::
+White males 26-44::1
+White males 45 and up::
+
+White females under 10::3
+White females 10-15::1
+White females 16-25::1
+White females 26-44::1
+White females 45 and up::
+Other free persons::
+Slaves::1
+
+

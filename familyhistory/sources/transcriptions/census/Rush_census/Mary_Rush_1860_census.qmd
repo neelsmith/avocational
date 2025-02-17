@@ -1,0 +1,22 @@
+ 
+
+
+
+refersto::[[Mary Jane Rush]]
+
+Enumeration::[Western division, Randolph, NC](../../../../census-districts/Western_division,_Randolph,_NC.html)
+Date::1860-08-18
+House::1257
+Family::1256
+Name::Mary Rush
+Age::5
+Sex::f
+Race::
+Occupation::
+Real estate value::
+Personal estate value::
+Birthplace::N.C.
+Married this year::
+Attended school::1
+Cannot read and write::
+Disability::

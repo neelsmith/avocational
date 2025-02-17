@@ -1,0 +1,12 @@
+
+
+refersto:: [[Moses Smith]]
+Enumeration:: [Barre, Vermont](../../../../census-districts/Barre,_Vermont.html) 
+Date::
+Head of family:: Moses Smith
+White males 16 and up:: 1
+White males under 16:: 1
+White females:: 4
+Other free persons::
+Slaves::
+

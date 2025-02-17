@@ -1,0 +1,40 @@
+
+ 
+
+refersto::[[Isaac Newton Gattis]]
+Enumeration::[Civil District 11, Bedford, Tennessee](../../../../census-districts/Civil_District_11,_Bedford,_Tennessee.html)
+Date::June 5, 1900
+Street::
+Street number::
+House::16
+Family::16
+Name::Isaac Gattis
+Relationship::Head
+Race::W
+Sex::M
+Birth month::Mar.
+Birth year::1866
+Age::34
+Marital status::M
+Years married::6
+Children born::
+Children living::
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::Farmer
+Months unemployed::
+Attended school::
+Can read::yes
+Can write::yes
+Speaks English::yes
+Owned or rented::O
+Owned free or mortgaged::F
+Farm or house::F
+Farm schedule::15
+
+
+

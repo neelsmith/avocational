@@ -1,0 +1,19 @@
+
+
+
+refersto::[[Dorotha Shofner]]
+Enumeration::[District 25, Bedford, Tennessee](../../../../census-districts/District_25,_Bedford,_Tennessee.html)
+Date::Nov. 9, 1850
+House::30
+Family::30
+Name::Dorotha Euless
+Age::68
+Sex::F
+Race::
+Occupation::
+Real estate vaue::2500
+Birthplace::NC
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

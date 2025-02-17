@@ -1,0 +1,41 @@
+ 
+
+
+refersto::[[Robert Wilburn Neel]]
+
+
+Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Date::1900-06-20
+Street::
+Street number::
+House::204
+Family::211
+
+Name::Robert W.
+Relationship::Son
+Race::W
+Sex::M
+Birth month::Sep
+Birth year::1866
+Age::33
+Marital status::S
+Years married::
+Children born::
+Children living::
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::Farmer
+Months unemployed::0
+Attended school::
+Can read::yes
+Can write::yes
+Speaks English::yes
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+

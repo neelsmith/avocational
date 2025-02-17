@@ -1,0 +1,61 @@
+ 
+
+
+refersto::[[Duncan Neel]]
+Enumeration::[Coffee, Tennessee](../../../../census-districts/Coffee,_Tennessee.html)
+Date::
+Head of family::Duncan Neale
+
+White males under 5::
+White males 5-9::1
+White males 10-14::
+White males 15-19::
+White males 20-29::
+White males 30-39::
+White males 40-49::
+White males 50-59::
+White males 60-69::1
+White males 70-79::
+White males 80-89::
+White males 90-99::
+White males 100 and up::
+
+White females under 5:: 
+White females 5-9:: 1
+White females 10-14::
+White females 15-19::
+White females 20-29::
+White females 30-39::
+White females 40-49::1
+White females 50-59::
+White females 60-69::
+White females 70-79::
+White females 80-89::
+White females 90-99::
+White females 100 and up::
+
+
+
+Enslaved males under 10::
+Enslaved males 10-23::1
+Enslaved males 24-35::
+Enslaved males 36-54::
+Enslaved males 55-99::
+Enslaved males 100 and up::
+
+Enslaved females under 10::
+Enslaved females 10-23::
+Enslaved females 24-35::
+Enslaved females 36-54::
+Enslaved females 55-99::
+Enslaved females 100 and up::
+
+
+Mining::
+Agriculture::3
+Commerce::
+Manufactures and trades::
+Navigation of the ocean::
+Navigation of canals, lakes, and rivers::
+Learned professions and engineers::
+

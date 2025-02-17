@@ -1,0 +1,49 @@
+
+
+
+
+refersto::[[Horatio Nelson White]]
+Enumeration::[Addison, Vermont](../../../../census-districts/Addison,_Vermont.html) 
+Date::
+Head of family::Horatio N. White
+
+White males under 5:: 2
+White males 5-9::1
+White males 10-14::
+White males 15-19::
+White males 20-29::
+White males 30-39::1
+White males 40-49::
+White males 50-59::
+White males 60-69::
+White males 70-79::
+White males 80-89::
+White males 90-99::
+White males 100 and up::
+
+White females under 5:: 
+White females 5-9:: 1
+White females 10-14::
+White females 15-19::1
+White females 20-29::
+White females 30-39::1
+White females 40-49::
+White females 50-59::
+White females 60-69::
+White females 70-79::
+White females 80-89::
+White females 90-99::
+White females 100 and up::
+
+
+Mining::
+Agriculture::2
+Commerce::
+Manufactures and trades::
+Navigation of the ocean::
+Navigation of canals- lakes- and rivers::
+Learned professions and engineers::
+
+
+
+

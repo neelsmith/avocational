@@ -1,0 +1,36 @@
+
+
+
+
+
+
+refersto::[[Julia B. Euless]]
+Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Date::1880-06-10
+
+House::123
+Family::144
+Name::Julia Gattis
+Race::W
+Sex::F
+Age::52
+Born this year::
+Relationship::Wife
+Single::
+Married::Yes
+Widowed::
+Married this year::
+Occupation::Keeping house
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::
+Cannot read::
+Cannot write::
+Birthplace::Tenn.
+Father birthplace::N.
+Mother birthplace::N.C.

@@ -1,0 +1,12 @@
+---
+engine: julia
+---
+
+# Source material
+
+To navigate primary source documents:
+
+
+- follow links from [blog posts](../../posts.qmd)
+- use the generic "search" ![search icon](./imgs/search-small.png)
+- see a list of people by last name

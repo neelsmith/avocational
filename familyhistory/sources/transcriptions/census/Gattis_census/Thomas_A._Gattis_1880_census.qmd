@@ -1,0 +1,34 @@
+
+
+
+
+refersto::[[Thomas A. Gattis]]
+Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Date::June 10, 1880
+
+House::123
+Family::144
+Name::Thomas Gattis
+Race::W
+Sex::M
+Age::52
+Born this year::
+Relationship::
+Single::
+Married::Yes
+Widowed::
+Married this year::
+Occupation::Farmer
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::
+Cannot read::
+Cannot write::
+Birthplace::Tenn.
+Father birthplace::N.C.
+Mother birthplace::N.C.

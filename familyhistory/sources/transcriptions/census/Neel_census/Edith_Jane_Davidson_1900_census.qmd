@@ -1,0 +1,44 @@
+ 
+
+
+
+
+refersto::[[Edith Jane Davidson]]
+
+Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Date::1900-06-20
+Street::
+Street number::
+House::204
+Family::211
+
+Name::Eda J.
+Relationship::wife
+Race::W
+Sex::F
+Birth month::Jan
+Birth year::1847
+Age::53
+Marital status::M
+Years married::7
+Children born::3
+Children living::3
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::
+Months unemployed::
+Attended school::
+Can read::yes
+Can write::yes
+Speaks English::yes
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+
+
+

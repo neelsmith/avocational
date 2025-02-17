@@ -1,0 +1,22 @@
+
+ 
+
+
+refersto::[[Noah Rush]]
+Enumeration::[Western division, Randolph, NC](../../../../census-districts/Western_division,_Randolph,_NC.html)
+Date::1860-08-18
+House::1257
+Family::1256
+Name::Noah Rush
+Age::39
+Sex::m
+Race::
+Occupation::F.
+Real estate value::2,500
+Personal estate::800
+Birthplace::N.C.
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::
+

@@ -1,0 +1,24 @@
+
+
+
+
+refersto::[[Ebenezer White]]
+Enumeration::[Craftsbury, Orleans, Vermont](../../../../../census-districts/Craftsbury,_Orleans,_Vermont.html)
+Date::August 7, 1820
+Head of family::Ebenezer White
+White males under 10:: 1
+White males 10-15: 
+White males 16-17::1
+White males 18-25::
+White males 26-44::1
+White males 45 and up:
+White females under 10::4
+White females 10-15::2
+White females 16-25::1
+White females 26-44::1
+White females 45 and up::
+Foreigners::
+Slaves::
+Agriculture::
+Commerce::
+Manufactures::2

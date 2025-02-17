@@ -1,0 +1,25 @@
+
+---
+Census year: 1850
+---
+
+
+
+ 
+
+refersto::[Cynthia Sawyer](../../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+Enumeration::Burlington, Chittenden, Vermont
+Date::August 20, 1810
+House::525
+Family::694
+Name::Cynthia White
+Age::30
+Sex::F
+Race::
+Occupation::
+Real estate vaue::
+Birthplace::Vt.
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

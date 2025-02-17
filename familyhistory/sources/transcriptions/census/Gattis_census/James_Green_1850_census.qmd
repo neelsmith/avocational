@@ -1,0 +1,34 @@
+refersto::[[James Green]]
+
+
+Enumeration::[District 21, Bedford, Tennessee](../../../../census-districts/District_21,_Bedford,_Tennessee.html)
+Date::1850-10-05
+House::71
+Family::71
+Name::James Green
+Age::8
+Sex::M
+Race::
+Occupation::
+Real estate value::
+Birthplace::Tenn.
+Married 1850::
+Attended school::yes
+Cannot read and write::
+Disability::
+
+
+ Citation
+
+ Source Citation
+
+The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: District 21, Bedford, Tennessee; Roll: 869; Page: 224a
+
+ Description
+
+Township: _District 21_
+
+ Source Information
+
+Ancestry.com. _1850 United States Federal Census_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2009. Images reproduced by FamilySearch. 
+Original data:Seventh Census of the United States, 1850; (National Archives Microfilm Publication M432, 1009 rolls); Records of the Bureau of the Census, Record Group 29; National Archives, Washington, D.C.

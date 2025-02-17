@@ -1,0 +1,20 @@
+
+
+
+
+refersto::
+Enumeration::[Burlington, Chittenden, Vermont](../../../../census-districts/Burlington,_Chittenden,_Vermont.html)
+Date::August 20, 1810
+House::525
+Family::694
+Name::Mary Kennedy
+Age::18
+Sex::F
+Race::
+Occupation::
+Real estate vaue::
+Birthplace::Ire.
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

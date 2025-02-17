@@ -1,0 +1,21 @@
+ 
+refersto::[[Sarah Loflin]]
+
+
+Enumeration::[Western division, Randolph, NC](../../../../census-districts/Western_division,_Randolph,_NC.html)
+Date::1860-08-18
+House::1257
+Family::1256
+Name::Sarah Rush
+Age::38
+Sex::f
+Race::
+Occupation::h
+Real estate value::
+Birthplace::N.C.
+Married 1850::
+Attended school::
+Cannot read and write::1
+Disability::
+
+

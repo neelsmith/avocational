@@ -1,0 +1,19 @@
+refersto::[[Elvira Ann Williams]]
+
+
+Enumeration::[Civil District 11, Bedford, Tennessee](../../../census-districts/Civil_District_11,_Bedford,_Tennessee.html)
+Date::1850-12-16
+House::100
+Family::100
+Name::Elvira Ann Williams
+Age::7
+Sex::F
+Race::
+Occupation::
+Real estate value::
+Birthplace::Tennessee
+Married 1850::
+Attended school::yes
+Cannot read and write::
+Disability::
+

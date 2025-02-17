@@ -1,0 +1,39 @@
+
+ 
+
+
+
+refersto::[[Julia B. Euless]]
+Enumeration::[Wartrace, Bedford, Tennessee](../../../../census-districts/Wartrace,_Bedford,_Tennessee.html)
+Date::1900-06-01
+Street::Mill Alley
+Street number::
+House::26
+Family::27
+Name::Julia Gattis
+Relationship::Head
+Race::W
+Sex::F
+Birth month::Aug.
+Birth year::1827
+Age::72
+Marital status::W
+Years married::
+Children born::9
+Children living::5
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::North Carolina
+Immigration year::
+Years in US::
+Naturalization::
+Occupation::
+Months unemployed::
+Attended school::
+Can read::Yes
+Can write::Yes
+Speaks English::Yes
+Owned or rented::O
+Owned free or mortgaged::F
+Farm or house::H
+Farm schedule::

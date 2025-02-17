@@ -1,0 +1,36 @@
+
+ 
+
+refersto::
+Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::June 24, 1880
+
+House::89
+Family::92
+Name::Ellen Abare
+Race::W
+Sex::F
+Age::20
+Born this year::
+Relationship::Servant
+Single::
+Married::Yes
+Widowed::
+Married this year::
+Occupation::House servant
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::
+Cannot read::
+Cannot write::
+Birthplace::Vermont
+Father birthplace::Vermont
+Mother birthplace::Ireland
+
+
+

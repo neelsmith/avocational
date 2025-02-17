@@ -1,0 +1,29 @@
+
+
+
+
+
+refersto::[[Thomas A. Gattis]]
+Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Date::August 16, 1870
+
+House::152
+Family::152
+Name::Thos. A. Gattis
+Age::45
+Sex::M
+Race::W
+Occupation::Farmer
+Real estate value::3180
+Personal estate value::1255
+Birthplace::Tennessee
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::1
+Male 21 and up vote denied::

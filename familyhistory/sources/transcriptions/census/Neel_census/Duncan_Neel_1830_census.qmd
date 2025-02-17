@@ -1,0 +1,69 @@
+ 
+
+
+
+
+refersto::[[Duncan Neel]]
+Enumeration:[Bedford, Tennessee](../../../../census-districts/Bedford,_Tennessee.html)
+
+Date::
+Head of family::Dunca Neill
+
+White males under 5:: 
+White males 5-9::
+White males 10-14::
+White males 15-19::
+White males 20-29::2
+White males 30-39::1
+White males 40-49::
+White males 50-59::1
+White males 60-69::
+White males 70-79::
+White males 80-89::
+White males 90-99::
+White males 100 and up::
+
+White females under 5:: 2
+White females 5-9:: 
+White females 10-14::1
+White females 15-19::
+White females 20-29::1
+White females 30-39::1
+White females 40-49::1
+White females 50-59::
+White females 60-69::
+White females 70-79::
+White females 80-89::
+White females 90-99::
+White females 100 and up::
+
+
+Male slaves under 10::1
+Male slaves 10-23::1
+Male slaves 24-35::
+Male slaves 36-54::
+Male slaves 55-99::
+Male slaves 100 and up::
+
+
+
+Female slaves under 10::
+Female slaves 10-23::
+Female slaves 24-35::
+Female slaves 36-54::
+Female slaves 55-99::
+Female slaves 100 and up::
+
+Total::
+
+
+
+White deaf and dumb under 14::
+White deaf and dumb of 14 -24::
+White deaf and dumb 25 and up::
+White persons who are blind::
+
+Slaves and colored deaf and dumb under 14::
+Slaves and colored deaf and dumb of 14 -24::
+Slaves and colored deaf and dumb 25 and up::
+Slaves and colored persons who are blind::

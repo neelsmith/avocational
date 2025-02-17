@@ -1,0 +1,47 @@
+ 
+
+
+
+
+
+refersto::[[Willie Saudek Blanton]]
+
+Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Date::1910-04-28
+Street::
+Street number::
+House::116
+Family::16
+
+Name::Neal, Willie S.
+Relationship::wife
+Sex::F
+Race::W
+Age::30
+Marital status::m
+Years of present marriage::6
+Children born::4
+Children living::2
+Birthplace::Tennessee
+Father birthplace::Tennessee
+Mother birthplace::Tennessee
+Immigration year::
+Naturalization::
+Speaks English::English
+Occupation::None
+Industry::
+Employer or employee or own account::
+Unemployed April 15::
+Months unemployed::
+Can read::Yes
+Can write::Yes
+Attended school::
+Owned or rented::
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::
+Civil war veteran::
+Blind::
+Deaf and dumb::
+
+

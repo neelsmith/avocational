@@ -1,0 +1,30 @@
+ 
+
+refersto::[[Arsa Luella Rush]]
+
+
+Enumeration::[Concord township, Randolph, North Carolina](../../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
+Date::Sept. 14, 1870
+House::180
+	Family::179
+
+
+
+Name::Arsa L.
+Age::12
+Sex::F
+Race::W
+Occupation::at home
+Real estate value::
+Personal estate value::
+Birthplace::
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::1
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::
+Male 21 and up vote denied::

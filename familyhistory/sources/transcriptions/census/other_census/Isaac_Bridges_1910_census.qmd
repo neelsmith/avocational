@@ -1,0 +1,40 @@
+
+ 
+
+refersto::
+Enumeration::[Chattanooga Ward 3, Hamilton, Tennessee](../../../../census-districts/Chattanooga_Ward_3,_Hamilton,_Tennessee.html)
+Date::April 18, 1910
+Street::West Ninth Street
+Street number::514
+House::1
+Family::1
+Name::Isaac L. Bridges
+Relationship::boarder
+Sex::M
+Race::W
+Age::25
+Marital status::S
+Years of present marriage::
+Children born::
+Children living::
+Birthplace::North Carolina
+Father birthplace::North Carolina
+Mother birthplace::North Carolina
+Immigration year::
+Naturalization::
+Speaks English::English
+Occupation::Salesman
+Industry::furniture
+Employer or employee or own account::W
+Unemployed April 15::No
+Months unemployed::0
+Can read::Yes
+Can write::Yes
+Attended school::
+Owned or rented::R
+Owned free or mortgaged::
+Farm or house::
+Farm schedule::H
+Civil war veteran::
+Blind::
+Deaf and dumb::

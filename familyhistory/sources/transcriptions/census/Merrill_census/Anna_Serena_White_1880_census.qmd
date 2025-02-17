@@ -1,0 +1,32 @@
+
+refersto::[[Anna Serena White]]
+Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::1880-06-11
+
+House::58
+Family::61
+Name::Anna White
+Race::W
+Sex::F
+Age::10
+Born this year::
+Relationship::daughter
+Single::yes
+Married::
+Widowed::
+Married this year::
+Occupation::at school
+Months unemployed::
+Sick::
+Blind::
+Deaf and dumb::
+Idiotic::
+Insane::
+Disabled::
+Attended school::yes
+Cannot read::
+Cannot write::
+Birthplace::Vermont
+Father birthplace::Vermont
+Mother birthplace::Vermont
+
