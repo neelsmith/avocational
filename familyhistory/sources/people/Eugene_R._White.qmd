@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+
+Eugene R. White
+
+
+## Page automatically generated
