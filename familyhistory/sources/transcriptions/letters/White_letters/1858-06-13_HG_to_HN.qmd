@@ -1,7 +1,7 @@
  
 
 
- Incipit
+## Incipit
 
 Buffalo 13th June 1858
 

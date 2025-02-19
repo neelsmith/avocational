@@ -1,6 +1,6 @@
 refersto:: [Ebenezer White](../../../people/Merrill-line/White-line/Ebenezer_White.html)
 
- Notes
+## Notes
 
 Ebenezer White, born Jul. 9, 1779, Templeton. Father: Benjamin. Mother: Ruth
 
@@ -8,7 +8,7 @@ Source: Vital Records of Templeton
 
 
 
- Citation
+## Citation
 New England Historic Genealogical Society. _Massachusetts, U.S., Town Birth Records, 1620-1850_ . Provo, UT, USA: Ancestry.com Operations Inc, 1999.
 
 Original data:
@@ -27,6 +27,6 @@ Original data:
 
 - New England Historic Genealogical Society. _Vital Records of Chelmsford Massachusetts to the Year 1849._ Boston: New England Historic Genealogical Society, 1914.
 
- Description
+#### Description
 
 This database contains birth information from several towns included in the Massachusetts (U.S.A.) Town Vital Records Collection compiled by the New England Historic Genealogical Society. Each record includes the individual's name, birth date, birthplace, and parents' names

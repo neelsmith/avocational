@@ -13,17 +13,17 @@ refersto::[[Frances E. White]]
 refersto::[[Adaline White]]
 refersto::[[Cynthia Sawyer]]
 
- Notes
+## Notes
 
 Syrena is not named but referred to as Horatio Nelson's wife
 
- Synopsis
+## Synopsis
 
 Ebenezer in Burlington writes to Horatio Nelson in Panton.
 
 An exchange of family news. Ebenezer has recovered from the illness referred to in [1851-09-03-HGW-to-HNW](../1851-09-03-HGW-to-HNW.html), despite having taken "the Homipathice humbug." Ebenezer is trying to stop delivery of a paper to Horatio Nelson and recounts the difficulties he has had getting the account settled up.
 
- Transcription
+## Transcription
 
 
 Burlington July 27 1851

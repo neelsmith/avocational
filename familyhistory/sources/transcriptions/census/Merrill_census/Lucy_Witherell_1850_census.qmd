@@ -18,17 +18,17 @@ Cannot read and write::
 Disability::
 
 
- Citation
+## Citation
 
- Source Citation
+###### Source Citation
 
 The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Bridport, Addison, Vermont; Roll: 920; Page: 7a
 
- Description
+###### Description
 
 Township: _Bridport_
 
- Source Information
+###### Source Information
 
 Ancestry.com. _1850 United States Federal Census_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2009. Images reproduced by FamilySearch. 
 Original data:Seventh Census of the United States, 1850; (National Archives Microfilm Publication M432, 1009 rolls); Records of the Bureau of the Census, Record Group 29; National Archives, Washington, D.C.

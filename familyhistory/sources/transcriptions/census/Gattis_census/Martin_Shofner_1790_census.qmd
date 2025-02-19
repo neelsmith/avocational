@@ -17,14 +17,14 @@ Other free persons::
 Slaves::
 
 
- Citation info
+## Citation info
 
 
 citation::The National Archives in Washington, DC; Washington, DC; First Census of the United States, 1790.; Year: 1790; Census Place: Orange, North Carolina; Series: M637; Page: 95
 
 
 
- Source information
+### Source information
 
 
 1790 United States Federal Census from Ancestry.com.

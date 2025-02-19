@@ -1,11 +1,11 @@
 refersto::[Isaac Newton Gattis](../../../people/Gattis-line/Isaac_Newton_Gattis.html)
 
- Citation
+## Citation
 
 Ancestry.com. _Florida, U.S., Death Index, 1877-1998_ . Provo, UT, USA: Ancestry.com Operations Inc, 2004.
 
 Original data: State of Florida. _Florida Death Index, 1877-1998_. Florida: Florida Department of Health, Office of Vital Records, 1998.
 
- Notes
+## Notes
 
 Died in Sarasota, Florida, in 1939.

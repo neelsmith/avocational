@@ -1,7 +1,7 @@
 refersto::[Moses Smith](../../../people/Merrill-line/White-line/Candace-Smith-line/Moses_Smith.html)
 
 
- Notes
+## Notes
 
 Wife is Thankful.
 
@@ -19,15 +19,15 @@ Daughter Candis White wife of Ebenezer White
 
 
 
- Citation
+## Citation
 
 Probate Records (Worcester County, Massachusetts); Index 1731-1881; Author: Massachusetts. Probate Court (Worcester County); Probate Place: Worcester, Massachusetts
 
- Description
+###### Description
 
 Notes: _Probate Records, Vol 45-46, 1814-1816_
 
- Source Information
+###### Source Information
 
 Ancestry.com. _Massachusetts, U.S., Wills and Probate Records, 1635-1991_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
 Original data:Massachusetts County, District and Probate Courts.

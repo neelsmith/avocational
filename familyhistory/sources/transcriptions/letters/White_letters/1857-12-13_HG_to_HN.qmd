@@ -2,7 +2,7 @@
 
 
 
- Inicipit
+## Inicipit
 
 Buffalo 13th Dec 1857
 

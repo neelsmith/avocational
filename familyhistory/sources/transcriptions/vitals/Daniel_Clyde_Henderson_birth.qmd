@@ -1,10 +1,10 @@
 refersto::[Daniel Clyde Henderson](../../../people/Henderson-line/Daniel_Clyde_Henderson.html)
 
- Citation 
+## Citation 
 
 New England Historic Genealogical Society; Boston, Massachusetts; _State of Vermont. Vermont Vital Records through 1870_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _Vermont, U.S., Vital Records, 1720-1908_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2013.
 
@@ -14,7 +14,7 @@ State of Vermont. Vermont Vital Records, 1871–1908. New England Historic Genea
 
 
 
- Notes
+## Notes
 
 Daniel Cloyd Henderson born Dec 8, 1784
 Father Edward Henderson

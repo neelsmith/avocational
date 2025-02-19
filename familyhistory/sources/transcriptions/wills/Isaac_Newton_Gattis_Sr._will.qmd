@@ -1,18 +1,18 @@
 refersto::[Isaac Newton Gattis Sr.](../../../people/Gattis-line/Isaac_Newton_Gattis_Sr..html)
 
- Citation
+## Citation
 Probate Records, 1809-1951; Author: Tennessee County Court (Lincoln County); Probate Place: Lincoln, Tennessee
 
- Description
+###### Description
 
 Notes: _Index to Wills, 1826-1921; Wills, Vol 1-2, 1809-1863_
 
- Source Information
+###### Source Information
 
 Ancestry.com. _Tennessee, U.S., Wills and Probate Records, 1779-2008_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
 Original data:Tennessee County, District and Probate Courts.
 
- Notes
+## Notes
 
 - He is a resident of Lincoln County, Tennessee
 - Will "Proven at November term 1841. Recorded Nov. 23rd 1841."

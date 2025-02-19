@@ -1,7 +1,7 @@
 refersto::[Bee Neel](../../../people/Neel-line/Bee_Neel.html)
 
 
- Source
+## Source
 
 Social Security Administration; Washington D.C., USA; _Social Security Death Index, Master File_
 
@@ -10,7 +10,7 @@ Ancestry.com. _U.S., Social Security Death Index, 1935-2014_ . Provo, UT, USA:
 
 Original data: Social Security Administration. _Social Security Death Index, Master File_. Social Security Administration
 
- Transcription
+## Transcription
 
 
 | | |

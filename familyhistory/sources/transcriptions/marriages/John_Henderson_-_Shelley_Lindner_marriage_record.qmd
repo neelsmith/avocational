@@ -1,12 +1,12 @@
 refersto::[[John Merrill Henderson]]
 refersto::[[Shelley Ann Lindner]]
 
- Citation
+## Citation
 Ancestry.com. _Ohio, U.S., County Marriage Records, 1774-1993_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2016.
 
 Original data: _Marriage Records_. _Ohio Marriages._ Various Ohio County Courthouses.
 
- Notes
+## Notes
 
 Marriage date: 31 Dec 1952
 Groom's parents: [John Dubois Henderson](../../../people/Henderson-line/John_Dubois_Henderson.html) and Marguirite Merrill

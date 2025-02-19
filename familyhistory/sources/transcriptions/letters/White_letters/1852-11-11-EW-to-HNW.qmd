@@ -15,7 +15,7 @@ refersto::[[Henry George White]]
 refersto::[[Adaline White]]
 
 
- Notes
+## Notes
 
 
 Others mentioned:
@@ -29,13 +29,13 @@ refersto::[William Weston](../../../../people/not-related/William_Weston.html)
 
 
 "young Smalley?"
- Synopsis
+## Synopsis
 
 Ebenezer White in Burlington writes to Horatio Nelson White in Panton.
 
 Much of the letter concerns Ebenezer's complicated attempts to pay insurance fees on "the Building &c" Hiram's wife Cynthia is statying at Ebenezer's house and contemplating going to California to join Hiram. Ebenezer wants Horatio Nelson to dissuade her but without revealing that Ebenezer has mentioned the subject to him.
 
- Transcription
+## Transcription
 
 
 Burlington Nov 11 1852

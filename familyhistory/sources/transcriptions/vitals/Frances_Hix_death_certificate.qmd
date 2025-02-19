@@ -3,17 +3,17 @@ refersto::[[Calvin Harris Rush]]
 refersto::[[William J. Hicks]]
 refersto::[Jane Lassiter](../../../people/Randolph_county_lines/Lassiter/Jane_Lassiter.html)
 
- Source
+## Source
 
 North Carolina State Archives; Raleigh, North Carolina; _North Carolina Death Certificates_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _North Carolina, U.S., Death Certificates, 1909-1976_ database on-line. Lehi, UT, USA: Ancestry.com Operations Inc, 2007.
 
 Original data: North Carolina State Board of Health, Bureau of Vital Statistics. _North Carolina Death Certificates_. Microfilm S.123. Rolls 19-242, 280, 313-682, 1040-1297. North Carolina State Archives, Raleigh, North Carolina.
 
- Notes
+## Notes
 
 County Randolph
 State NC

@@ -1,6 +1,6 @@
 refersto::[Stephen Ayres](../../../people/Henderson-line/Ayers-line/Stephen_Ayres.html)
 
- Notes
+## Notes
 
 Part of larger collection of documents including appointment of guardians for minor heirs?
 
@@ -14,12 +14,12 @@ son Hiram
 
 
 
- Citation
+## Citation
 
 
 _Wills, 1792-1917; Will Index, 1792-1970_; Author: _New York. Surrogate's Court (Herkimer County)_; Probate Place: _Herkimer, New York_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _New York, U.S., Wills and Probate Records, 1659-1999_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2015.
 

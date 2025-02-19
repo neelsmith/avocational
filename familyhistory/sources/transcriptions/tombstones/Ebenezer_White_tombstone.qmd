@@ -4,9 +4,9 @@ refersto::[[Adaline White]]
 cemetery::[Burlington, Elmwood cemetery](../../../cemeteries/Burlington,_Elmwood_cemetery.html)
 
 
- Transcription
+## Transcription
 
- Front face
+#### Front face
 
 Ebenezer White
 
@@ -30,7 +30,7 @@ Died Oct. 31. 1890.
 Aged 84 years.
 
 
- Rear face
+#### Rear face
 
 Erected by
 

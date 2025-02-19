@@ -2,13 +2,13 @@ refersto::[Duncan Neel](../../../people/Neel-line/Duncan_Neel.html)
 date::1831-11-05
 
 
- Citation
+## Citation
 
- Source Citation
+#### Source Citation
 
 Tennessee State Library and Archives; Nashville, Tennessee; _Early Tennessee/North Carolina Land Records_; Roll: _114_; Book: _13_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _North Carolina and Tennessee, U.S., Early Land Records, 1753-1931_ . Provo, UT, USA: Ancestry.com Operations, Inc., 2013.
 
@@ -17,7 +17,7 @@ Original data:
 Tennessee. Division of Archives, Land Office, and Museum. Early Tennessee/North Carolina Land Records, 1783–1927, Record Group 50. Tennessee State Library and Archives, Nashville, Tenn.
 
 
- Notes
+## Notes
 
 
 - Recorded 10th Jan. 1832

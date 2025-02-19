@@ -2,13 +2,13 @@
 refersto::[Hiram Merrill](../../../people/Merrill-line/Hiram_Merrill.html)
 
 
- Citation
+## Citation
 
- Source Citation
+#### Source Citation
 
 Vermont State Archives and Records Administration; Montpelier, Vermont, USA; User Box Number: _PR-01922_; Roll Number: _S-30815_; Archive Number: _M-2050475_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _Vermont, U.S., Death Records, 1909-2008_ . Provo, UT, USA: Ancestry.com Operations, Inc., 2010.
 
@@ -19,7 +19,7 @@ Original data:
  
  
  
- Transcription
+## Transcription
 
 Full Name of Deceased Hiram Merrill
 Usual Residence Addision, Vt.

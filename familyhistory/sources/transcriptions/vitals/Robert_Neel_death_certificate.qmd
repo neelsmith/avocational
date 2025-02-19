@@ -1,6 +1,6 @@
 refersto:: [Robert Wilburn Neel](../../../people/Neel-line/Robert_Wilburn_Neel.html)
 
- Citation
+## Citation
 
 
 Ancestry.com. _Tennessee, U.S., Deaths and Burials Index, 1874-1955_. Provo, UT, USA: Ancestry.com Operations, Inc., 2011.
@@ -10,7 +10,7 @@ Original data:
 "Tennessee Deaths and Burials, 1874–1955." Index. FamilySearch, Salt Lake City, Utah, 2009, 2010. Index entries derived from digital copies of original and compiled records.
 
 
- Notes
+## Notes
 
 Robert Wilburn Neel
 

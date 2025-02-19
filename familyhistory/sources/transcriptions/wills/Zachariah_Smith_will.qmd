@@ -1,6 +1,6 @@
 refersto:: [Zachariah Smith](../../../people/Merrill-line/White-line/Candace-Smith-line/Zachariah_Smith.html)
 
- Notes
+## Notes
 
 Names 
 
@@ -18,15 +18,15 @@ Names
 Refers to his "five sons", Uriah, Jonas, Phinehas, Samuel, Lewis
 
 
- Citation
+## Citation
 
 Probate Records (Worcester County, Massachusetts); Index 1731-1881; Author: Massachusetts. Probate Court (Worcester County); Probate Place: Worcester, Massachusetts
 
- Description
+###### Description
 
 Notes: _Probate Records, Vol 24-25, 1790-1794_
 
- Source Information
+###### Source Information
 
 Ancestry.com. _Massachusetts, U.S., Wills and Probate Records, 1635-1991_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
 Original data:Massachusetts County, District and Probate Courts.

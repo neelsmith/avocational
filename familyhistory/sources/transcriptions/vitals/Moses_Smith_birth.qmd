@@ -1,6 +1,6 @@
 refersto:: [Moses Smith](../../../people/Merrill-line/White-line/Candace-Smith-line/Moses_Smith.html)
 
- Notes
+## Notes
 
 Moses Smith, Jan 25, 1738, Shrewsbury.
 
@@ -10,7 +10,7 @@ From Vital Records of Shrewsbury
 
 
 
- Citation
+## Citation
 
 
 New England Historic Genealogical Society. _Massachusetts, U.S., Town Birth Records, 1620-1850_ . Provo, UT, USA: Ancestry.com Operations Inc, 1999.

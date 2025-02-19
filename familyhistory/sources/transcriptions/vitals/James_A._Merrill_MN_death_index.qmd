@@ -1,19 +1,19 @@
 
 refersto::[James Albee Merrill](../../../people/Merrill-line/James_Albee_Merrill.html)
 
- Citation
+## Citation
 
- Source Citation
+#### Source Citation
 
 Minnesota Department of Health; St Paul, Minnesota, USA; _Minnesota, Death Index, 1908-2017_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _Minnesota, U.S., Death Index, 1908-2017_ . Lehi, UT, USA: Ancestry.com Operations Inc, 2001.
 
 Original data: State of Minnesota. _Minnesota Death Index, 1908-2017_. Minneapolis, MN, USA: Minnesota Department of Health.
 
- Notes
+## Notes
 
 Died 21 Nov. 1924 in Crow Wing, MN
 

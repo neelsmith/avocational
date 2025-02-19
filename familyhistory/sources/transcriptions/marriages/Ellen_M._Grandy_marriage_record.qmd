@@ -1,7 +1,7 @@
 refersto:: [[Ellen Grandey]]
 refersto:: [William E. White](../../../people/Merrill-line/White-line/William_E._White.html)
 
- Transcription
+## Transcription
 
 Name of Bride Grandy, Ellen M
 Name of Groom White, Wm E
@@ -15,11 +15,11 @@ Mother's Name Grandy, Polly
 Name Party Officiating Rev. W.J. Stevens
 Town Bridport
 
- Citation
+## Citation
 
 New England Historic Genealogical Society; Boston, Massachusetts; _State of Vermont. Vermont Vital Records through 1870_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _Vermont, U.S., Vital Records, 1720-1908_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2013.
 

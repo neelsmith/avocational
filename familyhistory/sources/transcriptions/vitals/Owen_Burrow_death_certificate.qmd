@@ -1,7 +1,7 @@
 refersto::[Owen Blanton Burrow](../../../people/Neel-line/Blanton-line/Owen_Blanton_Burrow.html)
 
 
- Notes
+## Notes
 
 Owen Blanton Burrow, died March 3, 1998 at age 89. Birthdate November 21, 1908 in Murfreesboro, Tennessee. Died in Methodist Hospital, South Lake Campus, Merrillville, Lake County, IN. Widowed, self-employed.
 Address 3213 E. 37th Avenue, Lake Station, Lake County, IN.
@@ -10,11 +10,11 @@ Father: Samuel Burrow; mother Lenora Blanton.
 
 
 
- Citation
+## Citation
 
 Indiana Archives and Records Administration; Indianapolis, IN, USA; _Death Certificates_; Year: _1998_; Roll: _06_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _Indiana, U.S., Death Certificates, 1899-2017_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2015.
 

@@ -1,16 +1,16 @@
 refersto::[[Charles R. Smith sr.]]
 refersto::[Mona Rush](../../../people/Rush-line/Mona_Rush.html)
 
- Source
+## Source
 
- Source Information
+#### Source Information
 
 Ancestry.com. _North Carolina, U.S., Marriage Records, 1741-2011_ database on-line. Provo, UT, USA: Ancestry.com Operations, Inc., 2015.
 
 Original data: North Carolina County Registers of Deeds. Microfilm. Record Group 048. North Carolina State Archives, Raleigh, NC.
 
 
- Transcription
+## Transcription
 
 | Date of issue | Name and residence of man | Age | Color | Name and residence of woman | Age | Color | Name and title of minister or officer celebrating marriage | Date of marriage | Place of marriage | Names of witnesses present at marriage (Names of three witnesses, at least, must be given) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

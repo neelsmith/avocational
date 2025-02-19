@@ -1,7 +1,7 @@
 refersto::[[Jacob Dubois]]
 
 
- Citation
+## Citation
 
 Ancestry.com. _New Jersey, U.S., Births and Christenings Index, 1660-1931_. Provo, UT, USA: Ancestry.com Operations, Inc., 2011.
 
@@ -10,7 +10,7 @@ Original data:
 "New Jersey Births and Christenings, 1660-1931." Index. FamilySearch, Salt Lake City, Utah, 2009, 2010. Index entries derived from digital copies of original and compiled records.
 
 
- Notes
+## Notes
 
 Jacob Dubois, Gender: Male
 

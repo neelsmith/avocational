@@ -1,7 +1,7 @@
 refersto::[[Noah Rush]]
 refersto::[Sarah Loflin](../../../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
- Citation
+## Citation
 
 
 Ancestry.com. _North Carolina, U.S., Marriage Records, 1741-2011_ . Provo, UT, USA: Ancestry.com Operations, Inc., 2015.
@@ -9,7 +9,7 @@ Ancestry.com. _North Carolina, U.S., Marriage Records, 1741-2011_ . Provo, UT,
 Original data: North Carolina County Registers of Deeds. Microfilm. Record Group 048. North Carolina State Archives, Raleigh, NC.
 
 
- Notes
+## Notes
 
 
 Marriage bond for $1,000 dated Dec. 6, 1842, between Noah Rush and Samuel Lewis. 

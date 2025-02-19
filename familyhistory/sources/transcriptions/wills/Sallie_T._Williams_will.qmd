@@ -1,8 +1,8 @@
 refersto::[[Sallie T. Harris]]
 
- Transcription
+## Transcription
 
- First page 
+### First page 
 Will of Sallie T. Williams, deceased.
 
 > I, Sallie T. Williams, being of sound mind and disposing memory, do make and publish this my last will and testament, herby rvoking any other will made by me.
@@ -32,7 +32,7 @@ Will of Sallie T. Williams, deceased.
 
 
 
- Second page
+### Second page
 
 Certificate of Clerk and master
 State of Tennessee
@@ -52,15 +52,15 @@ By Jo.D.Steele D.C.
 
 
 
- Citation
+## Citation
 
 Wills, 1861-1966; Wills and Inventories, 1863-1889, 1890-1929, 1937-1965; Author: Bedford County (Tennessee) County Court Clerk; Probate Place: Bedford, Tennessee
 
- Description
+###### Description
 
 Notes: _Wills, Vol 1-2, 1861-1922_
 
- Source Information
+###### Source Information
 
 Ancestry.com. _Tennessee, U.S., Wills and Probate Records, 1779-2008_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
 Original data:Tennessee County, District and Probate Courts.

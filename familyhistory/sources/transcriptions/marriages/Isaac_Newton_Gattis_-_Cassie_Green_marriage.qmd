@@ -1,17 +1,17 @@
 refersto::[[Isaac Newton Gattis]]
 refersto::[Cassie Green](../../../people/Gattis-line/Green-line/Cassie_Green.html)
 
- Citation
+## Citation
 
 Tennessee State Library and Archives; Nashville, TN, USA; _Tennessee State Marriages, 1780-2002_
 
- Source Information
+#### Source Information
 
 Ancestry.com. _Tennessee, U.S., Marriage Records, 1780-2002_. Lehi, UT, USA: Ancestry.com Operations Inc, 2008.
 
 Original data: _Tennessee State Marriages, 1780-2002_. Nashville, TN, USA: Tennessee State Library and Archives. Microfilm.
 
 
- Notes
+## Notes
 
 License signed on Sept. 22, 1894, and ceremony perfored on Sept. 23, 1894.

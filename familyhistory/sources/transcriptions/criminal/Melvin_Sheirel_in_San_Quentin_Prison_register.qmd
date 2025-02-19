@@ -1,6 +1,6 @@
 refersto::[Melvin Elwood Sheirel](../../../Melvin_Elwood_Sheirel.html)
 
- Source citation
+## Source citation
 
 > This is a bifolio spread from a book with a printed two-page table of forms completed with hand-written data and stamped dated notes in all caps.
 
@@ -10,16 +10,16 @@ Ancestry.com. _California, U.S., Prison and Correctional Records, 1851-1950_. P
 
 Original data:
 
-Department of Corrections. Folsom State Prison Records, 1879–1949. ID  California State Archives, Office of the Secretary of State, Sacramento, California. 
+Department of Corrections. Folsom State Prison Records, 1879–1949. ID California State Archives, Office of the Secretary of State, Sacramento, California. 
 
-Department of Corrections. San Quentin State Prison Records, 1850–1950. ID  California State Archives, Office of the Secretary of State, Sacramento, California. 
+Department of Corrections. San Quentin State Prison Records, 1850–1950. ID California State Archives, Office of the Secretary of State, Sacramento, California. 
 
-Department of Corrections. Youth Authority Dept. Records, 1872–1950. ID  California State Archives, Office of the Secretary of State, Sacramento, California .
+Department of Corrections. Youth Authority Dept. Records, 1872–1950. ID California State Archives, Office of the Secretary of State, Sacramento, California .
 
- Transcription
+## Transcription
 
- Description of prisoners received at the state prison
- At San Quentin May, 1941
+### Description of prisoners received at the state prison
+### At San Quentin May, 1941
 
 | Number of commitment | Date | Name | Nativity | Crime | Term of years | Court and County | Occupation |
 | -------------------- | ---- | ----------------- | -------- | --------------------- | ------------------ | ---------------- | ---------- |

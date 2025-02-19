@@ -1,7 +1,7 @@
 refersto:: [Nancy Farrand](../../../people/Merrill-line/Nancy_Farrand.html)
 
 
- Notes
+## Notes
 
 Entry for *Mrs. Ellen S. Gough Foote* (no. 91972) includes the following:
 
@@ -9,18 +9,18 @@ Entry for *Mrs. Ellen S. Gough Foote* (no. 91972) includes the following:
 - Bethuel Farrand m. 1762 Rhoda Smith (1747-1839)
 
 
- Citation
+## Citation
 Book Title: Lineage Book : NSDAR : Volume 092 : 1912
 
- Description
+###### Description
 
 Title: _Lineage Book : NSDAR : Volume 092 : 1912_
 
- Source Information
+###### Source Information
 
 Ancestry.com. _North America, Family Histories, 1500-2000_ . Provo, UT, USA: Ancestry.com Operations, Inc., 2016. 
 Original data:
 
- Source Description
+###### Source Description
 
 This collection contains genealogical research privately published in family history books.
