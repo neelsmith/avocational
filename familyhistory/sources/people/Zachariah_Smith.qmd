@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Zachariah Smith
-
-
-## Page automatically generated

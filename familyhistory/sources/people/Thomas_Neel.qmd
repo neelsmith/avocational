@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Thomas Neel
-
-
-## Page automatically generated

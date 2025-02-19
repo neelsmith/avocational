@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Myra C. White
-
-
-## Page automatically generated

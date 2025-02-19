@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Friend Adams White
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-George Fogelman
-
-
-## Page automatically generated

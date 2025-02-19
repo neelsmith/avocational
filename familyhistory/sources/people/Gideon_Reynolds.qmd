@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Gideon Reynolds
-
-
-## Page automatically generated

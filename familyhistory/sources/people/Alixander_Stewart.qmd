@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Alixander Stewart
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ellen F. Smith
-
-
-## Page automatically generated

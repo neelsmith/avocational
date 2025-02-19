@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Zachia Smith
-
-
-## Page automatically generated

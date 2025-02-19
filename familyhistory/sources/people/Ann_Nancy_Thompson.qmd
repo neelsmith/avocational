@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ann Nancy Thompson
-
-
-## Page automatically generated

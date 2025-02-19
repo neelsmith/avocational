@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ebenezer Perry
-
-
-## Page automatically generated

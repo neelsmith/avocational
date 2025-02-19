@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Cyrus Strong Merrill
-
-
-## Page automatically generated

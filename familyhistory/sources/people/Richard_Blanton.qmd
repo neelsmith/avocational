@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Richard Blanton
-
-
-## Page automatically generated

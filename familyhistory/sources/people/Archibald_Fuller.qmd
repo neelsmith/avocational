@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Archibald Fuller
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Edward Rice
-
-
-## Page automatically generated

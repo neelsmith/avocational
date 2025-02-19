@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Renewed Smith
-
-
-## Page automatically generated

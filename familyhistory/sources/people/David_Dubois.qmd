@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-David Dubois
-
-
-## Page automatically generated

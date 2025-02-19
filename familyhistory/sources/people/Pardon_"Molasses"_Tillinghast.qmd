@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Pardon "Molasses" Tillinghast
-
-
-## Page automatically generated

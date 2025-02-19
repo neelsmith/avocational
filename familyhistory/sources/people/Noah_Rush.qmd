@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Noah Rush
-
-
-## Page automatically generated

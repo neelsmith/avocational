@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Mary Jane Rush
-
-
-## Page automatically generated

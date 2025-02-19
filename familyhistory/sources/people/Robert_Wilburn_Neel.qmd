@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Robert Wilburn Neel
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Bethia Ward
-
-
-## Page automatically generated

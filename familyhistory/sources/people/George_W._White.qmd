@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-George W. White
-
-
-## Page automatically generated

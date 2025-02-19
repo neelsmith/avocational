@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Candace Smith
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jerusha Bigelow
-
-
-## Page automatically generated

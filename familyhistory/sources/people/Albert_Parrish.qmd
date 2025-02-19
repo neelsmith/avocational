@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Albert Parrish
-
-
-## Page automatically generated

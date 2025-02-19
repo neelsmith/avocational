@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Gregory Wolterton
-
-
-## Page automatically generated

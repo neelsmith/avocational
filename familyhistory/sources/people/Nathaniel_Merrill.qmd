@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Nathaniel Merrill
-
-
-## Page automatically generated

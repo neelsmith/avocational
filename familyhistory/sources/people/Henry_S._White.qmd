@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Henry S. White
-
-
-## Page automatically generated

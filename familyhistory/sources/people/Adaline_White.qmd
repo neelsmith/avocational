@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Adaline White
-
-
-## Page automatically generated

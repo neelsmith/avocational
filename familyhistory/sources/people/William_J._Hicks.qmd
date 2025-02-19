@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William J. Hicks
-
-
-## Page automatically generated

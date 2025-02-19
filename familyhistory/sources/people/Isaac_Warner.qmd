@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Isaac Warner
-
-
-## Page automatically generated

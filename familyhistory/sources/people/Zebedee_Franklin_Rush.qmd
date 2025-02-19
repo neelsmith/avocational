@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Zebedee Franklin Rush
-
-
-## Page automatically generated

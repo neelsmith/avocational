@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Frances E. White
-
-
-## Page automatically generated

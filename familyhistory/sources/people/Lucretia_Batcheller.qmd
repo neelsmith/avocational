@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Lucretia Batcheller
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Samuel Richardson Burrow
-
-
-## Page automatically generated

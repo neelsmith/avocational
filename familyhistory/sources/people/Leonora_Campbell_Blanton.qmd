@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Leonora Campbell Blanton
-
-
-## Page automatically generated

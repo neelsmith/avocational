@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Duncan K. Rush
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Brigham
-
-
-## Page automatically generated

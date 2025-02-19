@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Edward Henderson
-
-
-## Page automatically generated

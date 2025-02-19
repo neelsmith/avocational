@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Harriet McCrery
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Daniel Clyde Henderson
-
-
-## Page automatically generated

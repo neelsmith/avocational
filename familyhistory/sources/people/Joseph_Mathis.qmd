@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Joseph Mathis
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ephraim Smith Sr.
-
-
-## Page automatically generated

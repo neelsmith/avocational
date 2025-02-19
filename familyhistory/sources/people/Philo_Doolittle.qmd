@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Philo Doolittle
-
-
-## Page automatically generated

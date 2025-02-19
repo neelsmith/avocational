@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Owen Blanton
-
-
-## Page automatically generated

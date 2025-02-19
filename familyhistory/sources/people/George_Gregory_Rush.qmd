@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-George Gregory Rush
-
-
-## Page automatically generated

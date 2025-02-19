@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Zerubbabel Snow
-
-
-## Page automatically generated

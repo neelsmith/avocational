@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Prince Cowing
-
-
-## Page automatically generated

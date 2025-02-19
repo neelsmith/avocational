@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Shadrack Smith
-
-
-## Page automatically generated

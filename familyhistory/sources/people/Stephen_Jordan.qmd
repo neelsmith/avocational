@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Stephen Jordan
-
-
-## Page automatically generated

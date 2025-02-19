@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Nancy Farrand
-
-
-## Page automatically generated

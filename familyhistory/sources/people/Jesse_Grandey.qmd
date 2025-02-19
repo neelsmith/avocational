@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jesse Grandey
-
-
-## Page automatically generated

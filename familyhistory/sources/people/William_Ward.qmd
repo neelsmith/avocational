@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William Ward
-
-
-## Page automatically generated

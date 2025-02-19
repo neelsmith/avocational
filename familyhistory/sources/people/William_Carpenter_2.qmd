@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William Carpenter 2
-
-
-## Page automatically generated

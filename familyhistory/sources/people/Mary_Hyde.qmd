@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Mary Hyde
-
-
-## Page automatically generated

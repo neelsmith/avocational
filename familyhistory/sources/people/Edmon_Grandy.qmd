@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Edmon Grandy
-
-
-## Page automatically generated

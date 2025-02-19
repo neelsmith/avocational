@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Josiah Stagg
-
-
-## Page automatically generated

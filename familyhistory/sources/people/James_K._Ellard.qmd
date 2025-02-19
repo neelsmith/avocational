@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James K. Ellard
-
-
-## Page automatically generated

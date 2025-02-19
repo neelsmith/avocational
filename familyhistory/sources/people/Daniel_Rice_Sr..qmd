@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Daniel Rice Sr.
-
-
-## Page automatically generated

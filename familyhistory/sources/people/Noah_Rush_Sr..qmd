@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Noah Rush Sr.
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ebenezer White
-
-
-## Page automatically generated

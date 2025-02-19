@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jabez Ayers Sr.
-
-
-## Page automatically generated

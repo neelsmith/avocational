@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James Edward Smith
-
-
-## Page automatically generated

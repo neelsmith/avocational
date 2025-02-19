@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Bethuel Farrand
-
-
-## Page automatically generated

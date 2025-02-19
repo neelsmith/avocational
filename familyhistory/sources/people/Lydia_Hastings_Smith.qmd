@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Lydia Hastings Smith
-
-
-## Page automatically generated

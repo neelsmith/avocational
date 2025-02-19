@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Smith
-
-
-## Page automatically generated

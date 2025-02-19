@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+
+# Joseph Hastings Sr.
+
+
+## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William E. White
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Arsa Luella Rush
-
-
-## Page automatically generated

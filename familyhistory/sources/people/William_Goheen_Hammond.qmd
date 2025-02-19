@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William Goheen Hammond
-
-
-## Page automatically generated

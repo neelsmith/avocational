@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Celah Spivey
-
-
-## Page automatically generated

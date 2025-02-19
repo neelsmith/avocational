@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Zebedee Rush 1821-1907
-
-
-## Page automatically generated

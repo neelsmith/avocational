@@ -3,7 +3,7 @@ engine: julia
 ---
 
 
-Thomas Brigham Sr.
+# Thomas Brigham Sr.
 
 
 ## Page automatically generated

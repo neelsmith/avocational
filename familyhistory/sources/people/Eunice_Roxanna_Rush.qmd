@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Eunice Roxanna Rush
-
-
-## Page automatically generated

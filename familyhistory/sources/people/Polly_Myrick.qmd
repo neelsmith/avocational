@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Polly Myrick
-
-
-## Page automatically generated

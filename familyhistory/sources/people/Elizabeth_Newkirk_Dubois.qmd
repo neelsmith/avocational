@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Elizabeth Newkirk Dubois
-
-
-## Page automatically generated

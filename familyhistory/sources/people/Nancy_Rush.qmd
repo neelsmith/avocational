@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Nancy Rush
-
-
-## Page automatically generated

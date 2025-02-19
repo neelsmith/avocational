@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Mary Childers
-
-
-## Page automatically generated

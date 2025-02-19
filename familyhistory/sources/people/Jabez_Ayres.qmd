@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jabez Ayres
-
-
-## Page automatically generated

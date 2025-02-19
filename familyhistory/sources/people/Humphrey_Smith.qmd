@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Humphrey Smith
-
-
-## Page automatically generated

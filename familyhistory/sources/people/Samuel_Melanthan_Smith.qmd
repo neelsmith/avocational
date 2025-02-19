@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Samuel Melanthan Smith
-
-
-## Page automatically generated

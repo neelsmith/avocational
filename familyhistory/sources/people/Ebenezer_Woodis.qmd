@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ebenezer Woodis
-
-
-## Page automatically generated

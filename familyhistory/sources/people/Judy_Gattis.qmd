@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Judy Gattis
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Benjamin Crawford Rush
-
-
-## Page automatically generated

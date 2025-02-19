@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Thankful North
-
-
-## Page automatically generated

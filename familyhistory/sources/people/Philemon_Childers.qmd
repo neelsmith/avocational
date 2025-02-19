@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Philemon Childers
-
-
-## Page automatically generated

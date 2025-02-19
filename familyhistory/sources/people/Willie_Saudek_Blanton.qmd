@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Willie Saudek Blanton
-
-
-## Page automatically generated

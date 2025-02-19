@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-George Nelson White
-
-
-## Page automatically generated

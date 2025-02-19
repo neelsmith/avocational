@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Dubois Henderson
-
-
-## Page automatically generated

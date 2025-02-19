@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-George Blanton
-
-
-## Page automatically generated

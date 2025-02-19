@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Thomas Dyer
-
-
-## Page automatically generated

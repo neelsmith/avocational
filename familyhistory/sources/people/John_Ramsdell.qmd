@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Ramsdell
-
-
-## Page automatically generated

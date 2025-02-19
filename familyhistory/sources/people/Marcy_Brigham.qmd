@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Marcy Brigham
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Christopher Bundy
-
-
-## Page automatically generated

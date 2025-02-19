@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jacob Lassiter
-
-
-## Page automatically generated

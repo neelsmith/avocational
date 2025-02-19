@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jessie Elaine Manuel
-
-
-## Page automatically generated

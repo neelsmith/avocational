@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Stephen Hopkins
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James A. McCrery
-
-
-## Page automatically generated

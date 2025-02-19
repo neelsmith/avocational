@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Hiram Merrill
-
-
-## Page automatically generated

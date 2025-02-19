@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Hiram Smith White
-
-
-## Page automatically generated

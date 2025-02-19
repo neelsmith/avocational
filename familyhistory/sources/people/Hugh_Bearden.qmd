@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Hugh Bearden
-
-
-## Page automatically generated

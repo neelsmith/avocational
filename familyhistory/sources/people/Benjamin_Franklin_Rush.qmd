@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Benjamin Franklin Rush
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Thomas North
-
-
-## Page automatically generated

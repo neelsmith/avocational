@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Isaac Newton Gattis
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Lionne Adsit
-
-
-## Page automatically generated

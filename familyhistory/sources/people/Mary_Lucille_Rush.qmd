@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Mary Lucille Rush
-
-
-## Page automatically generated

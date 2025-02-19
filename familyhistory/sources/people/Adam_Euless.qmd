@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Adam Euless
-
-
-## Page automatically generated

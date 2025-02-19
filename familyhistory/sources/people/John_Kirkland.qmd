@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Kirkland
-
-
-## Page automatically generated

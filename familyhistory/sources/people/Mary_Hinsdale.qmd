@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Mary Hinsdale
-
-
-## Page automatically generated

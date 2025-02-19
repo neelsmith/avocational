@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Eichler
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Owen Blanton Burrow
-
-
-## Page automatically generated

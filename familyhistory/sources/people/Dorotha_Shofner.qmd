@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Dorotha Shofner
-
-
-## Page automatically generated

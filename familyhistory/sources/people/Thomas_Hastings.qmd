@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Thomas Hastings
-
-
-## Page automatically generated

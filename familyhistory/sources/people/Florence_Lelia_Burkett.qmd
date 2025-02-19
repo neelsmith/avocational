@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Florence Lelia Burkett
-
-
-## Page automatically generated

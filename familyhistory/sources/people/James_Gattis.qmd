@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James Gattis
-
-
-## Page automatically generated

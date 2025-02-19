@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James Davidson Neel
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William Cheatwood
-
-
-## Page automatically generated

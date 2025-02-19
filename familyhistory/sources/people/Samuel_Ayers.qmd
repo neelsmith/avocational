@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Samuel Ayers
-
-
-## Page automatically generated

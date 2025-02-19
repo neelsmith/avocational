@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Wesley Hammond
-
-
-## Page automatically generated

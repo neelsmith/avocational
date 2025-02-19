@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Michael Shofner
-
-
-## Page automatically generated

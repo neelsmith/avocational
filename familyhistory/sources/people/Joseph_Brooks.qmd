@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Joseph Brooks
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Samuel Turrentine
-
-
-## Page automatically generated

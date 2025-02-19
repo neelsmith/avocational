@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Joseph Green
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Alexander Smith
-
-
-## Page automatically generated

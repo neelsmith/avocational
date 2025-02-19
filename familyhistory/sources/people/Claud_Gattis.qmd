@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Claud Gattis
-
-
-## Page automatically generated

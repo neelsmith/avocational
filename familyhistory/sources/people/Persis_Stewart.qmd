@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Persis Stewart
-
-
-## Page automatically generated

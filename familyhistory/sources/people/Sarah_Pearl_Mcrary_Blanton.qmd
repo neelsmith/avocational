@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Sarah Pearl Mcrary Blanton
-
-
-## Page automatically generated

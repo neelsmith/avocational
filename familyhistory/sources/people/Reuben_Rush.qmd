@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Reuben Rush
-
-
-## Page automatically generated

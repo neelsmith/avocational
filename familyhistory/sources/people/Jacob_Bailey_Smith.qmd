@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jacob Bailey Smith
-
-
-## Page automatically generated

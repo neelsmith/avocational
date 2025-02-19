@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Philip Euless
-
-
-## Page automatically generated

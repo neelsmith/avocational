@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Marmaduke Vickery
-
-
-## Page automatically generated

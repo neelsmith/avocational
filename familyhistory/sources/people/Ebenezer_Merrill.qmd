@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Ebenezer Merrill
-
-
-## Page automatically generated

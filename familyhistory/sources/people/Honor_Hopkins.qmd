@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Honor Hopkins
-
-
-## Page automatically generated

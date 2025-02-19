@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James Marion Neel
-
-
-## Page automatically generated

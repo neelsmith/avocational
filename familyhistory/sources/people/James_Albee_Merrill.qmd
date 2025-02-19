@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James Albee Merrill
-
-
-## Page automatically generated

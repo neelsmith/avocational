@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Samuel Northern
-
-
-## Page automatically generated

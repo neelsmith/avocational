@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Willis Blanton
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Apollonia Abigail Wamser
-
-
-## Page automatically generated

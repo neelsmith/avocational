@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Jacob Dubois
-
-
-## Page automatically generated

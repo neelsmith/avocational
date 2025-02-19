@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Josephine Neel
-
-
-## Page automatically generated

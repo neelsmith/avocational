@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Dryden Henderson
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Eliza A. Hammond
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Pardon Tillinghast
-
-
-## Page automatically generated

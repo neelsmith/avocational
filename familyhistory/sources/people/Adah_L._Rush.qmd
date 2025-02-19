@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Adah L. Rush
-
-
-## Page automatically generated

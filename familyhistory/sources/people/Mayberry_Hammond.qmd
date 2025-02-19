@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Mayberry Hammond
-
-
-## Page automatically generated

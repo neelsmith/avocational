@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-John Watson Morgan
-
-
-## Page automatically generated

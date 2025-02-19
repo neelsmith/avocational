@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Leonard Lindner
-
-
-## Page automatically generated

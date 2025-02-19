@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Daniel Carpenter 3
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Theodore Buchanan Hammond
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Charles H. White
-
-
-## Page automatically generated

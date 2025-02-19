@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Washington Rush
-
-
-## Page automatically generated

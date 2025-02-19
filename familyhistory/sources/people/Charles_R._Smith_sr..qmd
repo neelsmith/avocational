@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Charles R. Smith sr.
-
-
-## Page automatically generated

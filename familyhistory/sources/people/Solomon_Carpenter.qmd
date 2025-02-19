@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Solomon Carpenter
-
-
-## Page automatically generated

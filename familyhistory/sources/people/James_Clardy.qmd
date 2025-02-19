@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-James Clardy
-
-
-## Page automatically generated

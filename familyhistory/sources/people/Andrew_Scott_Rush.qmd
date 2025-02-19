@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Andrew Scott Rush
-
-
-## Page automatically generated

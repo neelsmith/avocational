@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Dorothy Moore
-
-
-## Page automatically generated

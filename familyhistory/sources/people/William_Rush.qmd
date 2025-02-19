@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-William Rush
-
-
-## Page automatically generated

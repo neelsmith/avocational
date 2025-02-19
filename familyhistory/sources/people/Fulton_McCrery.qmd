@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Fulton McCrery
-
-
-## Page automatically generated

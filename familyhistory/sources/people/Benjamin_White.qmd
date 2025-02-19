@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Benjamin White
-
-
-## Page automatically generated

@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Friend Adams
-
-
-## Page automatically generated

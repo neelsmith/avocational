@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Samuel McCutcheon
-
-
-## Page automatically generated

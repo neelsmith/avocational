@@ -1,9 +1,0 @@
----
-engine: julia
----
-
-
-Wiley Pearce
-
-
-## Page automatically generated
