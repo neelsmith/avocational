@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # James Albee Merrill
 
 
-## Page automatically generated
+*born* ? : *died* 1924-11-21
+
+**Mother**: [Lucy Witherell](./Lucy_Witherell.html)
+
+**Father**: [Hiram Merrill](./Hiram_Merrill.html)
+

@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Candace M. White
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+

@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Arsa Luella Rush
 
 
-## Page automatically generated
+*born* 1858-01-16 : *died* 1894-03-11
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1858-01-16 | [Arsa Luella Rush tombstone](./././transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |

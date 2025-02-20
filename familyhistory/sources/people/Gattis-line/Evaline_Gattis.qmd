@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Evaline Gattis
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+

@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Dorotha Shofner
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+

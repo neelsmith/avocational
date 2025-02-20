@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Lydia Jepson Smith
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)
+
+**Father**: [Zachariah Smith](./Zachariah_Smith.html)
+

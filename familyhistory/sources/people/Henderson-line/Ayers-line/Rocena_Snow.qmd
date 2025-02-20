@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Rocena Snow
 
 
-## Page automatically generated
+*born* 1774 : *died* 1853-02-21
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1774 | [Rocena Snow tombstone](././././transcriptions/tombstones/Rocena_Snow_tombstone.html) | indirect |

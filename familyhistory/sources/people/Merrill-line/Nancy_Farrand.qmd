@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Nancy Farrand
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Rhoda Smith](./Rhoda_Smith.html)
+
+**Father**: [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html)
+

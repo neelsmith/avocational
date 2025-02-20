@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Stephen Ayres
 
 
-## Page automatically generated
+*born* 1770-02-16 : *died* ?
+
+**Mother**: [Persis Ayers](./././Persis_Ayers.html)
+
+**Father**: [Jabez Ayers](./././Jabez_Ayers.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1770-02-16 | [Stephen Ayers birth](././././transcriptions/vitals/Stephen_Ayers_birth.html) | direct |

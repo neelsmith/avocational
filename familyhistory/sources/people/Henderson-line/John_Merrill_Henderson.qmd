@@ -3,7 +3,19 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Merrill Henderson
 
 
-## Page automatically generated
+*born* 1928-04-27 : *died* 2020-11-04
+
+**Mother**: [Marguerite Merrill](././Merrill-line/Marguerite_Merrill.html)
+
+**Father**: [John Dubois Henderson](./John_Dubois_Henderson.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |

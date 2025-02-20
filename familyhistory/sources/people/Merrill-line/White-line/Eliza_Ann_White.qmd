@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Eliza Ann White
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+

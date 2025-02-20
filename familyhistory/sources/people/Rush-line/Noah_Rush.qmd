@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Noah Rush
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Frances Fuller](././Randolph_county_lines/Frances_Fuller.html)
+
+**Father**: [people/Rush-line/Zebedee Rush]()
+

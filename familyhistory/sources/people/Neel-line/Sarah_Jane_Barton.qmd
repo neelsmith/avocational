@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Sarah Jane Barton
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Sarah Barton](./Sarah_Barton.html)
+
+**Father**: [A. Barton](./A._Barton.html)
+

@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Franklin L. Johnson
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+

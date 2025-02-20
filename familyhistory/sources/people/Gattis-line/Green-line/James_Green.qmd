@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # James Green
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Sarah Phillips](./Sarah_Phillips.html)
+
+**Father**: [William Green](./William_Green.html)
+

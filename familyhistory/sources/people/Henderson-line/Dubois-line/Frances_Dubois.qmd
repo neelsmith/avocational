@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Frances Dubois
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Sarah Tillinghast](././Tillinghast-line/Sarah_Tillinghast.html)
+
+**Father**: [David Dubois](./David_Dubois.html)
+

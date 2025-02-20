@@ -3,7 +3,19 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Hiram Merrill
 
 
-## Page automatically generated
+*born* 1817-09-02 : *died* 1910-10-13
+
+**Mother**: [Nancy Farrand](./Nancy_Farrand.html)
+
+**Father**: [Aaron Merrill](./Aaron_Merrill.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |

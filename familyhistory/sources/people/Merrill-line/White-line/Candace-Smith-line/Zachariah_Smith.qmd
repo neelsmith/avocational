@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Zachariah Smith
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Susanah Grout](./././Susanah_Grout.html)
+
+**Father**: [Zachia Smith](./././Zachia_Smith.html)
+

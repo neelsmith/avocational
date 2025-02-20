@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Bee Neel
 
 
-## Page automatically generated
+*born* 1911-02-15 : *died* 1998-12-11
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1911-02-15 | [Bee Neel in CA birth index](./././transcriptions/vitals/Bee_Neel_in_CA_birth_index.html) | direct |

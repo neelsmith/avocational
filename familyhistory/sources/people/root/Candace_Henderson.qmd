@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Candace Henderson
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Shelley Ann Lindner](././Lindner-line/Shelley_Ann_Lindner.html)
+
+**Father**: [John Merrill Henderson](././Henderson-line/John_Merrill_Henderson.html)
+

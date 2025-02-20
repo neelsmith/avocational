@@ -3,7 +3,21 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Robert Wilburn Neel
 
 
-## Page automatically generated
+*born* 1868-09-28 : *died* 1952-07-04
+
+**Mother**: [Sarah Jane Barton](./Sarah_Jane_Barton.html)
+
+**Father**: [James Marion Neel](./James_Marion_Neel.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1868 | [Robert Neel death certificate](./././transcriptions/vitals/Robert_Neel_death_certificate.html) | indirect |
+|  1868-09-28 | [Robert Neel tombstone](./././transcriptions/tombstones/Robert_Neel_tombstone.html) | indirect |

@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Leonora Josephine Saudek
 
 
-## Page automatically generated
+*born* 1843-03-11 : *died* 1880-07-04
+
+**Mother**: [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)
+
+**Father**: [Joseph Saudek](./Joseph_Saudek.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1843-03-11 | [Leonora Saudek Blanton tombstone](./././././transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | indirect |

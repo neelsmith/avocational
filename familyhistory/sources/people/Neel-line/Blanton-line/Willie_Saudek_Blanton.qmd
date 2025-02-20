@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Willie Saudek Blanton
 
 
-## Page automatically generated
+*born* 1877-12-24 : *died* 1941-03-25
+
+**Mother**: [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html)
+
+**Father**: [John Owen Blanton](./John_Owen_Blanton.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1877-12-24 | [Willie Blanton death certificate](././././transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |

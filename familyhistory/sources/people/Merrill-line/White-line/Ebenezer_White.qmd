@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ebenezer White
 
 
-## Page automatically generated
+*born* 1779-07-09 : *died* ?
+
+**Mother**: [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)
+
+**Father**: [Benjamin White](./Benjamin_White.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1771 | [Ebenezer White 1850 census](././././transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |

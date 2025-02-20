@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Horatio Nelson White
 
 
-## Page automatically generated
+*born* 1802-10-23 : *died* 1886-05-05
+
+**Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
+
+**Father**: [Ebenezer White](./Ebenezer_White.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1779-07-09 | [Horatio Nelson White death](././././transcriptions/vitals/Horatio_Nelson_White_death.html) | indirect |

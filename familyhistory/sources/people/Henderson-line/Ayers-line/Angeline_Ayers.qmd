@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Angeline Ayers
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Rocena Snow](./Rocena_Snow.html)
+
+**Father**: [Stephen Ayres](./Stephen_Ayres.html)
+

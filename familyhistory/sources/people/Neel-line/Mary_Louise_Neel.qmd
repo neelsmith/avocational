@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mary Louise Neel
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html)
+
+**Father**: [Robert Wilburn Neel](./Robert_Wilburn_Neel.html)
+

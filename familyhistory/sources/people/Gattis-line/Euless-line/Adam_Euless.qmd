@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Adam Euless
 
 
-## Page automatically generated
+*born* 1778-11-22 : *died* 1843-12-22
+
+**Mother**: [Elizabeth Euless](./Elizabeth_Euless.html)
+
+**Father**: [Philip Euless](././Philip_Euless.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1778-11-22 | [Adam Euless tombstone](././././transcriptions/tombstones/Adam_Euless_tombstone.html) | direct |

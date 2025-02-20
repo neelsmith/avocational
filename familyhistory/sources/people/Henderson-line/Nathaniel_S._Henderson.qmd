@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Nathaniel S. Henderson
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Margaret Carpenter](./Carpenter-line/Margaret_Carpenter.html)
+
+**Father**: [Daniel Clyde Henderson](./Daniel_Clyde_Henderson.html)
+

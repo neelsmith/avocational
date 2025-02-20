@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Frances Hix
 
 
-## Page automatically generated
+*born* 1852-07-10 : *died* 1925-11-25
+
+**Mother**: [Jane Lassiter](././Lassiter/Jane_Lassiter.html)
+
+**Father**: [William J. Hicks](./William_J._Hicks.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1852-07-10 | [Frances Hix tombstone](././././transcriptions/tombstones/Frances_Hix_tombstone.html) | direct |

@@ -3,7 +3,19 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Elizabeth Stagg
 
 
-## Page automatically generated
+*born* 1778 : *died* 1817-02-02
+
+**Mother**: [?]()
+
+**Father**: [Josiah Stagg](./Josiah_Stagg.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |

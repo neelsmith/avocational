@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ellen Grandey
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Polly Myrick](././White-line/Grandey/Polly_Myrick.html)
+
+**Father**: [Truman Grandey](./Truman_Grandey.html)
+

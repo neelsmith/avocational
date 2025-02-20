@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Sarah Loflin
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Martha Patsy Wood](././Martha_Patsy_Wood.html)
+
+**Father**: [Cornelius Loflin](./Cornelius_Loflin.html)
+

@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Moses Smith
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Hannah Rice](./Hannah_Rice.html)
+
+**Father**: [Ephraim Smith](./Ephraim_Smith.html)
+

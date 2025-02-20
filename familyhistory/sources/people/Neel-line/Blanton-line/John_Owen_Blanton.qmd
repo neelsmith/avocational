@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Owen Blanton
 
 
-## Page automatically generated
+*born* 1848-12-10 : *died* 1913-07-20
+
+**Mother**: [Sarah Campbell](./Sarah_Campbell.html)
+
+**Father**: [Richard Blanton](./Richard_Blanton.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1848-12-10 | [J.O. Blanton tombstone](././././transcriptions/tombstones/J.O._Blanton_tombstone.html) | indirect |

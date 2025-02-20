@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Daniel Clyde Henderson
 
 
-## Page automatically generated
+*born* 1784-12-08 : *died* ?
+
+**Mother**: [Mary Mathis](./Mary_Mathis.html)
+
+**Father**: [Edward Henderson](./Edward_Henderson.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1784-12-08 | [Daniel Clyde Henderson birth](./././transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |

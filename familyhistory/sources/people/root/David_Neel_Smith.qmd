@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # David Neel Smith
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Judy Gattis](././Gattis-line/Judy_Gattis.html)
+
+**Father**: [David Hammond Smith](././Smith-line/David_Hammond_Smith.html)
+

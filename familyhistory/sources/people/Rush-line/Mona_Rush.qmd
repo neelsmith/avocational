@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mona Rush
 
 
-## Page automatically generated
+*born* 1891-02-19 : *died* 1967-11-27
+
+**Mother**: [Frances Hix](././Randolph_county_lines/Hicks/Frances_Hix.html)
+
+**Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1891-02-19 | [Mona Rush tombstone](./././transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |

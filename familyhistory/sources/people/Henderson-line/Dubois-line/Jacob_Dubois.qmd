@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Jacob Dubois
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html)
+
+**Father**: [David Dubois 1724-1801](./David_Dubois_1724-1801.html)
+

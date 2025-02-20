@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # William E. White
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Syrena Adams](./Syrena_Adams.html)
+
+**Father**: [Horatio Nelson White](./Horatio_Nelson_White.html)
+

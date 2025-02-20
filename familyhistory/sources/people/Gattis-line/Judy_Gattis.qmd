@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Judy Gattis
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Mary Louise Neel](././Neel-line/Mary_Louise_Neel.html)
+
+**Father**: [Claud Gattis](./Claud_Gattis.html)
+

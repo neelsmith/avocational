@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Julia B. Euless
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Dorotha Shofner](./Dorotha_Shofner.html)
+
+**Father**: [Adam Euless](./Adam_Euless.html)
+

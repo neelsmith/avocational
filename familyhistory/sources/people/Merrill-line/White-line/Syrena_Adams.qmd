@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Syrena Adams
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Elizabeth Stagg](./Elizabeth_Stagg.html)
+
+**Father**: [Friend Adams](./Friend_Adams.html)
+

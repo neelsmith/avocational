@@ -3,7 +3,19 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Isaac Newton Gattis
 
 
-## Page automatically generated
+*born* 1866 : *died* 1939
+
+**Mother**: [Julia B. Euless](./Euless-line/Julia_B._Euless.html)
+
+**Father**: [Thomas A. Gattis](./Thomas_A._Gattis.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |

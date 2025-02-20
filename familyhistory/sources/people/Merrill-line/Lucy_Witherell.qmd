@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Lucy Witherell
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Susan Willis](./Willis-line/Susan_Willis.html)
+
+**Father**: [James Witherell](./James_Witherell.html)
+

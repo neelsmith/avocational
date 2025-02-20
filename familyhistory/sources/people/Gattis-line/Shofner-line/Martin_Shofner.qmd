@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Martin Shofner
 
 
-## Page automatically generated
+*born* 1758-12-03 : *died* 1838-09-30
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1758-12-03 | [Martin Shofner tombstone](././././transcriptions/tombstones/Martin_Shofner_tombstone.html) | direct |

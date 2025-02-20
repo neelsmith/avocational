@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Dryden Henderson
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Angeline Ayers](./Ayers-line/Angeline_Ayers.html)
+
+**Father**: [Nathaniel S. Henderson](./Nathaniel_S._Henderson.html)
+

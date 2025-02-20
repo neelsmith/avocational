@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Clarence Harris Rush
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Frances Hix](././Randolph_county_lines/Hicks/Frances_Hix.html)
+
+**Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
+

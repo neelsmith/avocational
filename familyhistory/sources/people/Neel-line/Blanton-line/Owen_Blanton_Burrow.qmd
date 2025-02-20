@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Owen Blanton Burrow
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [people/Neel-line/Blanton-line/Leonora Campbell Blanton]()
+
+**Father**: [Samuel Richardson Burrow](./Samuel_Richardson_Burrow.html)
+

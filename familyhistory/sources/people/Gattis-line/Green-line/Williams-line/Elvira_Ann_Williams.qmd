@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Elvira Ann Williams
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Sallie T.  Harris](./Sallie_T.__Harris.html)
+
+**Father**: [David Williams](./David_Williams.html)
+

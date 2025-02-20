@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Dubois Henderson
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Frances Dubois](./Dubois-line/Frances_Dubois.html)
+
+**Father**: [John Dryden Henderson](./John_Dryden_Henderson.html)
+

@@ -3,7 +3,20 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Calvin Harris Rush
 
 
-## Page automatically generated
+*born* 1853 : *died* ?
+
+**Mother**: [Sarah Loflin](././Randolph_county_lines/Loflin/Sarah_Loflin.html)
+
+**Father**: [Noah Rush](./Noah_Rush.html)
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1853 | [Calvin Rush 1860 census](./././transcriptions/census/Rush_census/Calvin_Rush_1860_census.html) | indirect |

@@ -3,7 +3,19 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Martha Patsy Wood
 
 
-## Page automatically generated
+*born* 1796-11-14 : *died* 1880-03-29
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources for birth
+
+
+| Date | Source | Type |
+| --- | --- | --- |

@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # James Marion Neel
 
 
-## Page automatically generated
+*born* ? : *died* 1917-02-11
+
+**Mother**: [Betty Neel](./Betty_Neel.html)
+
+**Father**: [Duncan Neel](./Duncan_Neel.html)
+

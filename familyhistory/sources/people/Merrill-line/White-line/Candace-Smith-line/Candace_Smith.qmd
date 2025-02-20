@@ -3,7 +3,14 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Candace Smith
 
 
-## Page automatically generated
+*born* ? : *died* ?
+
+**Mother**: [Lydia Jepson Smith](./Lydia_Jepson_Smith.html)
+
+**Father**: [Moses Smith](./Moses_Smith.html)
+
