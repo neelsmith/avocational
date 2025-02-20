@@ -2,7 +2,7 @@ refersto::[[Mona Rush]]
 refersto::[[Calvin Harris Rush]]
 refersto::[[Frances Hix]]
 refersto::[[Charles R. Smith sr.]]
-refersto::[David Hammond Smith](../../../people/Smith-line/David_Hammond_Smith.html)
+refersto::[David Hammond Smith](./../../people/Smith-line/David_Hammond_Smith.html)
 
 ## Source
 

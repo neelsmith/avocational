@@ -25,7 +25,7 @@ Wm. Hickock may be
 refersto::[[William H. Hickock]]
 
 "Weston" is probably
-refersto::[William Weston](../../../../people/not-related/William_Weston.html)
+refersto::[William Weston](./../../../people/not-related/William_Weston.html)
 
 
 "young Smalley?"

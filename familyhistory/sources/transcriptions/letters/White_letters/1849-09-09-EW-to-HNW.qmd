@@ -4,7 +4,7 @@
 refersto::[[Ebenezer White]]
 refersto::[[Horatio Nelson White]]
 refersto::[[Adaline White]]
-refersto::[William E. White](../../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
 refersto::[[Friend Adams White]]
 refersto::[[Henry George White]]
 refersto::[[Hiram Smith White]]
@@ -14,7 +14,7 @@ refersto::[[Candace White]]
 
 Candace is not named, referred to as "your Mother."
 
-"A" must be [[Artemas White]]. "G" will be [[Henry George White]] "Wm" is [William E. White](../../../../people/Merrill-line/White-line/William_E._White.html)
+"A" must be [[Artemas White]]. "G" will be [[Henry George White]] "Wm" is [William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
 
 ## Notes and questions
 

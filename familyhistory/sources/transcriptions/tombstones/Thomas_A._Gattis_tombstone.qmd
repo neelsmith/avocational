@@ -1,4 +1,4 @@
-refersto::[Thomas A. Gattis](../../../people/Gattis-line/Thomas_A._Gattis.html)
+refersto::[Thomas A. Gattis](./../../people/Gattis-line/Thomas_A._Gattis.html)
 
 ## Citation
 

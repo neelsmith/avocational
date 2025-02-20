@@ -1,5 +1,5 @@
 refersto::[[Mona Rush]]
-refersto::[Charles R. Smith](../../../people/Smith-line/Charles_R._Smith.html)
+refersto::[Charles R. Smith](./../../people/Smith-line/Charles_R._Smith.html)
 
 
 

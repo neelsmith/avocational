@@ -1,6 +1,6 @@
 
 refersto::[[Anna Serena White]]
-Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::1880-06-11
 
 House::58

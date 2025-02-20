@@ -1,5 +1,5 @@
 refersto::[[Hiram Merrill]]
-refersto::[Lucy Witherell](../../../people/Merrill-line/Lucy_Witherell.html)
+refersto::[Lucy Witherell](./../../people/Merrill-line/Lucy_Witherell.html)
 
 
 ## Transcription

@@ -19,4 +19,17 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1848-12-10 | [J.O. Blanton tombstone](././././transcriptions/tombstones/J.O._Blanton_tombstone.html) | indirect |
+| 1848-12-10 | [J.O. Blanton tombstone](./../../../transcriptions/tombstones/J.O._Blanton_tombstone.html) | indirect |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1913-07-20 | [J.O. Blanton tombstone](./../../../transcriptions/tombstones/J.O._Blanton_tombstone.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

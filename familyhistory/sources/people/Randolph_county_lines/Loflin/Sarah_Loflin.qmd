@@ -10,7 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Martha Patsy Wood](././Martha_Patsy_Wood.html)
+**Mother**: [Martha Patsy Wood](./../Martha_Patsy_Wood.html)
 
 **Father**: [Cornelius Loflin](./Cornelius_Loflin.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

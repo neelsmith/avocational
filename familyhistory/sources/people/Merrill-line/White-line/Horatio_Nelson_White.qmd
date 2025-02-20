@@ -19,4 +19,18 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1779-07-09 | [Horatio Nelson White death](././././transcriptions/vitals/Horatio_Nelson_White_death.html) | indirect |
+| 1779-07-09 | [Horatio Nelson White death](./../../../transcriptions/vitals/Horatio_Nelson_White_death.html) | indirect |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1886-05-05 | [Horatio Nelson White death](./../../../transcriptions/vitals/Horatio_Nelson_White_death.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Horatio White - Susan Spaulding marriage](./../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html) | direct |

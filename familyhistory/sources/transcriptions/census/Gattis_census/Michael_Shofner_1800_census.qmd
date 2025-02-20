@@ -3,7 +3,7 @@
 
 
 refersto::[[Michael Shofner]]
-Enumeration::[Hillsborough, Orange, North Carolina](../../../../census-districts/Hillsborough,_Orange,_North_Carolina.html)
+Enumeration::[Hillsborough, Orange, North Carolina](./../../../census-districts/Hillsborough,_Orange,_North_Carolina.html)
 Date::
 
 Head of family::Michael Shofner

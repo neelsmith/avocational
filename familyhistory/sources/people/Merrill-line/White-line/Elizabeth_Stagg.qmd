@@ -19,3 +19,17 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1817-02-02 | [Elizabeth Adams death](./../../../transcriptions/vitals/Elizabeth_Adams_death.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Josiah Stagg](./Josiah_Stagg.html) | []() | [Elizabeth Adams death](./../../../transcriptions/vitals/Elizabeth_Adams_death.html) | direct |

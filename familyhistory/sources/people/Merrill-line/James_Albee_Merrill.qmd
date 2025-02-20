@@ -14,3 +14,17 @@ engine: julia
 
 **Father**: [Hiram Merrill](./Hiram_Merrill.html)
 
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1924-11-21 | [James A. Merrill MN death index](./../../transcriptions/vitals/James_A._Merrill_MN_death_index.html) | direct |
+| 1924 | [James A. Merrill tombstone](./../../transcriptions/tombstones/James_A._Merrill_tombstone.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Hiram Merrill](./Hiram_Merrill.html) | [Lucy Witherell](./Lucy_Witherell.html) | [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html) | indirect |

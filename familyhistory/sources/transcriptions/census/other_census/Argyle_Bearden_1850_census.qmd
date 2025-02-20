@@ -4,7 +4,7 @@
 refersto::[[Argyle Bearden]]
 
 
-Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::1850-10-19
 House::90
 Family::90

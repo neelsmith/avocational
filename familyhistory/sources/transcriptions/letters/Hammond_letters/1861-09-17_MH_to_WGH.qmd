@@ -5,7 +5,7 @@
 refersto::[[Mayberry Hammond]]
 refersto::[[William Goheen Hammond]]
 refersto::[[Eliza A. Hammond]]
-refersto::[Lucy W. Hammond](../../../../people/Hammond-line/Lucy_W._Hammond.html)
+refersto::[Lucy W. Hammond](./../../../people/Hammond-line/Lucy_W._Hammond.html)
 
 
 

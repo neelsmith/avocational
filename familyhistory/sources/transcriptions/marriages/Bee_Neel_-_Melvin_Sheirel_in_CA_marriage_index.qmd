@@ -1,5 +1,5 @@
 refersto::[[Bee Neel]]
-refersto::[Melvin Elwood Sheirel](../../../Melvin_Elwood_Sheirel.html)
+refersto::[Melvin Elwood Sheirel](./../../Melvin_Elwood_Sheirel.html)
 ## Source
 
 #### Source Citation

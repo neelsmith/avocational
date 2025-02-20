@@ -9,7 +9,7 @@ refersto::[[Ann Quayle]]
 refersto::[[Sister of Ann Quayle]]
 refersto::[[Brother of Ann Quayle]]
 refersto::[[Hiram Smith White]]
-refersto::[Cynthia Sawyer](../../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
 refersto::[[Henry S. White]]
 refersto::[[Artemas White]]
 refersto::[[Friend Adams White]]
@@ -18,7 +18,7 @@ refersto::[[Frances E. White]]
 
 ## Notes
 
-[Cynthia Sawyer](../../../../people/Merrill-line/White-line/Cynthia_Sawyer.html) not referred to by name, only as Hiram's wife
+[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html) not referred to by name, only as Hiram's wife
 
 
 ## Synopsis

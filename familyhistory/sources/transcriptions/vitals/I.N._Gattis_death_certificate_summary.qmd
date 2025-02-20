@@ -1,4 +1,4 @@
-refersto::[Isaac Newton Gattis](../../../people/Gattis-line/Isaac_Newton_Gattis.html)
+refersto::[Isaac Newton Gattis](./../../people/Gattis-line/Isaac_Newton_Gattis.html)
 
 ## Citation
 

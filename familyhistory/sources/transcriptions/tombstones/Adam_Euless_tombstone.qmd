@@ -1,4 +1,4 @@
-refersto:: [Adam Euless](../../../people/Gattis-line/Euless-line/Adam_Euless.html)
+refersto:: [Adam Euless](./../../people/Gattis-line/Euless-line/Adam_Euless.html)
 
 # Transcription
 

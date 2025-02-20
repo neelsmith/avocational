@@ -21,7 +21,7 @@ refersto::[[Artemas White]]
 refersto::[[Hiram White]]
 refersto::[[Hiram Smith White]]
 refersto::[[Syrena Adams]]
-refersto::[Candace White](../../../../people/Merrill-line/White-line/Candace_White.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
 
 
 

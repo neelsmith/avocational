@@ -14,3 +14,9 @@ engine: julia
 
 **Father**: [?]()
 
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1848-01-18 | [Nancy Northern tombstone](./../../../../../transcriptions/tombstones/Nancy_Northern_tombstone.html) | direct |

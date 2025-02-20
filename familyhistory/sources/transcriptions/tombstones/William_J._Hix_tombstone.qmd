@@ -1,4 +1,4 @@
-refersto::[William J. Hicks](../../../people/Randolph_county_lines/Hicks/William_J._Hicks.html)
+refersto::[William J. Hicks](./../../people/Randolph_county_lines/Hicks/William_J._Hicks.html)
 
 
 ## Source

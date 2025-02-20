@@ -19,7 +19,7 @@ refersto::[[Friend Adams White]]
 refersto::[[Frances E. White]]
 refersto::[[Cynthia Sawyer]]
 refersto::[[Hiram Smith White]]
-refersto::[Adaline White](../../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 
 
 ## Synopsis

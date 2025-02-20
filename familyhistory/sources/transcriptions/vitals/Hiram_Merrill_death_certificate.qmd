@@ -1,5 +1,5 @@
 
-refersto::[Hiram Merrill](../../../people/Merrill-line/Hiram_Merrill.html)
+refersto::[Hiram Merrill](./../../people/Merrill-line/Hiram_Merrill.html)
 
 
 ## Citation

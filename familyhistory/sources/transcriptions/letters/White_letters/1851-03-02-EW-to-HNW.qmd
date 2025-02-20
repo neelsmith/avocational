@@ -9,7 +9,7 @@ refersto::[[Henry George White]]
 refersto::[[Charles H. White]]
 refersto::[[Friend Adams White]]
 refersto::[[Hiram Smith White]]
-refersto::[Cynthia Sawyer](../../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
 
 
 ## Synopsis

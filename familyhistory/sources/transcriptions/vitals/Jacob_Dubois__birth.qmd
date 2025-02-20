@@ -18,5 +18,5 @@ Birth Date: 7 Dec 1763
 
 Residence Place: New Jersey, USA
 
-Father: [David Dubois 1724-1801](../../../people/Henderson-line/Dubois-line/David_Dubois_1724-1801.html)
+Father: [David Dubois 1724-1801](./../../people/Henderson-line/Dubois-line/David_Dubois_1724-1801.html)
 Mother: Elizabeth N. Dubois

@@ -14,3 +14,9 @@ engine: julia
 
 **Father**: [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html) | [Rhoda Smith](./Rhoda_Smith.html) | [Nancy Farrand parents](./../../transcriptions/family-genealogies/Nancy_Farrand_parents.html) | indirect |

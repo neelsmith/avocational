@@ -19,4 +19,11 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1771 | [Ebenezer White 1850 census](././././transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
+| 1771 | [Ebenezer White 1850 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Benjamin White](./Benjamin_White.html) | [Ruth Wilson](./Wilson-line/Ruth_Wilson.html) | [Ebenezer White birth](./../../../transcriptions/vitals/Ebenezer_White_birth.html) | direct |

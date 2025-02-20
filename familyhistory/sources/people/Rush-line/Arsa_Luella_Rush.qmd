@@ -19,4 +19,11 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1858-01-16 | [Arsa Luella Rush tombstone](./././transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |
+| 1858-01-16 | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1894-03-11 | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |

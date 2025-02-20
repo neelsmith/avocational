@@ -14,3 +14,9 @@ engine: julia
 
 **Father**: [David Dubois 1724-1801](./David_Dubois_1724-1801.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [David Dubois 1724-1801](./David_Dubois_1724-1801.html) | [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html) | [Jacob Dubois  birth](./../../../transcriptions/vitals/Jacob_Dubois__birth.html) | direct |

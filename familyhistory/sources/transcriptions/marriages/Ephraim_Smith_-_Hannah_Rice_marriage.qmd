@@ -1,5 +1,5 @@
 refersto:: [[Ephraim Smith]]
-refersto:: [Hannah Rice](../../../people/Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html)
+refersto:: [Hannah Rice](./../../people/Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html)
 
 ## Notes
 

@@ -3,7 +3,7 @@
 
 
 refersto::[[Almeda Gattis]]
-Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::June 10, 1880
 
 House::123

@@ -1,4 +1,4 @@
-refersto::[Julia B. Euless](../../../people/Gattis-line/Euless-line/Julia_B._Euless.html)
+refersto::[Julia B. Euless](./../../people/Gattis-line/Euless-line/Julia_B._Euless.html)
 
 
 

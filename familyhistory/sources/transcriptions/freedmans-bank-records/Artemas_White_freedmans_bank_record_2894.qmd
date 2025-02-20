@@ -12,7 +12,7 @@ refersto::[[Candace Smith]]
 
 refersto::[[Henry George White]]
 refersto::[[Hiram Smith White]]
-refersto::[Adaline White](../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Adaline White](./../../people/Merrill-line/White-line/Adaline_White.html)
 
 
 

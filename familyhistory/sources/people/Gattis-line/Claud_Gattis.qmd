@@ -19,5 +19,18 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1897-10 | [Claud Gattis 1890 census](./././transcriptions/census/Gattis_census/Claud_Gattis_1890_census.html) | indirect |
-| 1895-10-24 | [Louise Neel - Claude J. Gattis tombstone](./././transcriptions/tombstones/Louise_Neel_-_Claude_J._Gattis_tombstone.html) | direct |
+| 1897-10 | [Claud Gattis 1890 census](./../../transcriptions/census/Gattis_census/Claud_Gattis_1890_census.html) | indirect |
+| 1895-10-24 | [Louise Neel - Claude J. Gattis tombstone](./../../transcriptions/tombstones/Louise_Neel_-_Claude_J._Gattis_tombstone.html) | direct |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1987-12-09 | [Louise Neel - Claude J. Gattis tombstone](./../../transcriptions/tombstones/Louise_Neel_-_Claude_J._Gattis_tombstone.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

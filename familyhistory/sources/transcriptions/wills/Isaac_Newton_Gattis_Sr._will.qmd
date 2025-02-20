@@ -1,4 +1,4 @@
-refersto::[Isaac Newton Gattis Sr.](../../../people/Gattis-line/Isaac_Newton_Gattis_Sr..html)
+refersto::[Isaac Newton Gattis Sr.](./../../people/Gattis-line/Isaac_Newton_Gattis_Sr..html)
 
 ## Citation
 Probate Records, 1809-1951; Author: Tennessee County Court (Lincoln County); Probate Place: Lincoln, Tennessee

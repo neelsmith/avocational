@@ -1,6 +1,6 @@
 
 refersto::[[Bee Neel]]
-refersto::[Claude J. Leopard](../../../Claude_J._Leopard.html)
+refersto::[Claude J. Leopard](./../../Claude_J._Leopard.html)
 
 
 #### Source Citation

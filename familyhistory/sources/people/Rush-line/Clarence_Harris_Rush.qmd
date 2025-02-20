@@ -10,7 +10,13 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Frances Hix](././Randolph_county_lines/Hicks/Frances_Hix.html)
+**Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [1900 census](./../../census-summaries/1900_census.html) | indirect |

@@ -9,7 +9,7 @@ refersto::[[Friend Adams White]]
 refersto::[[Frances E. White]]
 refersto::[[William E. White]]
 refersto::[[George A. White]]
-refersto::[Candace White](../../../../people/Merrill-line/White-line/Candace_White.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
 
 
 ## Notes

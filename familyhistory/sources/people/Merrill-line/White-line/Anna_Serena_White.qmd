@@ -10,7 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Ellen Grandey](././Grandey-line/Ellen_Grandey.html)
+**Mother**: [Ellen Grandey](./../Grandey-line/Ellen_Grandey.html)
 
 **Father**: [William E. White](./William_E._White.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

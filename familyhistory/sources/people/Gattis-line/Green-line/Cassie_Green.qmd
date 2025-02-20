@@ -19,3 +19,15 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

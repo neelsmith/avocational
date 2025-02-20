@@ -3,7 +3,7 @@
  
 
 refersto::[[Ebenezer White]]
-Enumeration::[Burlington, Chittenden, Vermont](../../../../../census-districts/Burlington,_Chittenden,_Vermont.html)
+Enumeration::[Burlington, Chittenden, Vermont](./../../../../census-districts/Burlington,_Chittenden,_Vermont.html)
 
 Date::1830
 Head of family::Ebenezer White

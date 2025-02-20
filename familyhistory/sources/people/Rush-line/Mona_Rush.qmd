@@ -10,7 +10,7 @@ engine: julia
 
 *born* 1891-02-19 : *died* 1967-11-27
 
-**Mother**: [Frances Hix](././Randolph_county_lines/Hicks/Frances_Hix.html)
+**Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
@@ -19,4 +19,18 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1891-02-19 | [Mona Rush tombstone](./././transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
+| 1891-02-19 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1967-11-27 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html) | direct |

@@ -1,5 +1,5 @@
 refersto::[[Noah Rush]]
-refersto::[Sarah Loflin](../../../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)
+refersto::[Sarah Loflin](./../../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
 ## Citation
 

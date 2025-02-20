@@ -10,7 +10,13 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Polly Myrick](././White-line/Grandey/Polly_Myrick.html)
+**Mother**: [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html)
 
 **Father**: [Truman Grandey](./Truman_Grandey.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Truman Grandey](./Truman_Grandey.html) | [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html) | [Ellen M. Grandy marriage record](./../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html) | direct |

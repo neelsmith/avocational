@@ -4,7 +4,7 @@
 
 
 refersto::[[Isaac Newton Gattis]]
-Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::August 16, 1870
 
 House::152

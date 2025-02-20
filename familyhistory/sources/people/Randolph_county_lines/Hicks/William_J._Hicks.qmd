@@ -19,4 +19,11 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1828-03-12 | [William J. Hix tombstone](././././transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |
+| 1828-03-12 | [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1856-04-11 | [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |

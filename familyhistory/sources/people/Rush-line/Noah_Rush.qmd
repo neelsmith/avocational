@@ -10,7 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Frances Fuller](././Randolph_county_lines/Frances_Fuller.html)
+**Mother**: [Frances Fuller](./../Randolph_county_lines/Frances_Fuller.html)
 
 **Father**: [people/Rush-line/Zebedee Rush]()
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

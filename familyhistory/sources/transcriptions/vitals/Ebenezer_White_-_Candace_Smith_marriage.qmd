@@ -1,5 +1,5 @@
 refersto:: [[Ebenezer White]] 
-refersto:: [Candace Smith](../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
+refersto:: [Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
 
 
 

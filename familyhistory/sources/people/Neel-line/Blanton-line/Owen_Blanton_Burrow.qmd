@@ -14,3 +14,9 @@ engine: julia
 
 **Father**: [Samuel Richardson Burrow](./Samuel_Richardson_Burrow.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Samuel Richardson Burrow](./Samuel_Richardson_Burrow.html) | [people/Neel-line/Blanton-line/Leonora Campbell Blanton]() | [Owen Burrow death certificate](./../../../transcriptions/vitals/Owen_Burrow_death_certificate.html) | direct |

@@ -1,5 +1,5 @@
 refersto::[[Samuel Allen Henley]]
-refersto::[Eunice Roxanna Rush](../../../people/Rush-line/Eunice_Roxanna_Rush.html)
+refersto::[Eunice Roxanna Rush](./../../people/Rush-line/Eunice_Roxanna_Rush.html)
 
 ## Citation
 #### Source Information

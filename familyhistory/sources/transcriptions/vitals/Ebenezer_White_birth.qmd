@@ -1,4 +1,4 @@
-refersto:: [Ebenezer White](../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto:: [Ebenezer White](./../../people/Merrill-line/White-line/Ebenezer_White.html)
 
 ## Notes
 

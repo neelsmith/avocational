@@ -2,7 +2,7 @@
 
 refersto::[[Mollie Grandey White]]
 
-Enumeration::[Pasadena,Los Angeles,California](../../../../../Pasadena,Los_Angeles,California.html)
+Enumeration::[Pasadena,Los Angeles,California](./../../../../Pasadena,Los_Angeles,California.html)
 Date::January 9-10, 1920
 Street::North Marengo
 Street number::490

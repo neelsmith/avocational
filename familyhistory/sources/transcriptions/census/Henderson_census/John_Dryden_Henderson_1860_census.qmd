@@ -1,7 +1,7 @@
 
 
 refersto::[[John Dryden Henderson]]
-Enumeration::[Norway, Herkimer, New York](../../../../census-districts/Norway,_Herkimer,_New_York.html)
+Enumeration::[Norway, Herkimer, New York](./../../../census-districts/Norway,_Herkimer,_New_York.html)
 Date::1860-07-24
 House::437
 Family::428

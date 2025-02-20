@@ -10,7 +10,7 @@ engine: julia
 
 *born* 1853 : *died* ?
 
-**Mother**: [Sarah Loflin](././Randolph_county_lines/Loflin/Sarah_Loflin.html)
+**Mother**: [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
 **Father**: [Noah Rush](./Noah_Rush.html)
 
@@ -19,4 +19,11 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1853 | [Calvin Rush 1860 census](./././transcriptions/census/Rush_census/Calvin_Rush_1860_census.html) | indirect |
+| 1853 | [Calvin Rush 1860 census](./../../transcriptions/census/Rush_census/Calvin_Rush_1860_census.html) | indirect |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Noah Rush](./Noah_Rush.html) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html) | indirect |

@@ -5,7 +5,7 @@
 This is a substitute record:
 
 refersto::[[Martin Shofner]]
-Enumeration::[Orange, North Carolina](../../../../census-districts/Orange,_North_Carolina.html)
+Enumeration::[Orange, North Carolina](./../../../census-districts/Orange,_North_Carolina.html)
 
 
 

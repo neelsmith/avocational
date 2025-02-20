@@ -1,5 +1,5 @@
 refersto::[[Marthey Wood]]
-refersto::[William Lewis](../../../people/Randolph_county_lines/Lewis/William_Lewis.html)
+refersto::[William Lewis](./../../people/Randolph_county_lines/Lewis/William_Lewis.html)
 
 ## Source
 

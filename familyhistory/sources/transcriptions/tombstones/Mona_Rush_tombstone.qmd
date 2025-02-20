@@ -1,4 +1,4 @@
-refersto::[Mona Rush](../../../people/Rush-line/Mona_Rush.html)
+refersto::[Mona Rush](./../../people/Rush-line/Mona_Rush.html)
 
 
 ## Source

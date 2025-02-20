@@ -19,3 +19,18 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1910-10-13 | [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Aaron Merrill](./Aaron_Merrill.html) | [Nancy Farrand](./Nancy_Farrand.html) | [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html) | direct |
+| [Aaron Merrill](./Aaron_Merrill.html) | [Nancy Farrand](./Nancy_Farrand.html) | [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html) | direct |

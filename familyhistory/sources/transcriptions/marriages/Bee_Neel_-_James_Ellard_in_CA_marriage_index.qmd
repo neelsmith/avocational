@@ -1,5 +1,5 @@
 refersto::[[Bee Neel]]
-refersto::[James K. Ellard](../../../people/Neel-line/James_K._Ellard.html)
+refersto::[James K. Ellard](./../../people/Neel-line/James_K._Ellard.html)
 
 ## Source
 #### Source Citation

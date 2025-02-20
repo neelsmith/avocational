@@ -10,7 +10,13 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Susanah Grout](./././Susanah_Grout.html)
+**Mother**: [Susanah Grout](./../../Susanah_Grout.html)
 
-**Father**: [Zachia Smith](./././Zachia_Smith.html)
+**Father**: [Zachia Smith](./../../Zachia_Smith.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Zachia Smith](./../../Zachia_Smith.html) | [Susanah Grout](./../../Susanah_Grout.html) | [Zachariah Smith birth record](./../../../../transcriptions/vitals/Zachariah_Smith_birth_record.html) | direct |

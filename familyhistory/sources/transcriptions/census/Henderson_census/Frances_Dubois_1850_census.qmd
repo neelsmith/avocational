@@ -1,7 +1,7 @@
 
 
 refersto::[[Frances Dubois]]
-Enumeration::[Norway, Herkimer, New York](../../../../census-districts/Norway,_Herkimer,_New_York.html)
+Enumeration::[Norway, Herkimer, New York](./../../../census-districts/Norway,_Herkimer,_New_York.html)
 Date::1850-08-22
 House::138
 Family::143

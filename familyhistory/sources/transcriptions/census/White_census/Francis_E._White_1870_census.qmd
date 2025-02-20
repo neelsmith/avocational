@@ -1,7 +1,7 @@
  
 
 refersto::[[Frances E. White]]
-Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::July 9, 1870
 
 House::50

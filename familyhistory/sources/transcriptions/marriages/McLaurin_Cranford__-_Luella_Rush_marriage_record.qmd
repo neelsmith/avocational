@@ -1,5 +1,5 @@
 refersto::[[Arsa Luella Rush]]
-refersto::[McLaurin Cranford](../../../people/Randolph_county_lines/McLaurin_Cranford.html)
+refersto::[McLaurin Cranford](./../../people/Randolph_county_lines/McLaurin_Cranford.html)
 
 ## Source
 #### Source Information

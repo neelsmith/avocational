@@ -4,7 +4,7 @@
 
 
 refersto::[[Julia B. Euless]]
-Enumeration::[District 23, Bedford, Tennessee](../../../../census-districts/District_23,_Bedford,_Tennessee.html)
+Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::1870-08-16
 
 House::152

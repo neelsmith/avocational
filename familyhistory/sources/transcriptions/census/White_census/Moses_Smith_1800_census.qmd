@@ -1,7 +1,7 @@
 
 
 refersto:: [[Moses Smith]]
-Enumeration:: [Barre, Vermont](../../../../census-districts/Barre,_Vermont.html) 
+Enumeration:: [Barre, Vermont](./../../../census-districts/Barre,_Vermont.html) 
 Date::
 Head of family:: Lt. Moses Smith
 White males under 10:: 

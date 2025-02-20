@@ -1,4 +1,4 @@
-refersto::[Owen Blanton Burrow](../../../people/Neel-line/Blanton-line/Owen_Blanton_Burrow.html)
+refersto::[Owen Blanton Burrow](./../../people/Neel-line/Blanton-line/Owen_Blanton_Burrow.html)
 
 
 ## Notes

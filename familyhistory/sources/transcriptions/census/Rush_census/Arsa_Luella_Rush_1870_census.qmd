@@ -3,7 +3,7 @@
 refersto::[[Arsa Luella Rush]]
 
 
-Enumeration::[Concord township, Randolph, North Carolina](../../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
+Enumeration::[Concord township, Randolph, North Carolina](./../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
 Date::Sept. 14, 1870
 House::180
 	Family::179

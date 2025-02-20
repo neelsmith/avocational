@@ -13,7 +13,7 @@ refersto::[[Friend Adams White]]
 refersto::[[Ann Quayle]]
 refersto::[[Artemas White]]
 refersto::[[Adaline White]]
-refersto::[William E. White](../../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
 
 
 

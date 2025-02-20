@@ -1,7 +1,7 @@
 refersto::[[James Green]]
 
 
-Enumeration::[District 21, Bedford, Tennessee](../../../../census-districts/District_21,_Bedford,_Tennessee.html)
+Enumeration::[District 21, Bedford, Tennessee](./../../../census-districts/District_21,_Bedford,_Tennessee.html)
 Date::1850-10-05
 House::71
 Family::71

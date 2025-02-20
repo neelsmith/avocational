@@ -1,4 +1,4 @@
-refersto::[Frances Hix](../../../people/Randolph_county_lines/Hicks/Frances_Hix.html)
+refersto::[Frances Hix](./../../people/Randolph_county_lines/Hicks/Frances_Hix.html)
 
 
 ## Source

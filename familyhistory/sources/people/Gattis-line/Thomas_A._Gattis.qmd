@@ -19,7 +19,21 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1825-07-03 | [Thomas A. Gattis tombstone](./././transcriptions/tombstones/Thomas_A._Gattis_tombstone.html) | indirect |
-| ca. 1826 | [Thomas A. Gattis 1850 census](./././transcriptions/census/Gattis_census/Thomas_A._Gattis_1850_census.html) | indirect |
-| ca. 1825 | [Thomas A. Gattis 1870 census](./././transcriptions/census/Gattis_census/Thomas_A._Gattis_1870_census.html) | indirect |
-| ca. 1828 | [Thomas A. Gattis 1880 census](./././transcriptions/census/Gattis_census/Thomas_A._Gattis_1880_census.html) | indirect |
+| 1825-07-03 | [Thomas A. Gattis tombstone](./../../transcriptions/tombstones/Thomas_A._Gattis_tombstone.html) | indirect |
+| ca. 1826 | [Thomas A. Gattis 1850 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1850_census.html) | indirect |
+| ca. 1825 | [Thomas A. Gattis 1870 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1870_census.html) | indirect |
+| ca. 1828 | [Thomas A. Gattis 1880 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1880_census.html) | indirect |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1898-01-25 | [Thomas A. Gattis tombstone](./../../transcriptions/tombstones/Thomas_A._Gattis_tombstone.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html) | [ ]() | [Isaac Newton Gattis Sr. will](./../../transcriptions/wills/Isaac_Newton_Gattis_Sr._will.html) | direct |

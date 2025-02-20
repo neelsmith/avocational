@@ -19,5 +19,19 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1868 | [Robert Neel death certificate](./././transcriptions/vitals/Robert_Neel_death_certificate.html) | indirect |
-|  1868-09-28 | [Robert Neel tombstone](./././transcriptions/tombstones/Robert_Neel_tombstone.html) | indirect |
+| 1868 | [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html) | indirect |
+|  1868-09-28 | [Robert Neel tombstone](./../../transcriptions/tombstones/Robert_Neel_tombstone.html) | indirect |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1952-07-04 | [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [James Marion Neel](./James_Marion_Neel.html) | [ Sarah Jane Barton]() | [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html) | direct |

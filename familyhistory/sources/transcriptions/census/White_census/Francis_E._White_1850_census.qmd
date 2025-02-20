@@ -2,7 +2,7 @@
  
 
 refersto::[[Frances E. White 1860 census]]
-Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::October 15, 1850
 House::30
 Family::31

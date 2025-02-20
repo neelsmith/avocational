@@ -5,7 +5,7 @@
 
 
 refersto::[[Martin Shofner]]
-Enumeration::[Bedford, Tennessee](../../../../census-districts/Bedford,_Tennessee.html)
+Enumeration::[Bedford, Tennessee](./../../../census-districts/Bedford,_Tennessee.html)
 
 Date::
 Head of family::Martin Shofner

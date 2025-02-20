@@ -1,5 +1,5 @@
 refersto::[[Joseph Saudek]]
-refersto::[Nancy Eliza Northern](../../../people/Neel-line/Blanton-line/Saudek-line/Northern-line/Nancy_Eliza_Northern.html)
+refersto::[Nancy Eliza Northern](./../../people/Neel-line/Blanton-line/Saudek-line/Northern-line/Nancy_Eliza_Northern.html)
 date::1841-12-02
 
 ## Citation

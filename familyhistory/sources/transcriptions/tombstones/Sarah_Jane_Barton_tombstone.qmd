@@ -1,5 +1,5 @@
 
-refersto::[Sarah Jane Barton](../../../people/Neel-line/Sarah_Jane_Barton.html)
+refersto::[Sarah Jane Barton](./../../people/Neel-line/Sarah_Jane_Barton.html)
 
 
 ## Transcription

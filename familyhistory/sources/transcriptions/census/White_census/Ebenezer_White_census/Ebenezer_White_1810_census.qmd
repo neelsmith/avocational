@@ -3,7 +3,7 @@
 
 
 refersto::[[Ebenezer White]]
-Enumeration::[Craftsbury, Orleans, Vermont](../../../../../census-districts/Craftsbury,_Orleans,_Vermont.html) 
+Enumeration::[Craftsbury, Orleans, Vermont](./../../../../census-districts/Craftsbury,_Orleans,_Vermont.html) 
 Date::August 6, 1810
 Head of family::Eben.r White
 White males under 10:: 

@@ -1,4 +1,4 @@
-refersto::[Bee Neel](../../../people/Neel-line/Bee_Neel.html)
+refersto::[Bee Neel](./../../people/Neel-line/Bee_Neel.html)
 
 ## Source
 

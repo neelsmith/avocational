@@ -1,4 +1,4 @@
-refersto:: [Nancy Farrand](../../../people/Merrill-line/Nancy_Farrand.html)
+refersto:: [Nancy Farrand](./../../people/Merrill-line/Nancy_Farrand.html)
 
 
 ## Notes

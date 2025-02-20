@@ -2,7 +2,7 @@
 refersto::[[James Albee Merrill]]
 
 
-Enumeration::[Addison, Vermont](../../../../census-districts/Addison,_Vermont.html)
+Enumeration::[Addison, Vermont](./../../../census-districts/Addison,_Vermont.html)
 Date::1870-07-07
 
 House::183

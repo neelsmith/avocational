@@ -19,3 +19,16 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1939 | [I.N. Gattis death certificate summary](./../../transcriptions/vitals/I.N._Gattis_death_certificate_summary.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

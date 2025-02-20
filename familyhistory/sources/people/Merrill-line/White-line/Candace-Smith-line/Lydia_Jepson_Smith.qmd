@@ -14,3 +14,9 @@ engine: julia
 
 **Father**: [Zachariah Smith](./Zachariah_Smith.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Zachariah Smith](./Zachariah_Smith.html) | [Lydia Hastings Smith](./Lydia_Hastings_Smith.html) | [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html) | direct |

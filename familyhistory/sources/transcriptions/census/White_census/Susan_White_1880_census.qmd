@@ -1,8 +1,8 @@
 
  
 
-refersto::[[Susan White]]
-Enumeration::[Panton, Addison, Vermont](../../../../census-districts/Panton,_Addison,_Vermont.html)
+refersto::[[Susan Spaulding]]
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::June 24, 1880
 
 House::89

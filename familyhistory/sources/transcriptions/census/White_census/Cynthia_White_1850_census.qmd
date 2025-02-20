@@ -7,7 +7,7 @@ Census year: 1850
 
  
 
-refersto::[Cynthia Sawyer](../../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
 Enumeration::Burlington, Chittenden, Vermont
 Date::August 20, 1810
 House::525

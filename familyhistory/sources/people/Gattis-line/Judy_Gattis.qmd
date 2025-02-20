@@ -10,7 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Mary Louise Neel](././Neel-line/Mary_Louise_Neel.html)
+**Mother**: [Mary Louise Neel](./../Neel-line/Mary_Louise_Neel.html)
 
 **Father**: [Claud Gattis](./Claud_Gattis.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

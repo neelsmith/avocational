@@ -1,4 +1,4 @@
-refersto::[Eda J. Neel](../../../people/Neel-line/Eda_J._Neel.html)
+refersto::[Eda J. Neel](./../../people/Neel-line/Eda_J._Neel.html)
 
 ## Source
 

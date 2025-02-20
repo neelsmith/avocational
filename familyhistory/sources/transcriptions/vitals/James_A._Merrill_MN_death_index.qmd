@@ -1,5 +1,5 @@
 
-refersto::[James Albee Merrill](../../../people/Merrill-line/James_Albee_Merrill.html)
+refersto::[James Albee Merrill](./../../people/Merrill-line/James_Albee_Merrill.html)
 
 ## Citation
 

@@ -3,7 +3,7 @@
 
 ## Notes
 
-The new nephew who has arrived in Keeseville is [Frederick D. White](../../../../people/Merrill-line/White-line/Frederick_D._White.html), born 26 September (i.e., exactly a month earlier). Frederick was Artemas and Lydia's ninth child.
+The new nephew who has arrived in Keeseville is [Frederick D. White](./../../../people/Merrill-line/White-line/Frederick_D._White.html), born 26 September (i.e., exactly a month earlier). Frederick was Artemas and Lydia's ninth child.
 
 Who is Samuel Dresen, whom George saw?
 
@@ -14,7 +14,7 @@ refersto::[[Ebenezer White]]
 
 
 
-refersto::[Frederick D. White](../../../../people/Merrill-line/White-line/Frederick_D._White.html)
+refersto::[Frederick D. White](./../../../people/Merrill-line/White-line/Frederick_D._White.html)
 
 
 ## Synopsis

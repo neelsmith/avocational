@@ -10,7 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Shelley Ann Lindner](././Lindner-line/Shelley_Ann_Lindner.html)
+**Mother**: [Shelley Ann Lindner](./../Lindner-line/Shelley_Ann_Lindner.html)
 
-**Father**: [John Merrill Henderson](././Henderson-line/John_Merrill_Henderson.html)
+**Father**: [John Merrill Henderson](./../Henderson-line/John_Merrill_Henderson.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

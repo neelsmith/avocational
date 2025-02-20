@@ -4,7 +4,7 @@
 refersto::[[James Davidson Neel]]
 
 
-Enumeration::[District 5, Coffee, Tennessee](../../../../census-districts/District_5,_Coffee,_Tennessee.html)
+Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)
 Date::1910-04-28
 Street::
 Street number::

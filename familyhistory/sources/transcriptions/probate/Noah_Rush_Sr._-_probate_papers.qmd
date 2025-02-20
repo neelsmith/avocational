@@ -77,7 +77,7 @@ refersto::[[Mary Rush]]
 > x 6 Branson Briles & wife Dorcas
 
 refersto::[[Branson Briles]]
-refersto::[Dorcas Rush](../../../people/Rush-line/Dorcas_Rush.html)
+refersto::[Dorcas Rush](./../../people/Rush-line/Dorcas_Rush.html)
 
 
 

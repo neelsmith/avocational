@@ -1,5 +1,5 @@
 
-refersto::[Aaron Merrill sr.](../../../people/Merrill-line/Aaron_Merrill_sr..html)
+refersto::[Aaron Merrill sr.](./../../people/Merrill-line/Aaron_Merrill_sr..html)
 
 ## Citation
 

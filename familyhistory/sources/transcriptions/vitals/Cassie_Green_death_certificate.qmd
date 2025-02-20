@@ -1,5 +1,5 @@
 
-refersto::[Cassie Green](../../../people/Gattis-line/Green-line/Cassie_Green.html)
+refersto::[Cassie Green](./../../people/Gattis-line/Green-line/Cassie_Green.html)
 
 ## Citation
 

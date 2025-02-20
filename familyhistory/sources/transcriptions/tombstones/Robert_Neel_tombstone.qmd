@@ -1,4 +1,4 @@
-refersto::[Robert Wilburn Neel](../../../people/Neel-line/Robert_Wilburn_Neel.html)
+refersto::[Robert Wilburn Neel](./../../people/Neel-line/Robert_Wilburn_Neel.html)
 
 ## Citation
 

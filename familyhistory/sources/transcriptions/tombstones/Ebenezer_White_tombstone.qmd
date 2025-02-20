@@ -1,7 +1,7 @@
 refersto::[[Ebenezer White]] 
 refersto::[[Candace Smith]]
 refersto::[[Adaline White]]
-cemetery::[Burlington, Elmwood cemetery](../../../cemeteries/Burlington,_Elmwood_cemetery.html)
+cemetery::[Burlington, Elmwood cemetery](./../../cemeteries/Burlington,_Elmwood_cemetery.html)
 
 
 ## Transcription

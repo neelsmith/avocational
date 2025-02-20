@@ -3,7 +3,7 @@
 
 refersto::[[Zebedee Franklin Rush]]
 
-Enumeration::[Western division, Randolph, NC](../../../../census-districts/Western_division,_Randolph,_NC.html)
+Enumeration::[Western division, Randolph, NC](./../../../census-districts/Western_division,_Randolph,_NC.html)
 Date::1860
 House::1257
 Family::1256

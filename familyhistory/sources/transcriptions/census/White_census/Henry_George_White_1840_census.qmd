@@ -4,7 +4,7 @@
 
 
 refersto::[[Henry George White]]
-Enumeration::[Buffalo Ward 1, Erie, New York](../../../../census-districts/Buffalo_Ward_1,_Erie,_New_York.html)
+Enumeration::[Buffalo Ward 1, Erie, New York](./../../../census-districts/Buffalo_Ward_1,_Erie,_New_York.html)
 Date::
 Head of family::H.G. White
 

@@ -19,4 +19,18 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1843-03-11 | [Leonora Saudek Blanton tombstone](./././././transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | indirect |
+| 1843-03-11 | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | indirect |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1880-07-04 | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Joseph Saudek](./Joseph_Saudek.html) | [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html) | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | direct |

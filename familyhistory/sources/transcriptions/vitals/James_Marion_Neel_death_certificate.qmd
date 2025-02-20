@@ -1,4 +1,4 @@
-refersto::[James Marion Neel](../../../people/Neel-line/James_Marion_Neel.html)
+refersto::[James Marion Neel](./../../people/Neel-line/James_Marion_Neel.html)
 
 
 

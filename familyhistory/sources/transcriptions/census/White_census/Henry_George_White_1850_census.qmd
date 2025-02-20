@@ -3,7 +3,7 @@
 
 
 
-refersto::[Henry George White](../../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
 Enumeration::Burlington, Chittenden, Vermont
 Date::August 20, 1810
 House::525

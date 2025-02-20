@@ -1,5 +1,5 @@
 
-refersto::[Duncan Neel](../../../people/Neel-line/Duncan_Neel.html)
+refersto::[Duncan Neel](./../../people/Neel-line/Duncan_Neel.html)
 date::1836
 
 

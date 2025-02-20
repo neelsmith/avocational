@@ -5,7 +5,7 @@
 
 
 refersto::[[Almeda Gattis]]
-Enumeration::[Wartrace, Bedford, Tennessee](../../../../census-districts/Wartrace,_Bedford,_Tennessee.html)
+Enumeration::[Wartrace, Bedford, Tennessee](./../../../census-districts/Wartrace,_Bedford,_Tennessee.html)
 Date::June 1, 1900
 Street::Mill Alley
 Street number::

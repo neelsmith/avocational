@@ -3,7 +3,7 @@
 
 
 refersto::[[Horatio Nelson White]]
-Enumeration::[Addison, Vermont](../../../../census-districts/Addison,_Vermont.html) 
+Enumeration::[Addison, Vermont](./../../../census-districts/Addison,_Vermont.html) 
 Date::
 Head of family::Horatio N. White
 

@@ -15,7 +15,7 @@ refersto::[[Frances E. White]]
 refersto::[[George A. White]]
 refersto::[[Syrena Adams]]
 refersto::[[Artemas White]]
-refersto::[Hiram Smith White](../../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 
 
 

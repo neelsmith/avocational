@@ -1,7 +1,7 @@
  
 
 refersto::[[Ebenezer White]]
-Enumeration::[Burlington, Chittenden, Vermont](../../../../../census-districts/Burlington,_Chittenden,_Vermont.html)
+Enumeration::[Burlington, Chittenden, Vermont](./../../../../census-districts/Burlington,_Chittenden,_Vermont.html)
 Date::
 Head of family::Eben White
 

@@ -19,4 +19,18 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1877-12-24 | [Willie Blanton death certificate](././././transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |
+| 1877-12-24 | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1941-03-25 | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [John Owen Blanton](./John_Owen_Blanton.html) | [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html) | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | direct |

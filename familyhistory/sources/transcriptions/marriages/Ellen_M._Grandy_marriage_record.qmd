@@ -1,5 +1,5 @@
 refersto:: [[Ellen Grandey]]
-refersto:: [William E. White](../../../people/Merrill-line/White-line/William_E._White.html)
+refersto:: [William E. White](./../../people/Merrill-line/White-line/William_E._White.html)
 
 ## Transcription
 

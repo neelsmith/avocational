@@ -7,7 +7,7 @@ refersto::[[Hiram Smith White]]
 refersto::[[Candace Smith]]
 refersto::[[Cynthia Sawyer]]
 refersto::[[Adaline White]]
-refersto::[Artemas White](../../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 
 
 ## Notes

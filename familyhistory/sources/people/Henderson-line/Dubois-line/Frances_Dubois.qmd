@@ -10,7 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [Sarah Tillinghast](././Tillinghast-line/Sarah_Tillinghast.html)
+**Mother**: [Sarah Tillinghast](./../Tillinghast-line/Sarah_Tillinghast.html)
 
 **Father**: [David Dubois](./David_Dubois.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

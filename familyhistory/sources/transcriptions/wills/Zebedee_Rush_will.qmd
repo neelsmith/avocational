@@ -13,7 +13,7 @@ refersto::[[Farley Brookshire Lewis]]
 refersto::[[Calvin Harris Rush]]
 refersto::[[Zebedee Franklin Rush]]
 refersto::[[Frances Rush]]
-refersto::[Drewry Lewis](../../../people/Rush-line/Drewry_Lewis.html)
+refersto::[Drewry Lewis](./../../people/Rush-line/Drewry_Lewis.html)
 
 
 ## Citation

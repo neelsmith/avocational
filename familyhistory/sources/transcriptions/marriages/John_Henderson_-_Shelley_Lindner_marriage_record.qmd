@@ -9,4 +9,4 @@ Original data: _Marriage Records_. _Ohio Marriages._ Various Ohio County Cour
 ## Notes
 
 Marriage date: 31 Dec 1952
-Groom's parents: [John Dubois Henderson](../../../people/Henderson-line/John_Dubois_Henderson.html) and Marguirite Merrill
+Groom's parents: [John Dubois Henderson](./../../people/Henderson-line/John_Dubois_Henderson.html) and Marguirite Merrill

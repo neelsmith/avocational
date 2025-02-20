@@ -6,7 +6,7 @@
 
 
 refersto::[[Almeda Gattis]]
-Enumeration::[Chattanooga Ward 3, Hamilton, Tennessee](../../../../census-districts/Chattanooga_Ward_3,_Hamilton,_Tennessee.html)
+Enumeration::[Chattanooga Ward 3, Hamilton, Tennessee](./../../../census-districts/Chattanooga_Ward_3,_Hamilton,_Tennessee.html)
 Date::April 18, 1910
 Street::West Ninth Street
 Street number::514

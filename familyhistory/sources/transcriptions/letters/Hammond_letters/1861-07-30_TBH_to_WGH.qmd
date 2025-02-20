@@ -1,7 +1,7 @@
 
 refersto::[[Theodore Buchanan Hammond]]
 refersto::[[William Goheen Hammond]]
-refersto::[Mayberry Hammond](../../../../people/Hammond-line/Mayberry_Hammond.html)
+refersto::[Mayberry Hammond](./../../../people/Hammond-line/Mayberry_Hammond.html)
 
  
 

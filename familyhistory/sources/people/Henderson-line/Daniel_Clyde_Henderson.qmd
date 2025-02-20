@@ -19,4 +19,11 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1784-12-08 | [Daniel Clyde Henderson birth](./././transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
+| 1784-12-08 | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Edward Henderson](./Edward_Henderson.html) | [Mary Mathis](./Mary_Mathis.html) | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |

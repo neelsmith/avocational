@@ -14,3 +14,9 @@ engine: julia
 
 **Father**: [Friend Adams](./Friend_Adams.html)
 
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Friend Adams](./Friend_Adams.html) | [Elizabeth Stagg](./Elizabeth_Stagg.html) | [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html) | direct |

@@ -1,4 +1,4 @@
-refersto:: [Elizabeth Stagg](../../../people/Merrill-line/White-line/Elizabeth_Stagg.html)
+refersto:: [Elizabeth Stagg](./../../people/Merrill-line/White-line/Elizabeth_Stagg.html)
 
 
 ## Notes

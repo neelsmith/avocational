@@ -1,6 +1,6 @@
 
 refersto:: [[Moses Smith]]
-refersto:: [Lydia Jepson Smith](../../../people/Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html)
+refersto:: [Lydia Jepson Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html)
 
 ## Notes
 

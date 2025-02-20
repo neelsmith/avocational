@@ -1,4 +1,4 @@
-refersto::[William Green](../../../people/Gattis-line/Green-line/William_Green.html)
+refersto::[William Green](./../../people/Gattis-line/Green-line/William_Green.html)
 
 ## Citation
 

@@ -1,4 +1,4 @@
-refersto::[Martin Shofner](../../../people/Gattis-line/Shofner-line/Martin_Shofner.html)
+refersto::[Martin Shofner](./../../people/Gattis-line/Shofner-line/Martin_Shofner.html)
 
 
 ## Citation

@@ -3,7 +3,7 @@
 
 
 refersto::[[Adam Euless]]
-Enumeration::[District 25, Bedford, Tennessee](../../../../census-districts/District_25,_Bedford,_Tennessee.html)
+Enumeration::[District 25, Bedford, Tennessee](./../../../census-districts/District_25,_Bedford,_Tennessee.html)
 
 
 Date::

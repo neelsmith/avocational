@@ -10,7 +10,7 @@ engine: julia
 
 *born* 1852-07-10 : *died* 1925-11-25
 
-**Mother**: [Jane Lassiter](././Lassiter/Jane_Lassiter.html)
+**Mother**: [Jane Lassiter](./../Lassiter/Jane_Lassiter.html)
 
 **Father**: [William J. Hicks](./William_J._Hicks.html)
 
@@ -19,4 +19,19 @@ engine: julia
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1852-07-10 | [Frances Hix tombstone](././././transcriptions/tombstones/Frances_Hix_tombstone.html) | direct |
+| 1852-07-10 | [Frances Hix tombstone](./../../../transcriptions/tombstones/Frances_Hix_tombstone.html) | direct |
+
+## Sources for death
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1925-11-13 | []() | direct |
+| 1925-11-13 | [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html) | direct |
+
+## Sources for parents
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [William J. Hicks](./William_J._Hicks.html) | [Jane Lassiter](./../Lassiter/Jane_Lassiter.html) | [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html) | direct |

@@ -3,7 +3,7 @@
 
 refersto::[[Ebenezer White]]
 refersto::[[Horatio Nelson White]]
-refersto::[Hiram Smith White](../../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 
 ## Notes
 
