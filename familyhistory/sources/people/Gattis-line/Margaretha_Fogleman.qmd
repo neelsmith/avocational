@@ -3,13 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Margaretha Fogleman
 
 
-*born* ? : *died* ?
 
-**Mother**: [?]()
 
-**Father**: [?]()
+Private information: Margaretha Fogleman not identified as deceased.

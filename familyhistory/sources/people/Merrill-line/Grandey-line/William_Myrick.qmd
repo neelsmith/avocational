@@ -3,13 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # William Myrick
 
 
-*born* ? : *died* ?
 
-**Mother**: [?]()
 
-**Father**: [?]()
+Private information: William Myrick not identified as deceased.

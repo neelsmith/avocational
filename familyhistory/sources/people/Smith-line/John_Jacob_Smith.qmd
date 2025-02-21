@@ -3,13 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # John Jacob Smith
 
 
-*born* ? : *died* ?
 
-**Mother**: [?]()
 
-**Father**: [?]()
+Private information: John Jacob Smith not identified as deceased.

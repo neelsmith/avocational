@@ -3,13 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Anne Rice
 
 
-*born* ? : *died* ?
 
-**Mother**: [?]()
 
-**Father**: [?]()
+Private information: Anne Rice not identified as deceased.

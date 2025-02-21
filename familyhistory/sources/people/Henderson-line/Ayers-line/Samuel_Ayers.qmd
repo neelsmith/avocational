@@ -3,13 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Samuel Ayers
 
 
-*born* ? : *died* ?
 
-**Mother**: [?]()
 
-**Father**: [?]()
+Private information: Samuel Ayers not identified as deceased.

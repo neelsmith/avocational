@@ -3,65 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Nancy Farrand
 
 
-*born* ? : *died* ?
-
-**Mother**: [Rhoda Smith](./Rhoda_Smith.html)
-
-**Father**: [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html)
-
-**Children with [Aaron Merrill](./Aaron_Merrill.html)**:
 
 
-- [Hiram Merrill](./Hiram_Merrill.html)
-
-- [Hiram Merrill](./Hiram_Merrill.html)
-
-
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-Nancy_Farrand[Nancy Farrand] -->  Bethuel_Farrand[Bethuel Farrand]
-Nancy_Farrand[Nancy Farrand]  --> Rhoda_Smith[Rhoda Smith]
-```
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Nancy_Farrand[Nancy Farrand] --> Nancy_Farrand+Aaron_Merrill[ ]
-Aaron_Merrill[Aaron Merrill] --> Nancy_Farrand+Aaron_Merrill[ ]
-Nancy_Farrand+Aaron_Merrill[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Nancy_Farrand+Aaron_Merrill[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-```
-
-
-
-## Sources
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
-| [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html) | [Rhoda Smith](./Rhoda_Smith.html) | [Nancy Farrand parents](./../../transcriptions/family-genealogies/Nancy_Farrand_parents.html) | indirect |
-
-Sources for children with [Aaron Merrill](./Aaron_Merrill.html)
-
-
-- [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html)
-
-- [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html)
-
-
+Private information: Nancy Farrand not identified as deceased.

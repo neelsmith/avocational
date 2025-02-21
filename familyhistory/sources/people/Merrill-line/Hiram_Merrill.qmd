@@ -3,72 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Hiram Merrill
 
 
-*born* 1817-09-02 : *died* 1910-10-13
-
-**Mother**: [Nancy Farrand](./Nancy_Farrand.html)
-
-**Father**: [Aaron Merrill](./Aaron_Merrill.html)
-
-**Children with [Lucy Witherell](./Lucy_Witherell.html)**:
 
 
-- [James Albee Merrill](./James_Albee_Merrill.html)
-
-
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-Hiram_Merrill[Hiram Merrill] -->  Aaron_Merrill[Aaron Merrill]
-Hiram_Merrill[Hiram Merrill]  --> Nancy_Farrand[Nancy Farrand]
-Nancy_Farrand[Nancy Farrand] -->  Bethuel_Farrand[Bethuel Farrand]
-Nancy_Farrand[Nancy Farrand]  --> Rhoda_Smith[Rhoda Smith]
-```
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Hiram_Merrill[Hiram Merrill] --> Hiram_Merrill+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> Hiram_Merrill+Lucy_Witherell[ ]
-Hiram_Merrill+Lucy_Witherell[ ] --> James_Albee_Merrill[James Albee Merrill]
-```
-
-
-
-## Sources
-Sources for birth:
-
-
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-
-Sources for death:
-
-
-| Date | Source | Type |
-| --- | --- | --- |
-| 1910-10-13 | [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html) | direct |
-
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
-| [Aaron Merrill](./Aaron_Merrill.html) | [Nancy Farrand](./Nancy_Farrand.html) | [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html) | direct |
-| [Aaron Merrill](./Aaron_Merrill.html) | [Nancy Farrand](./Nancy_Farrand.html) | [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html) | direct |
-
-Sources for children with [Lucy Witherell](./Lucy_Witherell.html)
-
-
-- [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html)
-
-
+Private information: Hiram Merrill not identified as deceased.

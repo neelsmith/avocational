@@ -3,38 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Truman Grandey
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html)**:
 
 
-- [Ellen Grandey](./Ellen_Grandey.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Truman_Grandey[Truman Grandey] --> Truman_Grandey+Polly_Myrick[ ]
-Polly_Myrick[Polly Myrick] --> Truman_Grandey+Polly_Myrick[ ]
-Truman_Grandey+Polly_Myrick[ ] --> Ellen_Grandey[Ellen Grandey]
-```
-
-
-
-Sources for children with [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html)
-
-
-- [Ellen M. Grandy marriage record](./../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html)
-
-
+Private information: Truman Grandey not identified as deceased.

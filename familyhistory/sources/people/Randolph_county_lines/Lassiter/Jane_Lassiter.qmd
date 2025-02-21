@@ -3,40 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Jane Lassiter
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [William J. Hicks](./../Hicks/William_J._Hicks.html)**:
 
 
-- [Frances Hix](./../Hicks/Frances_Hix.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Jane_Lassiter[Jane Lassiter] --> Jane_Lassiter+William_J._Hicks[ ]
-William_J._Hicks[William J. Hicks] --> Jane_Lassiter+William_J._Hicks[ ]
-Jane_Lassiter+William_J._Hicks[ ] --> Frances_Hix[Frances Hix]
-Frances_Hix[Frances Hix] --> [[Frances_Hix]]+Calvin_Harris_Rush[ ]
-Calvin_Harris_Rush[Calvin Harris Rush] --> [[Frances_Hix]]+Calvin_Harris_Rush[ ]
-```
-
-
-
-Sources for children with [William J. Hicks](./../Hicks/William_J._Hicks.html)
-
-
-- [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html)
-
-
+Private information: Jane Lassiter not identified as deceased.

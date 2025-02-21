@@ -3,33 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Isaac Newton Gattis Sr.
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [ ]()**:
 
 
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Isaac_Newton_Gattis_Sr.[Isaac Newton Gattis Sr.] --> Isaac_Newton_Gattis_Sr.+_[ ]
-_[ ] --> Isaac_Newton_Gattis_Sr.+_[ ]
-```
-
-
-
-Sources for children with [ ]()
-
-
-
+Private information: Isaac Newton Gattis Sr. not identified as deceased.

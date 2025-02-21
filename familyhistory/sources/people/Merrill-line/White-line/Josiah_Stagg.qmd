@@ -3,33 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Josiah Stagg
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with []()**:
 
 
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Josiah_Stagg[Josiah Stagg] --> Josiah_Stagg+[ ]
-[] --> Josiah_Stagg+[ ]
-```
-
-
-
-Sources for children with []()
-
-
-
+Private information: Josiah Stagg not identified as deceased.

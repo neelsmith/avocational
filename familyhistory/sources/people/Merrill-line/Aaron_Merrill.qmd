@@ -3,47 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Aaron Merrill
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [Nancy Farrand](./Nancy_Farrand.html)**:
 
 
-- [Hiram Merrill](./Hiram_Merrill.html)
-
-- [Hiram Merrill](./Hiram_Merrill.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Aaron_Merrill[Aaron Merrill] --> Aaron_Merrill+Nancy_Farrand[ ]
-Nancy_Farrand[Nancy Farrand] --> Aaron_Merrill+Nancy_Farrand[ ]
-Aaron_Merrill+Nancy_Farrand[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Aaron_Merrill+Nancy_Farrand[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-```
-
-
-
-Sources for children with [Nancy Farrand](./Nancy_Farrand.html)
-
-
-- [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html)
-
-- [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html)
-
-
+Private information: Aaron Merrill not identified as deceased.

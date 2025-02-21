@@ -3,38 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Daniel Clyde Henderson
 
 
-*born* 1784-12-08 : *died* ?
-
-**Mother**: [Mary Mathis](./Mary_Mathis.html)
-
-**Father**: [Edward Henderson](./Edward_Henderson.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-Daniel_Clyde_Henderson[Daniel Clyde Henderson] -->  Edward_Henderson[Edward Henderson]
-Daniel_Clyde_Henderson[Daniel Clyde Henderson]  --> Mary_Mathis[Mary Mathis]
-```
 
 
-
-## Sources
-Sources for birth:
-
-
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-| 1784-12-08 | Manchester, Vermont | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
-
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
-| [Edward Henderson](./Edward_Henderson.html) | [Mary Mathis](./Mary_Mathis.html) | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
+Private information: Daniel Clyde Henderson not identified as deceased.

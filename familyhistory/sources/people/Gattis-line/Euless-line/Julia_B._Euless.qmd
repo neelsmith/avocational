@@ -3,29 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Julia B. Euless
 
 
-*born* ? : *died* ?
-
-**Mother**: [Dorotha Shofner](./Dorotha_Shofner.html)
-
-**Father**: [Adam Euless](./Adam_Euless.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-```
 
 
-
-## Sources
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
+Private information: Julia B. Euless not identified as deceased.

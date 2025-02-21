@@ -3,41 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Cassie Green
 
 
-*born* 1873-11-01 : *died* 1946-02-12
-
-**Mother**: [Elvira Ann Williams](./Williams-line/Elvira_Ann_Williams.html)
-
-**Father**: [James Green](./James_Green.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-```
 
 
-
-## Sources
-Sources for birth:
-
-
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-
-Sources for death:
-
-
-| Date | Source | Type |
-| --- | --- | --- |
-
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
+Private information: Cassie Green not identified as deceased.

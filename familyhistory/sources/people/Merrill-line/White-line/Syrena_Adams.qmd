@@ -3,32 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Syrena Adams
 
 
-*born* ? : *died* ?
-
-**Mother**: [Elizabeth Stagg](./Elizabeth_Stagg.html)
-
-**Father**: [Friend Adams](./Friend_Adams.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-Syrena_Adams[Syrena Adams] -->  Friend_Adams[Friend Adams]
-Syrena_Adams[Syrena Adams]  --> Elizabeth_Stagg[Elizabeth Stagg]
-Elizabeth_Stagg[Elizabeth Stagg] -->  Josiah_Stagg[Josiah Stagg]
-```
 
 
-
-## Sources
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
-| [Friend Adams](./Friend_Adams.html) | [Elizabeth Stagg](./Elizabeth_Stagg.html) | [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html) | direct |
+Private information: Syrena Adams not identified as deceased.

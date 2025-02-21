@@ -3,29 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Judy Gattis
 
 
-*born* ? : *died* ?
-
-**Mother**: [Mary Louise Neel](./../Neel-line/Mary_Louise_Neel.html)
-
-**Father**: [Claud Gattis](./Claud_Gattis.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-```
 
 
-
-## Sources
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
+Private information: Judy Gattis not identified as deceased.

@@ -3,38 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # David Dubois 1724-1801
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html)**:
 
 
-- [Jacob Dubois](./Jacob_Dubois.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-David_Dubois_1724-1801[David Dubois 1724-1801] --> David_Dubois_1724-1801+Elizabeth_Newkirk_Dubois[ ]
-Elizabeth_Newkirk_Dubois[Elizabeth Newkirk Dubois] --> David_Dubois_1724-1801+Elizabeth_Newkirk_Dubois[ ]
-David_Dubois_1724-1801+Elizabeth_Newkirk_Dubois[ ] --> Jacob_Dubois[Jacob Dubois]
-```
-
-
-
-Sources for children with [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html)
-
-
-- [Jacob Dubois  birth](./../../../transcriptions/vitals/Jacob_Dubois__birth.html)
-
-
+Private information: David Dubois 1724-1801 not identified as deceased.

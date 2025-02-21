@@ -3,68 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # John Owen Blanton
 
 
-*born* 1848-12-10 : *died* 1913-07-20
-
-**Mother**: [Sarah Campbell](./Sarah_Campbell.html)
-
-**Father**: [Richard Blanton](./Richard_Blanton.html)
-
-**Children with [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html)**:
 
 
-- [Willie Saudek Blanton](./Willie_Saudek_Blanton.html)
-
-
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-```
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-John_Owen_Blanton[John Owen Blanton] --> John_Owen_Blanton+Leonora_Josephine_Saudek[ ]
-Leonora_Josephine_Saudek[Leonora Josephine Saudek] --> John_Owen_Blanton+Leonora_Josephine_Saudek[ ]
-John_Owen_Blanton+Leonora_Josephine_Saudek[ ] --> Willie_Saudek_Blanton[Willie Saudek Blanton]
-```
-
-
-
-## Sources
-Sources for birth:
-
-
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-| 1848-12-10 |  | [J.O. Blanton tombstone](./../../../transcriptions/tombstones/J.O._Blanton_tombstone.html) | indirect |
-
-Sources for death:
-
-
-| Date | Source | Type |
-| --- | --- | --- |
-| 1913-07-20 | [J.O. Blanton tombstone](./../../../transcriptions/tombstones/J.O._Blanton_tombstone.html) | direct |
-
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
-
-Sources for children with [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html)
-
-
-- [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html)
-
-
+Private information: John Owen Blanton not identified as deceased.

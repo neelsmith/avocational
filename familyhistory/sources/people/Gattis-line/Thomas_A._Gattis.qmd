@@ -3,48 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Thomas A. Gattis
 
 
-*born* 1825-07-03 : *died* 1989-01-25
-
-**Mother**: [Mary Patricia King](./Mary_Patricia_King.html)
-
-**Father**: [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-Thomas_A._Gattis[Thomas A. Gattis] -->  Isaac_Newton_Gattis_Sr.[Isaac Newton Gattis Sr.]
-Thomas_A._Gattis[Thomas A. Gattis]  --> _[ ]
-```
 
 
-
-## Sources
-Sources for birth:
-
-
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-| 1825-07-03 |  | [Thomas A. Gattis tombstone](./../../transcriptions/tombstones/Thomas_A._Gattis_tombstone.html) | indirect |
-| ca. 1826 | Tennessee | [Thomas A. Gattis 1850 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1850_census.html) | indirect |
-| ca. 1825 | Tennessee | [Thomas A. Gattis 1870 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1870_census.html) | indirect |
-| ca. 1828 | Tennessee | [Thomas A. Gattis 1880 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1880_census.html) | indirect |
-
-Sources for death:
-
-
-| Date | Source | Type |
-| --- | --- | --- |
-| 1898-01-25 | [Thomas A. Gattis tombstone](./../../transcriptions/tombstones/Thomas_A._Gattis_tombstone.html) | direct |
-
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
-| [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html) | [ ]() | [Isaac Newton Gattis Sr. will](./../../transcriptions/wills/Isaac_Newton_Gattis_Sr._will.html) | direct |
+Private information: Thomas A. Gattis not identified as deceased.

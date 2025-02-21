@@ -3,38 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Polly Myrick
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [Truman Grandey](./../../Grandey-line/Truman_Grandey.html)**:
 
 
-- [Ellen Grandey](./../../Grandey-line/Ellen_Grandey.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Polly_Myrick[Polly Myrick] --> Polly_Myrick+Truman_Grandey[ ]
-Truman_Grandey[Truman Grandey] --> Polly_Myrick+Truman_Grandey[ ]
-Polly_Myrick+Truman_Grandey[ ] --> Ellen_Grandey[Ellen Grandey]
-```
-
-
-
-Sources for children with [Truman Grandey](./../../Grandey-line/Truman_Grandey.html)
-
-
-- [Ellen M. Grandy marriage record](./../../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html)
-
-
+Private information: Polly Myrick not identified as deceased.

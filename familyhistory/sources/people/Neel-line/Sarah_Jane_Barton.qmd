@@ -3,29 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Sarah Jane Barton
 
 
-*born* ? : *died* ?
-
-**Mother**: [Sarah Barton](./Sarah_Barton.html)
-
-**Father**: [A. Barton](./A._Barton.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-```
 
 
-
-## Sources
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
+Private information: Sarah Jane Barton not identified as deceased.

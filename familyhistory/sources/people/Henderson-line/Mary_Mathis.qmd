@@ -3,38 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Mary Mathis
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [Edward Henderson](./Edward_Henderson.html)**:
 
 
-- [Daniel Clyde Henderson](./Daniel_Clyde_Henderson.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Mary_Mathis[Mary Mathis] --> Mary_Mathis+Edward_Henderson[ ]
-Edward_Henderson[Edward Henderson] --> Mary_Mathis+Edward_Henderson[ ]
-Mary_Mathis+Edward_Henderson[ ] --> Daniel_Clyde_Henderson[Daniel Clyde Henderson]
-```
-
-
-
-Sources for children with [Edward Henderson](./Edward_Henderson.html)
-
-
-- [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html)
-
-
+Private information: Mary Mathis not identified as deceased.

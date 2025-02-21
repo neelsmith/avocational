@@ -3,28 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Bee Neel
 
 
-*born* 1911-02-15 : *died* 1998-12-11
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-## Sources
-Sources for birth:
 
 
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-| 1911-02-15 |  | [Bee Neel in CA birth index](./../../transcriptions/vitals/Bee_Neel_in_CA_birth_index.html) | direct |
-
-Sources for death:
-
-
-| Date | Source | Type |
-| --- | --- | --- |
-| 1998-12-11 | [Bee Neel in Social Security death index](./../../transcriptions/vitals/Bee_Neel_in_Social_Security_death_index.html) | direct |
+Private information: Bee Neel not identified as deceased.

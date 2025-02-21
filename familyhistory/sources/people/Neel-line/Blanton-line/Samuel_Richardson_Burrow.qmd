@@ -3,38 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Samuel Richardson Burrow
 
 
-*born* ? : *died* ?
-
-**Mother**: [?]()
-
-**Father**: [?]()
-
-**Children with [people/Neel-line/Blanton-line/Leonora Campbell Blanton]()**:
 
 
-- [Owen Blanton Burrow](./Owen_Blanton_Burrow.html)
-
-
-
-Documented descendants:
-
-```{mermaid}
-graph LR
-Samuel_Richardson_Burrow[Samuel Richardson Burrow] --> Samuel_Richardson_Burrow+people/Neel-line/Blanton-line/Leonora_Campbell_Blanton[ ]
-people/Neel-line/Blanton-line/Leonora_Campbell_Blanton[people/Neel-line/Blanton-line/Leonora Campbell Blanton] --> Samuel_Richardson_Burrow+people/Neel-line/Blanton-line/Leonora_Campbell_Blanton[ ]
-Samuel_Richardson_Burrow+people/Neel-line/Blanton-line/Leonora_Campbell_Blanton[ ] --> Owen_Blanton_Burrow[Owen Blanton Burrow]
-```
-
-
-
-Sources for children with [people/Neel-line/Blanton-line/Leonora Campbell Blanton]()
-
-
-- [Owen Burrow death certificate](./../../../transcriptions/vitals/Owen_Burrow_death_certificate.html)
-
-
+Private information: Samuel Richardson Burrow not identified as deceased.
