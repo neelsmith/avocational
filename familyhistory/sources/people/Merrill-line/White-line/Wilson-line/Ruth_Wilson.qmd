@@ -13,3 +13,30 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Benjamin White](./../Benjamin_White.html)**:
+
+
+- [Ebenezer White](./../Ebenezer_White.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Ruth_Wilson[Ruth Wilson] --> Ruth_Wilson+Benjamin_White[ ]
+Benjamin_White[Benjamin White] --> Ruth_Wilson+Benjamin_White[ ]
+Ruth_Wilson+Benjamin_White[ ] --> Ebenezer_White[Ebenezer White]
+Ebenezer_White[Ebenezer White] --> [[Ebenezer_White]]+Candace_Smith[ ]
+Candace_Smith[Candace Smith] --> [[Ebenezer_White]]+Candace_Smith[ ]
+```
+
+
+
+Sources for children with [Benjamin White](./../Benjamin_White.html)
+
+
+- [Ebenezer White birth](./../../../../transcriptions/vitals/Ebenezer_White_birth.html)
+
+

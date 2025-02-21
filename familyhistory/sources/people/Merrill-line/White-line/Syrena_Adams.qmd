@@ -14,8 +14,19 @@ engine: julia
 
 **Father**: [Friend Adams](./Friend_Adams.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Syrena_Adams[Syrena Adams] -->  Friend_Adams[Friend Adams]
+Syrena_Adams[Syrena Adams]  --> Elizabeth_Stagg[Elizabeth Stagg]
+Elizabeth_Stagg[Elizabeth Stagg] -->  Josiah_Stagg[Josiah Stagg]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

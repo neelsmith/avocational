@@ -14,8 +14,17 @@ engine: julia
 
 **Father**: [John Dryden Henderson](./John_Dryden_Henderson.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

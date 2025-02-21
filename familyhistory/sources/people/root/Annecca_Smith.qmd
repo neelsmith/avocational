@@ -14,8 +14,17 @@ engine: julia
 
 **Father**: [David Neel Smith](./David_Neel_Smith.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

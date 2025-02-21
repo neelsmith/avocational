@@ -2,7 +2,7 @@
  
 
 refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refertso::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
 refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)

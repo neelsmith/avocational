@@ -13,3 +13,23 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with []()**:
+
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Josiah_Stagg[Josiah Stagg] --> Josiah_Stagg+[ ]
+[] --> Josiah_Stagg+[ ]
+```
+
+
+
+Sources for children with []()
+
+
+

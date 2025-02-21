@@ -18,9 +18,9 @@ engine: julia
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1758-12-03 | [Martin Shofner tombstone](./../../../transcriptions/tombstones/Martin_Shofner_tombstone.html) | direct |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1758-12-03 |  | [Martin Shofner tombstone](./../../../transcriptions/tombstones/Martin_Shofner_tombstone.html) | direct |
 
 Sources for death:
 

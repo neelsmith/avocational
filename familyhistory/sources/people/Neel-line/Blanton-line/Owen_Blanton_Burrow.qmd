@@ -14,8 +14,18 @@ engine: julia
 
 **Father**: [Samuel Richardson Burrow](./Samuel_Richardson_Burrow.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Owen_Blanton_Burrow[Owen Blanton Burrow] -->  Samuel_Richardson_Burrow[Samuel Richardson Burrow]
+Owen_Blanton_Burrow[Owen Blanton Burrow]  --> people/Neel-line/Blanton-line/Leonora_Campbell_Blanton[people/Neel-line/Blanton-line/Leonora Campbell Blanton]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

@@ -14,13 +14,41 @@ engine: julia
 
 **Father**: [Joseph Saudek](./Joseph_Saudek.html)
 
+**Children with [John Owen Blanton](./../John_Owen_Blanton.html)**:
+
+
+- [Willie Saudek Blanton](./../Willie_Saudek_Blanton.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Leonora_Josephine_Saudek[Leonora Josephine Saudek] -->  Joseph_Saudek[Joseph Saudek]
+Leonora_Josephine_Saudek[Leonora Josephine Saudek]  --> Nancy_Eliza_Northern[Nancy Eliza Northern]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Leonora_Josephine_Saudek[Leonora Josephine Saudek] --> Leonora_Josephine_Saudek+John_Owen_Blanton[ ]
+John_Owen_Blanton[John Owen Blanton] --> Leonora_Josephine_Saudek+John_Owen_Blanton[ ]
+Leonora_Josephine_Saudek+John_Owen_Blanton[ ] --> Willie_Saudek_Blanton[Willie Saudek Blanton]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1843-03-11 | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | indirect |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1843-03-11 |  | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | indirect |
 
 Sources for death:
 
@@ -29,9 +57,16 @@ Sources for death:
 | --- | --- | --- |
 | 1880-07-04 | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Joseph Saudek](./Joseph_Saudek.html) | [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html) | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | direct |
+
+Sources for children with [John Owen Blanton](./../John_Owen_Blanton.html)
+
+
+- [Willie Blanton death certificate](./../../../../transcriptions/vitals/Willie_Blanton_death_certificate.html)
+
+

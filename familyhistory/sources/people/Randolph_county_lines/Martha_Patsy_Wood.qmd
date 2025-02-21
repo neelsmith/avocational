@@ -18,8 +18,8 @@ engine: julia
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
 
 Sources for death:
 

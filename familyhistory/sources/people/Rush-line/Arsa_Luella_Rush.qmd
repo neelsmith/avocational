@@ -18,9 +18,9 @@ engine: julia
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1858-01-16 | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1858-01-16 |  | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |
 
 Sources for death:
 

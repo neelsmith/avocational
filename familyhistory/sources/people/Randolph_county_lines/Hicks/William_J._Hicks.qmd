@@ -14,13 +14,33 @@ engine: julia
 
 **Father**: [?]()
 
+**Children with [Jane Lassiter](./../Lassiter/Jane_Lassiter.html)**:
+
+
+- [Frances Hix](./Frances_Hix.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+William_J._Hicks[William J. Hicks] --> William_J._Hicks+Jane_Lassiter[ ]
+Jane_Lassiter[Jane Lassiter] --> William_J._Hicks+Jane_Lassiter[ ]
+William_J._Hicks+Jane_Lassiter[ ] --> Frances_Hix[Frances Hix]
+Frances_Hix[Frances Hix] --> [[Frances_Hix]]+Calvin_Harris_Rush[ ]
+Calvin_Harris_Rush[Calvin Harris Rush] --> [[Frances_Hix]]+Calvin_Harris_Rush[ ]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1828-03-12 | [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1828-03-12 |  | [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |
 
 Sources for death:
 
@@ -28,3 +48,10 @@ Sources for death:
 | Date | Source | Type |
 | --- | --- | --- |
 | 1856-04-11 | [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |
+
+Sources for children with [Jane Lassiter](./../Lassiter/Jane_Lassiter.html)
+
+
+- [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html)
+
+

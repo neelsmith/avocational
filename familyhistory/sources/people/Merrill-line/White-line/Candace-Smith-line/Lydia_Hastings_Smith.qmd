@@ -13,3 +13,28 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Zachariah Smith](./Zachariah_Smith.html)**:
+
+
+- [Lydia Jepson Smith](./Lydia_Jepson_Smith.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Lydia_Hastings_Smith[Lydia Hastings Smith] --> Lydia_Hastings_Smith+Zachariah_Smith[ ]
+Zachariah_Smith[Zachariah Smith] --> Lydia_Hastings_Smith+Zachariah_Smith[ ]
+Lydia_Hastings_Smith+Zachariah_Smith[ ] --> Lydia_Jepson_Smith[Lydia Jepson Smith]
+```
+
+
+
+Sources for children with [Zachariah Smith](./Zachariah_Smith.html)
+
+
+- [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html)
+
+

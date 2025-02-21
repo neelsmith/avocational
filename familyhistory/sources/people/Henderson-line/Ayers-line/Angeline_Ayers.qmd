@@ -14,8 +14,17 @@ engine: julia
 
 **Father**: [Stephen Ayres](./Stephen_Ayres.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Angeline_Ayers[Angeline Ayers] -->  Stephen_Ayres[Stephen Ayres]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

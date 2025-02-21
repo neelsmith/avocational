@@ -14,15 +14,25 @@ engine: julia
 
 **Father**: [Edward Henderson](./Edward_Henderson.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Daniel_Clyde_Henderson[Daniel Clyde Henderson] -->  Edward_Henderson[Edward Henderson]
+Daniel_Clyde_Henderson[Daniel Clyde Henderson]  --> Mary_Mathis[Mary Mathis]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1784-12-08 | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1784-12-08 | Manchester, Vermont | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

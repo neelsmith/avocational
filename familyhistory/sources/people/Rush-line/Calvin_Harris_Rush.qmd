@@ -14,17 +14,57 @@ engine: julia
 
 **Father**: [Noah Rush](./Noah_Rush.html)
 
+**Children with [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)**:
+
+
+- [Clarence Harris Rush](./Clarence_Harris_Rush.html)
+
+- [Mona Rush](./Mona_Rush.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
+Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Calvin_Harris_Rush[Calvin Harris Rush] --> Calvin_Harris_Rush+Frances_Hix[ ]
+Frances_Hix[Frances Hix] --> Calvin_Harris_Rush+Frances_Hix[ ]
+Calvin_Harris_Rush+Frances_Hix[ ] --> Clarence_Harris_Rush[Clarence Harris Rush]
+Calvin_Harris_Rush+Frances_Hix[ ] --> Mona_Rush[Mona Rush]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1853 | [Calvin Rush 1860 census](./../../transcriptions/census/Rush_census/Calvin_Rush_1860_census.html) | indirect |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1853 | N.C. | [Calvin Rush 1860 census](./../../transcriptions/census/Rush_census/Calvin_Rush_1860_census.html) | indirect |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Noah Rush](./Noah_Rush.html) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html) | indirect |
+
+Sources for children with [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
+
+
+- [1900 census](./../../census-summaries/1900_census.html)
+
+- [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)
+
+

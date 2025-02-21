@@ -13,3 +13,30 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Rhoda Smith](./../../Rhoda_Smith.html)**:
+
+
+- [Nancy Farrand](./../../Nancy_Farrand.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Bethuel_Farrand[Bethuel Farrand] --> Bethuel_Farrand+Rhoda_Smith[ ]
+Rhoda_Smith[Rhoda Smith] --> Bethuel_Farrand+Rhoda_Smith[ ]
+Bethuel_Farrand+Rhoda_Smith[ ] --> Nancy_Farrand[Nancy Farrand]
+Nancy_Farrand[Nancy Farrand] --> [[Nancy_Farrand]]+Aaron_Merrill[ ]
+Aaron_Merrill[Aaron Merrill] --> [[Nancy_Farrand]]+Aaron_Merrill[ ]
+```
+
+
+
+Sources for children with [Rhoda Smith](./../../Rhoda_Smith.html)
+
+
+- [Nancy Farrand parents](./../../../../transcriptions/family-genealogies/Nancy_Farrand_parents.html)
+
+

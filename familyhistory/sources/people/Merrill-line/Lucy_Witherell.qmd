@@ -14,9 +14,43 @@ engine: julia
 
 **Father**: [James Witherell](./James_Witherell.html)
 
+**Children with [Hiram Merrill](./Hiram_Merrill.html)**:
+
+
+- [James Albee Merrill](./James_Albee_Merrill.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Lucy_Witherell[Lucy Witherell] --> Lucy_Witherell+Hiram_Merrill[ ]
+Hiram_Merrill[Hiram Merrill] --> Lucy_Witherell+Hiram_Merrill[ ]
+Lucy_Witherell+Hiram_Merrill[ ] --> James_Albee_Merrill[James Albee Merrill]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+
+Sources for children with [Hiram Merrill](./Hiram_Merrill.html)
+
+
+- [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html)
+
+

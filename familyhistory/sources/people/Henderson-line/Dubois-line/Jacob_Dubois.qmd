@@ -14,8 +14,18 @@ engine: julia
 
 **Father**: [David Dubois 1724-1801](./David_Dubois_1724-1801.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Jacob_Dubois[Jacob Dubois] -->  David_Dubois_1724-1801[David Dubois 1724-1801]
+Jacob_Dubois[Jacob Dubois]  --> Elizabeth_Newkirk_Dubois[Elizabeth Newkirk Dubois]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

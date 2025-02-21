@@ -14,6 +14,20 @@ engine: julia
 
 **Father**: [Hiram Merrill](./Hiram_Merrill.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+James_Albee_Merrill[James Albee Merrill] -->  Hiram_Merrill[Hiram Merrill]
+Hiram_Merrill[Hiram Merrill] -->  Aaron_Merrill[Aaron Merrill]
+Hiram_Merrill[Hiram Merrill]  --> Nancy_Farrand[Nancy Farrand]
+Nancy_Farrand[Nancy Farrand] -->  Bethuel_Farrand[Bethuel Farrand]
+Nancy_Farrand[Nancy Farrand]  --> Rhoda_Smith[Rhoda Smith]
+James_Albee_Merrill[James Albee Merrill]  --> Lucy_Witherell[Lucy Witherell]
+```
+
+
+
 ## Sources
 Sources for death:
 
@@ -23,7 +37,7 @@ Sources for death:
 | 1924-11-21 | [James A. Merrill MN death index](./../../transcriptions/vitals/James_A._Merrill_MN_death_index.html) | direct |
 | 1924 | [James A. Merrill tombstone](./../../transcriptions/tombstones/James_A._Merrill_tombstone.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

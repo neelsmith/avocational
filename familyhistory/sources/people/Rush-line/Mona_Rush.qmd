@@ -14,13 +14,27 @@ engine: julia
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Mona_Rush[Mona Rush] -->  Calvin_Harris_Rush[Calvin Harris Rush]
+Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
+Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
+Mona_Rush[Mona Rush]  --> Frances_Hix[Frances Hix]
+Frances_Hix[Frances Hix] -->  William_J._Hicks[William J. Hicks]
+Frances_Hix[Frances Hix]  --> Jane_Lassiter[Jane Lassiter]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1891-02-19 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1891-02-19 |  | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
 
 Sources for death:
 
@@ -29,7 +43,7 @@ Sources for death:
 | --- | --- | --- |
 | 1967-11-27 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

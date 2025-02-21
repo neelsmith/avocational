@@ -18,9 +18,9 @@ engine: julia
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1774 | [Rocena Snow tombstone](./../../../transcriptions/tombstones/Rocena_Snow_tombstone.html) | indirect |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1774 |  | [Rocena Snow tombstone](./../../../transcriptions/tombstones/Rocena_Snow_tombstone.html) | indirect |
 
 Sources for death:
 

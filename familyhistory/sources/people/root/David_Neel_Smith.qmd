@@ -14,8 +14,17 @@ engine: julia
 
 **Father**: [David Hammond Smith](./../Smith-line/David_Hammond_Smith.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

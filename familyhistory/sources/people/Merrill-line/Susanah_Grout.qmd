@@ -13,3 +13,30 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Zachia Smith](./Zachia_Smith.html)**:
+
+
+- [Zachariah Smith](./White-line/Candace-Smith-line/Zachariah_Smith.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Susanah_Grout[Susanah Grout] --> Susanah_Grout+Zachia_Smith[ ]
+Zachia_Smith[Zachia Smith] --> Susanah_Grout+Zachia_Smith[ ]
+Susanah_Grout+Zachia_Smith[ ] --> Zachariah_Smith[Zachariah Smith]
+Zachariah_Smith[Zachariah Smith] --> [[Zachariah_Smith]]+Lydia_Hastings_Smith[ ]
+Lydia_Hastings_Smith[Lydia Hastings Smith] --> [[Zachariah_Smith]]+Lydia_Hastings_Smith[ ]
+```
+
+
+
+Sources for children with [Zachia Smith](./Zachia_Smith.html)
+
+
+- [Zachariah Smith birth record](./../../transcriptions/vitals/Zachariah_Smith_birth_record.html)
+
+

@@ -14,13 +14,25 @@ engine: julia
 
 **Father**: [Ebenezer White](./Ebenezer_White.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Horatio_Nelson_White[Horatio Nelson White] -->  Ebenezer_White[Ebenezer White]
+Ebenezer_White[Ebenezer White] -->  Benjamin_White[Benjamin White]
+Ebenezer_White[Ebenezer White]  --> Ruth_Wilson[Ruth Wilson]
+Horatio_Nelson_White[Horatio Nelson White]  --> Candace_Smith[Candace Smith]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1779-07-09 | [Horatio Nelson White death](./../../../transcriptions/vitals/Horatio_Nelson_White_death.html) | indirect |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1779-07-09 |  | [Horatio Nelson White death](./../../../transcriptions/vitals/Horatio_Nelson_White_death.html) | indirect |
 
 Sources for death:
 
@@ -29,7 +41,7 @@ Sources for death:
 | --- | --- | --- |
 | 1886-05-05 | [Horatio Nelson White death](./../../../transcriptions/vitals/Horatio_Nelson_White_death.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

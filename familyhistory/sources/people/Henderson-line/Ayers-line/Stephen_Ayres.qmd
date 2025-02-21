@@ -14,16 +14,45 @@ engine: julia
 
 **Father**: [Jabez Ayers](./../../Jabez_Ayers.html)
 
+**Children with []()**:
+
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Stephen_Ayres[Stephen Ayres] --> Stephen_Ayres+[ ]
+[] --> Stephen_Ayres+[ ]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
-| 1770-02-16 | [Stephen Ayers birth](./../../../transcriptions/vitals/Stephen_Ayers_birth.html) | direct |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1770-02-16 | New Braintree, MA | [Stephen Ayers birth](./../../../transcriptions/vitals/Stephen_Ayers_birth.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+
+Sources for children with []()
+
+
+

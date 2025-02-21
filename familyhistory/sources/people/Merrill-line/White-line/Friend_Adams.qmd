@@ -13,3 +13,28 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Elizabeth Stagg](./Elizabeth_Stagg.html)**:
+
+
+- [Syrena Adams](./Syrena_Adams.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Friend_Adams[Friend Adams] --> Friend_Adams+Elizabeth_Stagg[ ]
+Elizabeth_Stagg[Elizabeth Stagg] --> Friend_Adams+Elizabeth_Stagg[ ]
+Friend_Adams+Elizabeth_Stagg[ ] --> Syrena_Adams[Syrena Adams]
+```
+
+
+
+Sources for children with [Elizabeth Stagg](./Elizabeth_Stagg.html)
+
+
+- [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html)
+
+

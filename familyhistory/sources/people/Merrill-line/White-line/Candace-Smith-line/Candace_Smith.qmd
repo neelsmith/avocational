@@ -14,9 +14,43 @@ engine: julia
 
 **Father**: [Moses Smith](./Moses_Smith.html)
 
+**Children with [Ebenezer White](./../Ebenezer_White.html)**:
+
+
+- [Horatio Nelson White](./../Horatio_Nelson_White.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Candace_Smith[Candace Smith] --> Candace_Smith+Ebenezer_White[ ]
+Ebenezer_White[Ebenezer White] --> Candace_Smith+Ebenezer_White[ ]
+Candace_Smith+Ebenezer_White[ ] --> Horatio_Nelson_White[Horatio Nelson White]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+
+Sources for children with [Ebenezer White](./../Ebenezer_White.html)
+
+
+- [Horatio White - Susan Spaulding marriage](./../../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html)
+
+

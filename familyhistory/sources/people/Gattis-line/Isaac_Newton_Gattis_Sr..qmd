@@ -13,3 +13,23 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [ ]()**:
+
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Isaac_Newton_Gattis_Sr.[Isaac Newton Gattis Sr.] --> Isaac_Newton_Gattis_Sr.+_[ ]
+_[ ] --> Isaac_Newton_Gattis_Sr.+_[ ]
+```
+
+
+
+Sources for children with [ ]()
+
+
+

@@ -14,8 +14,18 @@ engine: julia
 
 **Father**: [Truman Grandey](./Truman_Grandey.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Ellen_Grandey[Ellen Grandey] -->  Truman_Grandey[Truman Grandey]
+Ellen_Grandey[Ellen Grandey]  --> Polly_Myrick[Polly Myrick]
+```
+
+
+
 ## Sources
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

@@ -14,12 +14,21 @@ engine: julia
 
 **Father**: [John Dubois Henderson](./John_Dubois_Henderson.html)
 
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
 
 Sources for death:
 
@@ -27,7 +36,7 @@ Sources for death:
 | Date | Source | Type |
 | --- | --- | --- |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |

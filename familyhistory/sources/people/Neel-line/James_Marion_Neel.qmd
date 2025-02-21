@@ -14,6 +14,30 @@ engine: julia
 
 **Father**: [Duncan Neel](./Duncan_Neel.html)
 
+**Children with [ Sarah Jane Barton]()**:
+
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+James_Marion_Neel[James Marion Neel] --> James_Marion_Neel+_Sarah_Jane_Barton[ ]
+_Sarah_Jane_Barton[ Sarah Jane Barton] --> James_Marion_Neel+_Sarah_Jane_Barton[ ]
+```
+
+
+
 ## Sources
 Sources for death:
 
@@ -22,8 +46,13 @@ Sources for death:
 | --- | --- | --- |
 | 1917-02-11 | [James Marion Neel death certificate](./../../transcriptions/vitals/James_Marion_Neel_death_certificate.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+
+Sources for children with [ Sarah Jane Barton]()
+
+
+

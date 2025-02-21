@@ -14,12 +14,39 @@ engine: julia
 
 **Father**: [Josiah Stagg](./Josiah_Stagg.html)
 
+**Children with [Friend Adams](./Friend_Adams.html)**:
+
+
+- [Syrena Adams](./Syrena_Adams.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Elizabeth_Stagg[Elizabeth Stagg] -->  Josiah_Stagg[Josiah Stagg]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Elizabeth_Stagg[Elizabeth Stagg] --> Elizabeth_Stagg+Friend_Adams[ ]
+Friend_Adams[Friend Adams] --> Elizabeth_Stagg+Friend_Adams[ ]
+Elizabeth_Stagg+Friend_Adams[ ] --> Syrena_Adams[Syrena Adams]
+```
+
+
+
 ## Sources
 Sources for birth:
 
 
-| Date | Source | Type |
-| --- | --- | --- |
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
 
 Sources for death:
 
@@ -28,9 +55,16 @@ Sources for death:
 | --- | --- | --- |
 | 1817-02-02 | [Elizabeth Adams death](./../../../transcriptions/vitals/Elizabeth_Adams_death.html) | direct |
 
-## Sources for parents:
+Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Josiah Stagg](./Josiah_Stagg.html) | []() | [Elizabeth Adams death](./../../../transcriptions/vitals/Elizabeth_Adams_death.html) | direct |
+
+Sources for children with [Friend Adams](./Friend_Adams.html)
+
+
+- [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html)
+
+
