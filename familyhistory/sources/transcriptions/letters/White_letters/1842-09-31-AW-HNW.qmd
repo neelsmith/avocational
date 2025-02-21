@@ -1,8 +1,8 @@
 
  
 
-refersto::[[Artemas White]]
-refersto::[[Horatio Nelson White]]
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
 
 

@@ -3,7 +3,7 @@
 
 
 
-refersto::[[Candace White]]
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html) 
 Date::June 18, 1860
 House::122

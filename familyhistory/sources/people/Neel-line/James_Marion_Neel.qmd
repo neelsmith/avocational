@@ -14,14 +14,15 @@ engine: julia
 
 **Father**: [Duncan Neel](./Duncan_Neel.html)
 
-## Sources for death
+## Sources
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1917-02-11 | [James Marion Neel death certificate](./../../transcriptions/vitals/James_Marion_Neel_death_certificate.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

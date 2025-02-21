@@ -7,10 +7,10 @@ The new nephew who has arrived in Keeseville is [Frederick D. White](./../../../
 
 Who is Samuel Dresen, whom George saw?
 
-refersto::[[Henry George White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Ann Eliza White]]
-refersto::[[Ebenezer White]]
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
 
 
 

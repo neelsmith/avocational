@@ -1,7 +1,7 @@
 
 
 
-refersto::[[Dorotha Shofner]]
+refersto::[Dorotha Shofner](./../../../people/Gattis-line/Euless-line/Dorotha_Shofner.html)
 Enumeration::[District 25, Bedford, Tennessee](./../../../census-districts/District_25,_Bedford,_Tennessee.html)
 Date::Nov. 9, 1850
 House::30

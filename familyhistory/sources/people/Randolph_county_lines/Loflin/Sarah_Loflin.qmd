@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [Cornelius Loflin](./Cornelius_Loflin.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

@@ -1,4 +1,4 @@
-refersto::[[John Owen Blanton]]
+refersto::[John Owen Blanton](./../../../people/Neel-line/Blanton-line/John_Owen_Blanton.html)
 
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)
 Date::1850-09-03

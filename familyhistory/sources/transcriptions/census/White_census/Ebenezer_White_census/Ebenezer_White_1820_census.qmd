@@ -2,7 +2,7 @@
 
 
 
-refersto::[[Ebenezer White]]
+refersto::[Ebenezer White](./../../../../people/Merrill-line/White-line/Ebenezer_White.html)
 Enumeration::[Craftsbury, Orleans, Vermont](./../../../../census-districts/Craftsbury,_Orleans,_Vermont.html)
 Date::August 7, 1820
 Head of family::Ebenezer White

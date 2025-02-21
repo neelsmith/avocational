@@ -1,5 +1,5 @@
 
-refersto::[[Bee Neel]]
+refersto::[Bee Neel](./../../people/Neel-line/Bee_Neel.html)
 refersto::[Claude J. Leopard](./../../Claude_J._Leopard.html)
 
 

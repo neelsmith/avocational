@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [William E. White](./William_E._White.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

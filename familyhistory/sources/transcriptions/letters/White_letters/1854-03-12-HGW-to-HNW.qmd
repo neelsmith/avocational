@@ -6,23 +6,23 @@
 
 
 
-refersto::[[Henry George White]] 
-refersto::[[Horatio Nelson White]]
-refersto::[[Hiram Smith White]]
-refersto::[[Ann Quayle]]
-refersto::[[Ann Eliza White]]
-refersto::[[Adaline White]]
-refersto::[[Artemas White]]
-refersto::[[Frances E. White]]
-refersto::[[George W. White]]
-refersto::[[Ebenezer White]]
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html) 
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[George W. White](./../../../people/Merrill-line/White-line/George_W._White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
 
 
 
 
 ## Notes
 
-Who is Lenny? Could that possibly be [[Mary Ella White]]?
+Who is Lenny? Could that possibly be [Mary Ella White](./../../../people/Merrill-line/White-line/Mary_Ella_White.html)?
 
 Horatio Nelson and Syrena have finally visited Buffalo!!
 

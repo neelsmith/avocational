@@ -14,19 +14,20 @@ engine: julia
 
 **Father**: [John Dubois Henderson](./John_Dubois_Henderson.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

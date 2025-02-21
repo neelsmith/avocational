@@ -1,7 +1,7 @@
-refersto::[[Mona Rush]]
-refersto::[[Calvin Harris Rush]]
-refersto::[[Frances Hix]]
-refersto::[[Charles R. Smith sr.]]
+refersto::[Mona Rush](./../../people/Rush-line/Mona_Rush.html)
+refersto::[Calvin Harris Rush](./../../people/Rush-line/Calvin_Harris_Rush.html)
+refersto::[Frances Hix](./../../people/Randolph_county_lines/Hicks/Frances_Hix.html)
+refersto::[Charles R. Smith sr.](./../../people/Smith-line/Charles_R._Smith_sr..html)
 refersto::[David Hammond Smith](./../../people/Smith-line/David_Hammond_Smith.html)
 
 ## Source

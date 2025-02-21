@@ -2,9 +2,9 @@
 
 
  
-refersto::[[Mayberry Hammond]]
-refersto::[[William Goheen Hammond]]
-refersto::[[Eliza A. Hammond]]
+refersto::[Mayberry Hammond](./../../../people/Hammond-line/Mayberry_Hammond.html)
+refersto::[William Goheen Hammond](./../../../people/Hammond-line/William_Goheen_Hammond.html)
+refersto::[Eliza A. Hammond](./../../../people/Hammond-line/Eliza_A._Hammond.html)
 refersto::[Lucy W. Hammond](./../../../people/Hammond-line/Lucy_W._Hammond.html)
 
 

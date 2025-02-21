@@ -1,6 +1,6 @@
  
 
-refersto::[[Josephine Neel]]
+refersto::[Josephine Neel](./../../../people/Neel-line/Josephine_Neel.html)
 
 
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)

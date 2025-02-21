@@ -14,14 +14,15 @@ engine: julia
 
 **Father**: [?]()
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1828-03-12 | [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html) | direct |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |

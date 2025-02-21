@@ -1,7 +1,7 @@
  
 
 
-refersto::[[Mary Jane Rush]]
+refersto::[Mary Jane Rush](./../../../people/Rush-line/Mary_Jane_Rush.html)
 
 Enumeration::[Concord township, Randolph, North Carolina](./../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
 Date::Sept. 14, 1870

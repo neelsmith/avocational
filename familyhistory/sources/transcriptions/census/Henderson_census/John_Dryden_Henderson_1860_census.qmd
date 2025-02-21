@@ -1,6 +1,6 @@
 
 
-refersto::[[John Dryden Henderson]]
+refersto::[John Dryden Henderson](./../../../people/Henderson-line/John_Dryden_Henderson.html)
 Enumeration::[Norway, Herkimer, New York](./../../../census-districts/Norway,_Herkimer,_New_York.html)
 Date::1860-07-24
 House::437

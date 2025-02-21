@@ -14,14 +14,15 @@ engine: julia
 
 **Father**: [William J. Hicks](./William_J._Hicks.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1852-07-10 | [Frances Hix tombstone](./../../../transcriptions/tombstones/Frances_Hix_tombstone.html) | direct |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
@@ -29,7 +30,7 @@ engine: julia
 | 1925-11-13 | []() | direct |
 | 1925-11-13 | [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

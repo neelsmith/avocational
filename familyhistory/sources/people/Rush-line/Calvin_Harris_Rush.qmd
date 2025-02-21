@@ -14,14 +14,15 @@ engine: julia
 
 **Father**: [Noah Rush](./Noah_Rush.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1853 | [Calvin Rush 1860 census](./../../transcriptions/census/Rush_census/Calvin_Rush_1860_census.html) | indirect |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

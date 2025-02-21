@@ -1,7 +1,7 @@
 
  
 
-refersto::[[Argyle Bearden]]
+refersto::[Argyle Bearden](./../../../people/by-marriage/Argyle_Bearden.html)
 
 
 Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)

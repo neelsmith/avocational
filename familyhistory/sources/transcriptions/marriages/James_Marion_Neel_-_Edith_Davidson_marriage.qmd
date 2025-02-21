@@ -1,4 +1,4 @@
-refersto::[[James Marion Neel]]
+refersto::[James Marion Neel](./../../people/Neel-line/James_Marion_Neel.html)
 refersto::[Edith Jane Davidson](./../../people/Neel-line/Edith_Jane_Davidson.html)
 
 ## Citation

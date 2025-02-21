@@ -1,9 +1,9 @@
  
 
-refersto::[[Mary Louise Neel]]
+refersto::[Mary Louise Neel](./../../../people/Neel-line/Mary_Louise_Neel.html)
 
 
-refersto::[[Willie Saudek Blanton]]
+refersto::[Willie Saudek Blanton](./../../../people/Neel-line/Blanton-line/Willie_Saudek_Blanton.html)
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)
 Date::1920-01-11
 Street::Manchester Road

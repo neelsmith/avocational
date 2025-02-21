@@ -2,7 +2,7 @@
 
 
 
-refersto::[[Adam Euless]]
+refersto::[Adam Euless](./../../../people/Gattis-line/Euless-line/Adam_Euless.html)
 Enumeration::[District 25, Bedford, Tennessee](./../../../census-districts/District_25,_Bedford,_Tennessee.html)
 
 

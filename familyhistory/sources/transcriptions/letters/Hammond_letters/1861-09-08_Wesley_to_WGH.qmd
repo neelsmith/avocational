@@ -1,8 +1,8 @@
  
 
-refersto::[[Wesley Hammond]]
-refersto::[[William Goheen Hammond]]
-refersto::[[Eliza A. Hammond]]
+refersto::[Wesley Hammond](./../../../people/Hammond-line/Wesley_Hammond.html)
+refersto::[William Goheen Hammond](./../../../people/Hammond-line/William_Goheen_Hammond.html)
+refersto::[Eliza A. Hammond](./../../../people/Hammond-line/Eliza_A._Hammond.html)
 refersto::[Samuel Clayton Hammond](./../../../people/Hammond-line/Samuel_Clayton_Hammond.html)
 
 
@@ -11,7 +11,7 @@ refersto::[Samuel Clayton Hammond](./../../../people/Hammond-line/Samuel_Clayton
 
 Who is "P.J. Hammond"?
 
-Eliza presumably [[Eliza A. Hammond]]
+Eliza presumably [Eliza A. Hammond](./../../../people/Hammond-line/Eliza_A._Hammond.html)
 "Sam" could be [Samuel Clayton Hammond](./../../../people/Hammond-line/Samuel_Clayton_Hammond.html)
 
 

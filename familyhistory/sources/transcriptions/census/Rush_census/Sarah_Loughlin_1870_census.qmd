@@ -2,7 +2,7 @@
 
 
 
-refersto::[[Sarah Loflin]]
+refersto::[Sarah Loflin](./../../../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
 Enumeration::[Concord township, Randolph, North Carolina](./../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)
 Date::Sept. 14, 1870

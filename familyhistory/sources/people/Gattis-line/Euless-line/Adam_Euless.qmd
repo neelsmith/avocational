@@ -14,20 +14,21 @@ engine: julia
 
 **Father**: [Philip Euless](./../Philip_Euless.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1778-11-22 | [Adam Euless tombstone](./../../../transcriptions/tombstones/Adam_Euless_tombstone.html) | direct |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

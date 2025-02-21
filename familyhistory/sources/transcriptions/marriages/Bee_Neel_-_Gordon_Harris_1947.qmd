@@ -1,4 +1,4 @@
-refersto::[[Bee Neel]]
+refersto::[Bee Neel](./../../people/Neel-line/Bee_Neel.html)
 refersto::[Gordon Raymond Harris](./../../Gordon_Raymond_Harris.html)
 
 

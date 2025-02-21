@@ -4,7 +4,7 @@
 
 
 
-refersto::[[Martin Shofner]]
+refersto::[Martin Shofner](./../../../people/Gattis-line/Shofner-line/Martin_Shofner.html)
 Enumeration::[Bedford, Tennessee](./../../../census-districts/Bedford,_Tennessee.html)
 
 Date::

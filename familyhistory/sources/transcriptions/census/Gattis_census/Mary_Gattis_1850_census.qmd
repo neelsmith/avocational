@@ -1,7 +1,7 @@
 
 
 
-refersto::[[Mary Elizabeth Bearden Gattis]]
+refersto::[Mary Elizabeth Bearden Gattis](./../../../people/Gattis-line/Mary_Elizabeth_Bearden_Gattis.html)
 Enumeration::[District 25, Bedford, Tennessee](./../../../census-districts/District_25,_Bedford,_Tennessee.html)
 Date::Nov. 9, 1850
 House::30

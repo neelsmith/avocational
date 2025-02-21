@@ -14,21 +14,22 @@ engine: julia
 
 **Father**: [Joseph Saudek](./Joseph_Saudek.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1843-03-11 | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | indirect |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1880-07-04 | [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

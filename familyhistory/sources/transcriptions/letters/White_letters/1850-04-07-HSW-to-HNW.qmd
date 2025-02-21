@@ -4,19 +4,19 @@
  
 
 
-refersto::[[Hiram Smith White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Ebenezer White]]
-refersto::[[Cynthia Sawyer]]
-refersto::[[Friend Adams White]]
-refersto::[[Frances E. White]]
-refersto::[[Mary Ella White]]
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[Mary Ella White](./../../../people/Merrill-line/White-line/Mary_Ella_White.html)
 
 
 
 ## Notes
 
-"Mary White", a visitor and presumably relative, is probably [[Mary Ella White]]. She would be 16 at the time, and her father Artemas is probably still in California.
+"Mary White", a visitor and presumably relative, is probably [Mary Ella White](./../../../people/Merrill-line/White-line/Mary_Ella_White.html). She would be 16 at the time, and her father Artemas is probably still in California.
 
 
 Sept 19 1850 census in Keeseville finds Artemas at home...

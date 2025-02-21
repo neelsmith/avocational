@@ -1,5 +1,5 @@
 
-refersto::[[Noah Rush Sr.]]
+refersto::[Noah Rush Sr.](./../../people/Rush-line/Noah_Rush_Sr..html)
 
 ## Citation
 
@@ -55,28 +55,28 @@ x 8 Alex Briles & wife Sally (last dead)
 
 >x 1 Zebedee Rush
 
-refersto::[[Zebedee Rush 1821-1907]]
+refersto::[Zebedee Rush 1821-1907](./../../people/Rush-line/Zebedee_Rush_1821-1907.html)
 
 > x 2 Nancy Wade
 
-refersto::[[Nancy Rush 1812-1912]]
+refersto::[Nancy Rush 1812-1912](./../../people/Rush-line/Nancy_Rush_1812-1912.html)
 
 > x 3 J. CLark Rush
 
-refersto::[[John Clark Rush]]
+refersto::[John Clark Rush](./../../people/Rush-line/John_Clark_Rush.html)
 
 > x 4 Geo. Rush
 
-refersto::[[George Gregory Rush]]
+refersto::[George Gregory Rush](./../../people/Rush-line/George_Gregory_Rush.html)
 
 > x 5 Milton Blair & wife Mary
 
-refersto::[[Jesse MIlton Blair]]
-refersto::[[Mary Rush]]
+refersto::[Jesse MIlton Blair](./../../people/Randolph_county_lines/Jesse_MIlton_Blair.html)
+refersto::[Mary Rush](./../../people/Rush-line/Mary_Rush.html)
 
 > x 6 Branson Briles & wife Dorcas
 
-refersto::[[Branson Briles]]
+refersto::[Branson Briles](./../../people/Randolph_county_lines/Briles/Branson_Briles.html)
 refersto::[Dorcas Rush](./../../people/Rush-line/Dorcas_Rush.html)
 
 

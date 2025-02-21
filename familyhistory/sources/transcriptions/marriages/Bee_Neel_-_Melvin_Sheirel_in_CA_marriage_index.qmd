@@ -1,4 +1,4 @@
-refersto::[[Bee Neel]]
+refersto::[Bee Neel](./../../people/Neel-line/Bee_Neel.html)
 refersto::[Melvin Elwood Sheirel](./../../Melvin_Elwood_Sheirel.html)
 ## Source
 

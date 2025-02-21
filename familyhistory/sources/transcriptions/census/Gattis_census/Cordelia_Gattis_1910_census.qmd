@@ -5,7 +5,7 @@
 
 
 
-refersto::[[Cordelia Gattis]]
+refersto::[Cordelia Gattis](./../../../people/Gattis-line/Cordelia_Gattis.html)
 Enumeration::[Chattanooga Ward 3, Hamilton, Tennessee](./../../../census-districts/Chattanooga_Ward_3,_Hamilton,_Tennessee.html)
 Date::April 18, 1910
 Street::West Ninth Street

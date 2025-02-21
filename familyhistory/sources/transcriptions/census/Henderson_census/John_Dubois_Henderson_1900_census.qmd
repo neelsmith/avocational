@@ -1,4 +1,4 @@
-refersto::[[John Dubois Henderson]]
+refersto::[John Dubois Henderson](./../../../people/Henderson-line/John_Dubois_Henderson.html)
 
 Enumeration::[Herkimer, Herkimer, New York](./../../../census-districts/Herkimer,_Herkimer,_New_York.html)
 Date::1900-06-09

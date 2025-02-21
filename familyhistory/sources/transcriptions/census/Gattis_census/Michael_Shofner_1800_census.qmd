@@ -2,7 +2,7 @@
  
 
 
-refersto::[[Michael Shofner]]
+refersto::[Michael Shofner](./../../../people/Gattis-line/Shofner-line/Michael_Shofner.html)
 Enumeration::[Hillsborough, Orange, North Carolina](./../../../census-districts/Hillsborough,_Orange,_North_Carolina.html)
 Date::
 

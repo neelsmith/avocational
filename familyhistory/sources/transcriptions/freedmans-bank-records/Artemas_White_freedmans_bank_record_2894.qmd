@@ -1,17 +1,17 @@
 
-refersto::[[Artemas White]]
-refersto::[[Lydia R. Brumley]]
+refersto::[Artemas White](./../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Lydia R. Brumley](./../../people/Merrill-line/White-line/Lydia_R._Brumley.html)
 
-refersto::[[Candace M. White]]
-refersto::[[Myra C. White]]
-refersto::[[Mary Ella White]]
-refersto::[[Frederick D. White]]
+refersto::[Candace M. White](./../../people/Merrill-line/White-line/Candace_M._White.html)
+refersto::[Myra C. White](./../../people/Merrill-line/White-line/Myra_C._White.html)
+refersto::[Mary Ella White](./../../people/Merrill-line/White-line/Mary_Ella_White.html)
+refersto::[Frederick D. White](./../../people/Merrill-line/White-line/Frederick_D._White.html)
 
-refersto::[[Ebenezer White]]
-refersto::[[Candace Smith]]
+refersto::[Ebenezer White](./../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
 
-refersto::[[Henry George White]]
-refersto::[[Hiram Smith White]]
+refersto::[Henry George White](./../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Hiram Smith White](./../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 refersto::[Adaline White](./../../people/Merrill-line/White-line/Adaline_White.html)
 
 

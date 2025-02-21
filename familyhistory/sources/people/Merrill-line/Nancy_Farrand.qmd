@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

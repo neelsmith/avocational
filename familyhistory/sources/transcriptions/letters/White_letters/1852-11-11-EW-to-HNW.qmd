@@ -1,18 +1,18 @@
 
-refersto::[[Ebenezer White]]
-refersto::[[Horatio Nelson White]]
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 
 
 
  
 
 
-refersto::[[Ebenezer White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Cynthia Sawyer]]
-refersto::[[Hiram Smith White]]
-refersto::[[Henry George White]]
-refersto::[[Adaline White]]
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 
 
 ## Notes
@@ -22,7 +22,7 @@ Others mentioned:
 
 
 Wm. Hickock may be 
-refersto::[[William H. Hickock]]
+refersto::[William H. Hickock](./../../../people/not-related/William_H._Hickock.html)
 
 "Weston" is probably
 refersto::[William Weston](./../../../people/not-related/William_Weston.html)

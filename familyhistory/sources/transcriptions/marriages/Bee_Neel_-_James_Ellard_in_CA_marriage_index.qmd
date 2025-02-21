@@ -1,4 +1,4 @@
-refersto::[[Bee Neel]]
+refersto::[Bee Neel](./../../people/Neel-line/Bee_Neel.html)
 refersto::[James K. Ellard](./../../people/Neel-line/James_K._Ellard.html)
 
 ## Source

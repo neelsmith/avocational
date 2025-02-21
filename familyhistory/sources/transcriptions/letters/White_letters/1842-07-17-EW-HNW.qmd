@@ -2,22 +2,22 @@
 
 
 
-refersto::[[Artemas White]] 
-refersto::[[Adaline White]] 
-refersto::[[Henry George White]]
-refersto::[[Ebenezer White]]
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html) 
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html) 
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
 refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
 
-refersto::[[Ebenezer Torrey Englesby]]
+refersto::[Ebenezer Torrey Englesby](./../../../people/not-related/Ebenezer_Torrey_Englesby.html)
 
-Mentions but not by name Artemas' wife, [[Lydia White]] and Horatio Nelson's mother [[Candace Smith]]
+Mentions but not by name Artemas' wife, [Lydia White](./../../../people/Merrill-line/White-line/Lydia_White.html) and Horatio Nelson's mother [Candace Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
 
 
 ## Synopsis
 
 Ebenezer in Burlington writes to Horatio Nelson in Panton. 
 
-Ebenezer replies to a request from Horatio Nelson for information about a payment of $730.00 to "Englesby". This is [[Ebenezer Torrey Englesby]], who is known from the Vermont Historical Archives. Ebenezer and his sons Horatio Nelson and Artemas all seem to be involved in this transaction in some way.
+Ebenezer replies to a request from Horatio Nelson for information about a payment of $730.00 to "Englesby". This is [Ebenezer Torrey Englesby](./../../../people/not-related/Ebenezer_Torrey_Englesby.html), who is known from the Vermont Historical Archives. Ebenezer and his sons Horatio Nelson and Artemas all seem to be involved in this transaction in some way.
 
 Ebenezer reports on Horatio Nelson's mother and sister, Adaline, both of whom are living with him in Burlington at this time, and shares news from Horatio Nelson's siblings Artemas, whom Ebenezer has seen, and George , via letter from Buffalo. Ebenezer closes by inquiring after his grandson, Fran ([Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)).
 

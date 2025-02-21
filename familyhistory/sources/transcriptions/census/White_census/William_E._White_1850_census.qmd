@@ -1,7 +1,7 @@
 
 
 
-refersto::[[William E. White]]
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::October 15, 1850
 House::30

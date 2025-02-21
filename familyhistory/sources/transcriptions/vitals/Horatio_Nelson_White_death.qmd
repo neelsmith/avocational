@@ -1,5 +1,5 @@
-refersto::[[Horatio Nelson White]]
-refersto::[[Candace Smith]]
+refersto::[Horatio Nelson White](./../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
 refersto::[Ebenezer White](./../../people/Merrill-line/White-line/Ebenezer_White.html)
 
 ## Citation

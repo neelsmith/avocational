@@ -4,7 +4,7 @@
 
 
 
-refersto::[[Emma Dora Gattis]]
+refersto::[Emma Dora Gattis](./../../../people/Gattis-line/Emma_Dora_Gattis.html)
 Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::August 16, 1870
 

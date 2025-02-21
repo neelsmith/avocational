@@ -1,14 +1,14 @@
 
  
 
-refersto::[[Ebenezer White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Frances E. White]]
-refersto::[[Adaline White]]
-refersto::[[Henry George White]]
-refersto::[[Charles H. White]]
-refersto::[[Friend Adams White]]
-refersto::[[Hiram Smith White]]
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
 
 

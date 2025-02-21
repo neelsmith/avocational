@@ -14,13 +14,14 @@ engine: julia
 
 **Father**: [?]()
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |

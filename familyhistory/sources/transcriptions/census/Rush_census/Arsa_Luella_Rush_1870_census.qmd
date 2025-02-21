@@ -1,6 +1,6 @@
  
 
-refersto::[[Arsa Luella Rush]]
+refersto::[Arsa Luella Rush](./../../../people/Rush-line/Arsa_Luella_Rush.html)
 
 
 Enumeration::[Concord township, Randolph, North Carolina](./../../../census-districts/Concord_township,_Randolph,_North_Carolina.html)

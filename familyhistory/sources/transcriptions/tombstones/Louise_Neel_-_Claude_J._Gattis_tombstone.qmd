@@ -1,4 +1,4 @@
-refersto::[[Mary Louise Neel]]
+refersto::[Mary Louise Neel](./../../people/Neel-line/Mary_Louise_Neel.html)
 refersto::[Claud Gattis](./../../people/Gattis-line/Claud_Gattis.html)
 
 ## Source

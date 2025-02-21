@@ -1,13 +1,13 @@
 
  
 
-refersto::[[Henry George White]]
-refertso::[[Horatio Nelson White]]
-refersto::[[William E. White]]
-refersto::[[Hiram Smith White]]
-refersto::[[Friend Adams White]]
-refersto::[[Adaline White]]
-refersto::[[Artemas White]]
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refertso::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 
 
 

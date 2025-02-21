@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [Stephen Ayres](./Stephen_Ayres.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

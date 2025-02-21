@@ -1,20 +1,20 @@
 
  
 
-refersto::[[Ebenezer White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Adaline White]]
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[[Friend Adams White]]
-refersto::[[Henry George White]]
-refersto::[[Hiram Smith White]]
-refersto::[[Cynthia Sawyer]]
-refersto::[[Candace White]]
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
 
 
 Candace is not named, referred to as "your Mother."
 
-"A" must be [[Artemas White]]. "G" will be [[Henry George White]] "Wm" is [William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+"A" must be [Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html). "G" will be [Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html) "Wm" is [William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
 
 ## Notes and questions
 

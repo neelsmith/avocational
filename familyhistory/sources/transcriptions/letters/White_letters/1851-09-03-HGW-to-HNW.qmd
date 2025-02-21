@@ -3,17 +3,17 @@
  
 
 
-refersto::[[Henry George White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Ann Quayle]]
-refersto::[[Sister of Ann Quayle]]
-refersto::[[Brother of Ann Quayle]]
-refersto::[[Hiram Smith White]]
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Sister of Ann Quayle](./../../../people/Merrill-line/White-line/Sister_of_Ann_Quayle.html)
+refersto::[Brother of Ann Quayle](./../../../people/Merrill-line/White-line/Brother_of_Ann_Quayle.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[[Henry S. White]]
-refersto::[[Artemas White]]
-refersto::[[Friend Adams White]]
-refersto::[[Frances E. White]]
+refersto::[Henry S. White](./../../../people/Merrill-line/White-line/Henry_S._White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
 
 
 ## Notes

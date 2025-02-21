@@ -1,7 +1,7 @@
 
  
 
-refersto::[[Susan Spaulding]]
+refersto::[Susan Spaulding](./../../../people/Merrill-line/White-line/Susan_Spaulding.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::June 24, 1880
 

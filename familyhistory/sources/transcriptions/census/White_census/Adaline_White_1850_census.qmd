@@ -1,7 +1,7 @@
 
 
 
-refersto::[[Adaline White]]
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 Enumeration::[Burlington, Chittenden, Vermont](./../../../census-districts/Burlington,_Chittenden,_Vermont.html)
 Date::August 20, 1810
 House::525

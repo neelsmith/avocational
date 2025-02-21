@@ -2,7 +2,7 @@
 
 
 
-refersto::[[George A. White]]
+refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::June 18, 1860
 House::122

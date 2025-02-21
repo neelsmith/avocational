@@ -1,4 +1,4 @@
-refersto::[[Marguerite Merrill]]
+refersto::[Marguerite Merrill](./../../people/Merrill-line/Marguerite_Merrill.html)
 
 ## Citation
 
@@ -17,5 +17,5 @@ Original data: Virginia, Deaths, 1912–2014. Virginia Department of Health, Ri
 
 Date of death: Jan. 10, 1987
 Birth date: March 3, 1895
-Parents [[James Albee Merrill]] and [[Anna Serena White]] 
+Parents [James Albee Merrill](./../../people/Merrill-line/James_Albee_Merrill.html) and [Anna Serena White](./../../people/Merrill-line/White-line/Anna_Serena_White.html) 
 Widow of [John Dubois Henderson](./../../people/Henderson-line/John_Dubois_Henderson.html)

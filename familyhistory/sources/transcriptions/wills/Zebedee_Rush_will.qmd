@@ -1,18 +1,18 @@
 
 refersto::[[people/Rush-line/Zebedee Rush]]
-refersto::[[Benjamin C. Rush]]
-refersto::[[Archibald Franklin Rush]]
-refersto::[[Martha Rush]]
-refersto::[[William Pearce]]
-refersto::[[Noah Rush]]
-refersto::[[Henry Rush]]
-refersto::[[Dorcas Rush]]
-refersto::[[Arthur Hair Niell]]
-refersto::[[Elizabeth A. Rush]]
-refersto::[[Farley Brookshire Lewis]]
-refersto::[[Calvin Harris Rush]]
-refersto::[[Zebedee Franklin Rush]]
-refersto::[[Frances Rush]]
+refersto::[Benjamin C. Rush](./../../people/Rush-line/Benjamin_C._Rush.html)
+refersto::[Archibald Franklin Rush](./../../people/Rush-line/Archibald_Franklin_Rush.html)
+refersto::[Martha Rush](./../../people/Smith-line/Martha_Rush.html)
+refersto::[William Pearce](./../../people/Smith-line/William_Pearce.html)
+refersto::[Noah Rush](./../../people/Rush-line/Noah_Rush.html)
+refersto::[Henry Rush](./../../people/Rush-line/Henry_Rush.html)
+refersto::[Dorcas Rush](./../../people/Rush-line/Dorcas_Rush.html)
+refersto::[Arthur Hair Niell](./../../people/Randolph_county_lines/Arthur_Hair_Niell.html)
+refersto::[Elizabeth A. Rush](./../../people/Rush-line/Elizabeth_A._Rush.html)
+refersto::[Farley Brookshire Lewis](./../../people/Randolph_county_lines/Lewis/Farley_Brookshire_Lewis.html)
+refersto::[Calvin Harris Rush](./../../people/Rush-line/Calvin_Harris_Rush.html)
+refersto::[Zebedee Franklin Rush](./../../people/Rush-line/Zebedee_Franklin_Rush.html)
+refersto::[Frances Rush](./../../people/Rush-line/Frances_Rush.html)
 refersto::[Drewry Lewis](./../../people/Rush-line/Drewry_Lewis.html)
 
 

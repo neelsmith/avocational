@@ -3,7 +3,7 @@
 
 
 
-refersto::[[Isaac Newton Gattis]]
+refersto::[Isaac Newton Gattis](./../../../people/Gattis-line/Isaac_Newton_Gattis.html)
 Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::August 16, 1870
 

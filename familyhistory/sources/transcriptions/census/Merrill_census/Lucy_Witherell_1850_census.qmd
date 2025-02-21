@@ -1,6 +1,6 @@
 
 
-refersto::[[Lucy Witherell]]
+refersto::[Lucy Witherell](./../../../people/Merrill-line/Lucy_Witherell.html)
 Enumeration::[Bridport, Addison, Vermont](./../../../census-districts/Bridport,_Addison,_Vermont.html)
 Date::1850-07-25
 House::85

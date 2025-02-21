@@ -1,6 +1,6 @@
-refersto::[[Frances Hix]]
-refersto::[[Calvin Harris Rush]]
-refersto::[[William J. Hicks]]
+refersto::[Frances Hix](./../../people/Randolph_county_lines/Hicks/Frances_Hix.html)
+refersto::[Calvin Harris Rush](./../../people/Rush-line/Calvin_Harris_Rush.html)
+refersto::[William J. Hicks](./../../people/Randolph_county_lines/Hicks/William_J._Hicks.html)
 refersto::[Jane Lassiter](./../../people/Randolph_county_lines/Lassiter/Jane_Lassiter.html)
 
 ## Source

@@ -2,7 +2,7 @@
 
 
 
-refersto::[[Martin A. Gattis]]
+refersto::[Martin A. Gattis](./../../../people/Gattis-line/Martin_A._Gattis.html)
 Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::June 10, 1880
 

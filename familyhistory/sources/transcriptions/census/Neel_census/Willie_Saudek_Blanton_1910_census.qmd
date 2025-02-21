@@ -4,7 +4,7 @@
 
 
 
-refersto::[[Willie Saudek Blanton]]
+refersto::[Willie Saudek Blanton](./../../../people/Neel-line/Blanton-line/Willie_Saudek_Blanton.html)
 
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)
 Date::1910-04-28

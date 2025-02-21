@@ -1,7 +1,7 @@
  
 
 
-refersto::[[Zebedee Franklin Rush]]
+refersto::[Zebedee Franklin Rush](./../../../people/Rush-line/Zebedee_Franklin_Rush.html)
 
 Enumeration::[Western division, Randolph, NC](./../../../census-districts/Western_division,_Randolph,_NC.html)
 Date::1860

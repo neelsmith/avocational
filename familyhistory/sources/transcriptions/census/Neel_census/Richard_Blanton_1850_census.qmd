@@ -1,4 +1,4 @@
-refersto::[[Richard Blanton]]
+refersto::[Richard Blanton](./../../../people/Neel-line/Blanton-line/Richard_Blanton.html)
 
 
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)

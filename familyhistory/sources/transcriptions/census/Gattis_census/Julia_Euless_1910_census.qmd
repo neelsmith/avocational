@@ -8,7 +8,7 @@
 
 
 
-refersto::[[Julia B. Euless]]
+refersto::[Julia B. Euless](./../../../people/Gattis-line/Euless-line/Julia_B._Euless.html)
 Enumeration::[Chattanooga Ward 3, Hamilton, Tennessee](./../../../census-districts/Chattanooga_Ward_3,_Hamilton,_Tennessee.html)
 Date::1910-04-18
 Street::West Ninth Street

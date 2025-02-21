@@ -4,7 +4,7 @@
 
 
 
-refersto::[[Julia B. Euless]]
+refersto::[Julia B. Euless](./../../../people/Gattis-line/Euless-line/Julia_B._Euless.html)
 Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::1880-06-10
 

@@ -1,7 +1,7 @@
 
  
 
-refersto::[[Edith Gattis]]
+refersto::[Edith Gattis](./../../../people/Gattis-line/Edith_Gattis.html)
 Enumeration::[Civil District 11, Bedford, Tennessee](./../../../census-districts/Civil_District_11,_Bedford,_Tennessee.html)
 Date::June 5, 1900
 Street::

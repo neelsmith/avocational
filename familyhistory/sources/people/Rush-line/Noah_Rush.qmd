@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [people/Rush-line/Zebedee Rush]()
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

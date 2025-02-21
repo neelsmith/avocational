@@ -1,5 +1,5 @@
-refersto::[[William Goheen Hammond]]
-refersto::[[Wesley Hammond]]
+refersto::[William Goheen Hammond](./../../../people/Hammond-line/William_Goheen_Hammond.html)
+refersto::[Wesley Hammond](./../../../people/Hammond-line/Wesley_Hammond.html)
 refersto::[Mayberry Hammond](./../../../people/Hammond-line/Mayberry_Hammond.html)
 
 

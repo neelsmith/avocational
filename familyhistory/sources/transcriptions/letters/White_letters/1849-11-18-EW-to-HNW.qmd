@@ -1,12 +1,12 @@
 
  
 
-refersto::[[Ebenezer White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Hiram Smith White]]
-refersto::[[Candace Smith]]
-refersto::[[Cynthia Sawyer]]
-refersto::[[Adaline White]]
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Candace Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 
 

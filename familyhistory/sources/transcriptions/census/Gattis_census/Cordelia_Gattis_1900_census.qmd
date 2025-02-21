@@ -4,7 +4,7 @@
 
 
 
-refersto::[[Cordelia Gattis]]
+refersto::[Cordelia Gattis](./../../../people/Gattis-line/Cordelia_Gattis.html)
 Enumeration::[Wartrace, Bedford, Tennessee](./../../../census-districts/Wartrace,_Bedford,_Tennessee.html)
 Date::June 1, 1900
 Street::Mill Alley

@@ -14,20 +14,21 @@ engine: julia
 
 **Father**: [Aaron Merrill](./Aaron_Merrill.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1910-10-13 | [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

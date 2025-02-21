@@ -1,6 +1,6 @@
  
 
-refersto::[[James Marion Neel]]
+refersto::[James Marion Neel](./../../../people/Neel-line/James_Marion_Neel.html)
 
 
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)

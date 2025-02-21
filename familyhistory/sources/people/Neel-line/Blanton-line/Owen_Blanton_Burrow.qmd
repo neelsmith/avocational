@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [Samuel Richardson Burrow](./Samuel_Richardson_Burrow.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

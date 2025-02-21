@@ -2,7 +2,7 @@
 
  
 
-refersto::[[Thomas G. Gattis]]
+refersto::[Thomas G. Gattis](./../../../people/Gattis-line/Thomas_G._Gattis.html)
 Enumeration::[Civil District 11, Bedford, Tennessee](./../../../census-districts/Civil_District_11,_Bedford,_Tennessee.html)
 Date::June 5, 1900
 Street::

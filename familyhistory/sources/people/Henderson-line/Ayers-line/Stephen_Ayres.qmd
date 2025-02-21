@@ -14,14 +14,15 @@ engine: julia
 
 **Father**: [Jabez Ayers](./../../Jabez_Ayers.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1770-02-16 | [Stephen Ayers birth](./../../../transcriptions/vitals/Stephen_Ayers_birth.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

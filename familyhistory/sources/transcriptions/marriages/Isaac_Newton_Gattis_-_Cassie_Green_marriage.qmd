@@ -1,4 +1,4 @@
-refersto::[[Isaac Newton Gattis]]
+refersto::[Isaac Newton Gattis](./../../people/Gattis-line/Isaac_Newton_Gattis.html)
 refersto::[Cassie Green](./../../people/Gattis-line/Green-line/Cassie_Green.html)
 
 ## Citation

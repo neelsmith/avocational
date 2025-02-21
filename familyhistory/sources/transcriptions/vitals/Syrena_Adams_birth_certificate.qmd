@@ -1,5 +1,5 @@
 
-refersto::[[Syrena Adams]]
+refersto::[Syrena Adams](./../../people/Merrill-line/White-line/Syrena_Adams.html)
 
 ## Citation
 
@@ -19,7 +19,7 @@ Original data:State of Vermont. Vermont Vital Records through 1870. New England 
 
 Date of birth: Oct. 26, 1808
 
-Mother: [[Elizabeth Stagg]]
+Mother: [Elizabeth Stagg](./../../people/Merrill-line/White-line/Elizabeth_Stagg.html)
 Place of birth: Panton, Vt.
 Father: [Friend Adams](./../../people/Merrill-line/White-line/Friend_Adams.html)
 

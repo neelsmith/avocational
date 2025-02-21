@@ -1,5 +1,5 @@
 
-refersto::[[Anna Serena White]]
+refersto::[Anna Serena White](./../../../people/Merrill-line/White-line/Anna_Serena_White.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::1880-06-11
 

@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [Ephraim Smith](./Ephraim_Smith.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

@@ -14,21 +14,22 @@ engine: julia
 
 **Father**: [John Owen Blanton](./John_Owen_Blanton.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1877-12-24 | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1941-03-25 | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

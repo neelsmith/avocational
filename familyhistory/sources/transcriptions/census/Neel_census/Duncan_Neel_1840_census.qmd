@@ -1,7 +1,7 @@
  
 
 
-refersto::[[Duncan Neel]]
+refersto::[Duncan Neel](./../../../people/Neel-line/Duncan_Neel.html)
 Enumeration::[Coffee, Tennessee](./../../../census-districts/Coffee,_Tennessee.html)
 Date::
 Head of family::Duncan Neale

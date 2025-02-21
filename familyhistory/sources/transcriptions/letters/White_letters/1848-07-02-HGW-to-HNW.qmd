@@ -3,18 +3,18 @@
 
  
 
-refersto::[[Horatio Nelson White]]
-refersto::[[Henry George White]]
-refersto::[[Charles H. White]]
-refersto::[[George W. White]]
-refersto::[[Ann Quayle]]
-refersto::[[Ann Eliza White]]
-refersto::[[William E. White]]
-refersto::[[Friend Adams White]]
-refersto::[[Frances E. White]]
-refersto::[[George A. White]]
-refersto::[[Syrena Adams]]
-refersto::[[Artemas White]]
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
+refersto::[George W. White](./../../../people/Merrill-line/White-line/George_W._White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 
 

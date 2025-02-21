@@ -14,21 +14,22 @@ engine: julia
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1891-02-19 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1967-11-27 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
 
-## Sources for parents
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

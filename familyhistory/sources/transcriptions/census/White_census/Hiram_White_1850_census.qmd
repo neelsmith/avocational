@@ -1,6 +1,6 @@
 
 
-refersto::[[Hiram Smith White]]
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 Enumeration::[Burlington, Chittenden, Vermont](./../../../census-districts/Burlington,_Chittenden,_Vermont.html)
 Date::August 20, 1810
 House::525

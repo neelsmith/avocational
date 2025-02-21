@@ -1,5 +1,5 @@
-refersto::[[John Merrill Henderson]]
-refersto::[[Shelley Ann Lindner]]
+refersto::[John Merrill Henderson](./../../people/Henderson-line/John_Merrill_Henderson.html)
+refersto::[Shelley Ann Lindner](./../../people/Lindner-line/Shelley_Ann_Lindner.html)
 
 ## Citation
 Ancestry.com. _Ohio, U.S., County Marriage Records, 1774-1993_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2016.

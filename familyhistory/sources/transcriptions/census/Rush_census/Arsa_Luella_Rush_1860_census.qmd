@@ -1,4 +1,4 @@
-refersto::[[Arsa Luella Rush]]
+refersto::[Arsa Luella Rush](./../../../people/Rush-line/Arsa_Luella_Rush.html)
 
 
 Enumeration::[Western division, Randolph, NC](./../../../census-districts/Western_division,_Randolph,_NC.html)

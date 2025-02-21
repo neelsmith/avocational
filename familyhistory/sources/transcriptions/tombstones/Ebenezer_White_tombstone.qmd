@@ -1,6 +1,6 @@
-refersto::[[Ebenezer White]] 
-refersto::[[Candace Smith]]
-refersto::[[Adaline White]]
+refersto::[Ebenezer White](./../../people/Merrill-line/White-line/Ebenezer_White.html) 
+refersto::[Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
+refersto::[Adaline White](./../../people/Merrill-line/White-line/Adaline_White.html)
 cemetery::[Burlington, Elmwood cemetery](./../../cemeteries/Burlington,_Elmwood_cemetery.html)
 
 

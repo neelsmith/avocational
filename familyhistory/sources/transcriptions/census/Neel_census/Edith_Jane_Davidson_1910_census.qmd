@@ -1,7 +1,7 @@
  
 
 
-refersto::[[Edith Jane Davidson]]
+refersto::[Edith Jane Davidson](./../../../people/Neel-line/Edith_Jane_Davidson.html)
 
 
 Enumeration::[District 5, Coffee, Tennessee](./../../../census-districts/District_5,_Coffee,_Tennessee.html)

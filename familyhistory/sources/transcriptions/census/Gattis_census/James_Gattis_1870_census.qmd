@@ -4,7 +4,7 @@
 
 
 
-refersto::[[James Gattis]]
+refersto::[James Gattis](./../../../people/Gattis-line/James_Gattis.html)
 Enumeration::[District 23, Bedford, Tennessee](./../../../census-districts/District_23,_Bedford,_Tennessee.html)
 Date::August 16, 1870
 

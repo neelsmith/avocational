@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [John Merrill Henderson](./../Henderson-line/John_Merrill_Henderson.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

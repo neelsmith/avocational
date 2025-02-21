@@ -1,5 +1,5 @@
 
-refersto::[[Ellen Grandey]]
+refersto::[Ellen Grandey](./../../../people/Merrill-line/Grandey-line/Ellen_Grandey.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::1850-10-16
 House::43

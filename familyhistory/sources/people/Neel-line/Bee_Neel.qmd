@@ -14,14 +14,15 @@ engine: julia
 
 **Father**: [?]()
 
-## Sources for birth
+## Sources
+Sources for birth:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
 | 1911-02-15 | [Bee Neel in CA birth index](./../../transcriptions/vitals/Bee_Neel_in_CA_birth_index.html) | direct |
 
-## Sources for death
+Sources for death:
 
 
 | Date | Source | Type |

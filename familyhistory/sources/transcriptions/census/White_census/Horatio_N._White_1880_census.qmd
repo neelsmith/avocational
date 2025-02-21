@@ -1,6 +1,6 @@
  
 
-refersto::[[Horatio Nelson White]]
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::June 24, 1880
 

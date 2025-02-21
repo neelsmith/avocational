@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [Robert Wilburn Neel](./Robert_Wilburn_Neel.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |

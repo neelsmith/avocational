@@ -6,11 +6,11 @@
  
 
 
-refersto::[[Ebenezer White]]
-refersto::[[Horatio Nelson White]]
-refersto::[[Cynthia Sawyer]]
-refersto::[[Hiram Smith White]]
-refersto::[[Syrena Adams]]
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
 
 
 

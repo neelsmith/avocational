@@ -1,9 +1,9 @@
 
  
 
-refersto::[[Horatio Nelson White]]
-refersto::[[Ebenezer White]]
-refersto::[[Friend Adams White]]
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
 
 ## Notes
 

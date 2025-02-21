@@ -2,7 +2,7 @@
  
 
 
-refersto::[[Calvin Harris Rush]]
+refersto::[Calvin Harris Rush](./../../../people/Rush-line/Calvin_Harris_Rush.html)
 Enumeration::[Western division, Randolph, NC](./../../../census-districts/Western_division,_Randolph,_NC.html)
 Date::1860-08-18
 House::1257

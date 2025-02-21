@@ -14,7 +14,8 @@ engine: julia
 
 **Father**: [A. Barton](./A._Barton.html)
 
-## Sources for parents
+## Sources
+## Sources for parents:
 
 
 | Father | Mother | Source | Type |
