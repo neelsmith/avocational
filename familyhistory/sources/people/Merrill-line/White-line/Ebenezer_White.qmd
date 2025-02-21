@@ -3,9 +3,63 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ebenezer White
 
 
+*born* 1779-07-09 : *died* ?
+
+**Mother**: [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)
+
+**Father**: [Benjamin White](./Benjamin_White.html)
+
+**Children with [Candace Smith](./Candace-Smith-line/Candace_Smith.html)**:
 
 
-Private information: Ebenezer White not identified as deceased.
+- [Horatio Nelson White](./Horatio_Nelson_White.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Ebenezer_White[Ebenezer White] -->  Benjamin_White[Benjamin White]
+Ebenezer_White[Ebenezer White]  --> Ruth_Wilson[Ruth Wilson]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Ebenezer_White[Ebenezer White] --> Ebenezer_White+Candace_Smith[ ]
+Candace_Smith[Candace Smith] --> Ebenezer_White+Candace_Smith[ ]
+Ebenezer_White+Candace_Smith[ ] --> Horatio_Nelson_White[Horatio Nelson White]
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1771 |   | [Ebenezer White 1850 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Benjamin White](./Benjamin_White.html) | [Ruth Wilson](./Wilson-line/Ruth_Wilson.html) | [Ebenezer White birth](./../../../transcriptions/vitals/Ebenezer_White_birth.html) | direct |
+
+Sources for children with [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
+
+
+- [Horatio White - Susan Spaulding marriage](./../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html)
+
+
