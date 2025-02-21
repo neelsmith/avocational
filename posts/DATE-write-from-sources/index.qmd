@@ -1,0 +1,15 @@
+---
+title: "Writing from sources"
+engine: julia
+description: "Writing from sources means publishing transcribed and documented sources first."
+author:
+  - name: Neel Smith
+date: 2025-02-22
+categories: [] # self-defined categories
+citation: 
+  url: https://neelsmith.quarto.pub/posts/2025-02-22-write-from-sources/ 
+image: filled-w-grief.png
+draft: true
+---
+
+## Writing *from* sources, not *with* sources
