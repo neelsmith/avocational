@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Amy Anna Harvey
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Amy Anna Harvey not identified as deceased.
+**Father**: [?]()

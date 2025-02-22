@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Henry George White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Henry George White not identified as deceased.
+**Father**: [?]()

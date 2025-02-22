@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mary Hyde
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Mary Hyde not identified as deceased.
+**Father**: [?]()

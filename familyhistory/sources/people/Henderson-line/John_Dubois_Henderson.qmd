@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Dubois Henderson
 
 
+*born* ? : *died* ?
+
+**Mother**: [Frances Dubois](./Dubois-line/Frances_Dubois.html)
+
+**Father**: [John Dryden Henderson](./John_Dryden_Henderson.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: John Dubois Henderson not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

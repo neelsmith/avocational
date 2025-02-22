@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Samuel Allen Henley
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Samuel Allen Henley not identified as deceased.
+**Father**: [?]()

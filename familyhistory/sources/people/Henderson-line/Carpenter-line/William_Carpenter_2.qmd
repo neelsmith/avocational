@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # William Carpenter 2
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: William Carpenter 2 not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,47 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Willie Saudek Blanton
 
 
+*born* 1877-12-24 : *died* 1941-03-25
+
+**Mother**: [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html)
+
+**Father**: [John Owen Blanton](./John_Owen_Blanton.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Willie_Saudek_Blanton[Willie Saudek Blanton] -->  John_Owen_Blanton[John Owen Blanton]
+Willie_Saudek_Blanton[Willie Saudek Blanton]  --> Leonora_Josephine_Saudek[Leonora Josephine Saudek]
+Leonora_Josephine_Saudek[Leonora Josephine Saudek] -->  Joseph_Saudek[Joseph Saudek]
+Leonora_Josephine_Saudek[Leonora Josephine Saudek]  --> Nancy_Eliza_Northern[Nancy Eliza Northern]
+```
 
 
-Private information: Willie Saudek Blanton not identified as deceased.
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1877-12-24 |  | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1941-03-25 | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [John Owen Blanton](./John_Owen_Blanton.html) | [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html) | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | direct |

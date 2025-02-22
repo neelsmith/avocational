@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Margaret Carpenter
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Margaret Carpenter not identified as deceased.
+**Father**: [?]()

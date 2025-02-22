@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # James Green
 
 
+*born* ? : *died* ?
+
+**Mother**: [Sarah Phillips](./Sarah_Phillips.html)
+
+**Father**: [William Green](./William_Green.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: James Green not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

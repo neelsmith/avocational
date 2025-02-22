@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Tillinghast
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: John Tillinghast not identified as deceased.
+**Father**: [?]()

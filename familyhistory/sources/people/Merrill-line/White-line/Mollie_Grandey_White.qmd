@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mollie Grandey White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Mollie Grandey White not identified as deceased.
+**Father**: [?]()

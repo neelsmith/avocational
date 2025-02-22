@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Barent Dubois
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Barent Dubois not identified as deceased.
+**Father**: [?]()

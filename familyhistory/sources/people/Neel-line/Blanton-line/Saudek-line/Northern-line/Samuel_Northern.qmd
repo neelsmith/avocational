@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Samuel Northern
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Samuel Northern not identified as deceased.
+**Father**: [?]()

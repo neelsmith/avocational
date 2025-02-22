@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # James Harris
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: James Harris not identified as deceased.
+**Father**: [?]()

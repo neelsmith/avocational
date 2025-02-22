@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # William E. White
 
 
+*born* ? : *died* ?
+
+**Mother**: [Syrena Adams](./Syrena_Adams.html)
+
+**Father**: [Horatio Nelson White](./Horatio_Nelson_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: William E. White not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

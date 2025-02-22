@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Susanna Merrill
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Susanna Merrill not identified as deceased.
+**Father**: [?]()

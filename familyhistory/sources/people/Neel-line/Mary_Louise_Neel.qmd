@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mary Louise Neel
 
 
+*born* ? : *died* ?
+
+**Mother**: [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html)
+
+**Father**: [Robert Wilburn Neel](./Robert_Wilburn_Neel.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: Mary Louise Neel not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

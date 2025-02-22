@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Catherine Cook
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Catherine Cook not identified as deceased.
+**Father**: [?]()

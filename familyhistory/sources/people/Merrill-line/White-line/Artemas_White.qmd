@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Artemas White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Artemas White not identified as deceased.
+**Father**: [?]()

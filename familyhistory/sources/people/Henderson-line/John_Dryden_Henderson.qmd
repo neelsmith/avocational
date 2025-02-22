@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Dryden Henderson
 
 
+*born* ? : *died* ?
+
+**Mother**: [Angeline Ayers](./Ayers-line/Angeline_Ayers.html)
+
+**Father**: [Nathaniel S. Henderson](./Nathaniel_S._Henderson.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: John Dryden Henderson not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

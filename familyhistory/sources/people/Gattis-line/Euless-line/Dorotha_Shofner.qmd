@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Dorotha Shofner
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Dorotha Shofner not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Arthur Warren
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Arthur Warren not identified as deceased.
+**Father**: [?]()

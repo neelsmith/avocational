@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Frances Dubois
 
 
+*born* ? : *died* ?
+
+**Mother**: [Sarah Tillinghast](./../Tillinghast-line/Sarah_Tillinghast.html)
+
+**Father**: [David Dubois](./David_Dubois.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: Frances Dubois not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

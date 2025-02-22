@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Abraham Brown
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Abraham Brown not identified as deceased.
+**Father**: [?]()

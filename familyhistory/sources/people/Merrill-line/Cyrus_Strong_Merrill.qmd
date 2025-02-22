@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Cyrus Strong Merrill
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Cyrus Strong Merrill not identified as deceased.
+**Father**: [?]()

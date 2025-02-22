@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Jacob Lassiter
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Jacob Lassiter not identified as deceased.
+**Father**: [?]()

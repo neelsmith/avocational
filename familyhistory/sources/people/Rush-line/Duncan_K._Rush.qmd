@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Duncan K. Rush
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Duncan K. Rush not identified as deceased.
+**Father**: [?]()

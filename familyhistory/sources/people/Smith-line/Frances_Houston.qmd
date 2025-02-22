@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Frances Houston
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Frances Houston not identified as deceased.
+**Father**: [?]()

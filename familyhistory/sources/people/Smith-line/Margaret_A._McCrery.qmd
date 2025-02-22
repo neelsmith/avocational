@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Margaret A. McCrery
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Margaret A. McCrery not identified as deceased.
+**Father**: [?]()

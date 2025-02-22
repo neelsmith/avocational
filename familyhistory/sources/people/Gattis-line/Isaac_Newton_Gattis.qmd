@@ -3,9 +3,42 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Isaac Newton Gattis
 
 
+*born* 1866 : *died* 1939
+
+**Mother**: [Julia B. Euless](./Euless-line/Julia_B._Euless.html)
+
+**Father**: [Thomas A. Gattis](./Thomas_A._Gattis.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: Isaac Newton Gattis not identified as deceased.
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1939 | [I.N. Gattis death certificate summary](./../../transcriptions/vitals/I.N._Gattis_death_certificate_summary.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

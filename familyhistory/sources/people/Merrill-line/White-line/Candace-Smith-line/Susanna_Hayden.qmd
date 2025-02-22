@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Susanna Hayden
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Susanna Hayden not identified as deceased.
+**Father**: [?]()

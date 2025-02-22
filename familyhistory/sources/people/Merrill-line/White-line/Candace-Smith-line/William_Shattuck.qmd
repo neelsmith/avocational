@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # William Shattuck
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: William Shattuck not identified as deceased.
+**Father**: [?]()

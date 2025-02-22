@@ -3,9 +3,42 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Adam Euless
 
 
+*born* 1778-11-22 : *died* 1843-12-22
+
+**Mother**: [Elizabeth Euless](./Elizabeth_Euless.html)
+
+**Father**: [Philip Euless](./../Philip_Euless.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: Adam Euless not identified as deceased.
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1778-11-22 |   | [Adam Euless tombstone](./../../../transcriptions/tombstones/Adam_Euless_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

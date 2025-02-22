@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Jerusha Bigelow
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Jerusha Bigelow not identified as deceased.
+**Father**: [?]()

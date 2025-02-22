@@ -3,9 +3,78 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Frances Hix
 
 
+*born* 1852-07-10 : *died* 1925-11-25
+
+**Mother**: [Jane Lassiter](./../Lassiter/Jane_Lassiter.html)
+
+**Father**: [William J. Hicks](./William_J._Hicks.html)
+
+**Children with [Calvin Harris Rush](./../../Rush-line/Calvin_Harris_Rush.html)**:
 
 
-Private information: Frances Hix not identified as deceased.
+- [Clarence Harris Rush](./../../Rush-line/Clarence_Harris_Rush.html)
+
+- [Mona Rush](./../../Rush-line/Mona_Rush.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Frances_Hix[Frances Hix] -->  William_J._Hicks[William J. Hicks]
+Frances_Hix[Frances Hix]  --> Jane_Lassiter[Jane Lassiter]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Frances_Hix[Frances Hix] --> Frances_Hix+Calvin_Harris_Rush[ ]
+Calvin_Harris_Rush[Calvin Harris Rush] --> Frances_Hix+Calvin_Harris_Rush[ ]
+Frances_Hix+Calvin_Harris_Rush[ ] --> Clarence_Harris_Rush[Clarence Harris Rush]
+Frances_Hix+Calvin_Harris_Rush[ ] --> Mona_Rush[Mona Rush]
+Mona_Rush[Mona Rush] --> [[Mona_Rush]]+[ ]
+[] --> [[Mona_Rush]]+[ ]
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1852-07-10 |  | [Frances Hix tombstone](./../../../transcriptions/tombstones/Frances_Hix_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1925-11-13 | []() | direct |
+| 1925-11-13 | [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [William J. Hicks](./William_J._Hicks.html) | [Jane Lassiter](./../Lassiter/Jane_Lassiter.html) | [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html) | direct |
+
+Sources for children with [Calvin Harris Rush](./../../Rush-line/Calvin_Harris_Rush.html)
+
+
+- [1900 census](./../../../census-summaries/1900_census.html)
+
+- [Mona Rush death certificate](./../../../transcriptions/vitals/Mona_Rush_death_certificate.html)
+
+

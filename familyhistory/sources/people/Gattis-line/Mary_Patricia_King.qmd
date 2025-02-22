@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mary Patricia King
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Mary Patricia King not identified as deceased.
+**Father**: [?]()

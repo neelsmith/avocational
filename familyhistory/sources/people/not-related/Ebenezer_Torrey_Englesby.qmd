@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ebenezer Torrey Englesby
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Ebenezer Torrey Englesby not identified as deceased.
+**Father**: [?]()

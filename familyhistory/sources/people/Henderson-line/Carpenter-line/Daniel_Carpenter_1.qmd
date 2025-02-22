@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Daniel Carpenter 1
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Daniel Carpenter 1 not identified as deceased.
+**Father**: [?]()

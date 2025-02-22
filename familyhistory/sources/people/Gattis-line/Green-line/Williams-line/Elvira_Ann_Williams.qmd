@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Elvira Ann Williams
 
 
+*born* ? : *died* ?
+
+**Mother**: [Sallie T.  Harris](./Sallie_T.__Harris.html)
+
+**Father**: [David Williams](./David_Williams.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: Elvira Ann Williams not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

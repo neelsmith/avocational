@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Nellie Barber
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Nellie Barber not identified as deceased.
+**Father**: [?]()

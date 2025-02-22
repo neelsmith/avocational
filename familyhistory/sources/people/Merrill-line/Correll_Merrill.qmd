@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Correll Merrill
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Correll Merrill not identified as deceased.
+**Father**: [?]()

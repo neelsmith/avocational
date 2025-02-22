@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Elizabeth Nation
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Elizabeth Nation not identified as deceased.
+**Father**: [?]()

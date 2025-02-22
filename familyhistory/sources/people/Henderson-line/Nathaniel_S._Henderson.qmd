@@ -3,9 +3,29 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Nathaniel S. Henderson
 
 
+*born* ? : *died* ?
+
+**Mother**: [Margaret Carpenter](./Carpenter-line/Margaret_Carpenter.html)
+
+**Father**: [Daniel Clyde Henderson](./Daniel_Clyde_Henderson.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: Nathaniel S. Henderson not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Susan Willis
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Susan Willis not identified as deceased.
+**Father**: [?]()

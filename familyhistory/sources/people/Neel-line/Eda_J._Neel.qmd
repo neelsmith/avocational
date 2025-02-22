@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Eda J. Neel
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Eda J. Neel not identified as deceased.
+**Father**: [?]()

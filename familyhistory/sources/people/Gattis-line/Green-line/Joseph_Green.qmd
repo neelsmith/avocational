@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Joseph Green
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Joseph Green not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Jesse Grandey
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Jesse Grandey not identified as deceased.
+**Father**: [?]()

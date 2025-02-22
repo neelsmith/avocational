@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Martha Jane Hammond
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Martha Jane Hammond not identified as deceased.
+**Father**: [?]()

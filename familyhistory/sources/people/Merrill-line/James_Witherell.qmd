@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # James Witherell
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: James Witherell not identified as deceased.
+**Father**: [?]()

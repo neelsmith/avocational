@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Samuel Turrentine
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Samuel Turrentine not identified as deceased.
+**Father**: [?]()

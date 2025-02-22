@@ -3,9 +3,56 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Zachariah Smith
 
 
+*born* ? : *died* ?
+
+**Mother**: [Susanah Grout](./../../Susanah_Grout.html)
+
+**Father**: [Zachia Smith](./../../Zachia_Smith.html)
+
+**Children with [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)**:
 
 
-Private information: Zachariah Smith not identified as deceased.
+- [Lydia Jepson Smith](./Lydia_Jepson_Smith.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Zachariah_Smith[Zachariah Smith] -->  Zachia_Smith[Zachia Smith]
+Zachariah_Smith[Zachariah Smith]  --> Susanah_Grout[Susanah Grout]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Zachariah_Smith[Zachariah Smith] --> Zachariah_Smith+Lydia_Hastings_Smith[ ]
+Lydia_Hastings_Smith[Lydia Hastings Smith] --> Zachariah_Smith+Lydia_Hastings_Smith[ ]
+Zachariah_Smith+Lydia_Hastings_Smith[ ] --> Lydia_Jepson_Smith[Lydia Jepson Smith]
+```
+
+
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Zachia Smith](./../../Zachia_Smith.html) | [Susanah Grout](./../../Susanah_Grout.html) | [Zachariah Smith birth record](./../../../../transcriptions/vitals/Zachariah_Smith_birth_record.html) | direct |
+
+Sources for children with [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)
+
+
+- [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html)
+
+

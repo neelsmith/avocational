@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Zerubbabel Snow
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Zerubbabel Snow not identified as deceased.
+**Father**: [?]()

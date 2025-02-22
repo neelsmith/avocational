@@ -3,9 +3,28 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Arsa Luella Rush
 
 
+*born* 1858-01-16 : *died* 1894-03-11
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources
+Sources for birth:
 
 
-Private information: Arsa Luella Rush not identified as deceased.
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1858-01-16 |  | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1894-03-11 | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |

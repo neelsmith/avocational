@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Samuel Melanthan Smith
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Samuel Melanthan Smith not identified as deceased.
+**Father**: [?]()

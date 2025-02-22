@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Shelley Ann Lindner
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Shelley Ann Lindner not identified as deceased.
+**Father**: [?]()

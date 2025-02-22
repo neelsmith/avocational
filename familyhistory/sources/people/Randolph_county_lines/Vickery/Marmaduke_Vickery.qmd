@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Marmaduke Vickery
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Marmaduke Vickery not identified as deceased.
+**Father**: [?]()

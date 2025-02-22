@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Hannah Watts
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Hannah Watts not identified as deceased.
+**Father**: [?]()

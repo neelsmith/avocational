@@ -3,9 +3,33 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Lydia Jepson Smith
 
 
+*born* ? : *died* ?
+
+**Mother**: [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)
+
+**Father**: [Zachariah Smith](./Zachariah_Smith.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Lydia_Jepson_Smith[Lydia Jepson Smith] -->  Zachariah_Smith[Zachariah Smith]
+Zachariah_Smith[Zachariah Smith] -->  Zachia_Smith[Zachia Smith]
+Zachariah_Smith[Zachariah Smith]  --> Susanah_Grout[Susanah Grout]
+Lydia_Jepson_Smith[Lydia Jepson Smith]  --> Lydia_Hastings_Smith[Lydia Hastings Smith]
+```
 
 
-Private information: Lydia Jepson Smith not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Zachariah Smith](./Zachariah_Smith.html) | [Lydia Hastings Smith](./Lydia_Hastings_Smith.html) | [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html) | direct |

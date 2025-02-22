@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Samuel Carpenter
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Samuel Carpenter not identified as deceased.
+**Father**: [?]()

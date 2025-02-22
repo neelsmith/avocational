@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Honor Hopkins
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Honor Hopkins not identified as deceased.
+**Father**: [?]()

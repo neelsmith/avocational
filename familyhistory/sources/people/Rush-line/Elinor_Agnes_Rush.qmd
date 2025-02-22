@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Elinor Agnes Rush
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Elinor Agnes Rush not identified as deceased.
+**Father**: [?]()

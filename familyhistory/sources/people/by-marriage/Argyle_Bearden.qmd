@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Argyle Bearden
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Argyle Bearden not identified as deceased.
+**Father**: [?]()

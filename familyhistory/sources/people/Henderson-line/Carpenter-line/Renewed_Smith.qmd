@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Renewed Smith
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Renewed Smith not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,41 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # John Merrill Henderson
 
 
+*born* 1928-04-27 : *died* 2020-11-04
+
+**Mother**: [Marguerite Merrill](./../Merrill-line/Marguerite_Merrill.html)
+
+**Father**: [John Dubois Henderson](./John_Dubois_Henderson.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
 
 
-Private information: John Merrill Henderson not identified as deceased.
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |

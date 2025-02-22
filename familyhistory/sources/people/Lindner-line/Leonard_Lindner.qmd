@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Leonard Lindner
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Leonard Lindner not identified as deceased.
+**Father**: [?]()

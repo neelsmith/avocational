@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Hannah Smith
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Hannah Smith not identified as deceased.
+**Father**: [?]()

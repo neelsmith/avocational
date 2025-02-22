@@ -3,9 +3,35 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Clarence Harris Rush
 
 
+*born* ? : *died* ?
+
+**Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
+
+**Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Clarence_Harris_Rush[Clarence Harris Rush] -->  Calvin_Harris_Rush[Calvin Harris Rush]
+Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
+Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
+Clarence_Harris_Rush[Clarence Harris Rush]  --> Frances_Hix[Frances Hix]
+Frances_Hix[Frances Hix] -->  William_J._Hicks[William J. Hicks]
+Frances_Hix[Frances Hix]  --> Jane_Lassiter[Jane Lassiter]
+```
 
 
-Private information: Clarence Harris Rush not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [1900 census](./../../census-summaries/1900_census.html) | indirect |

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Edith Jane Davidson
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Edith Jane Davidson not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Louis Dubois
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Louis Dubois not identified as deceased.
+**Father**: [?]()

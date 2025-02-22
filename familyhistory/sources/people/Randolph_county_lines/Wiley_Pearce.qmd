@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Wiley Pearce
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Wiley Pearce not identified as deceased.
+**Father**: [?]()

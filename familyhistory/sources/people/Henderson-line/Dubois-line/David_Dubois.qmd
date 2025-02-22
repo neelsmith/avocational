@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # David Dubois
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: David Dubois not identified as deceased.
+**Father**: [?]()

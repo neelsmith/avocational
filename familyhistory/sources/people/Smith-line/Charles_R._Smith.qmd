@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Charles R. Smith
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Charles R. Smith not identified as deceased.
+**Father**: [?]()

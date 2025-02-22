@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Micajah Benson Lassiter
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Micajah Benson Lassiter not identified as deceased.
+**Father**: [?]()

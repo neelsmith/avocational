@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Abraham Browne Sr.
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Abraham Browne Sr. not identified as deceased.
+**Father**: [?]()

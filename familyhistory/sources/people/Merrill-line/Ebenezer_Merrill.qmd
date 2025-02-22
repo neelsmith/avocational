@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ebenezer Merrill
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Ebenezer Merrill not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,56 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Stephen Ayres
 
 
+*born* 1770-02-16 : *died* ?
+
+**Mother**: [Persis Ayers](./../../Persis_Ayers.html)
+
+**Father**: [Jabez Ayers](./../../Jabez_Ayers.html)
+
+**Children with []()**:
 
 
-Private information: Stephen Ayres not identified as deceased.
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Stephen_Ayres[Stephen Ayres] --> Stephen_Ayres+[ ]
+[] --> Stephen_Ayres+[ ]
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1770-02-16 | New Braintree, MA | [Stephen Ayers birth](./../../../transcriptions/vitals/Stephen_Ayers_birth.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+
+Sources for children with []()
+
+
+

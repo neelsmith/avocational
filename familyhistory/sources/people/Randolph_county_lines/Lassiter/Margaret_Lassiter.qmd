@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Margaret Lassiter
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Margaret Lassiter not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ellen F. Smith
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Ellen F. Smith not identified as deceased.
+**Father**: [?]()

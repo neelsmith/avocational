@@ -3,9 +3,30 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Angeline Ayers
 
 
+*born* ? : *died* ?
+
+**Mother**: [Rocena Snow](./Rocena_Snow.html)
+
+**Father**: [Stephen Ayres](./Stephen_Ayres.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Angeline_Ayers[Angeline Ayers] -->  Stephen_Ayres[Stephen Ayres]
+```
 
 
-Private information: Angeline Ayers not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Stephen Ayres](./Stephen_Ayres.html) | []() | [Stephen Ayres will](./../../../transcriptions/wills/Stephen_Ayres_will.html) | direct |

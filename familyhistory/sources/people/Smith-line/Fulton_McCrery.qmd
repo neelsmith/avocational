@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Fulton McCrery
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Fulton McCrery not identified as deceased.
+**Father**: [?]()

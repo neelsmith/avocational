@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Eunice Roxanna Rush
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Eunice Roxanna Rush not identified as deceased.
+**Father**: [?]()

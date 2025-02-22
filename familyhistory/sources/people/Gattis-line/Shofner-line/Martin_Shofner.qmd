@@ -3,9 +3,28 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Martin Shofner
 
 
+*born* 1758-12-03 : *died* 1838-09-30
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+## Sources
+Sources for birth:
 
 
-Private information: Martin Shofner not identified as deceased.
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1758-12-03 |  | [Martin Shofner tombstone](./../../../transcriptions/tombstones/Martin_Shofner_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1838-09-30 | [Martin Shofner tombstone](./../../../transcriptions/tombstones/Martin_Shofner_tombstone.html) | direct |

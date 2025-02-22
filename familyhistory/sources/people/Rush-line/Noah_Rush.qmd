@@ -3,9 +3,61 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Noah Rush
 
 
+*born* ? : *died* ?
+
+**Mother**: [Frances Fuller](./../Randolph_county_lines/Frances_Fuller.html)
+
+**Father**: [people/Rush-line/Zebedee Rush]()
+
+**Children with [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)**:
 
 
-Private information: Noah Rush not identified as deceased.
+- [Calvin Harris Rush](./Calvin_Harris_Rush.html)
+
+- [Roxanna Rush](./Roxanna_Rush.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Noah_Rush[Noah Rush] --> Noah_Rush+Sarah_Loflin[ ]
+Sarah_Loflin[Sarah Loflin] --> Noah_Rush+Sarah_Loflin[ ]
+Noah_Rush+Sarah_Loflin[ ] --> Calvin_Harris_Rush[Calvin Harris Rush]
+Calvin_Harris_Rush[Calvin Harris Rush] --> [[Calvin_Harris_Rush]]+Frances_Hix[ ]
+Frances_Hix[Frances Hix] --> [[Calvin_Harris_Rush]]+Frances_Hix[ ]
+Noah_Rush+Sarah_Loflin[ ] --> Roxanna_Rush[Roxanna Rush]
+```
+
+
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+
+Sources for children with [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
+
+
+- [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
+
+- [Roxanna Rush 1860 census](./../../transcriptions/census/Rush_census/Roxanna_Rush_1860_census.html)
+
+

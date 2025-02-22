@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Anna Margaretha Fogelman
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Anna Margaretha Fogelman not identified as deceased.
+**Father**: [?]()

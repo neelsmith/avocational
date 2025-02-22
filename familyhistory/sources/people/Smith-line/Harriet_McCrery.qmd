@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Harriet McCrery
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Harriet McCrery not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,31 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ellen Grandey
 
 
+*born* ? : *died* ?
+
+**Mother**: [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html)
+
+**Father**: [Truman Grandey](./Truman_Grandey.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Ellen_Grandey[Ellen Grandey] -->  Truman_Grandey[Truman Grandey]
+Ellen_Grandey[Ellen Grandey]  --> Polly_Myrick[Polly Myrick]
+```
 
 
-Private information: Ellen Grandey not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Truman Grandey](./Truman_Grandey.html) | [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html) | [Ellen M. Grandy marriage record](./../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html) | direct |

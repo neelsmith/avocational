@@ -3,9 +3,40 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Joseph Saudek
 
 
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)**:
 
 
-Private information: Joseph Saudek not identified as deceased.
+- [Leonora Josephine Saudek](./Leonora_Josephine_Saudek.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Joseph_Saudek[Joseph Saudek] --> Joseph_Saudek+Nancy_Eliza_Northern[ ]
+Nancy_Eliza_Northern[Nancy Eliza Northern] --> Joseph_Saudek+Nancy_Eliza_Northern[ ]
+Joseph_Saudek+Nancy_Eliza_Northern[ ] --> Leonora_Josephine_Saudek[Leonora Josephine Saudek]
+Leonora_Josephine_Saudek[Leonora Josephine Saudek] --> [[Leonora_Josephine_Saudek]]+John_Owen_Blanton[ ]
+John_Owen_Blanton[John Owen Blanton] --> [[Leonora_Josephine_Saudek]]+John_Owen_Blanton[ ]
+```
+
+
+
+Sources for children with [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)
+
+
+- [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html)
+
+

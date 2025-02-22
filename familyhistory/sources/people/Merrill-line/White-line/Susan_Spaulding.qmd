@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Susan Spaulding
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Susan Spaulding not identified as deceased.
+**Father**: [?]()

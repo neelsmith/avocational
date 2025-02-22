@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Pardon "Molasses" Tillinghast
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Pardon "Molasses" Tillinghast not identified as deceased.
+**Father**: [?]()

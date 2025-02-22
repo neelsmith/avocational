@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Ann Eliza White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Ann Eliza White not identified as deceased.
+**Father**: [?]()

@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Juanita Rush
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Juanita Rush not identified as deceased.
+**Father**: [?]()
