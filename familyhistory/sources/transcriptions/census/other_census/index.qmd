@@ -11,4 +11,3 @@ engine: julia
 - [James Searcy 1900 census](./James Searcy 1900 census.html)
 - [Lou Haynes 1890 census](./Lou Haynes 1890 census.html)
 - [Mary Kennedy 1850 census](./Mary Kennedy 1850 census.html)
-- [index](./index.html)

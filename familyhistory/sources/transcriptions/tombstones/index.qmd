@@ -27,4 +27,3 @@ engine: julia
 - [Sarah Jane Barton tombstone](./Sarah Jane Barton tombstone.html)
 - [Thomas A. Gattis tombstone](./Thomas A. Gattis tombstone.html)
 - [William J. Hix tombstone](./William J. Hix tombstone.html)
-- [index](./index.html)

@@ -7,4 +7,3 @@ engine: julia
 - [Duncan Neel Tennessee land grant 10023](./Duncan Neel Tennessee land grant 10023.html)
 - [Duncan Neel Tennessee land grant 10984](./Duncan Neel Tennessee land grant 10984.html)
 - [Duncan Neel Tennessee land grant 7446](./Duncan Neel Tennessee land grant 7446.html)
-- [index](./index.html)

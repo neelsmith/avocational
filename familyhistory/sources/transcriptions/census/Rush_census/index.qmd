@@ -17,4 +17,3 @@ engine: julia
 - [Sarah Loughlin 1870 census](./Sarah Loughlin 1870 census.html)
 - [Zebedee Franklin Rush 1860 census](./Zebedee Franklin Rush 1860 census.html)
 - [Zebedee Franklin Rush 1870 census](./Zebedee Franklin Rush 1870 census.html)
-- [index](./index.html)

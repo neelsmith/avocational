@@ -41,4 +41,3 @@ engine: julia
 - [Thomas A. Gattis 1870 census](./Thomas A. Gattis 1870 census.html)
 - [Thomas A. Gattis 1880 census](./Thomas A. Gattis 1880 census.html)
 - [Thomas G. Gattis 1890 census](./Thomas G. Gattis 1890 census.html)
-- [index](./index.html)

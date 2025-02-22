@@ -31,4 +31,3 @@ engine: julia
 - [Syrena Adams birth certificate](./Syrena Adams birth certificate.html)
 - [Willie Blanton death certificate](./Willie Blanton death certificate.html)
 - [Zachariah Smith birth record](./Zachariah Smith birth record.html)
-- [index](./index.html)

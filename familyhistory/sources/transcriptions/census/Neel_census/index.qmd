@@ -27,4 +27,3 @@ engine: julia
 - [Sarah Elizabeth Neel 1920 census](./Sarah Elizabeth Neel 1920 census.html)
 - [Willie Saudek Blanton 1910 census](./Willie Saudek Blanton 1910 census.html)
 - [Willie Saudek Blanton 1920 census](./Willie Saudek Blanton 1920 census.html)
-- [index](./index.html)

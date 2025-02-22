@@ -28,4 +28,3 @@ engine: julia
 - [Moses Smith - Lydia Smith marriage](./Moses Smith - Lydia Smith marriage.html)
 - [Noah Rush - Sarah Loughlin marriage bond](./Noah Rush - Sarah Loughlin marriage bond.html)
 - [Samuel Allen - Eunice Rush marriage record](./Samuel Allen - Eunice Rush marriage record.html)
-- [index](./index.html)

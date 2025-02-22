@@ -43,4 +43,3 @@ engine: julia
 - [1859-10-26 HG to HN](./1859-10-26 HG to HN.html)
 - [1859-11-27 HG to HN](./1859-11-27 HG to HN.html)
 - [1860-01-02 HG to HN](./1860-01-02 HG to HN.html)
-- [index](./index.html)

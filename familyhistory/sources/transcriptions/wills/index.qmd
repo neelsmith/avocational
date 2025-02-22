@@ -15,4 +15,3 @@ engine: julia
 - [Stephen Ayres will](./Stephen Ayres will.html)
 - [Zachariah Smith will](./Zachariah Smith will.html)
 - [Zebedee Rush will](./Zebedee Rush will.html)
-- [index](./index.html)

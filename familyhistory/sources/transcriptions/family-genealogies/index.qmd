@@ -5,4 +5,3 @@ engine: julia
 # Index
 
 - [Nancy Farrand parents](./Nancy Farrand parents.html)
-- [index](./index.html)

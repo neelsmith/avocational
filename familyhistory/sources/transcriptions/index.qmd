@@ -4,7 +4,6 @@ engine: julia
 
 # Index
 
-- [index](./index.html)
 ## Further documents
 
 
