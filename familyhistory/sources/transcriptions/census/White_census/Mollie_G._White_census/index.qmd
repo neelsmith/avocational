@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Index
+
+- [Mollie White 1920 census](./Mollie White 1920 census.html)
+- [Mollie White 1930 census](./Mollie White 1930 census.html)
+- [index](./index.html)

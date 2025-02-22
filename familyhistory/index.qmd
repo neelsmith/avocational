@@ -6,9 +6,9 @@ engine: julia
 
 ## Source material
 
-I'm starting by sharing transcriptions of  the [primary source material](./sources/index.qmd) I'm collecting for family historical research. I'm transcribing and annotating these documents in an [Obsidian vault](https://obsidian.md). 
+I'm starting by sharing transcriptions of  the [primary source material](./sources/index.qmd) I'm collecting for family historical research. I'm transcribing and annotating these documents in an [Obsidian vault](https://obsidian.md). The transcriptions are directly exported to the [transcriptions section](./sources/transcriptions/) of this web site. The annotations are used to build pages for individuals identified in the sources. You can browse the transcriptions
 
-The transcriptions are directly exported to the `transcriptions` section of this web site. The annotations are used to build pages for individuals identified in the sources. You can explore the individuals from this [index by last name](./sources/last-names/). I haven't yet built a comparable index of the transcriptions. The sitewide search (the magnifying glass icon in the upper right corner of each page) is the simplest way to find material for now
+You can use the sitewide search (the magnifying glass icon in the upper right corner of each page) to find material anywhere on the site. You can explore the individuals from this [index by last name](./sources/last-names/).
 
 ::: {.callout-tip title="Finding individuals"}
  People who used more than one last name appear under each, so you should be able to find them using any of their last names.
