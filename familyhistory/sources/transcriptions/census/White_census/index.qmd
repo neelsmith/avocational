@@ -29,8 +29,10 @@ engine: julia
 - [Syrena White 1860 census](./Syrena_White_1860_census.html)
 - [Syrena White 1870 census](./Syrena_White_1870_census.html)
 - [William E. White 1850 census](./William_E._White_1850_census.html)
+
+
 ## Further documents
 
 
-- [Ebenezer White census](./Ebenezer White census/)
-- [Mollie G. White census](./Mollie G. White census/)
+- [Ebenezer White census](./Ebenezer_White_census/)
+- [Mollie G. White census](./Mollie_G._White_census/)

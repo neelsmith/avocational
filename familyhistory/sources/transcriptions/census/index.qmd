@@ -5,13 +5,16 @@ engine: julia
 # Index
 
 - [Elvira Ann Williams 1850 census](./Elvira_Ann_Williams_1850_census.html)
+
+
 ## Further documents
 
 
-- [Gattis census](./Gattis census/)
-- [Henderson census](./Henderson census/)
-- [Merrill census](./Merrill census/)
-- [Neel census](./Neel census/)
-- [Rush census](./Rush census/)
-- [White census](./White census/)
-- [other census](./other census/)
+- [Gattis census](./Gattis_census/)
+- [Henderson census](./Henderson_census/)
+- [Merrill census](./Merrill_census/)
+- [Neel census](./Neel_census/)
+- [Rush census](./Rush_census/)
+- [Smith census](./Smith_census/)
+- [White census](./White_census/)
+- [other census](./other_census/)

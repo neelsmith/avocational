@@ -3,9 +3,40 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Adaline White
 
 
+*born* ? : *died* 1890-10-31
+
+**Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
+
+**Father**: [Ebenezer White](./Ebenezer_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Adaline_White[Adaline White] -->  Ebenezer_White[Ebenezer White]
+Ebenezer_White[Ebenezer White] -->  Benjamin_White[Benjamin White]
+Ebenezer_White[Ebenezer White]  --> Ruth_Wilson[Ruth Wilson]
+Adaline_White[Adaline White]  --> Candace_Smith[Candace Smith]
+```
 
 
-Private information: Adaline White not identified as deceased.
+
+## Sources
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1890-11-31 | [Adaline White death](./../../../transcriptions/vitals/Adaline_White_death.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Adaline White death](./../../../transcriptions/vitals/Adaline_White_death.html) | direct |

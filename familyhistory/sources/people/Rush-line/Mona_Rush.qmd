@@ -3,9 +3,69 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mona Rush
 
 
+*born* 1891-02-19 : *died* 1967-11-27
+
+**Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
+
+**Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
+
+**Children with []()**:
 
 
-Private information: Mona Rush not identified as deceased.
+
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Mona_Rush[Mona Rush] -->  Calvin_Harris_Rush[Calvin Harris Rush]
+Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
+Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
+Mona_Rush[Mona Rush]  --> Frances_Hix[Frances Hix]
+Frances_Hix[Frances Hix] -->  William_J._Hicks[William J. Hicks]
+Frances_Hix[Frances Hix]  --> Jane_Lassiter[Jane Lassiter]
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Mona_Rush[Mona Rush] --> Mona_Rush+[ ]
+[] --> Mona_Rush+[ ]
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1891-02-19 |  | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1967-11-27 | [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html) | direct |
+
+Sources for children with []()
+
+
+

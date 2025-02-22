@@ -5,4 +5,5 @@ engine: julia
 # Index
 
 - [Bee Neel obituary LA Times](./Bee_Neel_obituary_LA_Times.html)
+- [Ebenezer White incarcerated Vermont Sentinel and Democrat](./Ebenezer_White_incarcerated_Vermont_Sentinel_and_Democrat.html)
 - [Isaac N. Gattis obituary Murfreesboro News Journal](./Isaac_N._Gattis_obituary_Murfreesboro_News_Journal.html)

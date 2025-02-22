@@ -19,6 +19,8 @@ engine: julia
 
 - [Horatio Nelson White](./../Horatio_Nelson_White.html)
 
+- [Adaline White](./../Adaline_White.html)
+
 
 
 Documented ancestors:
@@ -37,6 +39,7 @@ graph LR
 Candace_Smith[Candace Smith] --> Candace_Smith+Ebenezer_White[ ]
 Ebenezer_White[Ebenezer White] --> Candace_Smith+Ebenezer_White[ ]
 Candace_Smith+Ebenezer_White[ ] --> Horatio_Nelson_White[Horatio Nelson White]
+Candace_Smith+Ebenezer_White[ ] --> Adaline_White[Adaline White]
 ```
 
 
@@ -52,5 +55,7 @@ Sources for children with [Ebenezer White](./../Ebenezer_White.html)
 
 
 - [Horatio White - Susan Spaulding marriage](./../../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html)
+
+- [Adaline White death](./../../../../transcriptions/vitals/Adaline_White_death.html)
 
 

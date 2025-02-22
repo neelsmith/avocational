@@ -6,8 +6,10 @@ engine: julia
 
 - [1852-08-02 HG to HN](./1852-08-02_HG_to_HN.html)
 - [1855-04-01   to HN](./1855-04-01___to_HN.html)
+
+
 ## Further documents
 
 
-- [Hammond letters](./Hammond letters/)
-- [White letters](./White letters/)
+- [Hammond letters](./Hammond_letters/)
+- [White letters](./White_letters/)

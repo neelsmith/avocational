@@ -1,0 +1,52 @@
+
+
+
+ 
+
+
+
+
+refersto::[Mona Rush](./../../../people/Rush-line/Mona_Rush.html)
+State::Virginia
+Incorporated place::Cambria
+County::Montgomery
+Enumeration::6
+Date::April 16. 1940
+Street::Montgomery Avenue
+Street number::
+House::
+Household::195
+Owned or rented::O
+Value of home::1700
+Farm?::no
+Name::Smith, Mona R.
+Relationship::daughter
+Sex::F
+Race::W
+Age at last birthday::49
+Marital status::wd
+Attended school::no
+Highest grade::H4
+Birthplace::North Carolina
+Citizenship::
+Town 1935::same house
+County 1935::
+State 1935::
+Farm 1935::
+At work?::no
+Emergency work?::no
+Seeking work?::no
+Have a job?::no
+Nonwork situation::H
+Hours worked::
+Duration unemployment::
+Occupation::
+Industry::
+Class of worker::
+Weeks worked::0
+Wages::0
+Other income?::yes
+Farm schedule::
+
+
+

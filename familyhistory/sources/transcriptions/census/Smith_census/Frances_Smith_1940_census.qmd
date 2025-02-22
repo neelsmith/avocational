@@ -1,0 +1,50 @@
+
+
+ 
+
+
+
+
+refersto::[Frances Smith](./../../../Frances_Smith.html)
+State::Virginia
+Incorporated place::Cambria
+County::Montgomery
+Enumeration::6
+Date::April 16. 1940
+Street::Montgomery Avenue
+Street number::
+House::
+Household::195
+Owned or rented::O
+Value of home::1700
+Farm?::no
+Name::Smith, Frances J.
+Relationship::daughter
+Sex::F
+Race::W
+Age at last birthday::5
+Marital status::S
+Attended school::no
+Highest grade::0
+Birthplace::Virginia
+Citizenship::
+Town 1935::same house
+County 1935::
+State 1935::
+Farm 1935::
+At work?::
+Emergency work?::
+Seeking work?::
+Have a job?::
+Nonwork situation::
+Hours worked::
+Duration unemployment::
+Occupation::
+Industry::
+Class of worker::
+Weeks worked::
+Wages::
+Other income?::
+Farm schedule::
+
+

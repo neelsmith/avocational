@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # David Hammond Smith
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: David Hammond Smith not identified as deceased.
+**Father**: [?]()
