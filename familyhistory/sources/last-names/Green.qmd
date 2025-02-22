@@ -1,0 +1,13 @@
+---
+engine: julia
+---
+
+# Green
+
+- [Cassie Green](./../people/Gattis-line/Green-line/Cassie_Green.html)
+- [Elvira Ann Williams](./../people/Gattis-line/Green-line/Williams-line/Elvira_Ann_Williams.html)
+- [Gattis-line-notes](./../ne-towns/notes/Gattis-line-notes.html)
+- [James Green](./../people/Gattis-line/Green-line/James_Green.html)
+- [Joseph Green](./../people/Gattis-line/Green-line/Joseph_Green.html)
+- [Sarah Phillips](./../people/Gattis-line/Green-line/Sarah_Phillips.html)
+- [William Green](./../people/Gattis-line/Green-line/William_Green.html)

@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Taylor
+
+- [Elizabeth Tailor](./../people/Merrill-line/White-line/Candace-Smith-line/Elizabeth_Tailor.html)

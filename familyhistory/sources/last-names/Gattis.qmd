@@ -1,0 +1,29 @@
+---
+engine: julia
+---
+
+# Gattis
+
+- [Aliene Gattis](./../people/Gattis-line/Aliene_Gattis.html)
+- [Almeda Gattis](./../people/Gattis-line/Almeda_Gattis.html)
+- [Cassie Green](./../people/Gattis-line/Green-line/Cassie_Green.html)
+- [Cassie Green](./../people/Gattis-line/Green-line/Cassie_Green.html)
+- [Claud Gattis](./../people/Gattis-line/Claud_Gattis.html)
+- [Cordelia Gattis](./../people/Gattis-line/Cordelia_Gattis.html)
+- [Edith Gattis](./../people/Gattis-line/Edith_Gattis.html)
+- [Elizabeth Connelly](./../people/Gattis-line/Elizabeth_Connelly.html)
+- [Emma Dora Gattis](./../people/Gattis-line/Emma_Dora_Gattis.html)
+- [Evaline Gattis](./../people/Gattis-line/Evaline_Gattis.html)
+- [Isaac Newton Gattis](./../people/Gattis-line/Isaac_Newton_Gattis.html)
+- [Isaac Newton Gattis Sr.](./../people/Gattis-line/Isaac_Newton_Gattis_Sr..html)
+- [James Gattis](./../people/Gattis-line/James_Gattis.html)
+- [John Gattis](./../people/Gattis-line/John_Gattis.html)
+- [Judy Gattis](./../people/Gattis-line/Judy_Gattis.html)
+- [Julia B. Euless](./../people/Gattis-line/Euless-line/Julia_B._Euless.html)
+- [Martin A. Gattis](./../people/Gattis-line/Martin_A._Gattis.html)
+- [Mary Elizabeth Bearden Gattis](./../people/Gattis-line/Mary_Elizabeth_Bearden_Gattis.html)
+- [Mary Elizabeth Gattis](./../people/Gattis-line/Mary_Elizabeth_Gattis.html)
+- [Mary Louise Neel](./../people/Neel-line/Mary_Louise_Neel.html)
+- [Mary Patricia King](./../people/Gattis-line/Mary_Patricia_King.html)
+- [Thomas A. Gattis](./../people/Gattis-line/Thomas_A._Gattis.html)
+- [Thomas G. Gattis](./../people/Gattis-line/Thomas_G._Gattis.html)

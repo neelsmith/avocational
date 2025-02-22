@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Barber
+
+- [Nellie Barber](./../people/Gattis-line/Green-line/Williams-line/Nellie_Barber.html)

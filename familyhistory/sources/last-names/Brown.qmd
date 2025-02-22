@@ -1,0 +1,13 @@
+---
+engine: julia
+---
+
+# Brown
+
+- [Abraham Brown](./../people/Merrill-line/White-line/Candace-Smith-line/Abraham_Brown.html)
+- [Abraham Browne Sr.](./../people/Merrill-line/White-line/Candace-Smith-line/Abraham_Browne_Sr..html)
+- [Jonathan Brown](./../people/Merrill-line/White-line/Candace-Smith-line/Jonathan_Brown.html)
+- [Lidia Browne](./../people/Merrill-line/White-line/Candace-Smith-line/Lidia_Browne.html)
+- [Lydia Brown Hastings](./../people/Merrill-line/White-line/Candace-Smith-line/Lydia_Brown_Hastings.html)
+- [Mary Hyde](./../people/Merrill-line/White-line/Candace-Smith-line/Mary_Hyde.html)
+- [Mary Shattuck](./../people/Merrill-line/White-line/Candace-Smith-line/Mary_Shattuck.html)

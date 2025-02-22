@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Bailey
+
+- [Benjamin Bailey](./../people/Smith-line/Benjamin_Bailey.html)
+- [Chloe Cheatwood](./../people/Smith-line/Chloe_Cheatwood.html)
+- [Edith Bailey](./../people/Merrill-line/White-line/Edith_Bailey.html)
+- [Mary Ann Bailey](./../people/Smith-line/Mary_Ann_Bailey.html)

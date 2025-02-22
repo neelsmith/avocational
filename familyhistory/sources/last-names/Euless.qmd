@@ -1,0 +1,12 @@
+---
+engine: julia
+---
+
+# Euless
+
+- [Adam Euless](./../people/Gattis-line/Euless-line/Adam_Euless.html)
+- [Dorotha Shofner](./../people/Gattis-line/Euless-line/Dorotha_Shofner.html)
+- [Elizabeth Euless](./../people/Gattis-line/Euless-line/Elizabeth_Euless.html)
+- [Julia B. Euless](./../people/Gattis-line/Euless-line/Julia_B._Euless.html)
+- [Philip Euless](./../people/Gattis-line/Philip_Euless.html)
+- [Philip Euless](./../people/Gattis-line/Philip_Euless.html)

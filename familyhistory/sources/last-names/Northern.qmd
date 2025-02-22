@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Northern
+
+- [Joseph Saudek](./../people/Neel-line/Blanton-line/Saudek-line/Joseph_Saudek.html)
+- [Mary Polly Hodge](./../people/Neel-line/Blanton-line/Saudek-line/Northern-line/Mary_Polly_Hodge.html)
+- [Nancy Eliza Northern](./../people/Neel-line/Blanton-line/Saudek-line/Northern-line/Nancy_Eliza_Northern.html)
+- [Samuel Northern](./../people/Neel-line/Blanton-line/Saudek-line/Northern-line/Samuel_Northern.html)

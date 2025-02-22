@@ -3,9 +3,40 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Benjamin White
 
 
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)**:
 
 
-Private information: Benjamin White not identified as deceased.
+- [Ebenezer White](./Ebenezer_White.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+Benjamin_White[Benjamin White] --> Benjamin_White+Ruth_Wilson[ ]
+Ruth_Wilson[Ruth Wilson] --> Benjamin_White+Ruth_Wilson[ ]
+Benjamin_White+Ruth_Wilson[ ] --> Ebenezer_White[Ebenezer White]
+Ebenezer_White[Ebenezer White] --> [[Ebenezer_White]]+Candace_Smith[ ]
+Candace_Smith[Candace Smith] --> [[Ebenezer_White]]+Candace_Smith[ ]
+```
+
+
+
+Sources for children with [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)
+
+
+- [Ebenezer White birth](./../../../transcriptions/vitals/Ebenezer_White_birth.html)
+
+

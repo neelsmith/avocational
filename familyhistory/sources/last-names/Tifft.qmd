@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Tifft
+
+- [Elizabeth Tifft](./../people/Henderson-line/Carpenter-line/Elizabeth_Tifft.html)

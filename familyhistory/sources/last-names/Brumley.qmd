@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Brumley
+
+- [Lydia R. Brumley](./../people/Merrill-line/White-line/Lydia_R._Brumley.html)

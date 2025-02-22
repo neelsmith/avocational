@@ -1,0 +1,12 @@
+---
+engine: julia
+---
+
+# Hipes
+
+- [Apollonia Abigail Wamser](./../people/Smith-line/Apollonia_Abigail_Wamser.html)
+- [Barbara Hipes](./../people/Randolph_county_lines/Hipes/Barbara_Hipes.html)
+- [Johann Nicolaus Hipes](./../people/Smith-line/Johann_Nicolaus_Hipes.html)
+- [John Hipes](./../people/Randolph_county_lines/Hipes/John_Hipes.html)
+- [Nicholas Hipes](./../people/Randolph_county_lines/Hipes/Nicholas_Hipes.html)
+- [Peter Hipes](./../people/Randolph_county_lines/Hipes/Peter_Hipes.html)

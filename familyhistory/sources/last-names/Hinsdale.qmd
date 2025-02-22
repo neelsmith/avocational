@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Hinsdale
+
+- [Mary Hinsdale](./../people/Merrill-line/Grandey-line/Mary_Hinsdale.html)

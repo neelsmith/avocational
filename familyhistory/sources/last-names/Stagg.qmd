@@ -1,0 +1,8 @@
+---
+engine: julia
+---
+
+# Stagg
+
+- [Elizabeth Stagg](./../people/Merrill-line/White-line/Elizabeth_Stagg.html)
+- [Josiah Stagg](./../people/Merrill-line/White-line/Josiah_Stagg.html)

@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Gilmore
+
+- [Edith Gattis](./../people/Gattis-line/Edith_Gattis.html)

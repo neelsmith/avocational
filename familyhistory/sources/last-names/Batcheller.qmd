@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Batcheller
+
+- [Lucretia Batcheller](./../people/Merrill-line/White-line/Grandey/Lucretia_Batcheller.html)

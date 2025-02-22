@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Palmer
+
+- [Candace White](./../people/Merrill-line/White-line/Candace_White.html)

@@ -1,0 +1,12 @@
+---
+engine: julia
+---
+
+# McCrery
+
+- [Frances Houston](./../people/Smith-line/Frances_Houston.html)
+- [Fulton McCrery](./../people/Smith-line/Fulton_McCrery.html)
+- [Harriet McCrery](./../people/Smith-line/Harriet_McCrery.html)
+- [James A. McCrery](./../people/Smith-line/James_A._McCrery.html)
+- [Margaret A. McCrery](./../people/Smith-line/Margaret_A._McCrery.html)
+- [early-Smith](./../ne-towns/notes/early-Smith.html)

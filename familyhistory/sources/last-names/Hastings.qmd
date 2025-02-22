@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+# Hastings
+
+- [Joseph Hastings](./../people/Merrill-line/White-line/Candace-Smith-line/Joseph_Hastings.html)
+- [Joseph Hastings Sr.](./../people/Merrill-line/White-line/Candace-Smith-line/Joseph_Hastings_Sr..html)
+- [Lydia Brown Hastings](./../people/Merrill-line/White-line/Candace-Smith-line/Lydia_Brown_Hastings.html)
+- [Lydia Hastings Smith](./../people/Merrill-line/White-line/Candace-Smith-line/Lydia_Hastings_Smith.html)
+- [Margaret Cheney](./../people/Merrill-line/White-line/Candace-Smith-line/Margaret_Cheney.html)
+- [Martha Shepherd](./../people/Merrill-line/White-line/Martha_Shepherd.html)
+- [Martha Shepherd](./../people/Merrill-line/White-line/Martha_Shepherd.html)
+- [Susan Hastings](./../people/Merrill-line/White-line/Candace-Smith-line/Susan_Hastings.html)
+- [Thomas Hastings](./../people/Merrill-line/White-line/Thomas_Hastings.html)

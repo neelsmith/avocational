@@ -1,0 +1,12 @@
+---
+engine: julia
+---
+
+# Rice
+
+- [Anne Rice](./../people/Merrill-line/White-line/Candace-Smith-line/Anne_Rice.html)
+- [Daniel Rice](./../people/Merrill-line/White-line/Candace-Smith-line/Daniel_Rice.html)
+- [Daniel Rice Sr.](./../people/Merrill-line/White-line/Candace-Smith-line/Daniel_Rice_Sr..html)
+- [Edward Rice](./../people/Merrill-line/White-line/Candace-Smith-line/Edward_Rice.html)
+- [Elizabeth Tailor](./../people/Merrill-line/White-line/Candace-Smith-line/Elizabeth_Tailor.html)
+- [Hannah Rice](./../people/Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html)

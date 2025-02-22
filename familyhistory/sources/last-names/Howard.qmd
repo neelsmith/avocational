@@ -1,0 +1,11 @@
+---
+engine: julia
+---
+
+# Howard
+
+- [Bertha Kellner](./../people/Neel-line/Bertha_Kellner.html)
+- [Field Robert Howard](./../people/Neel-line/Field_Robert_Howard.html)
+- [Gladys Sowers](./../Gladys_Sowers.html)
+- [Richard Newell Ellard](./../Richard_Newell_Ellard.html)
+- [Robert Howard](./../people/Neel-line/Robert_Howard.html)

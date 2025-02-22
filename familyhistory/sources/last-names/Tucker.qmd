@@ -1,0 +1,8 @@
+---
+engine: julia
+---
+
+# Tucker
+
+- [Hannah Rice](./../people/Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html)
+- [Jedediah Tucker](./../people/by-marriage/Jedediah_Tucker.html)

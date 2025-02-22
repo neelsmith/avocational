@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Cheatwood
+
+- [Chloe Cheatwood](./../people/Smith-line/Chloe_Cheatwood.html)
+- [Jean Flourney](./../people/Smith-line/Jean_Flourney.html)
+- [William Cheatwood](./../people/Smith-line/William_Cheatwood.html)

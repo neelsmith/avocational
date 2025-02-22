@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Fogelman
+
+- [Anna Margaretha Fogelman](./../people/Gattis-line/Shofner-line/Anna_Margaretha_Fogelman.html)
+- [Catherine Fogelman](./../people/Gattis-line/Catherine_Fogelman.html)
+- [George Fogelman](./../people/Gattis-line/George_Fogelman.html)
+- [Margaretha Fogleman](./../people/Gattis-line/Margaretha_Fogleman.html)

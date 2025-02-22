@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Pearce
+
+- [Martha Rush](./../people/Smith-line/Martha_Rush.html)
+- [Wiley Pearce](./../people/Randolph_county_lines/Wiley_Pearce.html)
+- [William Pearce](./../people/Smith-line/William_Pearce.html)

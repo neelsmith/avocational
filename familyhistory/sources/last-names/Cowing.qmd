@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Cowing
+
+- [Margaret Kirkland](./../people/Merrill-line/Witherell-line/Margaret_Kirkland.html)
+- [Prince Cowing](./../people/Merrill-line/Witherell-line/Prince_Cowing.html)
+- [Rachel Cowing](./../people/Merrill-line/Witherell-line/Rachel_Cowing.html)

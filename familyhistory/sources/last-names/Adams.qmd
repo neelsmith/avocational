@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Adams
+
+- [Elizabeth Stagg](./../people/Merrill-line/White-line/Elizabeth_Stagg.html)
+- [Friend Adams](./../people/Merrill-line/White-line/Friend_Adams.html)
+- [Syrena Adams](./../people/Merrill-line/White-line/Syrena_Adams.html)

@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Champlain
+
+- [Susan Champlain](./../people/Henderson-line/Carpenter-line/Susan_Champlain.html)

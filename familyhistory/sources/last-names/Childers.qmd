@@ -1,0 +1,11 @@
+---
+engine: julia
+---
+
+# Childers
+
+- [Abraham Childers Jr.](./../people/Smith-line/Abraham_Childers_Jr..html)
+- [Anna Pew](./../people/Smith-line/Anna_Pew.html)
+- [Jane Childers](./../people/Smith-line/Jane_Childers.html)
+- [Mary Childers](./../people/Smith-line/Mary_Childers.html)
+- [Philemon Childers](./../people/Smith-line/Philemon_Childers.html)

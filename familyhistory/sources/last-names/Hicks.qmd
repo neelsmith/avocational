@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Hicks
+
+- [Frances Hix](./../people/Randolph_county_lines/Hicks/Frances_Hix.html)
+- [Jane Lassiter](./../people/Randolph_county_lines/Lassiter/Jane_Lassiter.html)
+- [Randolph County families](./../Randolph_County_families.html)
+- [William J. Hicks](./../people/Randolph_county_lines/Hicks/William_J._Hicks.html)

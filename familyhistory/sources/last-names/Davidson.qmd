@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Davidson
+
+- [Edith Jane Davidson](./../people/Neel-line/Edith_Jane_Davidson.html)

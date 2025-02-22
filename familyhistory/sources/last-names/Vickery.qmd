@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Vickery
+
+- [Dorcas Vickery](./../people/Randolph_county_lines/Vickery/Dorcas_Vickery.html)
+- [Elizabeth Nation](./../people/Rush-line/Elizabeth_Nation.html)
+- [Marmaduke Vickery](./../people/Randolph_county_lines/Vickery/Marmaduke_Vickery.html)

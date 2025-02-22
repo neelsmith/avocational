@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Bigelow
+
+- [Jerusha Bigelow](./../people/Henderson-line/Mathis-line/Jerusha_Bigelow.html)
+- [Jerusha Garfield](./../people/Henderson-line/Bigelow-line/Jerusha_Garfield.html)
+- [John Bigelow](./../people/Henderson-line/Bigelow-line/John_Bigelow.html)

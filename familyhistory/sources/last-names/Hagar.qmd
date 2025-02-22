@@ -1,0 +1,8 @@
+---
+engine: julia
+---
+
+# Hagar
+
+- [Susannah Hagar](./../people/Susannah_Hagar.html)
+- [William Hagar](./../people/William_Hagar.html)

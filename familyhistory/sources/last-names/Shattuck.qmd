@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Shattuck
+
+- [Mary Shattuck](./../people/Merrill-line/White-line/Candace-Smith-line/Mary_Shattuck.html)
+- [Susanna Hayden](./../people/Merrill-line/White-line/Candace-Smith-line/Susanna_Hayden.html)
+- [William Shattuck](./../people/Merrill-line/White-line/Candace-Smith-line/William_Shattuck.html)

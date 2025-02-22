@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Kirkland
+
+- [John Kirkland](./../people/Merrill-line/Witherell-line/John_Kirkland.html)
+- [Margaret Craig](./../people/Merrill-line/Witherell-line/Margaret_Craig.html)
+- [Margaret Kirkland](./../people/Merrill-line/Witherell-line/Margaret_Kirkland.html)

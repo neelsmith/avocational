@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Adsit
+
+- [Lionne Adsit](./../people/Randolph_county_lines/Lionne_Adsit.html)

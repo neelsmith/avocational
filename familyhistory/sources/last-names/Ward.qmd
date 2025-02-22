@@ -1,0 +1,11 @@
+---
+engine: julia
+---
+
+# Ward
+
+- [Bethia Ward](./../people/Merrill-line/White-line/Candace-Smith-line/Bethia_Ward.html)
+- [Elizabeth Ward](./../people/Merrill-line/White-line/Candace-Smith-line/Elizabeth_Ward.html)
+- [Jessie Elaine Manuel](./../people/root/Jessie_Elaine_Manuel.html)
+- [Maxine Woods](./../people/Neel-line/Maxine_Woods.html)
+- [William Ward](./../people/Merrill-line/White-line/Candace-Smith-line/William_Ward.html)

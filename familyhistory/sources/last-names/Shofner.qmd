@@ -1,0 +1,14 @@
+---
+engine: julia
+---
+
+# Shofner
+
+- [Anna Margaretha Fogelman](./../people/Gattis-line/Shofner-line/Anna_Margaretha_Fogelman.html)
+- [Bedford County families](./../Bedford_County_families.html)
+- [Catherine Cook](./../people/Gattis-line/Shofner-line/Catherine_Cook.html)
+- [Dorotha Shofner](./../people/Gattis-line/Euless-line/Dorotha_Shofner.html)
+- [Margaret Shofner](./../people/Gattis-line/Shofner-line/Margaret_Shofner.html)
+- [Margaretha Fogleman](./../people/Gattis-line/Margaretha_Fogleman.html)
+- [Martin Shofner](./../people/Gattis-line/Shofner-line/Martin_Shofner.html)
+- [Michael Shofner](./../people/Gattis-line/Shofner-line/Michael_Shofner.html)

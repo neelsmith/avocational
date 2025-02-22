@@ -1,0 +1,7 @@
+---
+engine: julia
+---
+
+# Garfield
+
+- [Jerusha Garfield](./../people/Henderson-line/Bigelow-line/Jerusha_Garfield.html)

@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Cheney
+
+- [Margaret Cheney](./../people/Merrill-line/White-line/Candace-Smith-line/Margaret_Cheney.html)
+- [Margaret Cheney the elder](./../people/Merrill-line/White-line/Candace-Smith-line/Margaret_Cheney_the_elder.html)
+- [William Cheney](./../people/Merrill-line/White-line/Candace-Smith-line/William_Cheney.html)

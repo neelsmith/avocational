@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Barker
+
+- [Alex Barker](./../people/Rush-line/Alex_Barker.html)
+- [Elinor Agnes Rush](./../people/Rush-line/Elinor_Agnes_Rush.html)
+- [George Alexander Barker](./../people/Randolph_county_lines/George_Alexander_Barker.html)

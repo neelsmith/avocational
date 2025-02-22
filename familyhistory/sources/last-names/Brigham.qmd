@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Brigham
+
+- [Abigail Brigham](./../people/Henderson-line/Snow-line/Abigail_Brigham.html)
+- [John Brigham](./../people/Merrill-line/Brigham-line/John_Brigham.html)
+- [Marcy Brigham](./../people/Merrill-line/Brigham-line/Marcy_Brigham.html)
+- [Thomas Brigham Sr.](./../people/Thomas_Brigham_Sr..html)

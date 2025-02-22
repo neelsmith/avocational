@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Barton
+
+- [A. Barton](./../people/Neel-line/A._Barton.html)
+- [Abner Barton](./../people/Neel-line/Abner_Barton.html)
+- [Sarah Barton](./../people/Neel-line/Sarah_Barton.html)
+- [Sarah Jane Barton](./../people/Neel-line/Sarah_Jane_Barton.html)
