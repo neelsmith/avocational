@@ -4,10 +4,10 @@ engine: julia
 
 # Index
 
-- [1856-12-02 WGH to Wesley H](./1856-12-02 WGH to Wesley H.html)
-- [1861-05-20 WAJ to WGH](./1861-05-20 WAJ to WGH.html)
-- [1861-07-30 TBH to WGH](./1861-07-30 TBH to WGH.html)
-- [1861-09-08 Wesley to WGH](./1861-09-08 Wesley to WGH.html)
-- [1861-09-17 MH to WGH](./1861-09-17 MH to WGH.html)
-- [1863-01-10 EJH to WGH](./1863-01-10 EJH to WGH.html)
-- [1863-04-25 WH to WGH](./1863-04-25 WH to WGH.html)
+- [1856-12-02 WGH to Wesley H](./1856-12-02_WGH_to_Wesley_H.html)
+- [1861-05-20 WAJ to WGH](./1861-05-20_WAJ_to_WGH.html)
+- [1861-07-30 TBH to WGH](./1861-07-30_TBH_to_WGH.html)
+- [1861-09-08 Wesley to WGH](./1861-09-08_Wesley_to_WGH.html)
+- [1861-09-17 MH to WGH](./1861-09-17_MH_to_WGH.html)
+- [1863-01-10 EJH to WGH](./1863-01-10_EJH_to_WGH.html)
+- [1863-04-25 WH to WGH](./1863-04-25_WH_to_WGH.html)

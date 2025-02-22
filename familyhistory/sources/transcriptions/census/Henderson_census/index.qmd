@@ -4,6 +4,6 @@ engine: julia
 
 # Index
 
-- [Frances Dubois 1850 census](./Frances Dubois 1850 census.html)
-- [John Dryden Henderson 1860 census](./John Dryden Henderson 1860 census.html)
-- [John Dubois Henderson 1900 census](./John Dubois Henderson 1900 census.html)
+- [Frances Dubois 1850 census](./Frances_Dubois_1850_census.html)
+- [John Dryden Henderson 1860 census](./John_Dryden_Henderson_1860_census.html)
+- [John Dubois Henderson 1900 census](./John_Dubois_Henderson_1900_census.html)

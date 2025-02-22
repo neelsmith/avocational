@@ -4,8 +4,8 @@ engine: julia
 
 # Index
 
-- [Ebenezer White 1810 census](./Ebenezer White 1810 census.html)
-- [Ebenezer White 1820 census](./Ebenezer White 1820 census.html)
-- [Ebenezer White 1830 census](./Ebenezer White 1830 census.html)
-- [Ebenezer White 1840 census](./Ebenezer White 1840 census.html)
-- [Ebenezer White 1850 census](./Ebenezer White 1850 census.html)
+- [Ebenezer White 1810 census](./Ebenezer_White_1810_census.html)
+- [Ebenezer White 1820 census](./Ebenezer_White_1820_census.html)
+- [Ebenezer White 1830 census](./Ebenezer_White_1830_census.html)
+- [Ebenezer White 1840 census](./Ebenezer_White_1840_census.html)
+- [Ebenezer White 1850 census](./Ebenezer_White_1850_census.html)

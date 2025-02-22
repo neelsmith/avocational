@@ -4,4 +4,4 @@ engine: julia
 
 # Index
 
-- [James Harris application for military headstone](./James Harris application for military headstone.html)
+- [James Harris application for military headstone](./James_Harris_application_for_military_headstone.html)

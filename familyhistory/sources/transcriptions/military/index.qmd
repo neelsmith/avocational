@@ -4,4 +4,4 @@ engine: julia
 
 # Index
 
-- [William Green war of 1812 pension](./William Green war of 1812 pension.html)
+- [William Green war of 1812 pension](./William_Green_war_of_1812_pension.html)

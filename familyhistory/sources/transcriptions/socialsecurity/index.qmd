@@ -4,4 +4,4 @@ engine: julia
 
 # Index
 
-- [Bob Howard SS death index](./Bob Howard SS death index.html)
+- [Bob Howard SS death index](./Bob_Howard_SS_death_index.html)

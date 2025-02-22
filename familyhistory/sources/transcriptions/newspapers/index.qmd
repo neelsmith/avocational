@@ -4,5 +4,5 @@ engine: julia
 
 # Index
 
-- [Bee Neel obituary LA Times](./Bee Neel obituary LA Times.html)
-- [Isaac N. Gattis obituary Murfreesboro News Journal](./Isaac N. Gattis obituary Murfreesboro News Journal.html)
+- [Bee Neel obituary LA Times](./Bee_Neel_obituary_LA_Times.html)
+- [Isaac N. Gattis obituary Murfreesboro News Journal](./Isaac_N._Gattis_obituary_Murfreesboro_News_Journal.html)

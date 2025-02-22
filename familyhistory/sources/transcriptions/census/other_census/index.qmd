@@ -4,10 +4,10 @@ engine: julia
 
 # Index
 
-- [Alice Denney 1910 census](./Alice Denney 1910 census.html)
-- [Argyle Bearden 1850 census](./Argyle Bearden 1850 census.html)
-- [Ellen Abare 1880 census](./Ellen Abare 1880 census.html)
-- [Isaac Bridges 1910 census](./Isaac Bridges 1910 census.html)
-- [James Searcy 1900 census](./James Searcy 1900 census.html)
-- [Lou Haynes 1890 census](./Lou Haynes 1890 census.html)
-- [Mary Kennedy 1850 census](./Mary Kennedy 1850 census.html)
+- [Alice Denney 1910 census](./Alice_Denney_1910_census.html)
+- [Argyle Bearden 1850 census](./Argyle_Bearden_1850_census.html)
+- [Ellen Abare 1880 census](./Ellen_Abare_1880_census.html)
+- [Isaac Bridges 1910 census](./Isaac_Bridges_1910_census.html)
+- [James Searcy 1900 census](./James_Searcy_1900_census.html)
+- [Lou Haynes 1890 census](./Lou_Haynes_1890_census.html)
+- [Mary Kennedy 1850 census](./Mary_Kennedy_1850_census.html)

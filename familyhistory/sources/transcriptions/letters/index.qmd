@@ -4,8 +4,8 @@ engine: julia
 
 # Index
 
-- [1852-08-02 HG to HN](./1852-08-02 HG to HN.html)
-- [1855-04-01   to HN](./1855-04-01   to HN.html)
+- [1852-08-02 HG to HN](./1852-08-02_HG_to_HN.html)
+- [1855-04-01   to HN](./1855-04-01___to_HN.html)
 ## Further documents
 
 
