@@ -17,18 +17,37 @@ engine: julia
 **Children with []()**:
 
 
+**Children with [Charles R. Smith Sr.](./../Smith-line/Charles_R._Smith_Sr..html)**:
+
+
+- [David Hammond Smith](./../Smith-line/David_Hammond_Smith.html)
+
+- [Richard Smith](./../../Richard_Smith.html)
+
+- [Frances Smith](./../../Frances_Smith.html)
+
 
 
 Documented ancestors:
 
 ```{mermaid}
 graph LR
-Mona_Rush[Mona Rush] -->  Calvin_Harris_Rush[Calvin Harris Rush]
-Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
-Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
-Mona_Rush[Mona Rush]  --> Frances_Hix[Frances Hix]
-Frances_Hix[Frances Hix] -->  William_J._Hicks[William J. Hicks]
-Frances_Hix[Frances Hix]  --> Jane_Lassiter[Jane Lassiter]
+Mona_Rush(<a href=''>Mona Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+class Noah_Rush father
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+class Sarah_Loflin mother
+class Calvin_Harris_Rush father
+Mona_Rush(<a href=''>Mona Rush</>)  --> Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>)
+Frances_Hix(<a href=''>Frances Hix</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks</>)
+class William_J._Hicks father
+Frances_Hix(<a href=''>Frances Hix</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter</>)
+class Jane_Lassiter mother
+class Frances_Hix mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -37,8 +56,19 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Mona_Rush[Mona Rush] --> Mona_Rush+[ ]
-[] --> Mona_Rush+[ ]
+class Mona_Rush_and_ marriage
+Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
+(<a href=''></>) --> Mona_Rush_and_(( ))
+class Mona_Rush_and_Charles_R._Smith_Sr. marriage
+Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
+Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))
+Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Richard_Smith(<a href='./../../Richard_Smith.html'>Richard Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../../Frances_Smith.html'>Frances Smith</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -67,5 +97,16 @@ Sources for parents:
 
 Sources for children with []()
 
+
+
+
+Sources for children with [Charles R. Smith Sr.](./../Smith-line/Charles_R._Smith_Sr..html)
+
+
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
+
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
+
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
 
 

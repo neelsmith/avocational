@@ -18,8 +18,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Ellen_Grandey[Ellen Grandey] -->  Truman_Grandey[Truman Grandey]
-Ellen_Grandey[Ellen Grandey]  --> Polly_Myrick[Polly Myrick]
+Ellen_Grandey(<a href=''>Ellen Grandey</>) -->  Truman_Grandey(<a href='./Truman_Grandey.html'>Truman Grandey</>)
+class Truman_Grandey father
+Ellen_Grandey(<a href=''>Ellen Grandey</>)  --> Polly_Myrick(<a href='./../White-line/Grandey/Polly_Myrick.html'>Polly Myrick</>)
+class Polly_Myrick mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

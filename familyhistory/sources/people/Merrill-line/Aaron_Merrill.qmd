@@ -27,14 +27,21 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Aaron_Merrill[Aaron Merrill] --> Aaron_Merrill+Nancy_Farrand[ ]
-Nancy_Farrand[Nancy Farrand] --> Aaron_Merrill+Nancy_Farrand[ ]
-Aaron_Merrill+Nancy_Farrand[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Aaron_Merrill+Nancy_Farrand[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
+class Aaron_Merrill_and_Nancy_Farrand marriage
+Aaron_Merrill(<a href=''>Aaron Merrill</>) --> Aaron_Merrill_and_Nancy_Farrand[ ]
+Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand</>) --> Aaron_Merrill_and_Nancy_Farrand(( ))
+Aaron_Merrill_and_Nancy_Farrand[ ] --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
+class Hiram_Merrill_and_Lucy_Witherell marriage
+Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
+Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
+Aaron_Merrill_and_Nancy_Farrand[ ] --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
+class Hiram_Merrill_and_Lucy_Witherell marriage
+Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
+Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

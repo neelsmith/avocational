@@ -18,12 +18,22 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-James_Albee_Merrill[James Albee Merrill] -->  Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] -->  Aaron_Merrill[Aaron Merrill]
-Hiram_Merrill[Hiram Merrill]  --> Nancy_Farrand[Nancy Farrand]
-Nancy_Farrand[Nancy Farrand] -->  Bethuel_Farrand[Bethuel Farrand]
-Nancy_Farrand[Nancy Farrand]  --> Rhoda_Smith[Rhoda Smith]
-James_Albee_Merrill[James Albee Merrill]  --> Lucy_Witherell[Lucy Witherell]
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) -->  Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
+Hiram_Merrill(<a href=''>Hiram Merrill</>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>)
+class Aaron_Merrill father
+Hiram_Merrill(<a href=''>Hiram Merrill</>)  --> Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand</>)
+Nancy_Farrand(<a href=''>Nancy Farrand</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</>)
+class Bethuel_Farrand father
+Nancy_Farrand(<a href=''>Nancy Farrand</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</>)
+class Rhoda_Smith mother
+class Nancy_Farrand mother
+class Hiram_Merrill father
+James_Albee_Merrill(<a href=''>James Albee Merrill</>)  --> Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>)
+class Lucy_Witherell mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

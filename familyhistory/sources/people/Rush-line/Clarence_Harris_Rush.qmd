@@ -18,12 +18,22 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Clarence_Harris_Rush[Clarence Harris Rush] -->  Calvin_Harris_Rush[Calvin Harris Rush]
-Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
-Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
-Clarence_Harris_Rush[Clarence Harris Rush]  --> Frances_Hix[Frances Hix]
-Frances_Hix[Frances Hix] -->  William_J._Hicks[William J. Hicks]
-Frances_Hix[Frances Hix]  --> Jane_Lassiter[Jane Lassiter]
+Clarence_Harris_Rush(<a href=''>Clarence Harris Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+class Noah_Rush father
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+class Sarah_Loflin mother
+class Calvin_Harris_Rush father
+Clarence_Harris_Rush(<a href=''>Clarence Harris Rush</>)  --> Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>)
+Frances_Hix(<a href=''>Frances Hix</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks</>)
+class William_J._Hicks father
+Frances_Hix(<a href=''>Frances Hix</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter</>)
+class Jane_Lassiter mother
+class Frances_Hix mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -25,9 +25,14 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Friend_Adams[Friend Adams] --> Friend_Adams+Elizabeth_Stagg[ ]
-Elizabeth_Stagg[Elizabeth Stagg] --> Friend_Adams+Elizabeth_Stagg[ ]
-Friend_Adams+Elizabeth_Stagg[ ] --> Syrena_Adams[Syrena Adams]
+class Friend_Adams_and_Elizabeth_Stagg marriage
+Friend_Adams(<a href=''>Friend Adams</>) --> Friend_Adams_and_Elizabeth_Stagg[ ]
+Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg</>) --> Friend_Adams_and_Elizabeth_Stagg(( ))
+Friend_Adams_and_Elizabeth_Stagg[ ] --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -28,6 +28,10 @@ Documented ancestors:
 ```{mermaid}
 graph LR
 
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -36,12 +40,18 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Sarah_Loflin[Sarah Loflin] --> Sarah_Loflin+Noah_Rush[ ]
-Noah_Rush[Noah Rush] --> Sarah_Loflin+Noah_Rush[ ]
-Sarah_Loflin+Noah_Rush[ ] --> Calvin_Harris_Rush[Calvin Harris Rush]
-Calvin_Harris_Rush[Calvin Harris Rush] --> [[Calvin_Harris_Rush]]+Frances_Hix[ ]
-Frances_Hix[Frances Hix] --> [[Calvin_Harris_Rush]]+Frances_Hix[ ]
-Sarah_Loflin+Noah_Rush[ ] --> Roxanna_Rush[Roxanna Rush]
+class Sarah_Loflin_and_Noah_Rush marriage
+Sarah_Loflin(<a href=''>Sarah Loflin</>) --> Sarah_Loflin_and_Noah_Rush[ ]
+Noah_Rush(<a href='./../../Rush-line/Noah_Rush.html'>Noah Rush</>) --> Sarah_Loflin_and_Noah_Rush(( ))
+Sarah_Loflin_and_Noah_Rush[ ] --> Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
+class Calvin_Harris_Rush_and_Frances_Hix marriage
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_Frances_Hix[ ]
+Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>) --> Calvin_Harris_Rush_and_Frances_Hix(( ))
+Sarah_Loflin_and_Noah_Rush[ ] --> Roxanna_Rush(<a href='./../../Rush-line/Roxanna_Rush.html'>Roxanna Rush</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

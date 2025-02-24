@@ -27,8 +27,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Nancy_Farrand[Nancy Farrand] -->  Bethuel_Farrand[Bethuel Farrand]
-Nancy_Farrand[Nancy Farrand]  --> Rhoda_Smith[Rhoda Smith]
+Nancy_Farrand(<a href=''>Nancy Farrand</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</>)
+class Bethuel_Farrand father
+Nancy_Farrand(<a href=''>Nancy Farrand</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</>)
+class Rhoda_Smith mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -37,14 +43,21 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Nancy_Farrand[Nancy Farrand] --> Nancy_Farrand+Aaron_Merrill[ ]
-Aaron_Merrill[Aaron Merrill] --> Nancy_Farrand+Aaron_Merrill[ ]
-Nancy_Farrand+Aaron_Merrill[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Nancy_Farrand+Aaron_Merrill[ ] --> Hiram_Merrill[Hiram Merrill]
-Hiram_Merrill[Hiram Merrill] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
-Lucy_Witherell[Lucy Witherell] --> [[Hiram_Merrill]]+Lucy_Witherell[ ]
+class Nancy_Farrand_and_Aaron_Merrill marriage
+Nancy_Farrand(<a href=''>Nancy Farrand</>) --> Nancy_Farrand_and_Aaron_Merrill[ ]
+Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>) --> Nancy_Farrand_and_Aaron_Merrill(( ))
+Nancy_Farrand_and_Aaron_Merrill[ ] --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
+class Hiram_Merrill_and_Lucy_Witherell marriage
+Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
+Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
+Nancy_Farrand_and_Aaron_Merrill[ ] --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
+class Hiram_Merrill_and_Lucy_Witherell marriage
+Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
+Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -23,8 +23,13 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Isaac_Newton_Gattis_Sr.[Isaac Newton Gattis Sr.] --> Isaac_Newton_Gattis_Sr.+_[ ]
-_[ ] --> Isaac_Newton_Gattis_Sr.+_[ ]
+class Isaac_Newton_Gattis_Sr._and__ marriage
+Isaac_Newton_Gattis_Sr.(<a href=''>Isaac Newton Gattis Sr.</>) --> Isaac_Newton_Gattis_Sr._and__[ ]
+_(<a href=''> </>) --> Isaac_Newton_Gattis_Sr._and__(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

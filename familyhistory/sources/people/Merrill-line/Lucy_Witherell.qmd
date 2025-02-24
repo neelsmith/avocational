@@ -26,6 +26,10 @@ Documented ancestors:
 ```{mermaid}
 graph LR
 
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -34,9 +38,14 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Lucy_Witherell[Lucy Witherell] --> Lucy_Witherell+Hiram_Merrill[ ]
-Hiram_Merrill[Hiram Merrill] --> Lucy_Witherell+Hiram_Merrill[ ]
-Lucy_Witherell+Hiram_Merrill[ ] --> James_Albee_Merrill[James Albee Merrill]
+class Lucy_Witherell_and_Hiram_Merrill marriage
+Lucy_Witherell(<a href=''>Lucy Witherell</>) --> Lucy_Witherell_and_Hiram_Merrill[ ]
+Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>) --> Lucy_Witherell_and_Hiram_Merrill(( ))
+Lucy_Witherell_and_Hiram_Merrill[ ] --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

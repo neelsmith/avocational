@@ -27,8 +27,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Calvin_Harris_Rush[Calvin Harris Rush] -->  Noah_Rush[Noah Rush]
-Calvin_Harris_Rush[Calvin Harris Rush]  --> Sarah_Loflin[Sarah Loflin]
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+class Noah_Rush father
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+class Sarah_Loflin mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -37,12 +43,21 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Calvin_Harris_Rush[Calvin Harris Rush] --> Calvin_Harris_Rush+Frances_Hix[ ]
-Frances_Hix[Frances Hix] --> Calvin_Harris_Rush+Frances_Hix[ ]
-Calvin_Harris_Rush+Frances_Hix[ ] --> Clarence_Harris_Rush[Clarence Harris Rush]
-Calvin_Harris_Rush+Frances_Hix[ ] --> Mona_Rush[Mona Rush]
-Mona_Rush[Mona Rush] --> [[Mona_Rush]]+[ ]
-[] --> [[Mona_Rush]]+[ ]
+class Calvin_Harris_Rush_and_Frances_Hix marriage
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_Frances_Hix[ ]
+Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>) --> Calvin_Harris_Rush_and_Frances_Hix(( ))
+Calvin_Harris_Rush_and_Frances_Hix[ ] --> Clarence_Harris_Rush(<a href='./Clarence_Harris_Rush.html'>Clarence Harris Rush</>)
+Calvin_Harris_Rush_and_Frances_Hix[ ] --> Mona_Rush(<a href='./Mona_Rush.html'>Mona Rush</>)
+class Mona_Rush_and_ marriage
+Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
+(<a href=''></>) --> Mona_Rush_and_(( ))
+class Mona_Rush_and_Charles_R._Smith_Sr. marriage
+Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
+Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -24,6 +24,10 @@ Documented ancestors:
 ```{mermaid}
 graph LR
 
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -32,8 +36,13 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-James_Marion_Neel[James Marion Neel] --> James_Marion_Neel+_Sarah_Jane_Barton[ ]
-_Sarah_Jane_Barton[ Sarah Jane Barton] --> James_Marion_Neel+_Sarah_Jane_Barton[ ]
+class James_Marion_Neel_and__Sarah_Jane_Barton marriage
+James_Marion_Neel(<a href=''>James Marion Neel</>) --> James_Marion_Neel_and__Sarah_Jane_Barton[ ]
+_Sarah_Jane_Barton(<a href=''> Sarah Jane Barton</>) --> James_Marion_Neel_and__Sarah_Jane_Barton(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -18,8 +18,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Robert_Wilburn_Neel[Robert Wilburn Neel] -->  James_Marion_Neel[James Marion Neel]
-Robert_Wilburn_Neel[Robert Wilburn Neel]  --> _Sarah_Jane_Barton[ Sarah Jane Barton]
+Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
+class James_Marion_Neel father
+Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>)  --> _Sarah_Jane_Barton(<a href=''> Sarah Jane Barton</>)
+class _Sarah_Jane_Barton mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

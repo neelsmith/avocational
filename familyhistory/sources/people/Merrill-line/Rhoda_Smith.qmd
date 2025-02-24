@@ -25,11 +25,17 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Rhoda_Smith[Rhoda Smith] --> Rhoda_Smith+Bethuel_Farrand[ ]
-Bethuel_Farrand[Bethuel Farrand] --> Rhoda_Smith+Bethuel_Farrand[ ]
-Rhoda_Smith+Bethuel_Farrand[ ] --> Nancy_Farrand[Nancy Farrand]
-Nancy_Farrand[Nancy Farrand] --> [[Nancy_Farrand]]+Aaron_Merrill[ ]
-Aaron_Merrill[Aaron Merrill] --> [[Nancy_Farrand]]+Aaron_Merrill[ ]
+class Rhoda_Smith_and_Bethuel_Farrand marriage
+Rhoda_Smith(<a href=''>Rhoda Smith</>) --> Rhoda_Smith_and_Bethuel_Farrand[ ]
+Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</>) --> Rhoda_Smith_and_Bethuel_Farrand(( ))
+Rhoda_Smith_and_Bethuel_Farrand[ ] --> Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand</>)
+class Nancy_Farrand_and_Aaron_Merrill marriage
+Nancy_Farrand(<a href=''>Nancy Farrand</>) --> Nancy_Farrand_and_Aaron_Merrill[ ]
+Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>) --> Nancy_Farrand_and_Aaron_Merrill(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

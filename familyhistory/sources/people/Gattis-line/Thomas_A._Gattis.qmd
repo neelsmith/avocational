@@ -18,8 +18,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Thomas_A._Gattis[Thomas A. Gattis] -->  Isaac_Newton_Gattis_Sr.[Isaac Newton Gattis Sr.]
-Thomas_A._Gattis[Thomas A. Gattis]  --> _[ ]
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</>)
+class Isaac_Newton_Gattis_Sr. father
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>)  --> _(<a href=''> </>)
+class _ mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

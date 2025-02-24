@@ -25,11 +25,17 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Benjamin_White[Benjamin White] --> Benjamin_White+Ruth_Wilson[ ]
-Ruth_Wilson[Ruth Wilson] --> Benjamin_White+Ruth_Wilson[ ]
-Benjamin_White+Ruth_Wilson[ ] --> Ebenezer_White[Ebenezer White]
-Ebenezer_White[Ebenezer White] --> [[Ebenezer_White]]+Candace_Smith[ ]
-Candace_Smith[Candace Smith] --> [[Ebenezer_White]]+Candace_Smith[ ]
+class Benjamin_White_and_Ruth_Wilson marriage
+Benjamin_White(<a href=''>Benjamin White</>) --> Benjamin_White_and_Ruth_Wilson[ ]
+Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>) --> Benjamin_White_and_Ruth_Wilson(( ))
+Benjamin_White_and_Ruth_Wilson[ ] --> Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+class Ebenezer_White_and_Candace_Smith marriage
+Ebenezer_White(<a href=''>Ebenezer White</>) --> Ebenezer_White_and_Candace_Smith[ ]
+Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>) --> Ebenezer_White_and_Candace_Smith(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

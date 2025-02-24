@@ -18,9 +18,16 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Syrena_Adams[Syrena Adams] -->  Friend_Adams[Friend Adams]
-Syrena_Adams[Syrena Adams]  --> Elizabeth_Stagg[Elizabeth Stagg]
-Elizabeth_Stagg[Elizabeth Stagg] -->  Josiah_Stagg[Josiah Stagg]
+Syrena_Adams(<a href=''>Syrena Adams</>) -->  Friend_Adams(<a href='./Friend_Adams.html'>Friend Adams</>)
+class Friend_Adams father
+Syrena_Adams(<a href=''>Syrena Adams</>)  --> Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg</>)
+Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah_Stagg(<a href='./Josiah_Stagg.html'>Josiah Stagg</>)
+class Josiah_Stagg father
+class Elizabeth_Stagg mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

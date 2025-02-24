@@ -3,9 +3,53 @@ engine: julia
 ---
 
 
-# Charles R. Smith sr.
+> *Page automatically generated.*
+
+# Charles R. Smith Sr.
+
+
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Mona Rush](./../Rush-line/Mona_Rush.html)**:
+
+
+- [David Hammond Smith](./David_Hammond_Smith.html)
+
+- [Richard Smith](./../../Richard_Smith.html)
+
+- [Frances Smith](./../../Frances_Smith.html)
 
 
 
+Documented descendants:
 
-Private information: Charles R. Smith sr. not identified as deceased.
+```{mermaid}
+graph LR
+class Charles_R._Smith_Sr._and_Mona_Rush marriage
+Charles_R._Smith_Sr.(<a href=''>Charles R. Smith Sr.</>) --> Charles_R._Smith_Sr._and_Mona_Rush[ ]
+Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush</>) --> Charles_R._Smith_Sr._and_Mona_Rush(( ))
+Charles_R._Smith_Sr._and_Mona_Rush[ ] --> David_Hammond_Smith(<a href='./David_Hammond_Smith.html'>David Hammond Smith</>)
+Charles_R._Smith_Sr._and_Mona_Rush[ ] --> Richard_Smith(<a href='./../../Richard_Smith.html'>Richard Smith</>)
+Charles_R._Smith_Sr._and_Mona_Rush[ ] --> Frances_Smith(<a href='./../../Frances_Smith.html'>Frances Smith</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Mona Rush](./../Rush-line/Mona_Rush.html)
+
+
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
+
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
+
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
+
+

@@ -25,8 +25,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Zachariah_Smith[Zachariah Smith] -->  Zachia_Smith[Zachia Smith]
-Zachariah_Smith[Zachariah Smith]  --> Susanah_Grout[Susanah Grout]
+Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
+class Zachia_Smith father
+Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
+class Susanah_Grout mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -35,9 +41,14 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Zachariah_Smith[Zachariah Smith] --> Zachariah_Smith+Lydia_Hastings_Smith[ ]
-Lydia_Hastings_Smith[Lydia Hastings Smith] --> Zachariah_Smith+Lydia_Hastings_Smith[ ]
-Zachariah_Smith+Lydia_Hastings_Smith[ ] --> Lydia_Jepson_Smith[Lydia Jepson Smith]
+class Zachariah_Smith_and_Lydia_Hastings_Smith marriage
+Zachariah_Smith(<a href=''>Zachariah Smith</>) --> Zachariah_Smith_and_Lydia_Hastings_Smith[ ]
+Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>) --> Zachariah_Smith_and_Lydia_Hastings_Smith(( ))
+Zachariah_Smith_and_Lydia_Hastings_Smith[ ] --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -26,6 +26,10 @@ Documented ancestors:
 ```{mermaid}
 graph LR
 
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -34,9 +38,14 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-John_Owen_Blanton[John Owen Blanton] --> John_Owen_Blanton+Leonora_Josephine_Saudek[ ]
-Leonora_Josephine_Saudek[Leonora Josephine Saudek] --> John_Owen_Blanton+Leonora_Josephine_Saudek[ ]
-John_Owen_Blanton+Leonora_Josephine_Saudek[ ] --> Willie_Saudek_Blanton[Willie Saudek Blanton]
+class John_Owen_Blanton_and_Leonora_Josephine_Saudek marriage
+John_Owen_Blanton(<a href=''>John Owen Blanton</>) --> John_Owen_Blanton_and_Leonora_Josephine_Saudek[ ]
+Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>) --> John_Owen_Blanton_and_Leonora_Josephine_Saudek(( ))
+John_Owen_Blanton_and_Leonora_Josephine_Saudek[ ] --> Willie_Saudek_Blanton(<a href='./Willie_Saudek_Blanton.html'>Willie Saudek Blanton</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

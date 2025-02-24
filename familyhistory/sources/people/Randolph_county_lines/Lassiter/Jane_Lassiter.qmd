@@ -25,11 +25,17 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Jane_Lassiter[Jane Lassiter] --> Jane_Lassiter+William_J._Hicks[ ]
-William_J._Hicks[William J. Hicks] --> Jane_Lassiter+William_J._Hicks[ ]
-Jane_Lassiter+William_J._Hicks[ ] --> Frances_Hix[Frances Hix]
-Frances_Hix[Frances Hix] --> [[Frances_Hix]]+Calvin_Harris_Rush[ ]
-Calvin_Harris_Rush[Calvin Harris Rush] --> [[Frances_Hix]]+Calvin_Harris_Rush[ ]
+class Jane_Lassiter_and_William_J._Hicks marriage
+Jane_Lassiter(<a href=''>Jane Lassiter</>) --> Jane_Lassiter_and_William_J._Hicks[ ]
+William_J._Hicks(<a href='./../Hicks/William_J._Hicks.html'>William J. Hicks</>) --> Jane_Lassiter_and_William_J._Hicks(( ))
+Jane_Lassiter_and_William_J._Hicks[ ] --> Frances_Hix(<a href='./../Hicks/Frances_Hix.html'>Frances Hix</>)
+class Frances_Hix_and_Calvin_Harris_Rush marriage
+Frances_Hix(<a href=''>Frances Hix</>) --> Frances_Hix_and_Calvin_Harris_Rush[ ]
+Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Harris Rush</>) --> Frances_Hix_and_Calvin_Harris_Rush(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -25,11 +25,17 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Nancy_Eliza_Northern[Nancy Eliza Northern] --> Nancy_Eliza_Northern+Joseph_Saudek[ ]
-Joseph_Saudek[Joseph Saudek] --> Nancy_Eliza_Northern+Joseph_Saudek[ ]
-Nancy_Eliza_Northern+Joseph_Saudek[ ] --> Leonora_Josephine_Saudek[Leonora Josephine Saudek]
-Leonora_Josephine_Saudek[Leonora Josephine Saudek] --> [[Leonora_Josephine_Saudek]]+John_Owen_Blanton[ ]
-John_Owen_Blanton[John Owen Blanton] --> [[Leonora_Josephine_Saudek]]+John_Owen_Blanton[ ]
+class Nancy_Eliza_Northern_and_Joseph_Saudek marriage
+Nancy_Eliza_Northern(<a href=''>Nancy Eliza Northern</>) --> Nancy_Eliza_Northern_and_Joseph_Saudek[ ]
+Joseph_Saudek(<a href='./../Joseph_Saudek.html'>Joseph Saudek</>) --> Nancy_Eliza_Northern_and_Joseph_Saudek(( ))
+Nancy_Eliza_Northern_and_Joseph_Saudek[ ] --> Leonora_Josephine_Saudek(<a href='./../Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)
+class Leonora_Josephine_Saudek_and_John_Owen_Blanton marriage
+Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>) --> Leonora_Josephine_Saudek_and_John_Owen_Blanton[ ]
+John_Owen_Blanton(<a href='./../John_Owen_Blanton.html'>John Owen Blanton</>) --> Leonora_Josephine_Saudek_and_John_Owen_Blanton(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

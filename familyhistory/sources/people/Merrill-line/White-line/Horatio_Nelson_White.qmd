@@ -18,10 +18,18 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Horatio_Nelson_White[Horatio Nelson White] -->  Ebenezer_White[Ebenezer White]
-Ebenezer_White[Ebenezer White] -->  Benjamin_White[Benjamin White]
-Ebenezer_White[Ebenezer White]  --> Ruth_Wilson[Ruth Wilson]
-Horatio_Nelson_White[Horatio Nelson White]  --> Candace_Smith[Candace Smith]
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+class Candace_Smith mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -18,10 +18,18 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Willie_Saudek_Blanton[Willie Saudek Blanton] -->  John_Owen_Blanton[John Owen Blanton]
-Willie_Saudek_Blanton[Willie Saudek Blanton]  --> Leonora_Josephine_Saudek[Leonora Josephine Saudek]
-Leonora_Josephine_Saudek[Leonora Josephine Saudek] -->  Joseph_Saudek[Joseph Saudek]
-Leonora_Josephine_Saudek[Leonora Josephine Saudek]  --> Nancy_Eliza_Northern[Nancy Eliza Northern]
+Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) -->  John_Owen_Blanton(<a href='./John_Owen_Blanton.html'>John Owen Blanton</>)
+class John_Owen_Blanton father
+Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>)  --> Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)
+Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>) -->  Joseph_Saudek(<a href='./Joseph_Saudek.html'>Joseph Saudek</>)
+class Joseph_Saudek father
+Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>)  --> Nancy_Eliza_Northern(<a href='./Northern-line/Nancy_Eliza_Northern.html'>Nancy Eliza Northern</>)
+class Nancy_Eliza_Northern mother
+class Leonora_Josephine_Saudek mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

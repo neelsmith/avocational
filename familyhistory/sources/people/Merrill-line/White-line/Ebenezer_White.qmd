@@ -27,8 +27,14 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-Ebenezer_White[Ebenezer White] -->  Benjamin_White[Benjamin White]
-Ebenezer_White[Ebenezer White]  --> Ruth_Wilson[Ruth Wilson]
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
@@ -37,10 +43,15 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Ebenezer_White[Ebenezer White] --> Ebenezer_White+Candace_Smith[ ]
-Candace_Smith[Candace Smith] --> Ebenezer_White+Candace_Smith[ ]
-Ebenezer_White+Candace_Smith[ ] --> Horatio_Nelson_White[Horatio Nelson White]
-Ebenezer_White+Candace_Smith[ ] --> Adaline_White[Adaline White]
+class Ebenezer_White_and_Candace_Smith marriage
+Ebenezer_White(<a href=''>Ebenezer White</>) --> Ebenezer_White_and_Candace_Smith[ ]
+Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>) --> Ebenezer_White_and_Candace_Smith(( ))
+Ebenezer_White_and_Candace_Smith[ ] --> Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>)
+Ebenezer_White_and_Candace_Smith[ ] --> Adaline_White(<a href='./Adaline_White.html'>Adaline White</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 

@@ -25,9 +25,14 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
-Lydia_Hastings_Smith[Lydia Hastings Smith] --> Lydia_Hastings_Smith+Zachariah_Smith[ ]
-Zachariah_Smith[Zachariah Smith] --> Lydia_Hastings_Smith+Zachariah_Smith[ ]
-Lydia_Hastings_Smith+Zachariah_Smith[ ] --> Lydia_Jepson_Smith[Lydia Jepson Smith]
+class Lydia_Hastings_Smith_and_Zachariah_Smith marriage
+Lydia_Hastings_Smith(<a href=''>Lydia Hastings Smith</>) --> Lydia_Hastings_Smith_and_Zachariah_Smith[ ]
+Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>) --> Lydia_Hastings_Smith_and_Zachariah_Smith(( ))
+Lydia_Hastings_Smith_and_Zachariah_Smith[ ] --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
 ```
 
 
