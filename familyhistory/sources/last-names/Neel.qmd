@@ -4,7 +4,7 @@ engine: julia
 
 # Neel
 
-- [Abner Duncan Neel](./../Abner_Duncan_Neel.html)
+- [Abner Duncan Neel](./../people/Neel-line/Abner_Duncan_Neel.html)
 - [Bee Neel](./../people/Neel-line/Bee_Neel.html)
 - [Bell Starr](./../people/Neel-line/Bell_Starr.html)
 - [Betty Neel](./../people/Neel-line/Betty_Neel.html)

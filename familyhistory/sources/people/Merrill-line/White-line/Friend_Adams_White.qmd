@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Friend Adams White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Friend Adams White not identified as deceased.
+**Father**: [?]()

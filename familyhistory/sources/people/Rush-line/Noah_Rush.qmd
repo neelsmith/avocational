@@ -47,6 +47,9 @@ Noah_Rush_and_Sarah_Loflin[ ] --> Calvin_Harris_Rush(<a href='./Calvin_Harris_Ru
 class Calvin_Harris_Rush_and_Frances_Hix marriage
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_Frances_Hix[ ]
 Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>) --> Calvin_Harris_Rush_and_Frances_Hix(( ))
+class Calvin_Harris_Rush_and_ marriage
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_[ ]
+(<a href=''></>) --> Calvin_Harris_Rush_and_(( ))
 Noah_Rush_and_Sarah_Loflin[ ] --> Roxanna_Rush(<a href='./Roxanna_Rush.html'>Roxanna Rush</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  

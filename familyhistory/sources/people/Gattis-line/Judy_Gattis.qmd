@@ -3,40 +3,9 @@ engine: julia
 ---
 
 
-> *Page automatically generated.*
-
 # Judy Gattis
 
 
-*born* 1933-03-03 : *died* ?
-
-**Mother**: [Mary Louise Neel](./../Neel-line/Mary_Louise_Neel.html)
-
-**Father**: [Claud Gattis](./Claud_Gattis.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-classDef mother fill:#ffd1dc
-classDef father fill:#daf0f7  
-classDef marriage fill:#ffffff
-
-```
 
 
-
-## Sources
-Sources for birth:
-
-
-| Date | Source | Place | Type |
-| --- | --- | --- | --- |
-| 1933-03-02 | Murfreesboro, Tennessee | [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html) | direct |
-
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
+Private information: Judy Gattis not identified as deceased.

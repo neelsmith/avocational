@@ -12,4 +12,32 @@ engine: julia
 
 **Mother**: [?]()
 
-**Father**: [?]()
+**Father**: [Ebenezer White mother::Candace Smith]()
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Eliza_Ann_White(<a href=''>Eliza Ann White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Eliza_Ann_White(<a href=''>Eliza Ann White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+class Candace_Smith mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Eliza Ann White death](./../../../transcriptions/vitals/Eliza_Ann_White_death.html) | direct |

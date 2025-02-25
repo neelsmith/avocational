@@ -3,9 +3,35 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Zebedee Franklin Rush
 
 
+*born* ? : *died* ?
+
+**Mother**: [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
+
+**Father**: [?]()
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Zebedee_Franklin_Rush(<a href=''>Zebedee Franklin Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+class Sarah_Loflin mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
 
 
-Private information: Zebedee Franklin Rush not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| []() | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |

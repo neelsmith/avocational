@@ -12,4 +12,30 @@ engine: julia
 
 **Mother**: [?]()
 
-**Father**: [?]()
+**Father**: [Clarence Harris Rush](./Clarence_Harris_Rush.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Juanita_Rush(<a href=''>Juanita Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+class Noah_Rush father
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+class Sarah_Loflin mother
+class Calvin_Harris_Rush father
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | []() | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |

@@ -45,3 +45,4 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [1900 census](./../../census-summaries/1900_census.html) | indirect |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | []() | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |

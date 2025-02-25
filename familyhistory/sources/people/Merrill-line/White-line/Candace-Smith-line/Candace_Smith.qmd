@@ -21,6 +21,8 @@ engine: julia
 
 - [Adaline White](./../Adaline_White.html)
 
+- [Eliza Ann White](./../Eliza_Ann_White.html)
+
 
 
 Documented ancestors:
@@ -45,6 +47,7 @@ Candace_Smith(<a href=''>Candace Smith</>) --> Candace_Smith_and_Ebenezer_White[
 Ebenezer_White(<a href='./../Ebenezer_White.html'>Ebenezer White</>) --> Candace_Smith_and_Ebenezer_White(( ))
 Candace_Smith_and_Ebenezer_White[ ] --> Horatio_Nelson_White(<a href='./../Horatio_Nelson_White.html'>Horatio Nelson White</>)
 Candace_Smith_and_Ebenezer_White[ ] --> Adaline_White(<a href='./../Adaline_White.html'>Adaline White</>)
+Candace_Smith_and_Ebenezer_White[ ] --> Eliza_Ann_White(<a href='./../Eliza_Ann_White.html'>Eliza Ann White</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -66,5 +69,7 @@ Sources for children with [Ebenezer White](./../Ebenezer_White.html)
 - [Horatio White - Susan Spaulding marriage](./../../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html)
 
 - [Adaline White death](./../../../../transcriptions/vitals/Adaline_White_death.html)
+
+- [Eliza Ann White death](./../../../../transcriptions/vitals/Eliza_Ann_White_death.html)
 
 

@@ -21,6 +21,9 @@ engine: julia
 
 - [Roxanna Rush](./../../Rush-line/Roxanna_Rush.html)
 
+**Children with []()**:
+
+
 
 
 Documented ancestors:
@@ -47,7 +50,13 @@ Sarah_Loflin_and_Noah_Rush[ ] --> Calvin_Harris_Rush(<a href='./../../Rush-line/
 class Calvin_Harris_Rush_and_Frances_Hix marriage
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_Frances_Hix[ ]
 Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>) --> Calvin_Harris_Rush_and_Frances_Hix(( ))
+class Calvin_Harris_Rush_and_ marriage
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_[ ]
+(<a href=''></>) --> Calvin_Harris_Rush_and_(( ))
 Sarah_Loflin_and_Noah_Rush[ ] --> Roxanna_Rush(<a href='./../../Rush-line/Roxanna_Rush.html'>Roxanna Rush</>)
+class Sarah_Loflin_and_ marriage
+Sarah_Loflin(<a href=''>Sarah Loflin</>) --> Sarah_Loflin_and_[ ]
+(<a href=''></>) --> Sarah_Loflin_and_(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -69,5 +78,10 @@ Sources for children with [Noah Rush](./../../Rush-line/Noah_Rush.html)
 - [Noah Rush 1860 census](./../../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
 
 - [Roxanna Rush 1860 census](./../../../transcriptions/census/Rush_census/Roxanna_Rush_1860_census.html)
+
+
+
+Sources for children with []()
+
 
 

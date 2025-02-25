@@ -94,6 +94,7 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html) | direct |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | []() | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |
 
 Sources for children with []()
 
