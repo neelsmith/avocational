@@ -2,15 +2,6 @@
 
 
 
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html) 
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html) 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-
-refersto::[Ebenezer Torrey Englesby](./../../../people/not-related/Ebenezer_Torrey_Englesby.html)
-
-Mentions but not by name Artemas' wife, [Lydia White](./../../../people/Merrill-line/White-line/Lydia_White.html) and Horatio Nelson's mother [Candace Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
 
 
 ## Synopsis
@@ -47,3 +38,15 @@ Cover:
 illustratedby::]
 
 Page 1: illustratedby::[IMG_3059](./../../../images/IMG_3059.html)
+
+
+## Notes
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html) 
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html) 
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+
+refersto::[Ebenezer Torrey Englesby](./../../../people/not-related/Ebenezer_Torrey_Englesby.html)
+
+Mentions but not by name Artemas' wife, [Lydia White](./../../../people/Merrill-line/White-line/Lydia_White.html) and Horatio Nelson's mother [Candace Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
