@@ -3,7 +3,66 @@ title: "White family letters"
 engine: julia
 ---
 
+## Family letters to Horatio Nelson White (1802-1886)
 
-The American Antiquarian Society in Worcester holds a collection of mid-nineteenth century letters to and from members of the family of Ebenezer White (1779-1853).
 
-I have made a preliminary inventory of the letters, and plan to share that, along with full transcriptions and illustrations of each letter.
+The American Antiquarian Society in Worcester (AAS) holds a collection of mid-nineteenth century letters to and from members of the family of [Ebenezer White](../sources/people/Merrill-line/White-line/Ebenezer_White.html) (1779-1853).
+
+The notes here document 38 letters that were all addressed to [Horatio Nelson White](../sources/people/Merrill-line/White-line/Horatio_Nelson_White.html)  (1802-1886) in Panton, Vermont, or his son, [Friend Adams White](../sources/people/Merrill-line/White-line/Friend_Adams_White.html) (1833-1895), while Friend was still a boy or young man living with his family. One letter is from Horatio Nelson's brother, [Artemas](../sources/people/Merrill-line/White-line/Artemas_White.html) (transcribed [here])[../sources/transcriptions/letters/White_letters/1842-09-31-AW-HNW.html]), and one from his brother, [Hiram](../sources/people/Merrill-line/White-line/Hiram_White.html) (transcribed [here](sources/transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)). Eleven are from Horatio Nelson's father, Ebenezer White. The remaining 25 letters are from Horatio Nelson's brother, [Henry George White](../sources/people/Merrill-line/White-line/Henry_George_White.html). The letters range in date from 1842 to 1860; after Ebenezer's death in 1853, all the letters are from Henry George, living in distant Buffalo, NY, to Horatio Nelson.
+
+The letters focus primarily on family matters: who is in good health, who is still on speaking terms with which siblings, how the garden or family business is doing, and above all else who is most delinquent in paying the debt of a letter with a reply. At the same time, they offer glimpses of both local and national events (a catastrophic bridge collapse, presidential elections, the California gold rush that drew both Artemas and Hiram to "go west") and everyday life in the middle of the nineteenth century (colera epidemics, a state fair, the revolution in travel resulting from the new railroads).
+
+
+## What's available here
+
+The letters will be professionally photographed at the AAS. In the meantime, I have taken snapshots with a cell phone that are generally clear enough to make a transcription. Currently, I'm working through the material and gradually adding photographs and transcriptions for the letters.
+
+
+
+## Checklist of the letters
+
+
+Synopsis and initial transcription available:
+
+1. [1842-07-17-EW-to-HNW](../sources/transcriptions/letters/White_letters/1842-07-17-EW-HNW.html): Ebenezer White to Horatio Nelson White, July 17, 1842. 
+1. `1842-09-31-AW-to-HNW`: Artemas White to Horatio Nelson White, September 30, 1842.  📝
+1. `1848-07-02-HGW-to-HNW`: Henry George White to Horatio Nelson White, July 2, 1848. 📝
+1. `1848-12-20-HGW-to-FAW`: Henry George White to Friend Adams White, December 20, 1848. 📝
+1. `1849-08-09-EW-to-HNW`: Ebenezer White to Horatio Nelson White Aug. 9, 1849.  📝
+1. `1849-09-09-EW-to-HNW`: Ebenezer White to Horatio Nelson White September 9, 1849.  📝
+1. `1849-11-18-EW-to-HNW`: Ebenezer White to Horatio Nelson White November 18, 1849.  📝
+1. `1850-02-XX-HGW-to-HNW`: Henry George White to Horatio Nelson White, February, 1850 (date uncertain). *No photographs available*
+1. `1850-04-07-HSW-to-HNW`: Hiram White to family, April 7, 1850. 📝
+1. `1851-03-02-EW-to-HNW`: Ebenezer White to Horatio Nelson White, March 2, 1851. 📝
+1. `1851-07-27-EW-to-HNW` : Ebenezer White to Horatio Nelson White, July 27, 1851.  📝
+1. `1851-09-03-HGW-to-HNW`: Henry George White to Horatio Nelson White, September 3, 1851.  📝 
+1. `1851-10-26-HGW-to-HNW` : Henry George White to Horatio Nelson White, October 26, 1851.  📝 
+1. `1851-10-30-EW-to-HNW`: Ebenezer White to Horatio Nelson White, October 30, 1851.  📝
+1. `1851-12-15-EW-to-HNW`: Ebenezer White to Horatio Nelson White, December 25, 1851.  📝
+1. `1852-02-16-HGW-to-HNW`: Henry George White to Horatio Nelson White, February 16, 1852.  📝
+1. `1852-06-07-EW-to-HNW`: Ebenezer White to Horatio Nelson White, June 7, 1852.  📝
+1. `1852-08-01-HGW-to-HNW` : Henry George White to Horatio Nelson White, August 1 1852.  📝
+1. `1852-11-11-EW-to-HNW`: Ebenezer White to Horatio Nelson White, November 11, 1852.  📝
+1. `1852-12-19-HGW-to-FAW`: Henry George White to Friend White, December 19, 1852.  📝
+1. `1853-12-13-EW-to-HNW`: Ebenezer White to Horatio Nelson White, December 13, 1853.  📝
+1. `1854-03-12-HGW-to-HNW`: Henry George White to Horatio Nelson White, March 12, 1854.  📝
+1. `1855-04-01-HGW-to-HNW`: Henry George White to Horatio Nelson White, April 1, 1855.  📝
+1. `1855-08-19-HGW-to-HNW`: Henry George White to Horatio Nelson White, August 19, 1855.  
+
+
+Not transcribed:
+
+1. `1856-01-02-HGW-to-HNW`: Henry George White to Horatio Nelson White, January 2, 1856
+1. `1856-03-02-HGW-to-HNW`: Henry George White to Horatio Nelson White, March 2, 1856
+1. `1856-11-07-HGW-to-HNW`: Henry George White to Horatio Nelson White, November 7, 1856
+1. `1856-12-28-HGW-to-HNW`: Henry George White to Horatio Nelson White, December 28, 1856
+1. `1857-03-01-HGW-to-HNW`: Henry George White to Horatio Nelson White, March 1, 1857
+1. `1857-12-13-HGW-to-HNW`: Henry George White to Horatio Nelson White, December 13, 1857
+1. `1858-05-30-HGW-to-HNW`: Henry George White to Horatio Nelson White, May 30, 1858
+1. `1858-06-13-HGW-to-HNW`: Henry George White to Horatio Nelson White, June 13, 1858
+1. `1858-09-05-HGW-to-HNW`: Henry George White to Horatio Nelson White, September 5, 1858
+1. `1858-12-26-HGW-to-HNW`: Henry George White to Horatio Nelson White, December 26, 1858
+1. `1859-09-06-HGW-to-HNW`: Henry George White to Horatio Nelson White, September 6, 1859
+1. `1859-10-26-HGW-to-HNW`: Henry George White to Horatio Nelson White, October 26, 1859
+1. `1859-11-27-HGW-to-HNW`: Henry George White to Horatio Nelson White, November 27, 1859
+1. `1860-01-02-HGW-to-HNW`: Henry George White to Horatio Nelson White, January 2, 1860
