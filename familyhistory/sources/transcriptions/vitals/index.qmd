@@ -7,6 +7,7 @@ engine: julia
 - [Adaline White death](./Adaline_White_death.html)
 - [Bee Neel in CA birth index](./Bee_Neel_in_CA_birth_index.html)
 - [Bee Neel in Social Security death index](./Bee_Neel_in_Social_Security_death_index.html)
+- [Candace White Palmer death certificate](./Candace_White_Palmer_death_certificate.html)
 - [Cassie Green death certificate](./Cassie_Green_death_certificate.html)
 - [Daniel Clyde Henderson birth](./Daniel_Clyde_Henderson_birth.html)
 - [Ebenezer White - Candace Smith marriage](./Ebenezer_White_-_Candace_Smith_marriage.html)

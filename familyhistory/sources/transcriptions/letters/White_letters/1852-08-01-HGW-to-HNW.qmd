@@ -2,35 +2,6 @@
  
 
 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
-refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
-refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
-refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
-
-
-
-## Notes
-
-"our little girl" is Ann Eliza, now about 5
-
-"our boys" are George W. (about 11) and Charles H. (about 7)
-
-"our Brother" is the other yet unnamed one: Hiram
-
-Artemas is back east, staying in Buffalo; Hiram is evidently still in CA starting on a new venture
-
-Who is Hiram's partner W. Thomas?
 
 
 ## Synopsis
@@ -83,3 +54,37 @@ Peace be with you all
 Your Brother
 
 HG. White
+
+
+
+
+## Notes
+
+
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
+refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
+refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
+
+
+"our little girl" is Ann Eliza, now about 5
+
+"our boys" are George W. (about 11) and Charles H. (about 7)
+
+"our Brother" is the other yet unnamed one: Hiram
+
+Artemas is back east, staying in Buffalo; Hiram is evidently still in CA starting on a new venture
+
+Who is Hiram's partner W. Thomas?

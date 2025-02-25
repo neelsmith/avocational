@@ -5,28 +5,7 @@
 
 
 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-
-
-
-
-
-## Notes
-
-Friend is in Fondulac "engaged in the Post Office"!
-
-HG has made Artemas his "agent" -- we're still trying to sort out the estate.
-
-
-Who is "Mrs. Cock" ?
 
 
 
@@ -71,3 +50,28 @@ Hiram says he will go to the west this fall & see the country but as he is a far
 I sent you a semon preached here at the opening of our unitarian convention I hope you read it in order to know how some of us feel you my think if I am a spiritualist I cannot be a unitarian I see nothing conflicting in them only find spiritualism to be unitarianist theories carried out & proved that is as man lives & leaves the body his state will be in future & that he can still if he desires *progress* toward god & a high state of spiritual existance
 
 My sheet is full -- Good bye H.G. White
+
+
+
+
+
+## Notes
+
+
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+
+Friend is in Fondulac "engaged in the Post Office"!
+
+HG has made Artemas his "agent" -- we're still trying to sort out the estate.
+
+
+Who is "Mrs. Cock" ?

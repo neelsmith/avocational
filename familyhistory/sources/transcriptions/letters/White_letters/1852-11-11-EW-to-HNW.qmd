@@ -1,34 +1,9 @@
 
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-
-
 
  
 
 
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 
-
-## Notes
-
-
-Others mentioned:
-
-
-Wm. Hickock may be 
-refersto::[William H. Hickock](./../../../people/not-related/William_H._Hickock.html)
-
-"Weston" is probably
-refersto::[William Weston](./../../../people/not-related/William_Weston.html)
-
-
-"young Smalley?"
 ## Synopsis
 
 Ebenezer White in Burlington writes to Horatio Nelson White in Panton.
@@ -53,3 +28,29 @@ Father
 
 P.S. Adaline wishes me to ask you to let her have 20, 30, 40, or 50lb Butter. Butter is *low* here and hard to be had she will give you the highest Market price
 
+
+
+
+## Notes
+
+
+
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+
+
+Others mentioned:
+
+
+Wm. Hickock may be 
+refersto::[William H. Hickock](./../../../people/not-related/William_H._Hickock.html)
+
+"Weston" is probably
+refersto::[William Weston](./../../../people/not-related/William_Weston.html)
+
+
+"young Smalley?"

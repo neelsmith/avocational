@@ -6,22 +6,8 @@
  
 
 
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
 
 
-
-## Notes
-
-The last letter in the collection from Ebenezer. Its date is notably later than the death date Adaline had put on Ebenezer's tombstone!
-
-The "Kid" is probably Horatio Nelson's youngest, [Candace White|Candace](./../../../people/Merrill-line/White-line/Candace_White.html)
-
-
-Who is "Col. Smith"?
 
 
 ## Synopsis
@@ -53,3 +39,21 @@ Love as usual your Father
 E White
 
 P S the California papers say thare are 16,000 people in that place
+
+
+
+## Notes
+
+
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
+
+The last letter in the collection from Ebenezer. Its date is notably later than the death date Adaline had put on Ebenezer's tombstone!
+
+The "Kid" is probably Horatio Nelson's youngest, [Candace White|Candace](./../../../people/Merrill-line/White-line/Candace_White.html)
+
+
+Who is "Col. Smith"?

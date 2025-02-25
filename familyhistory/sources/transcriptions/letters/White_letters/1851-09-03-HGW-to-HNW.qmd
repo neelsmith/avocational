@@ -2,25 +2,6 @@
 
  
 
-
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[Sister of Ann Quayle](./../../../people/Merrill-line/White-line/Sister_of_Ann_Quayle.html)
-refersto::[Brother of Ann Quayle](./../../../people/Merrill-line/White-line/Brother_of_Ann_Quayle.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[Henry S. White](./../../../people/Merrill-line/White-line/Henry_S._White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-
-
-## Notes
-
-[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html) not referred to by name, only as Hiram's wife
-
-
 ## Synopsis
 
 
@@ -58,3 +39,24 @@ Excuse this as it is the 3rd this evening
 Your Brother
 
 H.G. White
+
+
+
+## Notes
+
+[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html) not referred to by name, only as Hiram's wife
+
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Sister of Ann Quayle](./../../../people/Merrill-line/White-line/Sister_of_Ann_Quayle.html)
+refersto::[Brother of Ann Quayle](./../../../people/Merrill-line/White-line/Brother_of_Ann_Quayle.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Henry S. White](./../../../people/Merrill-line/White-line/Henry_S._White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+
+

@@ -2,20 +2,6 @@
  
 
 
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-
-## Notes
-
-Syrena is not named but referred to as Horatio Nelson's wife
 
 ## Synopsis
 
@@ -42,3 +28,21 @@ EW
 H.N. White Esqr of Panton VT
 
 I gues you cant read this what blunders
+
+
+## Notes
+
+
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+
+
+Syrena is not named but referred to as Horatio Nelson's wife

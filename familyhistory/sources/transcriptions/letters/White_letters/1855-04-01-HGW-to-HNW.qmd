@@ -3,23 +3,6 @@
  
 
 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[James Herbert White](./../../../people/Merrill-line/White-line/James_Herbert_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-
-## Notes
-
-The "fine baby boy" is [James Herbert White](./../../../people/Merrill-line/White-line/James_Herbert_White.html)
-
-## Notes
-
-April 1, 1855 was Sunday. If HG literally means "three weeks old today" then James Herbert was born on March 11, 1855.
 
 ## Synopsis
 
@@ -64,3 +47,23 @@ Your Brother
 
 H.G. White
 
+
+
+
+## Notes
+
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[James Herbert White](./../../../people/Merrill-line/White-line/James_Herbert_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+
+The "fine baby boy" is [James Herbert White](./../../../people/Merrill-line/White-line/James_Herbert_White.html)
+
+
+April 1, 1855 was Sunday. If HG literally means "three weeks old today" then James Herbert was born on March 11, 1855.

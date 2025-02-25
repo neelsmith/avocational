@@ -2,24 +2,6 @@
  
 
 
-## Notes
-
-The "little rogue of a Candace" is Horatio Nelson's daughter [Candace White](./../../../people/Merrill-line/White-line/Candace_White.html), now about 9
-
-Friend is about 18 now; Frances about 17
-
-Who is Jack Pomroy ?
-
-
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 
 
 ## Synopsis
@@ -53,3 +35,23 @@ Yours Adaline
 N.B. everything you send will be so much my gane.
 
 E.W.
+
+
+## Notes
+
+The "little rogue of a Candace" is Horatio Nelson's daughter [Candace White](./../../../people/Merrill-line/White-line/Candace_White.html), now about 9
+
+Friend is about 18 now; Frances about 17
+
+Who is Jack Pomroy ?
+
+
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)

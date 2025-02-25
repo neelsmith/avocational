@@ -3,24 +3,8 @@
 
 
 
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
 
 
-## Notes
-
-The death of Artemas' "little Hiram" refers to [Hiram White](./../../../people/Merrill-line/White-line/Hiram_White.html)
-
-Who is Cad Wainwright? And the Willards house?
-
-
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Hiram White](./../../../people/Merrill-line/White-line/Hiram_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
 refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
 
 
@@ -47,3 +31,21 @@ I wish you mery Christmas we all ar well as usual except Adaline she has sliped 
 you Father
 
 it said to be the coldest day we have had this winter best sleighin you never see we keep no Cow and have no Hog
+
+
+
+## Notes
+
+The death of Artemas' "little Hiram" refers to [Hiram White](./../../../people/Merrill-line/White-line/Hiram_White.html)
+
+Who is Cad Wainwright? And the Willards house?
+
+
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Hiram White](./../../../people/Merrill-line/White-line/Hiram_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)

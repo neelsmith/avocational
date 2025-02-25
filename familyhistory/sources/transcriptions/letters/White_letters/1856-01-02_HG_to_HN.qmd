@@ -1,19 +1,7 @@
 
  
 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 
-
-
-## Notes
-
-"your firstborn" is Friend Adams White, presumably still in Wisconsin where HG identified him as working in the Postal Service in [1855-08-19-HGW-to-HNW](./1855-08-19-HGW-to-HNW.html) 
 
 
 
@@ -47,3 +35,18 @@ I am right glad to learn that the affair at Burlington is so nearly setted I hop
 I recd from Artemas a sort of schedule of what fell to my share & by it I see that you got the Bible I know not how the division was made & whether all was satisfatory & would like to know for it was written to me that some said that I should not have the Bible if others had to pay 100 dollars (more than I would give for all the Bibles (to use) in the States) I never desired it & thought that Adaline ought to have it but presum all is right & have never received a word from any one since the division on the subject only barely the schedule from Artemas, I wrote to him to keep all of my portion that would bring the cash & only send me the *old chair spoon* & *Towels* & keep the rest for himself until I sent for them, he is quite poor & I feel sorry for him & would like to do him good if I can but he seems to be bound for bad luck or to be kept poor & possibly there can be no help for him all I fear is that he may become discouraged & take to drink for relief & if I can prevent it I will try & do so, for you know that it is written that "he that seeth his brother needy & does not relieve him &c it is a hard thing to see a poor fellow working hard daily striving to stem the river & finding himself continualy going down for & at the end of the year farther down than at the beginning
 
 I took the liberty to send you the "Age of Progress" a paper printed here & devoted to spiritualism as you will see if you read it, these lectures are all recieved through the raps by an uneducated girl one that has had no educational advantages but you will know all about that if you read & if you are pleased with the papers you can write me if your desire 
+
+
+## Notes
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+
+
+"your firstborn" is Friend Adams White, presumably still in Wisconsin where HG identified him as working in the Postal Service in [1855-08-19-HGW-to-HNW](./1855-08-19-HGW-to-HNW.html) 
+

@@ -6,33 +6,6 @@
 
 
 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html) 
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[George W. White](./../../../people/Merrill-line/White-line/George_W._White.html)
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-
-
-
-
-## Notes
-
-Who is Lenny? Could that possibly be [Mary Ella White](./../../../people/Merrill-line/White-line/Mary_Ella_White.html)?
-
-Horatio Nelson and Syrena have finally visited Buffalo!!
-
-"Out little girl" is Ann Eliza, now about 7 years old
-
-Hiram has moved out from his "old home" shared with Adaline! Does this imply that Ebenezer has died?
-
-Henry George urges Horatio Nelson to have his boys write to HG's son George A., now about 13
-
-
 ## Synopsis
 
 Henry George White in Buffalo writes to Horatio Nelson White and Syrena Adams White in Panton.
@@ -79,3 +52,34 @@ The day has been beautiful & so is the night
 Your Brother
 
 H.G. White
+
+
+
+
+## Notes
+
+
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html) 
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[George W. White](./../../../people/Merrill-line/White-line/George_W._White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+
+
+
+Who is Lenny? Could that possibly be [Mary Ella White](./../../../people/Merrill-line/White-line/Mary_Ella_White.html)?
+
+Horatio Nelson and Syrena have finally visited Buffalo!!
+
+"Out little girl" is Ann Eliza, now about 7 years old
+
+Hiram has moved out from his "old home" shared with Adaline! Does this imply that Ebenezer has died?
+
+Henry George urges Horatio Nelson to have his boys write to HG's son George A., now about 13
+

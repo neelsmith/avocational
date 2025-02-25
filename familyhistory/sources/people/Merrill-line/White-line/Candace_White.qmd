@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Candace White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Candace White not identified as deceased.
+**Father**: [?]()

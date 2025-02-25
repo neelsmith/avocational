@@ -6,26 +6,8 @@
  
 
 
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
-refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
 
 
-
-
-
-## Notes
-
-The envelope is addressed to Horatio Nelson, but written to Friend. In the letter Henry George says he does not know exactly where Friend is; evidnetly he has sent the letter to reach Friend via his father.
-
-
-Friend's relatives in Buffalo not referred to by name but by relation
 
 
 
@@ -70,3 +52,25 @@ I do not know what to fill up this side of the sheet with but it must be filled 
 I know not what your intentions are whether to go to California to get rich, to go to some place seeking a place or occupation or to till the ground & raise sheep cows &c and be happy but what ever you do my young friend strive to do it well & fix your aim high & your efforts to correspond & you need never fear the consequences, only strive to fix upon something & keep it always in view & never forget your obligations to your Father your mother that bore you in her arms & to your god that cares for you & watches over you & to your self Ever keeping these things in view you may become an ornament to society and a source of happiness to your parents -- you may think me preaching but I tell you that you are now passing the trying time of your life & you will look back & tremble when you think of it in after years for it is not a great while since I stood where you now stand & wonder at my escape & can only ascribe it to the good god who is ever neer & to the love I bore my Mother that I am here
 
 Your Uncle H.G. White
+
+
+
+## Notes
+
+
+
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
+
+
+The envelope is addressed to Horatio Nelson, but written to Friend. In the letter Henry George says he does not know exactly where Friend is; evidnetly he has sent the letter to reach Friend via his father.
+
+
+Friend's relatives in Buffalo not referred to by name but by relation
