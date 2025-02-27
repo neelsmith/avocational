@@ -8,7 +8,7 @@ engine: julia
 # William E. White
 
 
-*born* ? : *died* ?
+*born* 1836-08-03 : *died* 1902-03-08
 
 **Mother**: [Syrena Adams](./Syrena_Adams.html)
 
@@ -18,7 +18,24 @@ Documented ancestors:
 
 ```{mermaid}
 graph LR
-
+William_E._White(<a href=''>William E. White</>) -->  Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>)
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+class Candace_Smith mother
+class Horatio_Nelson_White father
+William_E._White(<a href=''>William E. White</>)  --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>)
+Syrena_Adams(<a href=''>Syrena Adams</>) -->  Friend_Adams(<a href='./Friend_Adams.html'>Friend Adams</>)
+class Friend_Adams father
+Syrena_Adams(<a href=''>Syrena Adams</>)  --> Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg</>)
+Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah_Stagg(<a href='./Josiah_Stagg.html'>Josiah Stagg</>)
+class Josiah_Stagg father
+class Elizabeth_Stagg mother
+class Syrena_Adams mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -28,8 +45,23 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1836-08-03 |  | [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html) | indirect |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1902-03-08 | [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html) | direct |
+
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Horatio Nelson White](./Horatio_Nelson_White.html) | [Syrena Adams](./Syrena_Adams.html) | [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html) | direct |

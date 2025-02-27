@@ -5,7 +5,7 @@
 
 
 
-refersto::[Richard Smith](./../../../Richard_Smith.html)
+refersto::[Richard Smith](./../../../people/Smith-line/Richard_Smith.html)
 State::Virginia
 Incorporated place::Cambria
 County::Montgomery

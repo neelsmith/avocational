@@ -5,7 +5,7 @@ engine: julia
 # Harris
 
 - [Ann Nancy Thompson](./../people/Gattis-line/Green-line/Thompson-line/Ann_Nancy_Thompson.html)
-- [Gordon Raymond Harris](./../Gordon_Raymond_Harris.html)
+- [Gordon Raymond Harris](./../people/Californians/Gordon_Raymond_Harris.html)
 - [Hannah Stapleton](./../people/Neel-line/Hannah_Stapleton.html)
 - [James Harris](./../people/Gattis-line/James_Harris.html)
 - [James Harris Sr.](./../people/Gattis-line/James_Harris_Sr..html)

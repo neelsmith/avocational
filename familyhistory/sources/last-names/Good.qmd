@@ -4,5 +4,5 @@ engine: julia
 
 # Good
 
-- [Bell Starr](./people/Neel-line/Bell_Starr.html)
-- [Ralph J. Good](./Ralph_J._Good.html)
+- [Bell Starr](./../people/Neel-line/Bell_Starr.html)
+- [Ralph J. Good](./../people/Californians/Ralph_J._Good.html)

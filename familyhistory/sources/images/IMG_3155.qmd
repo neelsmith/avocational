@@ -1,8 +1,11 @@
 
-caption::Leter of Ebenezer White to Horatio Nelson, June 7, 1852: page 1.
-credits::Photograph by Neel Smith.
-license::CC0 1.0 Universal license (public domain)
-url::https://dl.dropbox.com/scl/fi/hsasie59f70cjq42353g0/IMG_3155.png?rlkey=o1p50mbcd8qug19uygiuwb04y&st=i9x1psl3&dl=1
+
 
 
 ![](https://dl.dropbox.com/scl/fi/hsasie59f70cjq42353g0/IMG_3155.png?rlkey=o1p50mbcd8qug19uygiuwb04y&st=i9x1psl3&dl=1)
+
+
+caption::Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 1.
+credits::Photograph by Neel Smith.
+license::CC0 1.0 Universal license (public domain)
+url::https://dl.dropbox.com/scl/fi/hsasie59f70cjq42353g0/IMG_3155.png?rlkey=o1p50mbcd8qug19uygiuwb04y&st=i9x1psl3&dl=1

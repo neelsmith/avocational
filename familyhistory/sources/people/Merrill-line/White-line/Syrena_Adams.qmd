@@ -14,6 +14,13 @@ engine: julia
 
 **Father**: [Friend Adams](./Friend_Adams.html)
 
+**Children with [Horatio Nelson White](./Horatio_Nelson_White.html)**:
+
+
+- [William E. White](./William_E._White.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
@@ -32,6 +39,22 @@ classDef marriage fill:#ffffff
 
 
 
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Syrena_Adams_and_Horatio_Nelson_White marriage
+Syrena_Adams(<a href=''>Syrena Adams</>) --> Syrena_Adams_and_Horatio_Nelson_White[ ]
+Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>) --> Syrena_Adams_and_Horatio_Nelson_White(( ))
+Syrena_Adams_and_Horatio_Nelson_White[ ] --> William_E._White(<a href='./William_E._White.html'>William E. White</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
 ## Sources
 Sources for parents:
 
@@ -39,3 +62,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Friend Adams](./Friend_Adams.html) | [Elizabeth Stagg](./Elizabeth_Stagg.html) | [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html) | direct |
+
+Sources for children with [Horatio Nelson White](./Horatio_Nelson_White.html)
+
+
+- [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html)
+
+

@@ -14,6 +14,13 @@ engine: julia
 
 **Father**: [Ebenezer White](./Ebenezer_White.html)
 
+**Children with [Syrena Adams](./Syrena_Adams.html)**:
+
+
+- [William E. White](./William_E._White.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
@@ -26,6 +33,22 @@ class Ruth_Wilson mother
 class Ebenezer_White father
 Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
 class Candace_Smith mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Horatio_Nelson_White_and_Syrena_Adams marriage
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) --> Horatio_Nelson_White_and_Syrena_Adams[ ]
+Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>) --> Horatio_Nelson_White_and_Syrena_Adams(( ))
+Horatio_Nelson_White_and_Syrena_Adams[ ] --> William_E._White(<a href='./William_E._White.html'>William E. White</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -55,3 +78,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Horatio White - Susan Spaulding marriage](./../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html) | direct |
+
+Sources for children with [Syrena Adams](./Syrena_Adams.html)
+
+
+- [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html)
+
+

@@ -4,5 +4,5 @@ engine: julia
 
 # Hepburn
 
-- [Bell Starr](./people/Neel-line/Bell_Starr.html)
-- [Samuel Hepburn](./Samuel_Hepburn.html)
+- [Bell Starr](./../people/Neel-line/Bell_Starr.html)
+- [Samuel Hepburn](./../people/Californians/Samuel_Hepburn.html)

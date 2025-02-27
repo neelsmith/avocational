@@ -5,6 +5,6 @@ engine: julia
 # Myrick
 
 - [Hannah Watts](./../people/Merrill-line/Grandey-line/Hannah_Watts.html)
-- [Isabinda Myrick](./../Isabinda_Myrick.html)
+- [Isabinda Myrick](./../people/Merrill-line/Brigham-line/Isabinda_Myrick.html)
 - [Polly Myrick](./../people/Merrill-line/White-line/Grandey/Polly_Myrick.html)
 - [William Myrick](./../people/Merrill-line/Grandey-line/William_Myrick.html)

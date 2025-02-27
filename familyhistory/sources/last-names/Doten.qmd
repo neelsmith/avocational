@@ -4,5 +4,5 @@ engine: julia
 
 # Doten
 
-- [Leonard Doten](./../Leonard_Doten.html)
+- [Leonard Doten](./../people/Merrill-line/White-line/Leonard_Doten.html)
 - [Mollie Grandey White](./../people/Merrill-line/White-line/Mollie_Grandey_White.html)

@@ -8,8 +8,50 @@ engine: julia
 # Hiram Smith White
 
 
-*born* ? : *died* ?
+*born* 1816 : *died* 1893-06-29
 
-**Mother**: [?]()
+**Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
 
-**Father**: [?]()
+**Father**: [Ebenezer White](./Ebenezer_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph LR
+Hiram_Smith_White(<a href=''>Hiram Smith White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Hiram_Smith_White(<a href=''>Hiram Smith White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+class Candace_Smith mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1816 |  | [Hiram Smith White death record](./../../../transcriptions/vitals/Hiram_Smith_White_death_record.html) | indirect |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1893-06-29 | [Hiram Smith White death record](./../../../transcriptions/vitals/Hiram_Smith_White_death_record.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Hiram Smith White death record](./../../../transcriptions/vitals/Hiram_Smith_White_death_record.html) | direct |

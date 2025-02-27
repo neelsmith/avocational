@@ -4,5 +4,5 @@ engine: julia
 
 # Starr
 
-- [Bell Starr](./people/Neel-line/Bell_Starr.html)
-- [Walter Boynton Starr](./Walter_Boynton_Starr.html)
+- [Bell Starr](./../people/Neel-line/Bell_Starr.html)
+- [Walter Boynton Starr](./../people/Californians/Walter_Boynton_Starr.html)

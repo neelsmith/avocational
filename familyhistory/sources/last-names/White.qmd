@@ -29,6 +29,7 @@ engine: julia
 - [Hiram Smith White](./../people/Merrill-line/White-line/Hiram_Smith_White.html)
 - [Horatio Nelson White](./../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 - [James Herbert White](./../people/Merrill-line/White-line/James_Herbert_White.html)
+- [Jennie Marks Warner](./../Jennie_Marks_Warner.html)
 - [Lydia R. Brumley](./../people/Merrill-line/White-line/Lydia_R._Brumley.html)
 - [Lydia White](./../people/Merrill-line/White-line/Lydia_White.html)
 - [Mollie Grandey White](./../people/Merrill-line/White-line/Mollie_Grandey_White.html)

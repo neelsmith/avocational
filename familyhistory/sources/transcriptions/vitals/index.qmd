@@ -5,6 +5,7 @@ engine: julia
 # Index
 
 - [Adaline White death](./Adaline_White_death.html)
+- [Ann Serena White death](./Ann_Serena_White_death.html)
 - [Bee Neel in CA birth index](./Bee_Neel_in_CA_birth_index.html)
 - [Bee Neel in Social Security death index](./Bee_Neel_in_Social_Security_death_index.html)
 - [Candace White Palmer death certificate](./Candace_White_Palmer_death_certificate.html)
@@ -17,6 +18,7 @@ engine: julia
 - [Elvira Ann Williams death certificate](./Elvira_Ann_Williams_death_certificate.html)
 - [Frances Hix death certificate](./Frances_Hix_death_certificate.html)
 - [Hiram Merrill death certificate](./Hiram_Merrill_death_certificate.html)
+- [Hiram Smith White death record](./Hiram_Smith_White_death_record.html)
 - [Horatio Nelson White death](./Horatio_Nelson_White_death.html)
 - [I.N. Gattis death certificate summary](./I.N._Gattis_death_certificate_summary.html)
 - [Jacob Dubois  birth](./Jacob_Dubois__birth.html)
@@ -32,5 +34,6 @@ engine: julia
 - [Robert Neel death certificate](./Robert_Neel_death_certificate.html)
 - [Stephen Ayers birth](./Stephen_Ayers_birth.html)
 - [Syrena Adams birth certificate](./Syrena_Adams_birth_certificate.html)
+- [William E. White death](./William_E._White_death.html)
 - [Willie Blanton death certificate](./Willie_Blanton_death_certificate.html)
 - [Zachariah Smith birth record](./Zachariah_Smith_birth_record.html)

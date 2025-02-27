@@ -12,24 +12,4 @@ engine: julia
 
 **Mother**: [?]()
 
-**Father**: [Ebenezer White](./Ebenezer_White.html)
-
-Documented ancestors:
-
-```{mermaid}
-graph LR
-
-classDef mother fill:#ffd1dc
-classDef father fill:#daf0f7  
-classDef marriage fill:#ffffff
-
-```
-
-
-
-## Sources
-Sources for parents:
-
-
-| Father | Mother | Source | Type |
-| --- | --- | --- | --- |
+**Father**: [?]()

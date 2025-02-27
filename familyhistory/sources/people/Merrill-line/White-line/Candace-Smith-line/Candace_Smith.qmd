@@ -23,6 +23,8 @@ engine: julia
 
 - [Eliza Ann White](./../Eliza_Ann_White.html)
 
+- [Hiram Smith White](./../Hiram_Smith_White.html)
+
 
 
 Documented ancestors:
@@ -46,8 +48,12 @@ class Candace_Smith_and_Ebenezer_White marriage
 Candace_Smith(<a href=''>Candace Smith</>) --> Candace_Smith_and_Ebenezer_White[ ]
 Ebenezer_White(<a href='./../Ebenezer_White.html'>Ebenezer White</>) --> Candace_Smith_and_Ebenezer_White(( ))
 Candace_Smith_and_Ebenezer_White[ ] --> Horatio_Nelson_White(<a href='./../Horatio_Nelson_White.html'>Horatio Nelson White</>)
+class Horatio_Nelson_White_and_Syrena_Adams marriage
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) --> Horatio_Nelson_White_and_Syrena_Adams[ ]
+Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>) --> Horatio_Nelson_White_and_Syrena_Adams(( ))
 Candace_Smith_and_Ebenezer_White[ ] --> Adaline_White(<a href='./../Adaline_White.html'>Adaline White</>)
 Candace_Smith_and_Ebenezer_White[ ] --> Eliza_Ann_White(<a href='./../Eliza_Ann_White.html'>Eliza Ann White</>)
+Candace_Smith_and_Ebenezer_White[ ] --> Hiram_Smith_White(<a href='./../Hiram_Smith_White.html'>Hiram Smith White</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -71,5 +77,7 @@ Sources for children with [Ebenezer White](./../Ebenezer_White.html)
 - [Adaline White death](./../../../../transcriptions/vitals/Adaline_White_death.html)
 
 - [Eliza Ann White death](./../../../../transcriptions/vitals/Eliza_Ann_White_death.html)
+
+- [Hiram Smith White death record](./../../../../transcriptions/vitals/Hiram_Smith_White_death_record.html)
 
 

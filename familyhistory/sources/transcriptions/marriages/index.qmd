@@ -28,3 +28,4 @@ engine: julia
 - [Moses Smith - Lydia Smith marriage](./Moses_Smith_-_Lydia_Smith_marriage.html)
 - [Noah Rush - Sarah Loughlin marriage bond](./Noah_Rush_-_Sarah_Loughlin_marriage_bond.html)
 - [Samuel Allen - Eunice Rush marriage record](./Samuel_Allen_-_Eunice_Rush_marriage_record.html)
+- [William White - Jennie Warner marriage](./William_White_-_Jennie_Warner_marriage.html)

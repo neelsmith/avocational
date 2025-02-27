@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
 
-**Father**: [Ebenezer White mother::Candace Smith]()
+**Father**: [Ebenezer White](./Ebenezer_White.html)
 
 Documented ancestors:
 

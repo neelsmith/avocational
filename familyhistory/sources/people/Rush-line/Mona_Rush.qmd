@@ -22,9 +22,9 @@ engine: julia
 
 - [David Hammond Smith](./../Smith-line/David_Hammond_Smith.html)
 
-- [Richard Smith](./../../Richard_Smith.html)
+- [Richard Smith](./../Smith-line/Richard_Smith.html)
 
-- [Frances Smith](./../../Frances_Smith.html)
+- [Frances Smith](./../Smith-line/Frances_Smith.html)
 
 
 
@@ -63,8 +63,8 @@ class Mona_Rush_and_Charles_R._Smith_Sr. marriage
 Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
 Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))
 Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith</>)
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Richard_Smith(<a href='./../../Richard_Smith.html'>Richard Smith</>)
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../../Frances_Smith.html'>Frances Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Richard_Smith(<a href='./../Smith-line/Richard_Smith.html'>Richard Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

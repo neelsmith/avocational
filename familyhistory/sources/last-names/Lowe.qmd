@@ -5,4 +5,4 @@ engine: julia
 # Lowe
 
 - [Mary Jane Rush](./../people/Rush-line/Mary_Jane_Rush.html)
-- [Nereus Mendenhall Lowe](./../Nereus_Mendenhall_Lowe.html)
+- [Nereus Mendenhall Lowe](./../people/Rush-line/Nereus_Mendenhall_Lowe.html)

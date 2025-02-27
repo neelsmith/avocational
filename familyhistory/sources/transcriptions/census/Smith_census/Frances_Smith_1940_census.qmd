@@ -5,7 +5,7 @@
 
 
 
-refersto::[Frances Smith](./../../../Frances_Smith.html)
+refersto::[Frances Smith](./../../../people/Smith-line/Frances_Smith.html)
 State::Virginia
 Incorporated place::Cambria
 County::Montgomery

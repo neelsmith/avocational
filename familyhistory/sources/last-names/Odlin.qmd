@@ -4,4 +4,4 @@ engine: julia
 
 # Odlin
 
-- [Hannah Odlin](./../Hannah_Odlin.html)
+- [Hannah Odlin](./../people/Merrill-line/Dyers/Hannah_Odlin.html)

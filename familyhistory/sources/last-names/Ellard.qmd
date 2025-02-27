@@ -5,4 +5,4 @@ engine: julia
 # Ellard
 
 - [James K. Ellard](./../people/Neel-line/James_K._Ellard.html)
-- [Richard Newell Ellard](./../Richard_Newell_Ellard.html)
+- [Richard Newell Ellard](./../people/Californians/Richard_Newell_Ellard.html)

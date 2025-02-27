@@ -2,7 +2,7 @@
 
 refersto::[Mollie Grandey White](./../../../../people/Merrill-line/White-line/Mollie_Grandey_White.html)
 
-Enumeration::[Pasadena,Los Angeles,California](./../../../../Pasadena,Los_Angeles,California.html)
+Enumeration::[Pasadena,Los Angeles,California](./../../../../census-districts/Pasadena,Los_Angeles,California.html)
 Date::January 9-10, 1920
 Street::North Marengo
 Street number::490

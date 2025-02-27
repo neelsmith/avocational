@@ -4,4 +4,4 @@ engine: julia
 
 # Leopard
 
-- [Claude J. Leopard](./../Claude_J._Leopard.html)
+- [Claude J. Leopard](./../people/Californians/Claude_J._Leopard.html)

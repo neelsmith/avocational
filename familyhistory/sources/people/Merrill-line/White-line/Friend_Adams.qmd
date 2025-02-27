@@ -29,6 +29,9 @@ class Friend_Adams_and_Elizabeth_Stagg marriage
 Friend_Adams(<a href=''>Friend Adams</>) --> Friend_Adams_and_Elizabeth_Stagg[ ]
 Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg</>) --> Friend_Adams_and_Elizabeth_Stagg(( ))
 Friend_Adams_and_Elizabeth_Stagg[ ] --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>)
+class Syrena_Adams_and_Horatio_Nelson_White marriage
+Syrena_Adams(<a href=''>Syrena Adams</>) --> Syrena_Adams_and_Horatio_Nelson_White[ ]
+Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>) --> Syrena_Adams_and_Horatio_Nelson_White(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
