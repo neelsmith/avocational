@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Anna_Serena_White(<a href=''>Anna Serena White</>) -->  William_E._White(<a href='./William_E._White.html'>William E. White</>)
 William_E._White(<a href=''>William E. White</>) -->  Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>)
 Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)

@@ -17,7 +17,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Frances_Smith(<a href=''>Frances Smith</>) -->  Charles_R._Smith_Sr.(<a href='./Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>)
 class Charles_R._Smith_Sr. father
 Frances_Smith(<a href=''>Frances Smith</>)  --> Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush</>)

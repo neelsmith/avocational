@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) -->  John_Owen_Blanton(<a href='./John_Owen_Blanton.html'>John Owen Blanton</>)
 class John_Owen_Blanton father
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>)  --> Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)

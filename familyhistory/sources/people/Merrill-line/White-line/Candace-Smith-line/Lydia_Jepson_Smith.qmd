@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
 Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
 class Zachia_Smith father

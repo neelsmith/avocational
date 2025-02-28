@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Cassie_Green(<a href=''>Cassie Green</>) -->  James_Green(<a href='./James_Green.html'>James Green</>)
 class James_Green father
 Cassie_Green(<a href=''>Cassie Green</>)  --> Elvira_Ann_Williams(<a href='./Williams-line/Elvira_Ann_Williams.html'>Elvira Ann Williams</>)

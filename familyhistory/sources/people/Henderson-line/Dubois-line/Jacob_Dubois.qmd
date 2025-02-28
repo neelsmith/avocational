@@ -17,7 +17,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Jacob_Dubois(<a href=''>Jacob Dubois</>) -->  David_Dubois_1724-1801(<a href='./David_Dubois_1724-1801.html'>David Dubois 1724-1801</>)
 class David_Dubois_1724-1801 father
 Jacob_Dubois(<a href=''>Jacob Dubois</>)  --> Elizabeth_Newkirk_Dubois(<a href='./Elizabeth_Newkirk_Dubois.html'>Elizabeth Newkirk Dubois</>)

@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 James_Albee_Merrill(<a href=''>James Albee Merrill</>) -->  Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
 Hiram_Merrill(<a href=''>Hiram Merrill</>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>)
 class Aaron_Merrill father

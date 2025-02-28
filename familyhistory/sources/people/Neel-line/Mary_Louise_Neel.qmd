@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) -->  Robert_Wilburn_Neel(<a href='./Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>)
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
 class James_Marion_Neel father

@@ -17,7 +17,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Mary_Jane_Rush(<a href=''>Mary Jane Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
 class Sarah_Loflin mother
 classDef mother fill:#ffd1dc

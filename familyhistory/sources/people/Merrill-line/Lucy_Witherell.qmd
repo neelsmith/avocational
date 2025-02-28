@@ -24,7 +24,7 @@ engine: julia
 Documented **ancestors**:
 
 ```{mermaid}
-graph LR
+graph RL
 Lucy_Witherell(<a href=''>Lucy Witherell</>) -->  James_Witherell(<a href='./James_Witherell.html'>James Witherell</>)
 class James_Witherell father
 Lucy_Witherell(<a href=''>Lucy Witherell</>)  --> Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis</>)
