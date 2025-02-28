@@ -29,6 +29,9 @@ class Lydia_Hastings_Smith_and_Zachariah_Smith marriage
 Lydia_Hastings_Smith(<a href=''>Lydia Hastings Smith</>) --> Lydia_Hastings_Smith_and_Zachariah_Smith[ ]
 Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>) --> Lydia_Hastings_Smith_and_Zachariah_Smith(( ))
 Lydia_Hastings_Smith_and_Zachariah_Smith[ ] --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+class Lydia_Jepson_Smith_and_Moses_Smith marriage
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) --> Lydia_Jepson_Smith_and_Moses_Smith[ ]
+Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>) --> Lydia_Jepson_Smith_and_Moses_Smith(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

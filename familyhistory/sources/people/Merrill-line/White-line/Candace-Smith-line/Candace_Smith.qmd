@@ -12,7 +12,7 @@ engine: julia
 
 **Mother**: [Lydia Jepson Smith](./Lydia_Jepson_Smith.html)
 
-**Father**: [Moses Smith](./Moses_Smith.html)
+**Father**: [Moses Smith](./../../../Moses_Smith_connections/Moses_Smith.html)
 
 **Children with [Ebenezer White](./../Ebenezer_White.html)**:
 
@@ -30,8 +30,19 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
-
+graph RL
+Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
+class Moses_Smith father
+Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
+Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
+class Zachia_Smith father
+Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
+class Susanah_Grout mother
+class Zachariah_Smith father
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>)
+class Lydia_Hastings_Smith mother
+class Lydia_Jepson_Smith mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -68,6 +79,8 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Moses Smith](./../../../Moses_Smith_connections/Moses_Smith.html) | []() | [Moses Smith will](./../../../../transcriptions/wills/Moses_Smith_will.html) | direct |
+| [Moses Smith](./../../../Moses_Smith_connections/Moses_Smith.html) | [Lydia Jepson Smith](./Lydia_Jepson_Smith.html) | [Moses Smith - Lydia Jepson marriage](./../../../../transcriptions/marriages/Moses_Smith_-_Lydia_Jepson_marriage.html) | indirect |
 
 Sources for children with [Ebenezer White](./../Ebenezer_White.html)
 

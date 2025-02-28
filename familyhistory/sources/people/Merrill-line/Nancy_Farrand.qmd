@@ -26,7 +26,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 Nancy_Farrand(<a href=''>Nancy Farrand</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</>)
 class Bethuel_Farrand father
 Nancy_Farrand(<a href=''>Nancy Farrand</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</>)

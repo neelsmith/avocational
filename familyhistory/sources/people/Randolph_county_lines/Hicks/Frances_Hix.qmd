@@ -26,7 +26,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 Frances_Hix(<a href=''>Frances Hix</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks</>)
 class William_J._Hicks father
 Frances_Hix(<a href=''>Frances Hix</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter</>)

@@ -13,3 +13,36 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Susan Willis](./Willis-line/Susan_Willis.html)**:
+
+
+- [Lucy Witherell](./Lucy_Witherell.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class James_Witherell_and_Susan_Willis marriage
+James_Witherell(<a href=''>James Witherell</>) --> James_Witherell_and_Susan_Willis[ ]
+Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis</>) --> James_Witherell_and_Susan_Willis(( ))
+James_Witherell_and_Susan_Willis[ ] --> Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>)
+class Lucy_Witherell_and_Hiram_Merrill marriage
+Lucy_Witherell(<a href=''>Lucy Witherell</>) --> Lucy_Witherell_and_Hiram_Merrill[ ]
+Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>) --> Lucy_Witherell_and_Hiram_Merrill(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Susan Willis](./Willis-line/Susan_Willis.html)
+
+
+- [Lucy Witherell 1850 census](./../../transcriptions/census/Merrill_census/Lucy_Witherell_1850_census.html)
+
+

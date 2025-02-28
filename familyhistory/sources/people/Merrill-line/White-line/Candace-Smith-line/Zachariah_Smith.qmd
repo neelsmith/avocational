@@ -24,7 +24,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
 class Zachia_Smith father
 Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
@@ -45,6 +45,9 @@ class Zachariah_Smith_and_Lydia_Hastings_Smith marriage
 Zachariah_Smith(<a href=''>Zachariah Smith</>) --> Zachariah_Smith_and_Lydia_Hastings_Smith[ ]
 Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>) --> Zachariah_Smith_and_Lydia_Hastings_Smith(( ))
 Zachariah_Smith_and_Lydia_Hastings_Smith[ ] --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+class Lydia_Jepson_Smith_and_Moses_Smith marriage
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) --> Lydia_Jepson_Smith_and_Moses_Smith[ ]
+Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>) --> Lydia_Jepson_Smith_and_Moses_Smith(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

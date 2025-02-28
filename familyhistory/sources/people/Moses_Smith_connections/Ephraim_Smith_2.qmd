@@ -5,7 +5,7 @@ engine: julia
 
 > *Page automatically generated.*
 
-# Susan White
+# Ephraim Smith 2
 
 
 *born* ? : *died* ?
@@ -13,4 +13,3 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
-

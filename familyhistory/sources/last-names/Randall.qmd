@@ -6,3 +6,4 @@ engine: julia
 
 - [Frank H. Randall](./../people/Merrill-line/White-line/Frank_H._Randall.html)
 - [Mollie Grandey White](./../people/Merrill-line/White-line/Mollie_Grandey_White.html)
+- [Thankful Holland](./../people/Moses_Smith_connections/Thankful_Holland.html)

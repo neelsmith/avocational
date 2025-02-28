@@ -5,7 +5,7 @@ engine: julia
 
 > *Page automatically generated.*
 
-# Charles R. Smith
+# Hannah Susannah Smith
 
 
 *born* ? : *died* ?

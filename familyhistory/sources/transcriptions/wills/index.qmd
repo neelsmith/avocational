@@ -10,6 +10,7 @@ engine: julia
 - [Isaac Newton Gattis Sr. will](./Isaac_Newton_Gattis_Sr._will.html)
 - [Marmaduke Vickery will](./Marmaduke_Vickery_will.html)
 - [Moses Smith will](./Moses_Smith_will.html)
+- [Nathaniel S. Henderson will](./Nathaniel_S._Henderson_will.html)
 - [Philip Euless will](./Philip_Euless_will.html)
 - [Sallie T. Williams will](./Sallie_T._Williams_will.html)
 - [Stephen Ayres will](./Stephen_Ayres_will.html)

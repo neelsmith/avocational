@@ -7,4 +7,8 @@ engine: julia
 - [Anna Serena White 1880 census](./Anna_Serena_White_1880_census.html)
 - [Ellen Grandey 1850 census](./Ellen_Grandey_1850_census.html)
 - [James A. Merrill 1870 census](./James_A._Merrill_1870_census.html)
+- [James Witherell 1850 census](./James_Witherell_1850_census.html)
+- [John H. Witherell 1850 census](./John_H._Witherell_1850_census.html)
 - [Lucy Witherell 1850 census](./Lucy_Witherell_1850_census.html)
+- [Mariette Witherell 1850 census](./Mariette_Witherell_1850_census.html)
+- [Susan Willis 1850 census](./Susan_Willis_1850_census.html)

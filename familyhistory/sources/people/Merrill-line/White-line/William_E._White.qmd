@@ -14,10 +14,17 @@ engine: julia
 
 **Father**: [Horatio Nelson White](./Horatio_Nelson_White.html)
 
+**Children with [Ellen Grandey](./../Grandey-line/Ellen_Grandey.html)**:
+
+
+- [Anna Serena White](./Anna_Serena_White.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 William_E._White(<a href=''>William E. White</>) -->  Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>)
 Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
 Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
@@ -26,6 +33,18 @@ Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-
 class Ruth_Wilson mother
 class Ebenezer_White father
 Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
+class Moses_Smith father
+Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
+Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
+class Zachia_Smith father
+Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
+class Susanah_Grout mother
+class Zachariah_Smith father
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>)
+class Lydia_Hastings_Smith mother
+class Lydia_Jepson_Smith mother
 class Candace_Smith mother
 class Horatio_Nelson_White father
 William_E._White(<a href=''>William E. White</>)  --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>)
@@ -36,6 +55,25 @@ Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah_Stagg(<a href='./Josi
 class Josiah_Stagg father
 class Elizabeth_Stagg mother
 class Syrena_Adams mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class William_E._White_and_Ellen_Grandey marriage
+William_E._White(<a href=''>William E. White</>) --> William_E._White_and_Ellen_Grandey[ ]
+Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey</>) --> William_E._White_and_Ellen_Grandey(( ))
+William_E._White_and_Ellen_Grandey[ ] --> Anna_Serena_White(<a href='./Anna_Serena_White.html'>Anna Serena White</>)
+class Anna_Serena_White_and_James_Albee_Merrill marriage
+Anna_Serena_White(<a href=''>Anna Serena White</>) --> Anna_Serena_White_and_James_Albee_Merrill[ ]
+James_Albee_Merrill(<a href='./../James_Albee_Merrill.html'>James Albee Merrill</>) --> Anna_Serena_White_and_James_Albee_Merrill(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -65,3 +103,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Horatio Nelson White](./Horatio_Nelson_White.html) | [Syrena Adams](./Syrena_Adams.html) | [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html) | direct |
+
+Sources for children with [Ellen Grandey](./../Grandey-line/Ellen_Grandey.html)
+
+
+- [Anna Serena White death](./../../../transcriptions/vitals/Anna_Serena_White_death.html)
+
+

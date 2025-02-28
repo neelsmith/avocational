@@ -22,7 +22,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  

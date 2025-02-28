@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Daniel Frost
+
+
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()

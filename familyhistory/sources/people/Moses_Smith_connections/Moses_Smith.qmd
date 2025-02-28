@@ -1,0 +1,79 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Moses Smith
+
+
+*born* ? : *died* ?
+
+**Mother**: [Hannah Rice](./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html)
+
+**Father**: [Ephraim Smith](./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html)
+
+**Children with []()**:
+
+
+**Children with [Lydia Jepson Smith](./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html)**:
+
+
+- [Candace Smith](./../Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
+
+
+
+Documented ancestors:
+
+```{mermaid}
+graph RL
+
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Moses_Smith_and_ marriage
+Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_[ ]
+(<a href=''></>) --> Moses_Smith_and_(( ))
+class Moses_Smith_and_Lydia_Jepson_Smith marriage
+Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith[ ]
+Lydia_Jepson_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith(( ))
+Moses_Smith_and_Lydia_Jepson_Smith[ ] --> Candace_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+class Candace_Smith_and_Ebenezer_White marriage
+Candace_Smith(<a href=''>Candace Smith</>) --> Candace_Smith_and_Ebenezer_White[ ]
+Ebenezer_White(<a href='./../Ebenezer_White.html'>Ebenezer White</>) --> Candace_Smith_and_Ebenezer_White(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+
+Sources for children with []()
+
+
+
+
+Sources for children with [Lydia Jepson Smith](./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html)
+
+
+- [Moses Smith - Lydia Jepson marriage](./../../transcriptions/marriages/Moses_Smith_-_Lydia_Jepson_marriage.html)
+
+

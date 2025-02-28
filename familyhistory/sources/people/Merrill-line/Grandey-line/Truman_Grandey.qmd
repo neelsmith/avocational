@@ -29,6 +29,9 @@ class Truman_Grandey_and_Polly_Myrick marriage
 Truman_Grandey(<a href=''>Truman Grandey</>) --> Truman_Grandey_and_Polly_Myrick[ ]
 Polly_Myrick(<a href='./../White-line/Grandey/Polly_Myrick.html'>Polly Myrick</>) --> Truman_Grandey_and_Polly_Myrick(( ))
 Truman_Grandey_and_Polly_Myrick[ ] --> Ellen_Grandey(<a href='./Ellen_Grandey.html'>Ellen Grandey</>)
+class Ellen_Grandey_and_William_E._White marriage
+Ellen_Grandey(<a href=''>Ellen Grandey</>) --> Ellen_Grandey_and_William_E._White[ ]
+William_E._White(<a href='./../White-line/William_E._White.html'>William E. White</>) --> Ellen_Grandey_and_William_E._White(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

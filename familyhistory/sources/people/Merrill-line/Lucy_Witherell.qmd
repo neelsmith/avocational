@@ -24,8 +24,11 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
-
+graph RL
+Lucy_Witherell(<a href=''>Lucy Witherell</>) -->  James_Witherell(<a href='./James_Witherell.html'>James Witherell</>)
+class James_Witherell father
+Lucy_Witherell(<a href=''>Lucy Witherell</>)  --> Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis</>)
+class Susan_Willis mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -42,6 +45,9 @@ class Lucy_Witherell_and_Hiram_Merrill marriage
 Lucy_Witherell(<a href=''>Lucy Witherell</>) --> Lucy_Witherell_and_Hiram_Merrill[ ]
 Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>) --> Lucy_Witherell_and_Hiram_Merrill(( ))
 Lucy_Witherell_and_Hiram_Merrill[ ] --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</>)
+class James_Albee_Merrill_and_Anna_Serena_White marriage
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) --> James_Albee_Merrill_and_Anna_Serena_White[ ]
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</>) --> James_Albee_Merrill_and_Anna_Serena_White(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -56,6 +62,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [James Witherell](./James_Witherell.html) | [Susan Willis](./Willis-line/Susan_Willis.html) | [Lucy Witherell 1850 census](./../../transcriptions/census/Merrill_census/Lucy_Witherell_1850_census.html) | indirect |
 
 Sources for children with [Hiram Merrill](./Hiram_Merrill.html)
 

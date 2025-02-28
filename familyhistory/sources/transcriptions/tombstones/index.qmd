@@ -10,6 +10,7 @@ engine: julia
 - [Ebenezer White tombstone](./Ebenezer_White_tombstone.html)
 - [Eda Neel Peacock tombstone](./Eda_Neel_Peacock_tombstone.html)
 - [Frances Hix tombstone](./Frances_Hix_tombstone.html)
+- [Hiram Merrill tombstone](./Hiram_Merrill_tombstone.html)
 - [Isaac Newton Gattis tombstone](./Isaac_Newton_Gattis_tombstone.html)
 - [J.O. Blanton tombstone](./J.O._Blanton_tombstone.html)
 - [James A. Merrill tombstone](./James_A._Merrill_tombstone.html)

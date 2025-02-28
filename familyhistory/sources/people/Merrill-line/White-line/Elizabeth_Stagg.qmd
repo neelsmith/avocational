@@ -24,7 +24,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah_Stagg(<a href='./Josiah_Stagg.html'>Josiah Stagg</>)
 class Josiah_Stagg father
 classDef mother fill:#ffd1dc
@@ -60,20 +60,21 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
+| 1778 |  | [Elizabeth Stagg death](./../../../transcriptions/vitals/Elizabeth_Stagg_death.html) | indirect |
 
 Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1817-02-02 | [Elizabeth Adams death](./../../../transcriptions/vitals/Elizabeth_Adams_death.html) | direct |
+| 1817-02-02 | [Elizabeth Staggs death]() | direct |
 
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [Josiah Stagg](./Josiah_Stagg.html) | []() | [Elizabeth Adams death](./../../../transcriptions/vitals/Elizabeth_Adams_death.html) | direct |
+| [Josiah Stagg](./Josiah_Stagg.html) | []() | [Elizabeth Stagg death](./../../../transcriptions/vitals/Elizabeth_Stagg_death.html) | direct |
 
 Sources for children with [Friend Adams](./Friend_Adams.html)
 

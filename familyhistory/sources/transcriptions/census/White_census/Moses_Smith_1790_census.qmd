@@ -1,6 +1,6 @@
 
 
-refersto:: [Moses Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Moses_Smith.html)
+refersto:: [Moses Smith](./../../../people/Moses_Smith_connections/Moses_Smith.html)
 Enumeration:: [Barre, Vermont](./../../../census-districts/Barre,_Vermont.html) 
 Date::
 Head of family:: Moses Smith

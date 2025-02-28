@@ -1,19 +1,27 @@
-refersto::[Moses Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Moses_Smith.html)
+refersto::[Moses Smith](./../../people/Moses_Smith_connections/Moses_Smith.html)
+refersto::[Thankful Holland](./../../people/Moses_Smith_connections/Thankful_Holland.html)
+refersto::[Hannah Susannah Smith](./../../people/Moses_Smith_connections/Hannah_Susannah_Smith.html)
+refersto::[Daniel Frost](./../../people/Moses_Smith_connections/Daniel_Frost.html)
+refersto::[Ephraim Smith 2](./../../people/Moses_Smith_connections/Ephraim_Smith_2.html)
+refersto::[Seth Smith](./../../people/Moses_Smith_connections/Seth_Smith.html)
+
 
 
 ## Notes
 
-Wife is Thankful.
+Wife is Thankful. (This is [Thankful Holland](./../../people/Moses_Smith_connections/Thankful_Holland.html))
 
-Daughter Hannah Frost is wife of Daniel Frost.
-Son Ephraim Smith
-Son Seth Smith
+
+Daughter Hannah Frost is wife of Daniel Frost. (These are [Hannah Susannah Smith](./../../people/Moses_Smith_connections/Hannah_Susannah_Smith.html) and [Daniel Frost](./../../people/Moses_Smith_connections/Daniel_Frost.html))
+Son Ephraim Smith (This is [Ephraim Smith 2](./../../people/Moses_Smith_connections/Ephraim_Smith_2.html))
+Son Seth Smith (This is [Seth Smith](./../../people/Moses_Smith_connections/Seth_Smith.html))
 Daughter Lydia Gleason wife of Seth Gleason
 Daughter Thankful Shormon (dec'd) wife of Jonathan Shormon
 Daughter Choloe Paterson wife of Donford Paterson
 Son Eben Smith
 Daughter Meriam Newton wife of Donna Newton
-Daughter Candis White wife of Ebenezer White
+Daughter Candis White wife of Ebenezer White (These are [Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html) and [Ebenezer White](./../../people/Merrill-line/White-line/Ebenezer_White.html)
+)
 ....
 
 
@@ -31,3 +39,5 @@ Notes: _Probate Records, Vol 45-46, 1814-1816_
 
 Ancestry.com. _Massachusetts, U.S., Wills and Probate Records, 1635-1991_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
 Original data:Massachusetts County, District and Probate Courts.
+
+## Transcription

@@ -14,10 +14,17 @@ engine: julia
 
 **Father**: [Zachariah Smith](./Zachariah_Smith.html)
 
+**Children with [Moses Smith](./../../../Moses_Smith_connections/Moses_Smith.html)**:
+
+
+- [Candace Smith](./Candace_Smith.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
 Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
 class Zachia_Smith father
@@ -34,6 +41,25 @@ classDef marriage fill:#ffffff
 
 
 
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Lydia_Jepson_Smith_and_Moses_Smith marriage
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) --> Lydia_Jepson_Smith_and_Moses_Smith[ ]
+Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>) --> Lydia_Jepson_Smith_and_Moses_Smith(( ))
+Lydia_Jepson_Smith_and_Moses_Smith[ ] --> Candace_Smith(<a href='./Candace_Smith.html'>Candace Smith</>)
+class Candace_Smith_and_Ebenezer_White marriage
+Candace_Smith(<a href=''>Candace Smith</>) --> Candace_Smith_and_Ebenezer_White[ ]
+Ebenezer_White(<a href='./../Ebenezer_White.html'>Ebenezer White</>) --> Candace_Smith_and_Ebenezer_White(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
 ## Sources
 Sources for parents:
 
@@ -41,3 +67,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Zachariah Smith](./Zachariah_Smith.html) | [Lydia Hastings Smith](./Lydia_Hastings_Smith.html) | [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html) | direct |
+
+Sources for children with [Moses Smith](./../../../Moses_Smith_connections/Moses_Smith.html)
+
+
+- [Moses Smith - Lydia Jepson marriage](./../../../../transcriptions/marriages/Moses_Smith_-_Lydia_Jepson_marriage.html)
+
+

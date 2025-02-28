@@ -14,10 +14,17 @@ engine: julia
 
 **Father**: [Hiram Merrill](./Hiram_Merrill.html)
 
+**Children with [Anna Serena White](./White-line/Anna_Serena_White.html)**:
+
+
+- [Marguerite Merrill](./Marguerite_Merrill.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 James_Albee_Merrill(<a href=''>James Albee Merrill</>) -->  Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
 Hiram_Merrill(<a href=''>Hiram Merrill</>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>)
 class Aaron_Merrill father
@@ -29,7 +36,27 @@ class Rhoda_Smith mother
 class Nancy_Farrand mother
 class Hiram_Merrill father
 James_Albee_Merrill(<a href=''>James Albee Merrill</>)  --> Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>)
+Lucy_Witherell(<a href=''>Lucy Witherell</>) -->  James_Witherell(<a href='./James_Witherell.html'>James Witherell</>)
+class James_Witherell father
+Lucy_Witherell(<a href=''>Lucy Witherell</>)  --> Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis</>)
+class Susan_Willis mother
 class Lucy_Witherell mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class James_Albee_Merrill_and_Anna_Serena_White marriage
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) --> James_Albee_Merrill_and_Anna_Serena_White[ ]
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</>) --> James_Albee_Merrill_and_Anna_Serena_White(( ))
+James_Albee_Merrill_and_Anna_Serena_White[ ] --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -53,3 +80,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Hiram Merrill](./Hiram_Merrill.html) | [Lucy Witherell](./Lucy_Witherell.html) | [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html) | indirect |
+
+Sources for children with [Anna Serena White](./White-line/Anna_Serena_White.html)
+
+
+- [Marguerite Merrill birth](./../../transcriptions/vitals/Marguerite_Merrill_birth.html)
+
+

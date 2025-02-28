@@ -1,0 +1,20 @@
+ 
+
+
+refersto::[James Witherell](./../../../people/Merrill-line/James_Witherell.html)
+Enumeration::[Bridport, Addison, Vermont](./../../../census-districts/Bridport,_Addison,_Vermont.html)
+Date::July 25, 1850
+House::85
+Family::92
+Name::James Witherell
+Age::40
+Sex::M
+Race::
+Occupation::Ferryman
+Real estate value::
+Birthplace::Vermont
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::
+

@@ -5,6 +5,6 @@ engine: julia
 # Warner
 
 - [Isaac Warner](./../people/Merrill-line/Grandey-line/Isaac_Warner.html)
-- [Jennie Marks Warner](./../Jennie_Marks_Warner.html)
+- [Jennie Marks Warner](./../people/Merrill-line/White-line/Jennie_Marks_Warner.html)
 - [Lydia Warner](./../people/Merrill-line/Grandey-line/Lydia_Warner.html)
 - [Sarah Boltwood](./../people/Merrill-line/Grandey-line/Sarah_Boltwood.html)

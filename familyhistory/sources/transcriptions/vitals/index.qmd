@@ -5,7 +5,7 @@ engine: julia
 # Index
 
 - [Adaline White death](./Adaline_White_death.html)
-- [Ann Serena White death](./Ann_Serena_White_death.html)
+- [Anna Serena White death](./Anna_Serena_White_death.html)
 - [Bee Neel in CA birth index](./Bee_Neel_in_CA_birth_index.html)
 - [Bee Neel in Social Security death index](./Bee_Neel_in_Social_Security_death_index.html)
 - [Candace White Palmer death certificate](./Candace_White_Palmer_death_certificate.html)
@@ -14,7 +14,7 @@ engine: julia
 - [Ebenezer White - Candace Smith marriage](./Ebenezer_White_-_Candace_Smith_marriage.html)
 - [Ebenezer White birth](./Ebenezer_White_birth.html)
 - [Eliza Ann White death](./Eliza_Ann_White_death.html)
-- [Elizabeth Adams death](./Elizabeth_Adams_death.html)
+- [Elizabeth Stagg death](./Elizabeth_Stagg_death.html)
 - [Elvira Ann Williams death certificate](./Elvira_Ann_Williams_death_certificate.html)
 - [Frances Hix death certificate](./Frances_Hix_death_certificate.html)
 - [Hiram Merrill death certificate](./Hiram_Merrill_death_certificate.html)
@@ -26,6 +26,7 @@ engine: julia
 - [James Marion Neel death certificate](./James_Marion_Neel_death_certificate.html)
 - [Joseph Saudek - Nancy Northern marriage](./Joseph_Saudek_-_Nancy_Northern_marriage.html)
 - [Julia Euless Chattanooga death certificate](./Julia_Euless_Chattanooga_death_certificate.html)
+- [Marguerite Merrill birth](./Marguerite_Merrill_birth.html)
 - [Marguerite Merrill death certificate](./Marguerite_Merrill_death_certificate.html)
 - [Mona Rush death certificate](./Mona_Rush_death_certificate.html)
 - [Moses Smith birth](./Moses_Smith_birth.html)

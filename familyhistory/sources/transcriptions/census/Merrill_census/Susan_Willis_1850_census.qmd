@@ -1,0 +1,19 @@
+
+
+refersto::[Susan Willis](./../../../people/Merrill-line/Willis-line/Susan_Willis.html)
+Enumeration::[Bridport, Addison, Vermont](./../../../census-districts/Bridport,_Addison,_Vermont.html)
+Date::July 25, 1850
+House::85
+Family::92
+Name::Susan Witherell
+Age::38
+Sex::F
+Race::
+Occupation::
+Real estate value::
+Birthplace::Vermont
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::
+

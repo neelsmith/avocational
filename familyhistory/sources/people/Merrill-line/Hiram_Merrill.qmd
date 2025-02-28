@@ -24,7 +24,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph LR
+graph RL
 Hiram_Merrill(<a href=''>Hiram Merrill</>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>)
 class Aaron_Merrill father
 Hiram_Merrill(<a href=''>Hiram Merrill</>)  --> Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand</>)
@@ -49,6 +49,9 @@ class Hiram_Merrill_and_Lucy_Witherell marriage
 Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
 Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
 Hiram_Merrill_and_Lucy_Witherell[ ] --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</>)
+class James_Albee_Merrill_and_Anna_Serena_White marriage
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) --> James_Albee_Merrill_and_Anna_Serena_White[ ]
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</>) --> James_Albee_Merrill_and_Anna_Serena_White(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -63,6 +66,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
+| 1817-09-02 |  | [Hiram Merrill tombstone](./../../transcriptions/tombstones/Hiram_Merrill_tombstone.html) | direct |
 
 Sources for death:
 
