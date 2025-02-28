@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented ancestors:
+Documented **ancestors**:
 
 ```{mermaid}
 graph LR
@@ -41,7 +41,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented descendants:
+Documented **descendants**:
 
 ```{mermaid}
 graph LR

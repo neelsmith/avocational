@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented descendants:
+Documented **descendants**:
 
 ```{mermaid}
 graph LR

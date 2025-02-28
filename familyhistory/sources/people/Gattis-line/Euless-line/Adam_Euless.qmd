@@ -14,7 +14,7 @@ engine: julia
 
 **Father**: [Philip Euless](./../Philip_Euless.html)
 
-Documented ancestors:
+Documented **ancestors**:
 
 ```{mermaid}
 graph LR

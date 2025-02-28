@@ -14,7 +14,7 @@ engine: julia
 
 **Father**: [Edward Henderson](./Edward_Henderson.html)
 
-Documented ancestors:
+Documented **ancestors**:
 
 ```{mermaid}
 graph LR

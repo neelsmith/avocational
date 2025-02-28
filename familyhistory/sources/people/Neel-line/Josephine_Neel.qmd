@@ -14,7 +14,7 @@ engine: julia
 
 **Father**: [Robert Wilburn Neel](./Robert_Wilburn_Neel.html)
 
-Documented ancestors:
+Documented **ancestors**:
 
 ```{mermaid}
 graph LR

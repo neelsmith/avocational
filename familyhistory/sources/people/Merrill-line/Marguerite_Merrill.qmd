@@ -14,7 +14,7 @@ engine: julia
 
 **Father**: [James Albee Merrill](./James_Albee_Merrill.html)
 
-Documented ancestors:
+Documented **ancestors**:
 
 ```{mermaid}
 graph LR
