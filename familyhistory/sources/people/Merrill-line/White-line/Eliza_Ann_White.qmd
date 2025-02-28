@@ -17,7 +17,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 Eliza_Ann_White(<a href=''>Eliza Ann White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
 Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
 class Benjamin_White father

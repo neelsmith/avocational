@@ -14,11 +14,49 @@ engine: julia
 
 **Father**: [Isaac Newton Gattis](./Isaac_Newton_Gattis.html)
 
+**Children with [Mary Louise Neel](./../Neel-line/Mary_Louise_Neel.html)**:
+
+
+- [Judy Gattis](./Judy_Gattis.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
+Claud_Gattis(<a href=''>Claud Gattis</>) -->  Isaac_Newton_Gattis(<a href='./Isaac_Newton_Gattis.html'>Isaac Newton Gattis</>)
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>) -->  Thomas_A._Gattis(<a href='./Thomas_A._Gattis.html'>Thomas A. Gattis</>)
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</>)
+class Isaac_Newton_Gattis_Sr. father
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>)  --> _(<a href=''> </>)
+class _ mother
+class Thomas_A._Gattis father
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>)  --> Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</>)
+class Julia_B._Euless mother
+class Isaac_Newton_Gattis father
+Claud_Gattis(<a href=''>Claud Gattis</>)  --> Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green</>)
+Cassie_Green(<a href=''>Cassie Green</>) -->  James_Green(<a href='./James_Green.html'>James Green</>)
+class James_Green father
+Cassie_Green(<a href=''>Cassie Green</>)  --> Elvira_Ann_Williams(<a href='./Williams-line/Elvira_Ann_Williams.html'>Elvira Ann Williams</>)
+class Elvira_Ann_Williams mother
+class Cassie_Green mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
 
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Claud_Gattis_and_Mary_Louise_Neel marriage
+Claud_Gattis(<a href=''>Claud Gattis</>) --> Claud_Gattis_and_Mary_Louise_Neel[ ]
+Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel</>) --> Claud_Gattis_and_Mary_Louise_Neel(( ))
+Claud_Gattis_and_Mary_Louise_Neel[ ] --> Judy_Gattis(<a href='./Judy_Gattis.html'>Judy Gattis</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -48,3 +86,11 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Isaac Newton Gattis](./Isaac_Newton_Gattis.html) | [Cassie Green](./Green-line/Cassie_Green.html) | [Claud Gattis obituary in News-Journal](./../../transcriptions/newspapers/Claud_Gattis_obituary_in_News-Journal.html) | direct |
+
+Sources for children with [Mary Louise Neel](./../Neel-line/Mary_Louise_Neel.html)
+
+
+- [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
+
+

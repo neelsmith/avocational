@@ -30,7 +30,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
 class Benjamin_White father
 Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)

@@ -17,7 +17,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>) -->  Edward_Henderson(<a href='./Edward_Henderson.html'>Edward Henderson</>)
 class Edward_Henderson father
 Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>)  --> Mary_Mathis(<a href='./Mary_Mathis.html'>Mary Mathis</>)

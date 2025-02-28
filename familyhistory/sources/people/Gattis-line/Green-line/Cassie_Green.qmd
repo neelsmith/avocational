@@ -14,11 +14,40 @@ engine: julia
 
 **Father**: [James Green](./James_Green.html)
 
+**Children with [Isaac Newton Gattis](./../Isaac_Newton_Gattis.html)**:
+
+
+- [Claud Gattis](./../Claud_Gattis.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
+Cassie_Green(<a href=''>Cassie Green</>) -->  James_Green(<a href='./James_Green.html'>James Green</>)
+class James_Green father
+Cassie_Green(<a href=''>Cassie Green</>)  --> Elvira_Ann_Williams(<a href='./Williams-line/Elvira_Ann_Williams.html'>Elvira Ann Williams</>)
+class Elvira_Ann_Williams mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
 
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Cassie_Green_and_Isaac_Newton_Gattis marriage
+Cassie_Green(<a href=''>Cassie Green</>) --> Cassie_Green_and_Isaac_Newton_Gattis[ ]
+Isaac_Newton_Gattis(<a href='./../Isaac_Newton_Gattis.html'>Isaac Newton Gattis</>) --> Cassie_Green_and_Isaac_Newton_Gattis(( ))
+Cassie_Green_and_Isaac_Newton_Gattis[ ] --> Claud_Gattis(<a href='./../Claud_Gattis.html'>Claud Gattis</>)
+class Claud_Gattis_and_Mary_Louise_Neel marriage
+Claud_Gattis(<a href=''>Claud Gattis</>) --> Claud_Gattis_and_Mary_Louise_Neel[ ]
+Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel</>) --> Claud_Gattis_and_Mary_Louise_Neel(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -33,15 +62,25 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
+| 11-01-1873 | Bedford County, Tennessee | [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html) | direct |
 
 Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
+| 1946-02-12 | [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html) | direct |
 
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [James Green](./James_Green.html) | [Elvira Ann Williams](./Williams-line/Elvira_Ann_Williams.html) | [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html) | direct |
+
+Sources for children with [Isaac Newton Gattis](./../Isaac_Newton_Gattis.html)
+
+
+- [Claud Gattis obituary in News-Journal](./../../../transcriptions/newspapers/Claud_Gattis_obituary_in_News-Journal.html)
+
+

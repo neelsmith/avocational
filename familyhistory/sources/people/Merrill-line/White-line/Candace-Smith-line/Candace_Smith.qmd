@@ -30,7 +30,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
 class Moses_Smith father
 Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)

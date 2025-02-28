@@ -14,11 +14,37 @@ engine: julia
 
 **Father**: [William Green](./William_Green.html)
 
+**Children with [Elvira Ann Williams](./Williams-line/Elvira_Ann_Williams.html)**:
+
+
+- [Cassie Green](./Cassie_Green.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class James_Green_and_Elvira_Ann_Williams marriage
+James_Green(<a href=''>James Green</>) --> James_Green_and_Elvira_Ann_Williams[ ]
+Elvira_Ann_Williams(<a href='./Williams-line/Elvira_Ann_Williams.html'>Elvira Ann Williams</>) --> James_Green_and_Elvira_Ann_Williams(( ))
+James_Green_and_Elvira_Ann_Williams[ ] --> Cassie_Green(<a href='./Cassie_Green.html'>Cassie Green</>)
+class Cassie_Green_and_Isaac_Newton_Gattis marriage
+Cassie_Green(<a href=''>Cassie Green</>) --> Cassie_Green_and_Isaac_Newton_Gattis[ ]
+Isaac_Newton_Gattis(<a href='./../Isaac_Newton_Gattis.html'>Isaac Newton Gattis</>) --> Cassie_Green_and_Isaac_Newton_Gattis(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -33,3 +59,10 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+
+Sources for children with [Elvira Ann Williams](./Williams-line/Elvira_Ann_Williams.html)
+
+
+- [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html)
+
+

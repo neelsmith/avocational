@@ -14,11 +14,49 @@ engine: julia
 
 **Father**: [Robert Wilburn Neel](./Robert_Wilburn_Neel.html)
 
+**Children with [Claud Gattis](./../Gattis-line/Claud_Gattis.html)**:
+
+
+- [Judy Gattis](./../Gattis-line/Judy_Gattis.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
+Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) -->  Robert_Wilburn_Neel(<a href='./Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>)
+Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
+class James_Marion_Neel father
+Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>)  --> _Sarah_Jane_Barton(<a href=''> Sarah Jane Barton</>)
+class _Sarah_Jane_Barton mother
+class Robert_Wilburn_Neel father
+Mary_Louise_Neel(<a href=''>Mary Louise Neel</>)  --> Willie_Saudek_Blanton(<a href='./Blanton-line/Willie_Saudek_Blanton.html'>Willie Saudek Blanton</>)
+Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) -->  John_Owen_Blanton(<a href='./John_Owen_Blanton.html'>John Owen Blanton</>)
+class John_Owen_Blanton father
+Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>)  --> Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)
+Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>) -->  Joseph_Saudek(<a href='./Joseph_Saudek.html'>Joseph Saudek</>)
+class Joseph_Saudek father
+Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>)  --> Nancy_Eliza_Northern(<a href='./Northern-line/Nancy_Eliza_Northern.html'>Nancy Eliza Northern</>)
+class Nancy_Eliza_Northern mother
+class Leonora_Josephine_Saudek mother
+class Willie_Saudek_Blanton mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
 
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Mary_Louise_Neel_and_Claud_Gattis marriage
+Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) --> Mary_Louise_Neel_and_Claud_Gattis[ ]
+Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> Mary_Louise_Neel_and_Claud_Gattis(( ))
+Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -33,3 +71,11 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Robert Wilburn Neel](./Robert_Wilburn_Neel.html) | [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html) | [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html) | direct |
+
+Sources for children with [Claud Gattis](./../Gattis-line/Claud_Gattis.html)
+
+
+- [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
+
+

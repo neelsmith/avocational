@@ -14,10 +14,17 @@ engine: julia
 
 **Father**: [John Owen Blanton](./John_Owen_Blanton.html)
 
+**Children with [Robert Wilburn Neel](./../Robert_Wilburn_Neel.html)**:
+
+
+- [Mary Louise Neel](./../Mary_Louise_Neel.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) -->  John_Owen_Blanton(<a href='./John_Owen_Blanton.html'>John Owen Blanton</>)
 class John_Owen_Blanton father
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>)  --> Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)
@@ -26,6 +33,25 @@ class Joseph_Saudek father
 Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>)  --> Nancy_Eliza_Northern(<a href='./Northern-line/Nancy_Eliza_Northern.html'>Nancy Eliza Northern</>)
 class Nancy_Eliza_Northern mother
 class Leonora_Josephine_Saudek mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Willie_Saudek_Blanton_and_Robert_Wilburn_Neel marriage
+Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ]
+Robert_Wilburn_Neel(<a href='./../Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel(( ))
+Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ] --> Mary_Louise_Neel(<a href='./../Mary_Louise_Neel.html'>Mary Louise Neel</>)
+class Mary_Louise_Neel_and_Claud_Gattis marriage
+Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) --> Mary_Louise_Neel_and_Claud_Gattis[ ]
+Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> Mary_Louise_Neel_and_Claud_Gattis(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -55,3 +81,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [John Owen Blanton](./John_Owen_Blanton.html) | [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html) | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | direct |
+
+Sources for children with [Robert Wilburn Neel](./../Robert_Wilburn_Neel.html)
+
+
+- [Louise Neel Gattis obituary](./../../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+
+

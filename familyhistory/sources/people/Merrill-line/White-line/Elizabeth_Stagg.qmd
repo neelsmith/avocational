@@ -24,7 +24,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah_Stagg(<a href='./Josiah_Stagg.html'>Josiah Stagg</>)
 class Josiah_Stagg father
 classDef mother fill:#ffd1dc

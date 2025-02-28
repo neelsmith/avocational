@@ -14,11 +14,44 @@ engine: julia
 
 **Father**: [Thomas A. Gattis](./Thomas_A._Gattis.html)
 
+**Children with [Cassie Green](./Green-line/Cassie_Green.html)**:
+
+
+- [Claud Gattis](./Claud_Gattis.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>) -->  Thomas_A._Gattis(<a href='./Thomas_A._Gattis.html'>Thomas A. Gattis</>)
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</>)
+class Isaac_Newton_Gattis_Sr. father
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>)  --> _(<a href=''> </>)
+class _ mother
+class Thomas_A._Gattis father
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>)  --> Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</>)
+class Julia_B._Euless mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
 
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Isaac_Newton_Gattis_and_Cassie_Green marriage
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>) --> Isaac_Newton_Gattis_and_Cassie_Green[ ]
+Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green</>) --> Isaac_Newton_Gattis_and_Cassie_Green(( ))
+Isaac_Newton_Gattis_and_Cassie_Green[ ] --> Claud_Gattis(<a href='./Claud_Gattis.html'>Claud Gattis</>)
+class Claud_Gattis_and_Mary_Louise_Neel marriage
+Claud_Gattis(<a href=''>Claud Gattis</>) --> Claud_Gattis_and_Mary_Louise_Neel[ ]
+Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel</>) --> Claud_Gattis_and_Mary_Louise_Neel(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -33,6 +66,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
+| 1933 |  | [Isaac Newton Gattis tombstone](./../../transcriptions/tombstones/Isaac_Newton_Gattis_tombstone.html) | direct |
 
 Sources for death:
 
@@ -46,3 +80,11 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Thomas A. Gattis](./Thomas_A._Gattis.html) | [Julia B. Euless](./Euless-line/Julia_B._Euless.html) | [Isaac Newton Gattis 1870 census](./../../transcriptions/census/Gattis_census/Isaac_Newton_Gattis_1870_census.html) | indirect |
+
+Sources for children with [Cassie Green](./Green-line/Cassie_Green.html)
+
+
+- [Claud Gattis obituary in News-Journal](./../../transcriptions/newspapers/Claud_Gattis_obituary_in_News-Journal.html)
+
+

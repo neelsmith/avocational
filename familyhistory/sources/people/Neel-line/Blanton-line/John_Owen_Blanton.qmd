@@ -24,7 +24,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -42,6 +42,9 @@ class John_Owen_Blanton_and_Leonora_Josephine_Saudek marriage
 John_Owen_Blanton(<a href=''>John Owen Blanton</>) --> John_Owen_Blanton_and_Leonora_Josephine_Saudek[ ]
 Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>) --> John_Owen_Blanton_and_Leonora_Josephine_Saudek(( ))
 John_Owen_Blanton_and_Leonora_Josephine_Saudek[ ] --> Willie_Saudek_Blanton(<a href='./Willie_Saudek_Blanton.html'>Willie Saudek Blanton</>)
+class Willie_Saudek_Blanton_and_Robert_Wilburn_Neel marriage
+Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ]
+Robert_Wilburn_Neel(<a href='./../Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

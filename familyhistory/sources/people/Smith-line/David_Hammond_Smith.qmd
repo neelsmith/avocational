@@ -17,7 +17,7 @@ engine: julia
 Documented ancestors:
 
 ```{mermaid}
-graph RL
+graph LR
 David_Hammond_Smith(<a href=''>David Hammond Smith</>) -->  Charles_R._Smith_Sr.(<a href='./Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>)
 class Charles_R._Smith_Sr. father
 David_Hammond_Smith(<a href=''>David Hammond Smith</>)  --> Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush</>)
@@ -48,5 +48,5 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| []() | [Mona Rush](./../Rush-line/Mona_Rush.html) | [David Smith 1940 census]() | direct |
+| []() | [Mona Rush](./../Rush-line/Mona_Rush.html) | [David Smith 1940 census](./../../transcriptions/census/Smith_census/David_Smith_1940_census.html) | direct |
 | [Charles R. Smith Sr.](./Charles_R._Smith_Sr..html) | [Mona Rush](./../Rush-line/Mona_Rush.html) | [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html) | direct |
