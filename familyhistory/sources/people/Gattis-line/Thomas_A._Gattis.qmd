@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
@@ -37,7 +37,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR
@@ -80,6 +80,7 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html) | [ ]() | [Isaac Newton Gattis Sr. will](./../../transcriptions/wills/Isaac_Newton_Gattis_Sr._will.html) | direct |
+| [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html) | [Mary Patricia King](./Mary_Patricia_King.html) | [Isaac Newton Gattis Sr. and Patty King marriage bonds](./../../transcriptions/marriages/Isaac_Newton_Gattis_Sr._and_Patty_King_marriage_bonds.html) | indirect |
 
 Sources for children with [Julia B. Euless](./Euless-line/Julia_B._Euless.html)
 

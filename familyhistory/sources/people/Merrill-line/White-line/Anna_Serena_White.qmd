@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
@@ -35,6 +35,10 @@ class Ruth_Wilson mother
 class Ebenezer_White father
 Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
 Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
+Moses_Smith(<a href=''>Moses Smith</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</>)
+class Ephraim_Smith father
+Moses_Smith(<a href=''>Moses Smith</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</>)
+class Hannah_Rice mother
 class Moses_Smith father
 Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
 Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
@@ -71,7 +75,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR

@@ -3,9 +3,49 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Hannah Rice
 
 
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Ephraim Smith](./Ephraim_Smith.html)**:
 
 
-Private information: Hannah Rice not identified as deceased.
+- [Moses Smith](./../../../Moses_Smith_connections/Moses_Smith.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Hannah_Rice_and_Ephraim_Smith marriage
+Hannah_Rice(<a href=''>Hannah Rice</>) --> Hannah_Rice_and_Ephraim_Smith[ ]
+Ephraim_Smith(<a href='./Ephraim_Smith.html'>Ephraim Smith</>) --> Hannah_Rice_and_Ephraim_Smith(( ))
+Hannah_Rice_and_Ephraim_Smith[ ] --> Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
+class Moses_Smith_and_ marriage
+Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_[ ]
+(<a href=''></>) --> Moses_Smith_and_(( ))
+class Moses_Smith_and_Lydia_Jepson_Smith marriage
+Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith[ ]
+Lydia_Jepson_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Ephraim Smith](./Ephraim_Smith.html)
+
+
+- [Moses Smith birth](./../../../../transcriptions/vitals/Moses_Smith_birth.html)
+
+

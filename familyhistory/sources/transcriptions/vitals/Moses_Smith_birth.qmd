@@ -1,16 +1,6 @@
 refersto:: [Moses Smith](./../../people/Moses_Smith_connections/Moses_Smith.html)
 
-## Notes
-
-Moses Smith, Jan 25, 1738, Shrewsbury.
-
-Father: Ephraim. Mother: Hannah
-
-From Vital Records of Shrewsbury
-
-
-
-## Citation
+## Source
 
 
 New England Historic Genealogical Society. _Massachusetts, U.S., Town Birth Records, 1620-1850_ . Provo, UT, USA: Ancestry.com Operations Inc, 1999.
@@ -30,3 +20,16 @@ Original data:
 - _Vital Records of Shirley Massachusetts to the Year 1850._ Boston: New England Historic Genealogical Society, 1918.
 
 - New England Historic Genealogical Society. _Vital Records of Chelmsford Massachusetts to the Year 1849._ Boston: New England Historic Genealogical Society, 1914.
+
+
+## Transcription
+
+| | |
+| ------------------- | --------------------------- |
+| Name | Moses Smith |
+| Birth Date | Jan 25, 1738 |
+| Birth Place | Shrewsbury |
+| Father's First Name | Ephraim |
+| Mother's First Name | Hannah |
+| Gender | Male |
+| Source | Vital Records of Shrewsbury |

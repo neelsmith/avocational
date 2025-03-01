@@ -1,18 +1,66 @@
-refersto::[[people/Gattis-line/Euless-line/Philip Euless]]
 
-## Notes
 
- Wife Elizabeth
- Sons Henry, John, Adam
- Daughters Margaret, Mary, Molly, Eva, Susanna
- 
-## Citation
-
-_Wills, 1663-1978, Estate Papers, 1754-1944 (Orange County)_; Author: _North Carolina. Division of Archives and History_; Probate Place: _Orange, North Carolina_
+## Source
 
 #### Source Information
 
-Ancestry.com. _North Carolina, U.S., Wills and Probate Records, 1665-1998_. Provo, UT, USA: Ancestry.com Operations, Inc., 2015.
+Ancestry.com. _North Carolina, U.S., Wills and Probate Records, 1665-1998_[database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2015.
 
 Original data: North Carolina County, District and Probate Courts.
+
+## Transcription
+
+In the name of god Amen, I Philip Euliss of orange county state of N Carolina being of sound and perfect mind and memory (blessed by god) do this nineteenth Day of July in the year of our Lord one thousand Eight hundred and twelve make and publish this my last will and testament in manner following that is to say, first I give and bequeath to my beloved wife Elizabeth one cow one bed & bedstead and furniture fitted out to her notion one Iron pot one skillet one Dish one spinning wheel three plates six spoons one chest one Bason all of her chairs also all her wearing clothes, secondly it is my will that my land be Divided into three Equal parts and sold separately at publick sale with all the rest of my property the money arising therefrom to be Distributed, as follows that is to say, to my beloved wife Elizabeth one twelfth part, the Balance to be divided among my Children as follows, my sons Henry Euliss, John Euliss and Adam Euliss and daughters Margaret Wimbro, Mary Linn, Molly Huffman, Eve Ross and Susanna Wimbro, to have Equally alike, my daughter Elizabeth Jones to have fourteen dollars Less than the above Equal shares, my daugther Barbara Tracy to have six Dollars Less than the above Equal shares, it is my will that the Children of my Daughter Catharine Lineberry have a share Equal to the above Equal shares that is to say her daughter Elinor Jones, to have one half of said share, her other children namely Sophia Coble George Lineberry and William Lineberry to have the other half Equally Divided among them --
+
+and I hereby make and ordain my two sons Henry Euliss and John Euliss Executors of this my last will and testament In witness whereof I the said Philip Euliss have to this my last will and testament set my hand and seal the day and year above written
+
+Philip x Euliss
+
+his mark
+
+
+
+signed sealed published and declared by the said Philip Euliss the testator as his last will and testament in the presence of us who were present at the time of signing and sealing thereof --
+
+James Thoms Hadley
+
+John Amick
+
+Andrew ~ Shatterley } servant
+
+his mark
+
+## Notes
+
+
+refersto::[Philip Euless](./../../people/Gattis-line/Euless-line/Philip_Euless.html)
+
+Wife:
+refersto::[Elizabeth Euless](./../../people/Gattis-line/Euless-line/Elizabeth_Euless.html)
+
+Three sons:
+
+refersto::[[Henry Euliss]]
+refersto::[Adam Euless](./../../people/Gattis-line/Euless-line/Adam_Euless.html)
+refersto::[[John Euliss]]
+
+
+Daughters:
+
+refersto::[[Margaret Euliss Wimbro]]
+refersto::[[Mary Euliss Linn]]
+refersto::[[Molly Euliss Huffman]]
+refersto::[[Eve Euliss Ross]]
+refersto::[[Susanna Euliss Wimbro]]
+refersto::[[Elizabeth Euliss Jones]]
+refersto::[[Barbara Euliss Tracy]]
+refersto::[[Catharine Euliss Lineberry]]
+
+Children of Catharine Lineberry:
+refersto::[[Elinor Lineberry Jones]]
+refersto::[[Sophia Lineberry Coble]] 
+refersto::[[George Lineberry]] 
+refersto::[[William Lineberry]]
+
+
 

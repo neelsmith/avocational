@@ -4,6 +4,7 @@ engine: julia
 
 # Index
 
+- [Adam Euless will](./Adam_Euless_will.html)
 - [Cornelius Loflin will](./Cornelius_Loflin_will.html)
 - [Daniel Clyde Henderson will](./Daniel_Clyde_Henderson_will.html)
 - [Duncan Neel will](./Duncan_Neel_will.html)

@@ -14,6 +14,5 @@ engine: julia
 - [Isaac Newton Gattis obituary](./Isaac_Newton_Gattis_obituary.html)
 - [Judy Gattis wedding plans Rutherford Courier](./Judy_Gattis_wedding_plans_Rutherford_Courier.html)
 - [Judy Smith birth announcement in Murfreesboro News Journal](./Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
-- [Louise Neel Gattis obituary](./Louise_Neel_Gattis_obituary.html)
 - [Moses Smith death in abstract of Columbian Centinel](./Moses_Smith_death_in_abstract_of_Columbian_Centinel.html)
 - [Sallie Rush obituary in Asheboro Courier](./Sallie_Rush_obituary_in_Asheboro_Courier.html)

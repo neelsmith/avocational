@@ -8,7 +8,7 @@ engine: julia
 # Moses Smith
 
 
-*born* ? : *died* ?
+*born* 1738-01-25 : *died* ?
 
 **Mother**: [Hannah Rice](./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html)
 
@@ -24,11 +24,14 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
-
+Moses_Smith(<a href=''>Moses Smith</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</>)
+class Ephraim_Smith father
+Moses_Smith(<a href=''>Moses Smith</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</>)
+class Hannah_Rice mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -37,7 +40,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR
@@ -60,11 +63,19 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+|  | 1738-01-25 | [Moses Smith birth](./../../transcriptions/vitals/Moses_Smith_birth.html) | direct |
+
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Ephraim Smith](./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html) | [Hannah Rice](./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html) | [Moses Smith birth](./../../transcriptions/vitals/Moses_Smith_birth.html) | direct |
 
 Sources for children with []()
 

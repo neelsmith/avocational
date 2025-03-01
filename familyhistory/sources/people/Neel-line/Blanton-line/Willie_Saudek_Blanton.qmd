@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
@@ -41,7 +41,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR
@@ -67,6 +67,7 @@ Sources for birth:
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
 | 1877-12-24 |  | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |
+| 1877-12-24 |  | [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html) | indirect |
 
 Sources for death:
 
@@ -85,6 +86,6 @@ Sources for parents:
 Sources for children with [Robert Wilburn Neel](./../Robert_Wilburn_Neel.html)
 
 
-- [Louise Neel Gattis obituary](./../../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+- [Louise Neel Gattis obituary]()
 
 

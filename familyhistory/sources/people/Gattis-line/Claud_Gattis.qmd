@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
@@ -33,6 +33,14 @@ Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>)  --> _(<a href=''> </>)
 class _ mother
 class Thomas_A._Gattis father
 Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>)  --> Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</>)
+Julia_B._Euless(<a href=''>Julia B. Euless</>) -->  Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>)
+Adam_Euless(<a href=''>Adam Euless</>) -->  Philip_Euless(<a href='./Philip_Euless.html'>Philip Euless</>)
+class Philip_Euless father
+Adam_Euless(<a href=''>Adam Euless</>)  --> Elizabeth_Euless(<a href='./Elizabeth_Euless.html'>Elizabeth Euless</>)
+class Elizabeth_Euless mother
+class Adam_Euless father
+Julia_B._Euless(<a href=''>Julia B. Euless</>)  --> Dorotha_Shofner(<a href='./Dorotha_Shofner.html'>Dorotha Shofner</>)
+class Dorotha_Shofner mother
 class Julia_B._Euless mother
 class Isaac_Newton_Gattis father
 Claud_Gattis(<a href=''>Claud Gattis</>)  --> Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green</>)
@@ -49,7 +57,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR

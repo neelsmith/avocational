@@ -13,3 +13,36 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html)**:
+
+
+- [Thomas A. Gattis](./Thomas_A._Gattis.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Mary_Patricia_King_and_Isaac_Newton_Gattis_Sr. marriage
+Mary_Patricia_King(<a href=''>Mary Patricia King</>) --> Mary_Patricia_King_and_Isaac_Newton_Gattis_Sr.[ ]
+Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</>) --> Mary_Patricia_King_and_Isaac_Newton_Gattis_Sr.(( ))
+Mary_Patricia_King_and_Isaac_Newton_Gattis_Sr.[ ] --> Thomas_A._Gattis(<a href='./Thomas_A._Gattis.html'>Thomas A. Gattis</>)
+class Thomas_A._Gattis_and_Julia_B._Euless marriage
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>) --> Thomas_A._Gattis_and_Julia_B._Euless[ ]
+Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</>) --> Thomas_A._Gattis_and_Julia_B._Euless(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html)
+
+
+- [Isaac Newton Gattis Sr. and Patty King marriage bonds](./../../transcriptions/marriages/Isaac_Newton_Gattis_Sr._and_Patty_King_marriage_bonds.html)
+
+

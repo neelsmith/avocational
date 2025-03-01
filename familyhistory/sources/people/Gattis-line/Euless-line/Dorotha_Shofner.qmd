@@ -13,3 +13,47 @@ engine: julia
 **Mother**: [?]()
 
 **Father**: [?]()
+
+**Children with []()**:
+
+
+**Children with [Adam Euless](./Adam_Euless.html)**:
+
+
+- [Julia B. Euless](./Julia_B._Euless.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Dorotha_Shofner_and_ marriage
+Dorotha_Shofner(<a href=''>Dorotha Shofner</>) --> Dorotha_Shofner_and_[ ]
+(<a href=''></>) --> Dorotha_Shofner_and_(( ))
+class Dorotha_Shofner_and_Adam_Euless marriage
+Dorotha_Shofner(<a href=''>Dorotha Shofner</>) --> Dorotha_Shofner_and_Adam_Euless[ ]
+Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>) --> Dorotha_Shofner_and_Adam_Euless(( ))
+Dorotha_Shofner_and_Adam_Euless[ ] --> Julia_B._Euless(<a href='./Julia_B._Euless.html'>Julia B. Euless</>)
+class Julia_B._Euless_and_Thomas_A._Gattis marriage
+Julia_B._Euless(<a href=''>Julia B. Euless</>) --> Julia_B._Euless_and_Thomas_A._Gattis[ ]
+Thomas_A._Gattis(<a href='./../Thomas_A._Gattis.html'>Thomas A. Gattis</>) --> Julia_B._Euless_and_Thomas_A._Gattis(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with []()
+
+
+
+
+Sources for children with [Adam Euless](./Adam_Euless.html)
+
+
+- [Adam Euliss - Dorotha Shofner marriage bond](./../../../transcriptions/marriages/Adam_Euliss_-_Dorotha_Shofner_marriage_bond.html)
+
+

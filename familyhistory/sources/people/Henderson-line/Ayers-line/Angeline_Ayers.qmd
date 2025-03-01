@@ -14,7 +14,7 @@ engine: julia
 
 **Father**: [Stephen Ayres](./Stephen_Ayres.html)
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL

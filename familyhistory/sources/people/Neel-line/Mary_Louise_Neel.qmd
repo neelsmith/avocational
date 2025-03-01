@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
@@ -49,7 +49,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR
@@ -71,7 +71,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [Robert Wilburn Neel](./Robert_Wilburn_Neel.html) | [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html) | [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html) | direct |
+| [Robert Wilburn Neel](./Robert_Wilburn_Neel.html) | [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html) | [Louise Neel Gattis obituary]() | direct |
 
 Sources for children with [Claud Gattis](./../Gattis-line/Claud_Gattis.html)
 

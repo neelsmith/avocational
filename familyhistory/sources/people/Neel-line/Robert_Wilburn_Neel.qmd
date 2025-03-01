@@ -21,7 +21,7 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
@@ -37,7 +37,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR
@@ -82,6 +82,6 @@ Sources for parents:
 Sources for children with [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html)
 
 
-- [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+- [Louise Neel Gattis obituary]()
 
 

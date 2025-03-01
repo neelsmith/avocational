@@ -3,9 +3,46 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Susanah Grout
 
 
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Zachia Smith](./Zachia_Smith.html)**:
 
 
-Private information: Susanah Grout not identified as deceased.
+- [Zachariah Smith](./White-line/Candace-Smith-line/Zachariah_Smith.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Susanah_Grout_and_Zachia_Smith marriage
+Susanah_Grout(<a href=''>Susanah Grout</>) --> Susanah_Grout_and_Zachia_Smith[ ]
+Zachia_Smith(<a href='./Zachia_Smith.html'>Zachia Smith</>) --> Susanah_Grout_and_Zachia_Smith(( ))
+Susanah_Grout_and_Zachia_Smith[ ] --> Zachariah_Smith(<a href='./White-line/Candace-Smith-line/Zachariah_Smith.html'>Zachariah Smith</>)
+class Zachariah_Smith_and_Lydia_Hastings_Smith marriage
+Zachariah_Smith(<a href=''>Zachariah Smith</>) --> Zachariah_Smith_and_Lydia_Hastings_Smith[ ]
+Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>) --> Zachariah_Smith_and_Lydia_Hastings_Smith(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Zachia Smith](./Zachia_Smith.html)
+
+
+- [Zachariah Smith birth record](./../../transcriptions/vitals/Zachariah_Smith_birth_record.html)
+
+

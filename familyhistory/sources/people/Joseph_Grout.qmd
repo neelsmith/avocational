@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Joseph Grout
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Joseph Grout not identified as deceased.
+**Father**: [?]()

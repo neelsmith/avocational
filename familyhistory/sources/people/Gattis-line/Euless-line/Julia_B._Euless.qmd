@@ -21,11 +21,18 @@ engine: julia
 
 
 
-Documented **ancestors**:
+Documented ancestors:
 
 ```{mermaid}
 graph RL
-
+Julia_B._Euless(<a href=''>Julia B. Euless</>) -->  Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>)
+Adam_Euless(<a href=''>Adam Euless</>) -->  Philip_Euless(<a href='./Philip_Euless.html'>Philip Euless</>)
+class Philip_Euless father
+Adam_Euless(<a href=''>Adam Euless</>)  --> Elizabeth_Euless(<a href='./Elizabeth_Euless.html'>Elizabeth Euless</>)
+class Elizabeth_Euless mother
+class Adam_Euless father
+Julia_B._Euless(<a href=''>Julia B. Euless</>)  --> Dorotha_Shofner(<a href='./Dorotha_Shofner.html'>Dorotha Shofner</>)
+class Dorotha_Shofner mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -34,7 +41,7 @@ classDef marriage fill:#ffffff
 
 
 
-Documented **descendants**:
+Documented descendants:
 
 ```{mermaid}
 graph LR
@@ -59,6 +66,8 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| []() | [Dorotha Shofner](./Dorotha_Shofner.html) | [Julia Euless 1850 census](./../../../transcriptions/census/Gattis_census/Julia_Euless_1850_census.html) | indirect |
+| [Adam Euless](./Adam_Euless.html) | [Dorotha Shofner](./Dorotha_Shofner.html) | [Adam Euliss - Dorotha Shofner marriage bond](./../../../transcriptions/marriages/Adam_Euliss_-_Dorotha_Shofner_marriage_bond.html) | indirect |
 
 Sources for children with [Thomas A. Gattis](./../Thomas_A._Gattis.html)
 
