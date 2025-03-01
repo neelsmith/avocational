@@ -3,9 +3,46 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Philip Euless
 
 
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Elizabeth Euless](./Elizabeth_Euless.html)**:
 
 
-Private information: Philip Euless not identified as deceased.
+- [Adam Euless](./Adam_Euless.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+class Philip_Euless_and_Elizabeth_Euless marriage
+Philip_Euless(<a href=''>Philip Euless</>) --> Philip_Euless_and_Elizabeth_Euless[ ]
+Elizabeth_Euless(<a href='./Elizabeth_Euless.html'>Elizabeth Euless</>) --> Philip_Euless_and_Elizabeth_Euless(( ))
+Philip_Euless_and_Elizabeth_Euless[ ] --> Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>)
+class Adam_Euless_and_Dorotha_Shofner marriage
+Adam_Euless(<a href=''>Adam Euless</>) --> Adam_Euless_and_Dorotha_Shofner[ ]
+Dorotha_Shofner(<a href='./Dorotha_Shofner.html'>Dorotha Shofner</>) --> Adam_Euless_and_Dorotha_Shofner(( ))
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Elizabeth Euless](./Elizabeth_Euless.html)
+
+
+- [Philip Euless will](./../../../transcriptions/wills/Philip_Euless_will.html)
+
+
