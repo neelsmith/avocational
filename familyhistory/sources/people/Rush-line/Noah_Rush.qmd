@@ -12,14 +12,17 @@ engine: julia
 
 **Mother**: [Frances Fuller](./../Randolph_county_lines/Frances_Fuller.html)
 
-**Father**: [people/Rush-line/Zebedee Rush]()
+**Father**: [Zebedee Rush 1790-1872](./Zebedee_Rush_1790-1872.html)
 
 **Children with [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)**:
 
 
+- [Roxanna Rush](./Roxanna_Rush.html)
+
 - [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
-- [Roxanna Rush](./Roxanna_Rush.html)
+**Children with []()**:
+
 
 
 
@@ -28,7 +31,10 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-
+Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee_Rush_1790-1872(<a href='./Zebedee_Rush_1790-1872.html'>Zebedee Rush 1790-1872</>)
+class Zebedee_Rush_1790-1872 father
+Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_county_lines/Frances_Fuller.html'>Frances Fuller</>)
+class Frances_Fuller mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -45,6 +51,9 @@ graph LR
 class Noah_Rush_and_Sarah_Loflin marriage
 Noah_Rush(<a href=''>Noah Rush</>) --> Noah_Rush_and_Sarah_Loflin[ ]
 Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>) --> Noah_Rush_and_Sarah_Loflin(( ))
+class ? father
+class ? mother
+Noah_Rush_and_Sarah_Loflin[ ] --> Roxanna_Rush(<a href='./Roxanna_Rush.html'>Roxanna Rush</>)
 class Noah_Rush father
 class Sarah_Loflin mother
 Noah_Rush_and_Sarah_Loflin[ ] --> Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
@@ -54,6 +63,9 @@ Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances 
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Calvin_Harris_Rush_and_Frances_Hix[ ] --> Clarence_Harris_Rush(<a href='./Clarence_Harris_Rush.html'>Clarence Harris Rush</>)
+class Calvin_Harris_Rush father
+class Frances_Hix mother
+Calvin_Harris_Rush_and_Frances_Hix[ ] --> Juanita_Rush(<a href='./Juanita_Rush.html'>Juanita Rush</>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Calvin_Harris_Rush_and_Frances_Hix[ ] --> Mona_Rush(<a href='./Mona_Rush.html'>Mona Rush</>)
@@ -75,9 +87,9 @@ Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../Smith-line
 class Calvin_Harris_Rush_and_ marriage
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_[ ]
 (<a href=''></>) --> Calvin_Harris_Rush_and_(( ))
-class ? father
-class ? mother
-Noah_Rush_and_Sarah_Loflin[ ] --> Roxanna_Rush(<a href='./Roxanna_Rush.html'>Roxanna Rush</>)
+class Noah_Rush_and_ marriage
+Noah_Rush(<a href=''>Noah Rush</>) --> Noah_Rush_and_[ ]
+(<a href=''></>) --> Noah_Rush_and_(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -92,12 +104,19 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Zebedee Rush 1790-1872](./Zebedee_Rush_1790-1872.html) | []() | [Zebedee Rush will](./../../transcriptions/wills/Zebedee_Rush_will.html) | direct |
+| []() | [Frances Fuller](./../Randolph_county_lines/Frances_Fuller.html) | [Zebedee Rush will](./../../transcriptions/wills/Zebedee_Rush_will.html) | indirect |
 
 Sources for children with [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
 
+- [Roxanna Rush 1860 census](./../../transcriptions/census/Rush_census/Roxanna_Rush_1860_census.html)
+
 - [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
 
-- [Roxanna Rush 1860 census](./../../transcriptions/census/Rush_census/Roxanna_Rush_1860_census.html)
+
+
+Sources for children with []()
+
 
 

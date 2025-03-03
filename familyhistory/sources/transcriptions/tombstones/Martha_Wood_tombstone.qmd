@@ -1,4 +1,4 @@
-refersto::[Marthey Wood](./../../Marthey_Wood.html)
+refersto::[Marthey Wood](./../../people/Rush-line/Marthey_Wood.html)
 refersto::[William Lewis](./../../people/Randolph_county_lines/Lewis/William_Lewis.html)
 
 ## Source

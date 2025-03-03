@@ -26,7 +26,10 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-
+Elvira_Ann_Williams(<a href=''>Elvira Ann Williams</>) -->  David_Williams(<a href='./David_Williams.html'>David Williams</>)
+class David_Williams father
+Elvira_Ann_Williams(<a href=''>Elvira Ann Williams</>)  --> Sallie_T.__Harris(<a href='./Sallie_T.__Harris.html'>Sallie T.  Harris</>)
+class Sallie_T.__Harris mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -72,6 +75,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [David Williams](./David_Williams.html) | [Sallie T.  Harris](./Sallie_T.__Harris.html) | [Elvira Ann Williams 1850 census](./../../../../transcriptions/census/Elvira_Ann_Williams_1850_census.html) | indirect |
 
 Sources for children with [James Green](./../James_Green.html)
 

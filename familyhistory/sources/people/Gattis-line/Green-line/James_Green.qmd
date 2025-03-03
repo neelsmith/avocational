@@ -26,7 +26,10 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-
+James_Green(<a href=''>James Green</>) -->  William_Green(<a href='./William_Green.html'>William Green</>)
+class William_Green father
+James_Green(<a href=''>James Green</>)  --> Sarah_Phillips(<a href='./Sarah_Phillips.html'>Sarah Phillips</>)
+class Sarah_Phillips mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -72,6 +75,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [William Green](./William_Green.html) | [Sarah Phillips](./Sarah_Phillips.html) | [James Green 1850 census](./../../../transcriptions/census/Gattis_census/James_Green_1850_census.html) | indirect |
 
 Sources for children with [Elvira Ann Williams](./Williams-line/Elvira_Ann_Williams.html)
 

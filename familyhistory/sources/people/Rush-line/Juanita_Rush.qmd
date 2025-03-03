@@ -8,11 +8,11 @@ engine: julia
 # Juanita Rush
 
 
-*born* ? : *died* ?
+*born* 1880 : *died* 1937-10-12
 
-**Mother**: [?]()
+**Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
 
-**Father**: [Clarence Harris Rush](./Clarence_Harris_Rush.html)
+**Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
 Documented ancestors:
 
@@ -21,10 +21,20 @@ graph RL
 %% RL ancestor diagram
 Juanita_Rush(<a href=''>Juanita Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee_Rush_1790-1872(<a href='./Zebedee_Rush_1790-1872.html'>Zebedee Rush 1790-1872</>)
+class Zebedee_Rush_1790-1872 father
+Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_county_lines/Frances_Fuller.html'>Frances Fuller</>)
+class Frances_Fuller mother
 class Noah_Rush father
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
 class Sarah_Loflin mother
 class Calvin_Harris_Rush father
+Juanita_Rush(<a href=''>Juanita Rush</>)  --> Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>)
+Frances_Hix(<a href=''>Frances Hix</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks</>)
+class William_J._Hicks father
+Frances_Hix(<a href=''>Frances Hix</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter</>)
+class Jane_Lassiter mother
+class Frances_Hix mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -34,9 +44,24 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1880 |  | [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1937-10-12 | [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html) | direct |
+
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html) | direct |
 | [Calvin Harris Rush](./Calvin_Harris_Rush.html) | []() | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |

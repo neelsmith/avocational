@@ -25,6 +25,7 @@ engine: julia
 - [James A. Merrill MN death index](./James_A._Merrill_MN_death_index.html)
 - [James Marion Neel death certificate](./James_Marion_Neel_death_certificate.html)
 - [Joseph Saudek - Nancy Northern marriage](./Joseph_Saudek_-_Nancy_Northern_marriage.html)
+- [Juanita Rush death](./Juanita_Rush_death.html)
 - [Julia Euless Chattanooga death certificate](./Julia_Euless_Chattanooga_death_certificate.html)
 - [Marguerite Merrill birth](./Marguerite_Merrill_birth.html)
 - [Marguerite Merrill death certificate](./Marguerite_Merrill_death_certificate.html)

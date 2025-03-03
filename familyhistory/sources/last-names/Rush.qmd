@@ -62,5 +62,5 @@ engine: julia
 - [Wiley Pearce](./../people/Randolph_county_lines/Wiley_Pearce.html)
 - [William Rush](./../people/Rush-line/William_Rush.html)
 - [Zebedee Franklin Rush](./../people/Rush-line/Zebedee_Franklin_Rush.html)
-- [Zebedee Rush](./../people/Rush-line/Zebedee_Rush.html)
+- [Zebedee Rush 1790-1872](./../people/Rush-line/Zebedee_Rush_1790-1872.html)
 - [Zebedee Rush 1821-1907](./../people/Rush-line/Zebedee_Rush_1821-1907.html)

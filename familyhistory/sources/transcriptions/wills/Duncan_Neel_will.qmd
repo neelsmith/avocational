@@ -51,7 +51,7 @@ refersto::[Duncan Neel](./../../people/Neel-line/Duncan_Neel.html)
 refersto::[Elizabeth Busby](./../../people/Neel-line/Elizabeth_Busby.html)
 refersto::[James Marion Neel](./../../people/Neel-line/James_Marion_Neel.html)
 refersto::[[Angelina Neil]]
-refersto::[Elizabeth Neil](./../../Elizabeth_Neil.html)
+refersto::[Elizabeth Neil](./../../people/Neel-line/Elizabeth_Neil.html)
 refersto::[[Alexander Neil]]
 
 

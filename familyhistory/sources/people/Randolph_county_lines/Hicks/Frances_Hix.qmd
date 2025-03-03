@@ -19,6 +19,8 @@ engine: julia
 
 - [Clarence Harris Rush](./../../Rush-line/Clarence_Harris_Rush.html)
 
+- [Juanita Rush](./../../Rush-line/Juanita_Rush.html)
+
 - [Mona Rush](./../../Rush-line/Mona_Rush.html)
 
 
@@ -51,6 +53,9 @@ Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Ha
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Frances_Hix_and_Calvin_Harris_Rush[ ] --> Clarence_Harris_Rush(<a href='./../../Rush-line/Clarence_Harris_Rush.html'>Clarence Harris Rush</>)
+class Calvin_Harris_Rush father
+class Frances_Hix mother
+Frances_Hix_and_Calvin_Harris_Rush[ ] --> Juanita_Rush(<a href='./../../Rush-line/Juanita_Rush.html'>Juanita Rush</>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Frances_Hix_and_Calvin_Harris_Rush[ ] --> Mona_Rush(<a href='./../../Rush-line/Mona_Rush.html'>Mona Rush</>)
@@ -104,6 +109,8 @@ Sources for children with [Calvin Harris Rush](./../../Rush-line/Calvin_Harris_R
 
 
 - [1900 census](./../../../census-summaries/1900_census.html)
+
+- [Juanita Rush death](./../../../transcriptions/vitals/Juanita_Rush_death.html)
 
 - [Mona Rush death certificate](./../../../transcriptions/vitals/Mona_Rush_death_certificate.html)
 

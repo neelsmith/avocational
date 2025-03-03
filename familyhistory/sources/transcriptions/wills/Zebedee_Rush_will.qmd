@@ -1,5 +1,5 @@
 
-refersto::[[people/Rush-line/Zebedee Rush]]
+refersto::[Zebedee Rush 1790-1872](./../../people/Rush-line/Zebedee_Rush_1790-1872.html)
 refersto::[Benjamin C. Rush](./../../people/Rush-line/Benjamin_C._Rush.html)
 refersto::[Archibald Franklin Rush](./../../people/Rush-line/Archibald_Franklin_Rush.html)
 refersto::[Martha Rush](./../../people/Smith-line/Martha_Rush.html)

@@ -28,12 +28,20 @@ graph RL
 %% RL ancestor diagram
 Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) -->  Robert_Wilburn_Neel(<a href='./Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>)
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
+James_Marion_Neel(<a href=''>James Marion Neel</>) -->  Duncan_Neel(<a href='./Duncan_Neel.html'>Duncan Neel</>)
+class Duncan_Neel father
+James_Marion_Neel(<a href=''>James Marion Neel</>)  --> Betty_Neel(<a href='./Betty_Neel.html'>Betty Neel</>)
+class Betty_Neel mother
 class James_Marion_Neel father
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>)  --> _Sarah_Jane_Barton(<a href=''> Sarah Jane Barton</>)
 class _Sarah_Jane_Barton mother
 class Robert_Wilburn_Neel father
 Mary_Louise_Neel(<a href=''>Mary Louise Neel</>)  --> Willie_Saudek_Blanton(<a href='./Blanton-line/Willie_Saudek_Blanton.html'>Willie Saudek Blanton</>)
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) -->  John_Owen_Blanton(<a href='./John_Owen_Blanton.html'>John Owen Blanton</>)
+John_Owen_Blanton(<a href=''>John Owen Blanton</>) -->  Richard_Blanton(<a href='./Richard_Blanton.html'>Richard Blanton</>)
+class Richard_Blanton father
+John_Owen_Blanton(<a href=''>John Owen Blanton</>)  --> Sarah_Campbell(<a href='./Sarah_Campbell.html'>Sarah Campbell</>)
+class Sarah_Campbell mother
 class John_Owen_Blanton father
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>)  --> Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)
 Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>) -->  Joseph_Saudek(<a href='./Joseph_Saudek.html'>Joseph Saudek</>)

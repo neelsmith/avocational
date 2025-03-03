@@ -12,6 +12,7 @@ engine: julia
 - [Ebenezer White incarcerated Vermont Sentinel and Democrat](./Ebenezer_White_incarcerated_Vermont_Sentinel_and_Democrat.html)
 - [Isaac N. Gattis obituary Murfreesboro News Journal](./Isaac_N._Gattis_obituary_Murfreesboro_News_Journal.html)
 - [Isaac Newton Gattis obituary](./Isaac_Newton_Gattis_obituary.html)
+- [James Green obituary](./James_Green_obituary.html)
 - [Judy Gattis wedding plans Rutherford Courier](./Judy_Gattis_wedding_plans_Rutherford_Courier.html)
 - [Judy Smith birth announcement in Murfreesboro News Journal](./Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
 - [Louise Neel Gattis obituary](./Louise_Neel_Gattis_obituary.html)

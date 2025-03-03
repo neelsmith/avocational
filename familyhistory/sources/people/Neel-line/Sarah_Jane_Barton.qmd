@@ -26,7 +26,10 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-
+Sarah_Jane_Barton(<a href=''>Sarah Jane Barton</>) -->  A._Barton(<a href='./A._Barton.html'>A. Barton</>)
+class A._Barton father
+Sarah_Jane_Barton(<a href=''>Sarah Jane Barton</>)  --> Sarah_Barton(<a href='./Sarah_Barton.html'>Sarah Barton</>)
+class Sarah_Barton mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -58,6 +61,9 @@ Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> M
 class Claud_Gattis father
 class Mary_Louise_Neel mother
 Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
+class Robert_Wilburn_Neel father
+class Willie_Saudek_Blanton mother
+Robert_Wilburn_Neel_and_Willie_Saudek_Blanton[ ] --> Josephine_Neel(<a href='./Josephine_Neel.html'>Josephine Neel</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -72,6 +78,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [A. Barton](./A._Barton.html) | [Sarah Barton](./Sarah_Barton.html) | [Sarah Jane Barton tombstone](./../../transcriptions/tombstones/Sarah_Jane_Barton_tombstone.html) | direct |
 
 Sources for children with [James Marion Neel](./James_Marion_Neel.html)
 

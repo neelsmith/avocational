@@ -19,6 +19,8 @@ engine: julia
 
 - [Mary Louise Neel](./Mary_Louise_Neel.html)
 
+- [Josephine Neel](./Josephine_Neel.html)
+
 
 
 Documented ancestors:
@@ -27,6 +29,10 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
+James_Marion_Neel(<a href=''>James Marion Neel</>) -->  Duncan_Neel(<a href='./Duncan_Neel.html'>Duncan Neel</>)
+class Duncan_Neel father
+James_Marion_Neel(<a href=''>James Marion Neel</>)  --> Betty_Neel(<a href='./Betty_Neel.html'>Betty Neel</>)
+class Betty_Neel mother
 class James_Marion_Neel father
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>)  --> _Sarah_Jane_Barton(<a href=''> Sarah Jane Barton</>)
 class _Sarah_Jane_Barton mother
@@ -55,6 +61,9 @@ Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> M
 class Claud_Gattis father
 class Mary_Louise_Neel mother
 Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
+class Robert_Wilburn_Neel father
+class Willie_Saudek_Blanton mother
+Robert_Wilburn_Neel_and_Willie_Saudek_Blanton[ ] --> Josephine_Neel(<a href='./Josephine_Neel.html'>Josephine Neel</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -91,5 +100,7 @@ Sources for children with [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_B
 
 
 - [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+
+- [Josephine Neel 1910 census](./../../transcriptions/census/Neel_census/Josephine_Neel_1910_census.html)
 
 

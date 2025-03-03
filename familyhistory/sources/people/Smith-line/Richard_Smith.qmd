@@ -24,6 +24,10 @@ class Charles_R._Smith_Sr. father
 Richard_Smith(<a href=''>Richard Smith</>)  --> Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush</>)
 Mona_Rush(<a href=''>Mona Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee_Rush_1790-1872(<a href='./Zebedee_Rush_1790-1872.html'>Zebedee Rush 1790-1872</>)
+class Zebedee_Rush_1790-1872 father
+Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_county_lines/Frances_Fuller.html'>Frances Fuller</>)
+class Frances_Fuller mother
 class Noah_Rush father
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
 class Sarah_Loflin mother

@@ -19,6 +19,8 @@ engine: julia
 
 - [Clarence Harris Rush](./Clarence_Harris_Rush.html)
 
+- [Juanita Rush](./Juanita_Rush.html)
+
 - [Mona Rush](./Mona_Rush.html)
 
 **Children with []()**:
@@ -32,6 +34,10 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
+Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee_Rush_1790-1872(<a href='./Zebedee_Rush_1790-1872.html'>Zebedee Rush 1790-1872</>)
+class Zebedee_Rush_1790-1872 father
+Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_county_lines/Frances_Fuller.html'>Frances Fuller</>)
+class Frances_Fuller mother
 class Noah_Rush father
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
 class Sarah_Loflin mother
@@ -54,6 +60,9 @@ Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances 
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Calvin_Harris_Rush_and_Frances_Hix[ ] --> Clarence_Harris_Rush(<a href='./Clarence_Harris_Rush.html'>Clarence Harris Rush</>)
+class Calvin_Harris_Rush father
+class Frances_Hix mother
+Calvin_Harris_Rush_and_Frances_Hix[ ] --> Juanita_Rush(<a href='./Juanita_Rush.html'>Juanita Rush</>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Calvin_Harris_Rush_and_Frances_Hix[ ] --> Mona_Rush(<a href='./Mona_Rush.html'>Mona Rush</>)
@@ -103,13 +112,15 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [Noah Rush](./Noah_Rush.html) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html) | indirect |
 | []() | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |
+| [Noah Rush](./Noah_Rush.html) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html) | indirect |
 
 Sources for children with [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
 
 
 - [1900 census](./../../census-summaries/1900_census.html)
+
+- [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html)
 
 - [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)
 

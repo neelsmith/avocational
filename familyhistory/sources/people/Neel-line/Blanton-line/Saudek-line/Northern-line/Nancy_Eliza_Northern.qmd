@@ -50,6 +50,9 @@ Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> M
 class Claud_Gattis father
 class Mary_Louise_Neel mother
 Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
+class Robert_Wilburn_Neel father
+class Willie_Saudek_Blanton mother
+Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ] --> Josephine_Neel(<a href='./../Josephine_Neel.html'>Josephine Neel</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
