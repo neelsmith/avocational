@@ -25,13 +25,25 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Polly_Myrick_and_Truman_Grandey marriage
 Polly_Myrick(<a href=''>Polly Myrick</>) --> Polly_Myrick_and_Truman_Grandey[ ]
 Truman_Grandey(<a href='./../../Grandey-line/Truman_Grandey.html'>Truman Grandey</>) --> Polly_Myrick_and_Truman_Grandey(( ))
+class Truman_Grandey father
+class Polly_Myrick mother
 Polly_Myrick_and_Truman_Grandey[ ] --> Ellen_Grandey(<a href='./../../Grandey-line/Ellen_Grandey.html'>Ellen Grandey</>)
 class Ellen_Grandey_and_William_E._White marriage
 Ellen_Grandey(<a href=''>Ellen Grandey</>) --> Ellen_Grandey_and_William_E._White[ ]
 William_E._White(<a href='./../White-line/William_E._White.html'>William E. White</>) --> Ellen_Grandey_and_William_E._White(( ))
+class William_E._White father
+class Ellen_Grandey mother
+Ellen_Grandey_and_William_E._White[ ] --> Anna_Serena_White(<a href='./../White-line/Anna_Serena_White.html'>Anna Serena White</>)
+class Anna_Serena_White_and_James_Albee_Merrill marriage
+Anna_Serena_White(<a href=''>Anna Serena White</>) --> Anna_Serena_White_and_James_Albee_Merrill[ ]
+James_Albee_Merrill(<a href='./../James_Albee_Merrill.html'>James Albee Merrill</>) --> Anna_Serena_White_and_James_Albee_Merrill(( ))
+class James_Albee_Merrill father
+class Anna_Serena_White mother
+Anna_Serena_White_and_James_Albee_Merrill[ ] --> Marguerite_Merrill(<a href='./../Marguerite_Merrill.html'>Marguerite Merrill</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

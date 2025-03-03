@@ -25,6 +25,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
 class James_Marion_Neel father
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>)  --> _Sarah_Jane_Barton(<a href=''> Sarah Jane Barton</>)
@@ -41,13 +42,19 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Robert_Wilburn_Neel_and_Willie_Saudek_Blanton marriage
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) --> Robert_Wilburn_Neel_and_Willie_Saudek_Blanton[ ]
 Willie_Saudek_Blanton(<a href='./Blanton-line/Willie_Saudek_Blanton.html'>Willie Saudek Blanton</>) --> Robert_Wilburn_Neel_and_Willie_Saudek_Blanton(( ))
+class Robert_Wilburn_Neel father
+class Willie_Saudek_Blanton mother
 Robert_Wilburn_Neel_and_Willie_Saudek_Blanton[ ] --> Mary_Louise_Neel(<a href='./Mary_Louise_Neel.html'>Mary Louise Neel</>)
 class Mary_Louise_Neel_and_Claud_Gattis marriage
 Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) --> Mary_Louise_Neel_and_Claud_Gattis[ ]
 Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> Mary_Louise_Neel_and_Claud_Gattis(( ))
+class Claud_Gattis father
+class Mary_Louise_Neel mother
+Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -78,10 +85,11 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [James Marion Neel](./James_Marion_Neel.html) | [ Sarah Jane Barton]() | [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html) | direct |
+| [James Marion Neel](./James_Marion_Neel.html) | [Sarah Jane Barton](./Sarah_Jane_Barton.html) | [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html) | direct |
 
 Sources for children with [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html)
 
 
-- [Louise Neel Gattis obituary]()
+- [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
 
 

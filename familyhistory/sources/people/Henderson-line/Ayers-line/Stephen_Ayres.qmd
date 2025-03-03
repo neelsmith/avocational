@@ -23,6 +23,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -36,6 +37,7 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Stephen_Ayres_and_ marriage
 Stephen_Ayres(<a href=''>Stephen Ayres</>) --> Stephen_Ayres_and_[ ]
 (<a href=''></>) --> Stephen_Ayres_and_(( ))

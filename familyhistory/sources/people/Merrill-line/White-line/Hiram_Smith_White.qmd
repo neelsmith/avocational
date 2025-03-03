@@ -18,6 +18,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 Hiram_Smith_White(<a href=''>Hiram Smith White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
 Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
 class Benjamin_White father

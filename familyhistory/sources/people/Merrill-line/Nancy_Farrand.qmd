@@ -27,6 +27,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 Nancy_Farrand(<a href=''>Nancy Farrand</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</>)
 class Bethuel_Farrand father
 Nancy_Farrand(<a href=''>Nancy Farrand</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</>)
@@ -43,17 +44,40 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Nancy_Farrand_and_Aaron_Merrill marriage
 Nancy_Farrand(<a href=''>Nancy Farrand</>) --> Nancy_Farrand_and_Aaron_Merrill[ ]
 Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>) --> Nancy_Farrand_and_Aaron_Merrill(( ))
+class Aaron_Merrill father
+class Nancy_Farrand mother
 Nancy_Farrand_and_Aaron_Merrill[ ] --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
 class Hiram_Merrill_and_Lucy_Witherell marriage
 Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
 Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
+class Hiram_Merrill father
+class Lucy_Witherell mother
+Hiram_Merrill_and_Lucy_Witherell[ ] --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</>)
+class James_Albee_Merrill_and_Anna_Serena_White marriage
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) --> James_Albee_Merrill_and_Anna_Serena_White[ ]
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</>) --> James_Albee_Merrill_and_Anna_Serena_White(( ))
+class James_Albee_Merrill father
+class Anna_Serena_White mother
+James_Albee_Merrill_and_Anna_Serena_White[ ] --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill</>)
+class Aaron_Merrill father
+class Nancy_Farrand mother
 Nancy_Farrand_and_Aaron_Merrill[ ] --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
 class Hiram_Merrill_and_Lucy_Witherell marriage
 Hiram_Merrill(<a href=''>Hiram Merrill</>) --> Hiram_Merrill_and_Lucy_Witherell[ ]
 Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>) --> Hiram_Merrill_and_Lucy_Witherell(( ))
+class Hiram_Merrill father
+class Lucy_Witherell mother
+Hiram_Merrill_and_Lucy_Witherell[ ] --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</>)
+class James_Albee_Merrill_and_Anna_Serena_White marriage
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) --> James_Albee_Merrill_and_Anna_Serena_White[ ]
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</>) --> James_Albee_Merrill_and_Anna_Serena_White(( ))
+class James_Albee_Merrill father
+class Anna_Serena_White mother
+James_Albee_Merrill_and_Anna_Serena_White[ ] --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

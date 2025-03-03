@@ -29,11 +29,18 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Charles_R._Smith_Sr._and_Mona_Rush marriage
 Charles_R._Smith_Sr.(<a href=''>Charles R. Smith Sr.</>) --> Charles_R._Smith_Sr._and_Mona_Rush[ ]
 Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush</>) --> Charles_R._Smith_Sr._and_Mona_Rush(( ))
+class Charles_R._Smith_Sr. father
+class Mona_Rush mother
 Charles_R._Smith_Sr._and_Mona_Rush[ ] --> David_Hammond_Smith(<a href='./David_Hammond_Smith.html'>David Hammond Smith</>)
+class Charles_R._Smith_Sr. father
+class Mona_Rush mother
 Charles_R._Smith_Sr._and_Mona_Rush[ ] --> Richard_Smith(<a href='./Richard_Smith.html'>Richard Smith</>)
+class Charles_R._Smith_Sr. father
+class Mona_Rush mother
 Charles_R._Smith_Sr._and_Mona_Rush[ ] --> Frances_Smith(<a href='./Frances_Smith.html'>Frances Smith</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  

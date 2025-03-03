@@ -18,6 +18,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 Angeline_Ayers(<a href=''>Angeline Ayers</>) -->  Stephen_Ayres(<a href='./Stephen_Ayres.html'>Stephen Ayres</>)
 class Stephen_Ayres father
 classDef mother fill:#ffd1dc

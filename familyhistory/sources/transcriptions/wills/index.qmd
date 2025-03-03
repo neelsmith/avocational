@@ -8,6 +8,7 @@ engine: julia
 - [Cornelius Loflin will](./Cornelius_Loflin_will.html)
 - [Daniel Clyde Henderson will](./Daniel_Clyde_Henderson_will.html)
 - [Duncan Neel will](./Duncan_Neel_will.html)
+- [Henry Euliss will](./Henry_Euliss_will.html)
 - [Isaac Newton Gattis Sr. will](./Isaac_Newton_Gattis_Sr._will.html)
 - [Marmaduke Vickery will](./Marmaduke_Vickery_will.html)
 - [Moses Smith will](./Moses_Smith_will.html)

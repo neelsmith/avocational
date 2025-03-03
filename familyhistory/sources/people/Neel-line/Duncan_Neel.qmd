@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Duncan Neel
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Duncan Neel not identified as deceased.
+**Father**: [?]()

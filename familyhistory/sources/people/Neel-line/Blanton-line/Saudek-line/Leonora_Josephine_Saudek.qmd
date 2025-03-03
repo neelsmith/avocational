@@ -25,6 +25,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>) -->  Joseph_Saudek(<a href='./Joseph_Saudek.html'>Joseph Saudek</>)
 class Joseph_Saudek father
 Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>)  --> Nancy_Eliza_Northern(<a href='./Northern-line/Nancy_Eliza_Northern.html'>Nancy Eliza Northern</>)
@@ -41,13 +42,25 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Leonora_Josephine_Saudek_and_John_Owen_Blanton marriage
 Leonora_Josephine_Saudek(<a href=''>Leonora Josephine Saudek</>) --> Leonora_Josephine_Saudek_and_John_Owen_Blanton[ ]
 John_Owen_Blanton(<a href='./../John_Owen_Blanton.html'>John Owen Blanton</>) --> Leonora_Josephine_Saudek_and_John_Owen_Blanton(( ))
+class John_Owen_Blanton father
+class Leonora_Josephine_Saudek mother
 Leonora_Josephine_Saudek_and_John_Owen_Blanton[ ] --> Willie_Saudek_Blanton(<a href='./../Willie_Saudek_Blanton.html'>Willie Saudek Blanton</>)
 class Willie_Saudek_Blanton_and_Robert_Wilburn_Neel marriage
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ]
 Robert_Wilburn_Neel(<a href='./../Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel(( ))
+class Robert_Wilburn_Neel father
+class Willie_Saudek_Blanton mother
+Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ] --> Mary_Louise_Neel(<a href='./../Mary_Louise_Neel.html'>Mary Louise Neel</>)
+class Mary_Louise_Neel_and_Claud_Gattis marriage
+Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) --> Mary_Louise_Neel_and_Claud_Gattis[ ]
+Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> Mary_Louise_Neel_and_Claud_Gattis(( ))
+class Claud_Gattis father
+class Mary_Louise_Neel mother
+Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

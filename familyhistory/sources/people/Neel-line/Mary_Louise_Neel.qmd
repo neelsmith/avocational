@@ -25,6 +25,7 @@ Documented ancestors:
 
 ```{mermaid}
 graph RL
+%% RL ancestor diagram
 Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) -->  Robert_Wilburn_Neel(<a href='./Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>)
 Robert_Wilburn_Neel(<a href=''>Robert Wilburn Neel</>) -->  James_Marion_Neel(<a href='./James_Marion_Neel.html'>James Marion Neel</>)
 class James_Marion_Neel father
@@ -53,9 +54,12 @@ Documented descendants:
 
 ```{mermaid}
 graph LR
+%% LR descendant diagram
 class Mary_Louise_Neel_and_Claud_Gattis marriage
 Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) --> Mary_Louise_Neel_and_Claud_Gattis[ ]
 Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> Mary_Louise_Neel_and_Claud_Gattis(( ))
+class Claud_Gattis father
+class Mary_Louise_Neel mother
 Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -71,7 +75,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [Robert Wilburn Neel](./Robert_Wilburn_Neel.html) | [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html) | [Louise Neel Gattis obituary]() | direct |
+| [Robert Wilburn Neel](./Robert_Wilburn_Neel.html) | [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html) | [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html) | direct |
 
 Sources for children with [Claud Gattis](./../Gattis-line/Claud_Gattis.html)
 

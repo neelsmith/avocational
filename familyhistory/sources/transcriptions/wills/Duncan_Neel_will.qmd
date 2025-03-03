@@ -1,4 +1,4 @@
-refersto::[Duncan Neel](./../../people/Neel-line/Duncan_Neel.html)
+
 
 ## Citation
 
@@ -13,8 +13,48 @@ Notes: _Wills, Vol 1, 1836-1901_
 Ancestry.com. _Tennessee, U.S., Wills and Probate Records, 1779-2008_ . Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
 Original data:Tennessee County, District and Probate Courts
 
+## Transcription
+
+In the name of God Amen.
+
+I Duncan Neil of the County of Coffee and State of Tennesse being weak in body but of sound and perfect mind and memory, considering the uncertainty of this ?morta? and being of sound ? Blssed be almighty God for the same do make and publish this my last will and testament in ?? and form following that is to say
+
+Item 1st I give and bequeath my soul unto God who gave it.
+
+Item 2nd I give and bequeath unto my beloved wife Betty the issue of one hundred and fifty dollars with her bed and bedding.
+
+Item 3rd I do also give and bequeath unto my some James Neil the plantation where I now live on with all my lands on the south side of the Duck River running to John Carrolls spring Branch
+
+I also will and bequeath to my beloved wife Betsy her life estate on the land while she remains a widow or see cause to stay on the land tho ?? in that case the profets arising from the land ceases be hers and the profits arising from the land to go to my two yougest James Neil and Angelina Neil and they are to be educated on the profits arising therefrom
+
+I also will and bequeat unto Elizabeth Neil her life estate on the land where I now? live with wood and water -- and land for any cultivate she sees proper so long as she rmains single and sees proper to live on the land there and in that case her claim or Claims to cease on said land.
+
+And al lmy moveable property to be sold and the proceeds divided among the following heirs excepting my servant John who shall not be sold under six years after my decease but shall remain as a slave on the plantationa for the benefit of the family who resides there and then to be sold and to be desposed of as the balance of the property. --
+
+I do also make Elizabeth Neil my lawful heir to her part of the property -- this is to be sold, ?LeKeroisa? Thomas Neil Ellen Campoeso Alexander Neil Mary Oldfield Susan Hardaway Rachael Yell Angelina Neil al my lawful heirs as for William Neil and James Neil they have received their part excepting five dollars each
+
+I appoint my sone Alexander Neil administrator of this my last will and testament hereby resolving all former wills by me made
+
+In witness copies of I have hereunto set my hand and seal the 20th day of November 1840.
+
+Duncan Neil 
+
+Signed sealed and published here by the above named Duncan Neil to be his last will and testament in the presence of us who have hereunto subscribed our names as witnesses in the presenc of the testator
+
+Daniel Hardaway
+John Penn attests
+
 
 ## Notes
+
+refersto::[Duncan Neel](./../../people/Neel-line/Duncan_Neel.html)
+refersto::[Elizabeth Busby](./../../people/Neel-line/Elizabeth_Busby.html)
+refersto::[James Marion Neel](./../../people/Neel-line/James_Marion_Neel.html)
+refersto::[[Angelina Neil]]
+refersto::[Elizabeth Neil](./../../Elizabeth_Neil.html)
+refersto::[[Alexander Neil]]
+
+
 
 Name spelled "Duncan Neil." Dated 20th November 1840.
 Names the following:
@@ -26,3 +66,15 @@ Names the following:
 - hard paragraph to read names Thomas Neil, Ellen Campbell, Alexander Neil, Mary Oldfield, Nancy Oldfield, Susan Hardaway, Rachel Yell, Angeline Neil and James Neil
 - Alexander Neil is executor
 
+## Grown sons
+
+Thomas and Alexander
+### Grown daughters
+
+Seems that daughter Elizabeth is grown to adulthood and could manage the land but is single
+
+Ellen Campbell, Mary Oldfield, Nancy Oldfield , Susan Hardaway, and Rachel Yell may be married daughters
+
+## Young children
+
+Angeline and James are clearly the youngest
