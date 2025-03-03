@@ -4,9 +4,14 @@ engine: julia
 
 # Source material
 
-To navigate primary source documents:
+
+Source material automatically assembled from my notes in Obsidian:
+
+- [transcriptions](./transcriptions/) of **source documents**
+- cataloged [**images**](./images/)
+- information about **people** (grouped by [last name](./last-names/))
 
 
-- follow links from [blog posts](../../posts.qmd)
-- use the generic "search" ![search icon](./imgs/search-small.png)
-- see an index of people by [last name](./last-names/). (Individuals who used more than one last name appear in the index page for each name.)
+::: {.callout-note title="Work in progress"}
+- **places** with simple lon-lat locations
+:::
