@@ -18,3 +18,4 @@ engine: julia
 - [Louise Neel Gattis obituary](./Louise_Neel_Gattis_obituary.html)
 - [Moses Smith death in abstract of Columbian Centinel](./Moses_Smith_death_in_abstract_of_Columbian_Centinel.html)
 - [Sallie Rush obituary in Asheboro Courier](./Sallie_Rush_obituary_in_Asheboro_Courier.html)
+- [Shelley Lindner - John Henderson wedding plans](./Shelley_Lindner_-_John_Henderson_wedding_plans.html)

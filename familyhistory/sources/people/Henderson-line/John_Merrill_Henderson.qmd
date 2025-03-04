@@ -19,7 +19,100 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-
+John_Merrill_Henderson(<a href=''>John Merrill Henderson</>) -->  John_Dubois_Henderson(<a href='./John_Dubois_Henderson.html'>John Dubois Henderson</>)
+John_Dubois_Henderson(<a href=''>John Dubois Henderson</>) -->  John_Dryden_Henderson(<a href='./John_Dryden_Henderson.html'>John Dryden Henderson</>)
+John_Dryden_Henderson(<a href=''>John Dryden Henderson</>) -->  Nathaniel_S._Henderson(<a href='./Nathaniel_S._Henderson.html'>Nathaniel S. Henderson</>)
+Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</>) -->  Daniel_Clyde_Henderson(<a href='./Daniel_Clyde_Henderson.html'>Daniel Clyde Henderson</>)
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>) -->  Edward_Henderson(<a href='./Edward_Henderson.html'>Edward Henderson</>)
+class Edward_Henderson father
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>)  --> Mary_Mathis(<a href='./Mary_Mathis.html'>Mary Mathis</>)
+class Mary_Mathis mother
+class Daniel_Clyde_Henderson father
+Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</>)  --> Margaret_Carpenter(<a href='./Carpenter-line/Margaret_Carpenter.html'>Margaret Carpenter</>)
+class Margaret_Carpenter mother
+class Nathaniel_S._Henderson father
+John_Dryden_Henderson(<a href=''>John Dryden Henderson</>)  --> Angeline_Ayers(<a href='./Ayers-line/Angeline_Ayers.html'>Angeline Ayers</>)
+Angeline_Ayers(<a href=''>Angeline Ayers</>) -->  Stephen_Ayres(<a href='./Stephen_Ayres.html'>Stephen Ayres</>)
+Stephen_Ayres(<a href=''>Stephen Ayres</>) -->  Jabez_Ayers(<a href='./../../Jabez_Ayers.html'>Jabez Ayers</>)
+class Jabez_Ayers father
+Stephen_Ayres(<a href=''>Stephen Ayres</>)  --> Persis_Ayers(<a href='./../../Persis_Ayers.html'>Persis Ayers</>)
+class Persis_Ayers mother
+class Stephen_Ayres father
+Angeline_Ayers(<a href=''>Angeline Ayers</>)  --> Rocena_Snow(<a href='./Rocena_Snow.html'>Rocena Snow</>)
+class Rocena_Snow mother
+class Angeline_Ayers mother
+class John_Dryden_Henderson father
+John_Dubois_Henderson(<a href=''>John Dubois Henderson</>)  --> Frances_Dubois(<a href='./Dubois-line/Frances_Dubois.html'>Frances Dubois</>)
+Frances_Dubois(<a href=''>Frances Dubois</>) -->  David_Dubois(<a href='./David_Dubois.html'>David Dubois</>)
+class David_Dubois father
+Frances_Dubois(<a href=''>Frances Dubois</>)  --> Sarah_Tillinghast(<a href='./../Tillinghast-line/Sarah_Tillinghast.html'>Sarah Tillinghast</>)
+class Sarah_Tillinghast mother
+class Frances_Dubois mother
+class John_Dubois_Henderson father
+John_Merrill_Henderson(<a href=''>John Merrill Henderson</>)  --> Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill</>)
+Marguerite_Merrill(<a href=''>Marguerite Merrill</>) -->  James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</>)
+James_Albee_Merrill(<a href=''>James Albee Merrill</>) -->  Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</>)
+Hiram_Merrill(<a href=''>Hiram Merrill</>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</>)
+class Aaron_Merrill father
+Hiram_Merrill(<a href=''>Hiram Merrill</>)  --> Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand</>)
+Nancy_Farrand(<a href=''>Nancy Farrand</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</>)
+class Bethuel_Farrand father
+Nancy_Farrand(<a href=''>Nancy Farrand</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</>)
+class Rhoda_Smith mother
+class Nancy_Farrand mother
+class Hiram_Merrill father
+James_Albee_Merrill(<a href=''>James Albee Merrill</>)  --> Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</>)
+Lucy_Witherell(<a href=''>Lucy Witherell</>) -->  James_Witherell(<a href='./James_Witherell.html'>James Witherell</>)
+class James_Witherell father
+Lucy_Witherell(<a href=''>Lucy Witherell</>)  --> Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis</>)
+class Susan_Willis mother
+class Lucy_Witherell mother
+class James_Albee_Merrill father
+Marguerite_Merrill(<a href=''>Marguerite Merrill</>)  --> Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</>)
+Anna_Serena_White(<a href=''>Anna Serena White</>) -->  William_E._White(<a href='./William_E._White.html'>William E. White</>)
+William_E._White(<a href=''>William E. White</>) -->  Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</>)
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
+Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
+Moses_Smith(<a href=''>Moses Smith</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</>)
+class Ephraim_Smith father
+Moses_Smith(<a href=''>Moses Smith</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</>)
+class Hannah_Rice mother
+class Moses_Smith father
+Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
+Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
+class Zachia_Smith father
+Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
+class Susanah_Grout mother
+class Zachariah_Smith father
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>)
+class Lydia_Hastings_Smith mother
+class Lydia_Jepson_Smith mother
+class Candace_Smith mother
+class Horatio_Nelson_White father
+William_E._White(<a href=''>William E. White</>)  --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</>)
+Syrena_Adams(<a href=''>Syrena Adams</>) -->  Friend_Adams(<a href='./Friend_Adams.html'>Friend Adams</>)
+class Friend_Adams father
+Syrena_Adams(<a href=''>Syrena Adams</>)  --> Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg</>)
+Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah_Stagg(<a href='./Josiah_Stagg.html'>Josiah Stagg</>)
+class Josiah_Stagg father
+class Elizabeth_Stagg mother
+class Syrena_Adams mother
+class William_E._White father
+Anna_Serena_White(<a href=''>Anna Serena White</>)  --> Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey</>)
+Ellen_Grandey(<a href=''>Ellen Grandey</>) -->  Truman_Grandey(<a href='./Truman_Grandey.html'>Truman Grandey</>)
+class Truman_Grandey father
+Ellen_Grandey(<a href=''>Ellen Grandey</>)  --> Polly_Myrick(<a href='./../White-line/Grandey/Polly_Myrick.html'>Polly Myrick</>)
+class Polly_Myrick mother
+class Ellen_Grandey mother
+class Anna_Serena_White mother
+class Marguerite_Merrill mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -34,15 +127,18 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
+| 1928 |  | [John M. Henderson tombstone](./../../transcriptions/tombstones/John_M._Henderson_tombstone.html) | direct |
 
 Sources for death:
 
 
 | Date | Source | Type |
 | --- | --- | --- |
+| 2020 | [John M. Henderson tombstone](./../../transcriptions/tombstones/John_M._Henderson_tombstone.html) | direct |
 
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [John Dubois Henderson](./John_Dubois_Henderson.html) | [Marguerite Merrill](./../Merrill-line/Marguerite_Merrill.html) | [Shelley Lindner - John Henderson wedding plans](./../../transcriptions/newspapers/Shelley_Lindner_-_John_Henderson_wedding_plans.html) | direct |

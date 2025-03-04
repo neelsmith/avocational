@@ -14,6 +14,13 @@ engine: julia
 
 **Father**: [Edward Henderson](./Edward_Henderson.html)
 
+**Children with [Margaret Carpenter](./Carpenter-line/Margaret_Carpenter.html)**:
+
+
+- [Nathaniel S. Henderson](./Nathaniel_S._Henderson.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
@@ -23,6 +30,43 @@ Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>) -->  Edward_Henders
 class Edward_Henderson father
 Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>)  --> Mary_Mathis(<a href='./Mary_Mathis.html'>Mary Mathis</>)
 class Mary_Mathis mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Daniel_Clyde_Henderson_and_Margaret_Carpenter marriage
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>) --> Daniel_Clyde_Henderson_and_Margaret_Carpenter[ ]
+Margaret_Carpenter(<a href='./Carpenter-line/Margaret_Carpenter.html'>Margaret Carpenter</>) --> Daniel_Clyde_Henderson_and_Margaret_Carpenter(( ))
+class Daniel_Clyde_Henderson father
+class Margaret_Carpenter mother
+Daniel_Clyde_Henderson_and_Margaret_Carpenter[ ] --> Nathaniel_S._Henderson(<a href='./Nathaniel_S._Henderson.html'>Nathaniel S. Henderson</>)
+class Nathaniel_S._Henderson_and_Angeline_Ayers marriage
+Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</>) --> Nathaniel_S._Henderson_and_Angeline_Ayers[ ]
+Angeline_Ayers(<a href='./Ayers-line/Angeline_Ayers.html'>Angeline Ayers</>) --> Nathaniel_S._Henderson_and_Angeline_Ayers(( ))
+class Nathaniel_S._Henderson father
+class Angeline_Ayers mother
+Nathaniel_S._Henderson_and_Angeline_Ayers[ ] --> John_Dryden_Henderson(<a href='./John_Dryden_Henderson.html'>John Dryden Henderson</>)
+class John_Dryden_Henderson_and_Frances_Dubois marriage
+John_Dryden_Henderson(<a href=''>John Dryden Henderson</>) --> John_Dryden_Henderson_and_Frances_Dubois[ ]
+Frances_Dubois(<a href='./Dubois-line/Frances_Dubois.html'>Frances Dubois</>) --> John_Dryden_Henderson_and_Frances_Dubois(( ))
+class John_Dryden_Henderson father
+class Frances_Dubois mother
+John_Dryden_Henderson_and_Frances_Dubois[ ] --> John_Dubois_Henderson(<a href='./John_Dubois_Henderson.html'>John Dubois Henderson</>)
+class John_Dubois_Henderson_and_Marguerite_Merrill marriage
+John_Dubois_Henderson(<a href=''>John Dubois Henderson</>) --> John_Dubois_Henderson_and_Marguerite_Merrill[ ]
+Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill</>) --> John_Dubois_Henderson_and_Marguerite_Merrill(( ))
+class John_Dubois_Henderson father
+class Marguerite_Merrill mother
+John_Dubois_Henderson_and_Marguerite_Merrill[ ] --> John_Merrill_Henderson(<a href='./John_Merrill_Henderson.html'>John Merrill Henderson</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -45,3 +89,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Edward Henderson](./Edward_Henderson.html) | [Mary Mathis](./Mary_Mathis.html) | [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html) | direct |
+
+Sources for children with [Margaret Carpenter](./Carpenter-line/Margaret_Carpenter.html)
+
+
+- [Daniel Clyde Henderson will](./../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)
+
+

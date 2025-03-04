@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Johnson
+
+- [Franklin L. Johnson](./../people/Randolph_county_lines/Franklin_L._Johnson.html)
+- [Juliette Henderson](./../people/Henderson-line/Juliette_Henderson.html)
+- [Martha Matilda Rush](./../people/Rush-line/Martha_Matilda_Rush.html)

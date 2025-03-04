@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Daniel C. Henderson
+
+
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()

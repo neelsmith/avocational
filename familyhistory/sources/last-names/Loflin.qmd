@@ -5,6 +5,6 @@ engine: julia
 # Loflin
 
 - [Cornelius Loflin](./../people/Randolph_county_lines/Loflin/Cornelius_Loflin.html)
-- [Harris A. Loflin](./../people/Randolph_county_lines/Loflin/Harris_A._Loflin.html)
+- [Harris Asbury Loflin](./../people/Randolph_county_lines/Loflin/Harris_Asbury_Loflin.html)
 - [Martha Patsy Wood](./../people/Randolph_county_lines/Martha_Patsy_Wood.html)
 - [Sarah Loflin](./../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)

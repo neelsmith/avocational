@@ -1,16 +1,79 @@
-refersto::[[people/Rush-line/Cornelius Loflin]]
 
-## Citation
+## Source
 
-Wills, 1663-1978; Estate Papers, 1781-1928 (Randolph County); Author: North Carolina. Division of Archives and History
+#### Source Citation
 
-###### Description
+_Wills, 1663-1978; Estate Papers, 1781-1928 (Randolph County)_; Author: _North Carolina. Division of Archives and History_
 
-Notes: _Original Wills, Hinshaw, Rebecca - Stout, Joseph_
+#### Source Information
+
+Ancestry.com. _North Carolina, U.S., Wills and Probate Records, 1665-1998_[database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2015.
+
+Original data: North Carolina County, District and Probate Courts.
+## Transcription
+
+In the Name of God Amen I Cornelius Loflin of the State of North Carolina Randolph County Being in a low State of Bodily Health But of Sound mind and Disposing Memory Blessed be God Do this Twenty Third day of October in the year of our Lord one Thousand Eight Hundred and Thirty Eight Make and puiblish this my last Will and Testament that is to say
+
+first, I give and bequet to my son Kindred
+
+the horse that he now Claimes with Sadle and bridle and one Feather Bed and Furniture
+
+I Give and Bequeath to my Son Eleazer
+
+one Cott that he now clames, Sadle and Bridle
+
+one Bed and Furniture
+
+Thirdly I give unto my Beloved Wife Martha
+
+All the rest of my personal property Except such things as the Family Can Best Share Sufficient to pay all my Just Debts Also all my Lands During the Natural life or widowhood To raise the Children uppon and that She when my Daughter Sarah Comes of age to receive in good property or Money to the Amount of Eighty Dollars & to my Daughter Mirium the Same to wit Eighty Dollars
+
+and to my Son Burrel Eighty Dollars in some good property or Money
+
+and to my Daughter Ceily Ann - Eighty Dollars
+
+and to my Son William Milton Eighty Dollars
+
+and to my Son Harris Eighty Dollars
+
+And if she should live and remain a widow when the Children becomes of Age she must have her Support on the Land and when the Children all Come of age to be in Some way Equally Divided Between all my Children provided the youngest should all get what is allotted them but in Case the personal property Should fail them they must be made up Equal out of the Land 
+
+Lastly I appoint my Beloved Wife Martha and my Friend Isaac Heeran Executrix and Executors to this my last Will and Testament they day and date Above Writen In Witness Whereof I have here unto Set my hand and Seal 
+
+Cornelius X Loflin
+his mark
+
+
+Witness
+
+Peter Dicks
+
+Elazar Loflin
+
+Timothy X Griffin
+
+his mark
+
+
+
 
 ## Notes
 
-In addition to his wife Marth, the following children are named:
+refersto::[Cornelius Loflin](./../../people/Randolph_county_lines/Loflin/Cornelius_Loflin.html)
+refersto::[Martha Patsy Wood](./../../people/Randolph_county_lines/Martha_Patsy_Wood.html)
+refersto::[[Kindred Loflin]]
+refersto::[[Eleazar Loflin]]
+refersto::[[Mirium Loflin]]
+refersto::[[Burrel Loflin]]
+refersto::[[Ceily Ann Loflin]]
+refersto::[[WIlliam Milton Loflin]]
+refersto::[Harris Asbury Loflin](./../../people/Randolph_county_lines/Loflin/Harris_Asbury_Loflin.html)
+
+
+
+
+
+In addition to his wife Martha, the following children are named:
 
 - son Kindred
 - son Eleazer

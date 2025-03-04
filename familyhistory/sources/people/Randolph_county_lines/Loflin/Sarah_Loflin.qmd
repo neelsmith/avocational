@@ -31,7 +31,10 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+class Cornelius_Loflin father
+Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
+class Martha_Patsy_Wood mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -101,6 +104,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
+| [Cornelius Loflin](./Cornelius_Loflin.html) | [Martha Patsy Wood](./../Martha_Patsy_Wood.html) | [Cornelius Loflin will](./../../../transcriptions/wills/Cornelius_Loflin_will.html) | direct |
 
 Sources for children with [Noah Rush](./../../Rush-line/Noah_Rush.html)
 

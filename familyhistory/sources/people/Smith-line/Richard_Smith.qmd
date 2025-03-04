@@ -30,6 +30,10 @@ Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_co
 class Frances_Fuller mother
 class Noah_Rush father
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+class Cornelius_Loflin father
+Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
+class Martha_Patsy_Wood mother
 class Sarah_Loflin mother
 class Calvin_Harris_Rush father
 Mona_Rush(<a href=''>Mona Rush</>)  --> Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>)

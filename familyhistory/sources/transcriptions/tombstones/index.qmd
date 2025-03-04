@@ -14,6 +14,7 @@ engine: julia
 - [Isaac Newton Gattis tombstone](./Isaac_Newton_Gattis_tombstone.html)
 - [J.O. Blanton tombstone](./J.O._Blanton_tombstone.html)
 - [James A. Merrill tombstone](./James_A._Merrill_tombstone.html)
+- [John M. Henderson tombstone](./John_M._Henderson_tombstone.html)
 - [Julia B. Euless tombstone](./Julia_B._Euless_tombstone.html)
 - [Julia Euless tombstone](./Julia_Euless_tombstone.html)
 - [Leonora Saudek Blanton tombstone](./Leonora_Saudek_Blanton_tombstone.html)

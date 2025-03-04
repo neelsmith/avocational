@@ -20,6 +20,10 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Zebedee_Franklin_Rush(<a href=''>Zebedee Franklin Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+class Cornelius_Loflin father
+Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
+class Martha_Patsy_Wood mother
 class Sarah_Loflin mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  

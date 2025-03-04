@@ -14,6 +14,50 @@ engine: julia
 
 **Father**: [?]()
 
+**Children with [Stephen Ayres](./Stephen_Ayres.html)**:
+
+
+- [Angeline Ayers](./Angeline_Ayers.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Rocena_Snow_and_Stephen_Ayres marriage
+Rocena_Snow(<a href=''>Rocena Snow</>) --> Rocena_Snow_and_Stephen_Ayres[ ]
+Stephen_Ayres(<a href='./Stephen_Ayres.html'>Stephen Ayres</>) --> Rocena_Snow_and_Stephen_Ayres(( ))
+class Stephen_Ayres father
+class Rocena_Snow mother
+Rocena_Snow_and_Stephen_Ayres[ ] --> Angeline_Ayers(<a href='./Angeline_Ayers.html'>Angeline Ayers</>)
+class Angeline_Ayers_and_Nathaniel_S._Henderson marriage
+Angeline_Ayers(<a href=''>Angeline Ayers</>) --> Angeline_Ayers_and_Nathaniel_S._Henderson[ ]
+Nathaniel_S._Henderson(<a href='./../Nathaniel_S._Henderson.html'>Nathaniel S. Henderson</>) --> Angeline_Ayers_and_Nathaniel_S._Henderson(( ))
+class Nathaniel_S._Henderson father
+class Angeline_Ayers mother
+Angeline_Ayers_and_Nathaniel_S._Henderson[ ] --> John_Dryden_Henderson(<a href='./../John_Dryden_Henderson.html'>John Dryden Henderson</>)
+class John_Dryden_Henderson_and_Frances_Dubois marriage
+John_Dryden_Henderson(<a href=''>John Dryden Henderson</>) --> John_Dryden_Henderson_and_Frances_Dubois[ ]
+Frances_Dubois(<a href='./Dubois-line/Frances_Dubois.html'>Frances Dubois</>) --> John_Dryden_Henderson_and_Frances_Dubois(( ))
+class John_Dryden_Henderson father
+class Frances_Dubois mother
+John_Dryden_Henderson_and_Frances_Dubois[ ] --> John_Dubois_Henderson(<a href='./John_Dubois_Henderson.html'>John Dubois Henderson</>)
+class John_Dubois_Henderson_and_Marguerite_Merrill marriage
+John_Dubois_Henderson(<a href=''>John Dubois Henderson</>) --> John_Dubois_Henderson_and_Marguerite_Merrill[ ]
+Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill</>) --> John_Dubois_Henderson_and_Marguerite_Merrill(( ))
+class John_Dubois_Henderson father
+class Marguerite_Merrill mother
+John_Dubois_Henderson_and_Marguerite_Merrill[ ] --> John_Merrill_Henderson(<a href='./John_Merrill_Henderson.html'>John Merrill Henderson</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
 ## Sources
 Sources for birth:
 
@@ -28,3 +72,10 @@ Sources for death:
 | Date | Source | Type |
 | --- | --- | --- |
 | 1853-02-21 | [Rocena Snow tombstone](./../../../transcriptions/tombstones/Rocena_Snow_tombstone.html) | direct |
+
+Sources for children with [Stephen Ayres](./Stephen_Ayres.html)
+
+
+- [Rocena Snow tombstone](./../../../transcriptions/tombstones/Rocena_Snow_tombstone.html)
+
+

@@ -9,6 +9,7 @@ engine: julia
 - [Hanna Stafford](./../people/Henderson-line/Tillinghast-line/Hanna_Stafford.html)
 - [Honor Hopkins](./../people/Henderson-line/Tillinghast-line/Honor_Hopkins.html)
 - [John Tillinghast](./../people/Henderson-line/Tillinghast-line/John_Tillinghast.html)
+- [Mary Ann Henderson](./../Mary_Ann_Henderson.html)
 - [Mary Keech](./../people/Henderson-line/Tillinghast-line/Mary_Keech.html)
 - [Pardon "Molasses" Tillinghast](./../people/Henderson-line/Tillinghast-line/Pardon_"Molasses"_Tillinghast.html)
 - [Pardon Tillinghast](./../people/Henderson-line/Tillinghast-line/Pardon_Tillinghast.html)
