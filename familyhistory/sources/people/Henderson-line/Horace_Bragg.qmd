@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Horace Bragg
+
+
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()

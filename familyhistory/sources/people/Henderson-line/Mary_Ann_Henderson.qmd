@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Mary Ann Henderson
+
+
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()

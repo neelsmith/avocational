@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Penuel Wood
+
+
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()

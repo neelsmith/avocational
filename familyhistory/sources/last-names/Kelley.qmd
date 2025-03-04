@@ -4,4 +4,4 @@ engine: julia
 
 # Kelley
 
-- [Margaret Henderson](./../Margaret_Henderson.html)
+- [Margaret Henderson](./../people/Henderson-line/Margaret_Henderson.html)

@@ -70,7 +70,7 @@ refersto::[Nathaniel S. Henderson](./../../people/Henderson-line/Nathaniel_S._He
 
 Youngest daughter: 
 
-refersto::[Sarah Henderson](./../../Sarah_Henderson.html)
+refersto::[Sarah Henderson](./../../people/Henderson-line/Sarah_Henderson.html)
 
 
 Deceased son:
@@ -79,7 +79,7 @@ refersto::[Hugh Henderson](./../../people/Henderson-line/Hugh_Henderson.html)
 
 Hugh's children:
 
-refersto::[Margaret Henderson](./../../Margaret_Henderson.html)
+refersto::[Margaret Henderson](./../../people/Henderson-line/Margaret_Henderson.html)
 refersto::[Daniel C. Henderson](./../../people/Henderson-line/Daniel_C._Henderson.html)
 refersto::[John D. Henderson](./../../people/Henderson-line/John_D._Henderson.html)
 refersto::[James E. Henderson](./../../people/Henderson-line/James_E._Henderson.html)
@@ -87,9 +87,9 @@ refersto::[James E. Henderson](./../../people/Henderson-line/James_E._Henderson.
 
 Daniel C.'s three daugthers:
 
-refersto::[Mary Ann Henderson](./../../Mary_Ann_Henderson.html)
+refersto::[Mary Ann Henderson](./../../people/Henderson-line/Mary_Ann_Henderson.html)
 refersto::[Juliette Henderson](./../../people/Henderson-line/Juliette_Henderson.html)
 
 Grandson of Daniel C:
 
-refersto::[Horace Bragg](./../../Horace_Bragg.html)
+refersto::[Horace Bragg](./../../people/Henderson-line/Horace_Bragg.html)

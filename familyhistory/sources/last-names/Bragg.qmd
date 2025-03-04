@@ -4,5 +4,5 @@ engine: julia
 
 # Bragg
 
-- [Horace Bragg](./../Horace_Bragg.html)
-- [Sarah Henderson](./../Sarah_Henderson.html)
+- [Horace Bragg](./../people/Henderson-line/Horace_Bragg.html)
+- [Sarah Henderson](./../people/Henderson-line/Sarah_Henderson.html)
