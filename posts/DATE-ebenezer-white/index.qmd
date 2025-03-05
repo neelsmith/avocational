@@ -18,3 +18,27 @@ draft: true
 - Letters in AAS
 - he is patriarch if that's the right term
 - 
+
+
+```{mermaid}
+graph TD
+
+Ebenezer["Ebenezer White<br/>1779-1843"] --> m1(("m. 1802"))
+Candace["Candace Smith<br/>1783-1850"] --> m1
+
+m1 --> Horatio["Horatio Nelson White<br/>1802-1886"]
+
+
+m1 --> Adaline["Adaline White<br/>1806-1890"]
+
+m1 --> Artemas["Artemas White<br/>1810-1888"]
+
+
+m1 --> HG["Henry George White<br/>1814-1902"]
+
+m1 --> Hiram["Hiram Smith White<br/>1817-1893"]
+
+
+classDef marriage font-style: italic
+class m1 marriage
+```
