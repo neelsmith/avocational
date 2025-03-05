@@ -3,9 +3,46 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Susan D. Winslow
 
 
+*born* ? : *died* ?
+
+**Mother**: [?]()
+
+**Father**: [?]()
+
+**Children with [Henry George White](./Henry_George_White.html)**:
 
 
-Private information: Susan D. Winslow not identified as deceased.
+- [Eugene R. White](./Eugene_R._White.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Susan_D._Winslow_and_Henry_George_White marriage
+Susan_D._Winslow(<a href=''>Susan D. Winslow</>) --> Susan_D._Winslow_and_Henry_George_White[ ]
+Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</>) --> Susan_D._Winslow_and_Henry_George_White(( ))
+class Henry_George_White father
+class Susan_D._Winslow mother
+Susan_D._Winslow_and_Henry_George_White[ ] --> Eugene_R._White(<a href='./Eugene_R._White.html'>Eugene R. White</>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+Sources for children with [Henry George White](./Henry_George_White.html)
+
+
+- [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)
+
+

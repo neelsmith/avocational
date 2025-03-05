@@ -27,5 +27,6 @@ engine: julia
 - [Robert Neel tombstone](./Robert_Neel_tombstone.html)
 - [Rocena Snow tombstone](./Rocena_Snow_tombstone.html)
 - [Sarah Jane Barton tombstone](./Sarah_Jane_Barton_tombstone.html)
+- [Susan Prince tombstone](./Susan_Prince_tombstone.html)
 - [Thomas A. Gattis tombstone](./Thomas_A._Gattis_tombstone.html)
 - [William J. Hix tombstone](./William_J._Hix_tombstone.html)

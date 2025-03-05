@@ -3,9 +3,38 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Charles H. White
 
 
+*born* ? : *died* ?
+
+**Mother**: [Ann Quayle](./Ann_Quayle.html)
+
+**Father**: [Henry George White](./Henry_George_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph RL
+%% RL ancestor diagram
+Charles_H._White(<a href=''>Charles H. White</>) -->  Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</>)
+class Henry_George_White father
+Charles_H._White(<a href=''>Charles H. White</>)  --> Ann_Quayle(<a href='./Ann_Quayle.html'>Ann Quayle</>)
+class Ann_Quayle mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
 
 
-Private information: Charles H. White not identified as deceased.
+
+## Sources
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Henry George White](./Henry_George_White.html) | [Ann Quayle](./Ann_Quayle.html) | [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html) | direct |
