@@ -1,4 +1,5 @@
-refersto::[[people/Gattis-line/Green-line/Harris-line/James Harris]]
+refersto::[James Harris](./../../people/Gattis-line/James_Harris.html)
+
 
 ## Notes
 

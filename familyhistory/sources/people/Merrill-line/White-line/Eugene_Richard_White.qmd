@@ -22,6 +22,12 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Eugene_Richard_White(<a href=''>Eugene Richard White</>) -->  Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</>)
+Henry_George_White(<a href=''>Henry George White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
+Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+class Ruth_Wilson mother
+class Ebenezer_White father
 class Henry_George_White father
 Eugene_Richard_White(<a href=''>Eugene Richard White</>)  --> Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow</>)
 class Susan_D._Winslow mother

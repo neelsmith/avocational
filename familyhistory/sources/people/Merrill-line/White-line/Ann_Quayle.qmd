@@ -19,7 +19,7 @@ engine: julia
 
 - [Charles H. White](./Charles_H._White.html)
 
-- [George W. White](./George_W._White.html)
+- [George William White](./George_William_White.html)
 
 - [James Herbert White](./James_Herbert_White.html)
 
@@ -38,7 +38,7 @@ class Ann_Quayle mother
 Ann_Quayle_and_Henry_George_White[ ] --> Charles_H._White(<a href='./Charles_H._White.html'>Charles H. White</>)
 class Henry_George_White father
 class Ann_Quayle mother
-Ann_Quayle_and_Henry_George_White[ ] --> George_W._White(<a href='./George_W._White.html'>George W. White</>)
+Ann_Quayle_and_Henry_George_White[ ] --> George_William_White(<a href='./George_William_White.html'>George William White</>)
 class Henry_George_White father
 class Ann_Quayle mother
 Ann_Quayle_and_Henry_George_White[ ] --> James_Herbert_White(<a href='./James_Herbert_White.html'>James Herbert White</>)

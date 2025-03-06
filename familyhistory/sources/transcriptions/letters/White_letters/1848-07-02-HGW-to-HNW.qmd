@@ -6,7 +6,7 @@
 refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
 refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
-refersto::[[George William White]]
+refersto::[George William White](./../../../people/Merrill-line/White-line/George_William_White.html)
 refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
 refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
 refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
