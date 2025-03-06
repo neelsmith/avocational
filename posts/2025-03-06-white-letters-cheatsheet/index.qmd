@@ -21,20 +21,10 @@ I'm about halfway through initial transcriptions of the [White letters](https://
 I've put together this summary chart to help me or anyone else who dips into the letters. It is (intentionally) *not* a complete family tree: it shows the family relations only of names I have found in the letters, all of which fall between 1842 and 1860. Other family members (whether previously deceased, not yet born or married into the family, or simply not mentioned in the letters) do not appear here.
 
 
-The links on each name lead to automatically generated pages. These pages list source material I have transcribed (including material outside the White letters) and indexed to the individual, and summarize conclusions about the chronology and family relations of the individual that can be based on the transcribed sources.
-
-
-
-
-### Key
+**Color key**:
 
 - orange background: recipients of letters
 - yellow background: senders of letters
-
-[`DIY history`](../../posts.qmd#category=DIY%20history) tag
-
-
-posts.html#category=DIY%20history
 
 
 
@@ -108,3 +98,20 @@ class Horatio,Frederick recipient
 classDef sender fill: lightyellow
 class Artemas,HG,Ebenezer,Hiram sender
 ```
+
+
+
+
+## Linked information
+
+The links on each name lead to automatically generated pages. These pages list source material I have transcribed (including material outside the White letters) and indexed to the individual, and summarize conclusions about the chronology and family relations of the individual that can be based on the transcribed sources. Transcribing and indexing each source is slow work, but it means that automated summaries for each person cannot present conclusions without some underlying documentary evidence. As I continue to work on documenting the individuals listed here, I hope that the automated aggregation of source material will be increasingly useful to readers of the White letters or others interested in topics of family or local history involving members of the White family.
+
+
+
+## Follow the project's progress
+
+I'm using the tag `White letters` as I post new content about the White family letters project. You can either look for the tag on [the list of posts](../../posts.qmd), or follow a direct link to [`White letters`](../../posts.qmd#category=White%20letters).
+
+If you're interested in how I manage the information to generate this web site, I'll use the tag [`DIY history`](../../posts.qmd#category=DIY%20history) for posts on that topic.
+
+
