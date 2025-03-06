@@ -12,43 +12,40 @@ image: white-tree.png
 draft: false
 ---
 
+I'm about halfway through initial transcriptions of the [White letters](https://neelsmith.quarto.pub/personal/familyhistory/whiteletters/), and so far have encountered references to twenty-four different members of the White family spread across three generations. Nicknames, preference for middle or first names and accompanying free variation in the order of names, and generosity in honoring other family members with repeated names can make these difficult to keep straight. James Herbert White appears in census records as "James H." but can be "Bertie" in letters. I have not seen any instance of Candace Myra White's full name: she can be Candace M., Myra C., or just Myra (or Mira).  Hirams, Georges and Henrys all proliferate across many generations of the White family.
 
-The [White letters](https://neelsmith.quarto.pub/personal/familyhistory/whiteletters/) refer to three generations of family members. 
+I've put together this summary chart to help me or anyone else who dips into the letters. It is (intentionally) *not* a complete family tree: it shows the family relations only of names I have found in the letters, all of which fall between 1842 and 1860. Other children and later marriages 
 
-Add for Horatio and Syrena:
+### LINKS
 
-- Friend Adams White
-- Frances E. White
-- William E. White
-- George A. White
-- Candace White
 
-Add for Artemas and Lydia
 
-- Mary Ella White
-- Candace M. White
-- Frederick D. White
-- Hiram White
+
+Key:
+
+- orange background: recipients of letters
+- yellow background: senders of letters
+
 
 
 
 ```{mermaid}
 
-graph TD
+graph LR
 
 Ebenezer(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Ebenezer_White.html'>Ebenezer White</a><br/>1779-1843"]) --> m1{{"m. 1802"}}
 Candace(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html'>Candace Smith</a><br/>1783-1850"]) --> m1
 
-Syrena(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Syrena_Adams.html'>Syrena Adams</a><br/>1808-1876"]) --> m2((" "))
+Syrena(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Syrena_Adams.html'>Syrena Adams</a><br/>1808-1876"]) --> m2{{" "}}
 m1 --> Horatio(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Horatio_Nelson_White.html'>Horatio Nelson White</a><br/>1802-1886"])
 Horatio --> m2
 
 
-m2 --> Friend(["Friend Adams White"])
-m2 --> FrancesE(["Frances E. White"])
-m2 --> WilliamE(["William E. White"])
-m2 --> GeorgeA(["George A. White"])
-m2 --> CandaceWhite(["Candace White"])
+m2 --> Friend(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Friend_Adams_White.html'>Friend Adams White</a><br/>1833-1895"])
+m2 --> FrancesE(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Frances_E._White.html'>Frances E. White</a><br/>1834-1911"])
+m2 --> WilliamE(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/William_E._White.html'>William E. White</a><br/>1837-1902"])
+m2 --> GeorgeA(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Henry_George_White_2.html'>Henry George White</a><br/>1838-1862"])
+m2 --> CandaceWhite(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Candace_White.html'>Candace White</a><br/>1842-1930"])
 
 
 
@@ -60,15 +57,15 @@ m1 --> Adaline(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/so
 
 m1 --> Artemas(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Artemas_White.html'>Artemas White</a><br/>1810-1888"])
 
-Lydia(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Adaline_White.html'>Lydia Brumley</a><br/>1811-1882"]) --> m3((" "))
+Lydia(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Adaline_White.html'>Lydia Brumley</a><br/>1811-1882"]) --> m3{{" "}}
 Artemas --> m3
 
 
 
-m3 --> MaryElla(["Mary Ella White"])
-m3 --> CandaceM(["Candace M. White"])
-m3 --> Frederick(["Frederick D. White"])
-m3 --> HiramWhite(["Hiram White"])
+m3 --> MaryElla(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Mary_Ella_White.html'>Mary Ella White</a><br/>1834 - ?"])
+m3 --> CandaceM(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Candace_Myra_White.html'>Candace Myra White</a><br/>1845 - ?"])
+m3 --> Frederick(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Frederick_D._White.html'>Frederick D. White</a><br/>1851-1938"])
+m3 --> HiramWhite(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Hiram_White.html'>Hiram White</a><br/>d. 1851"])
 
 
 AnnQ(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Ann_Quayle.html'>Ann Quayle</a><br/> - 1860"]) --> m4{{"m. 1840"}}
@@ -84,15 +81,21 @@ m4 --> JamesH(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sou
 m1 --> Hiram(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Hiram_Smith_White.html'>Hiram Smith White</a><br/>1817-1893"])
 
 
-Hiram --> m5(" ")
-Cynthia(["Cynthia Sawyer<br/>1820-1889"]) --> m5
+Hiram --> m5{{" "}}
+Cynthia(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Cynthia_Sawyer.html'>Cynthia Sawyer</a><br/>1820-1889"]) --> m5
 
 
 
-m5 --> HenryS(["Henry Sawyer White<br/>1841-1917"])
+m5 --> HenryS(["<a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Henry_Sawyer_White.html'>Henry Sawyer White</a><br/>1841-1917"])
 
 
 
 classDef marriage font-style: italic
 class m1,m2,m3,m4,m5 marriage
+
+classDef recipient fill: #FFDBBB
+class Horatio,Frederick recipient
+
+classDef sender fill: lightyellow
+class Artemas,HG,Ebenezer,Hiram sender
 ```
