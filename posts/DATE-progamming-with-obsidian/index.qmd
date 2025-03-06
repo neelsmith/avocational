@@ -5,7 +5,7 @@ description: "Two Julia packages make it easy to validate and publish my genealo
 author:
   - name: Neel Smith
 date: 2025-03-08
-categories: [DIY history, Obsidian] # self-defined categories
+categories: [DIY history, Obsidian, Julia] # self-defined categories
 citation: 
   url: https://neelsmith.quarto.pub/posts/DATE-genealogy-with-obsidian/ 
 image: 
