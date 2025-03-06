@@ -68,7 +68,7 @@ refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Sm
 refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
 refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[George W. White](./../../../people/Merrill-line/White-line/George_W._White.html)
+refersto::[[George William White]]
 refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
 
 

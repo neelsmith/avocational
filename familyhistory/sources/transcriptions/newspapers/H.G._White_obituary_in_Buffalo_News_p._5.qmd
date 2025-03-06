@@ -28,7 +28,7 @@ The funeral will take place from the family residence at 3 o'clock tomorrow afte
 
 refersto::[Henry George White](./../../people/Merrill-line/White-line/Henry_George_White.html)
 refersto::[Ann Quayle](./../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[George W. White](./../../people/Merrill-line/White-line/George_W._White.html)
+refersto::[[George William White]]
 refersto::[Charles H. White](./../../people/Merrill-line/White-line/Charles_H._White.html)
 refersto::[James Herbert White](./../../people/Merrill-line/White-line/James_Herbert_White.html)
 refersto::[Susan Prince](./../../people/Merrill-line/White-line/Susan_Prince.html)
