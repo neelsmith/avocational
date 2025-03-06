@@ -24,7 +24,7 @@ I've put together this summary chart to help me or anyone else who dips into the
 **Color key**:
 
 - orange background: recipients of letters
-- yellow background: senders of letters
+- yellow background: writers of letters
 
 
 
@@ -104,7 +104,7 @@ class Artemas,HG,Ebenezer,Hiram sender
 
 ## Linked information
 
-The links on each name lead to automatically generated pages. These pages list source material I have transcribed (including material outside the White letters) and indexed to the individual, and summarize conclusions about the chronology and family relations of the individual that can be based on the transcribed sources. Transcribing and indexing each source is slow work, but it means that automated summaries for each person cannot present conclusions without some underlying documentary evidence. As I continue to work on documenting the individuals listed here, I hope that the automated aggregation of source material will be increasingly useful to readers of the White letters or others interested in topics of family or local history involving members of the White family.
+The links on each name lead to automatically generated pages. These pages list source material that I have both transcribed (including material outside the White letters) and indexed to the individual, and summarize conclusions about the chronology and family relations of the individual that can be derived from the transcribed sources. Transcribing and indexing each source is slow work, but it means that automated summaries for each person cannot present conclusions without some underlying documentary evidence. As I continue to work on documenting the individuals listed here, I hope that the automated aggregation of source material will be increasingly useful to readers of the White letters or others interested in topics of family or local history involving members of the White family.
 
 
 

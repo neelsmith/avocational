@@ -1,0 +1,16 @@
+---
+title: "Reading an Obsidian vault with code"
+engine: julia
+description: "Two Julia packages make it easy to validate and publish my genealogical data sets."
+author:
+  - name: Neel Smith
+date: 2025-03-08
+categories: [DIY history, Obsidian] # self-defined categories
+citation: 
+  url: https://neelsmith.quarto.pub/posts/DATE-genealogy-with-obsidian/ 
+image: 
+draft: true
+---
+
+- Published package for Obsidian vaults generally:
+- Unpublished package built on it and tailored to the idiosyncracies of my genealogical note taking

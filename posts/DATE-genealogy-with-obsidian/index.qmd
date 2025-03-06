@@ -1,0 +1,32 @@
+---
+title: "Taking genealogical notes with Obsidian"
+engine: julia
+description: "Obsidian is where I'm doing it!"
+author:
+  - name: Neel Smith
+date: 2025-03-08
+categories: [DIY history, Obsidian] # self-defined categories
+citation: 
+  url: https://neelsmith.quarto.pub/posts/DATE-genealogy-with-obsidian/ 
+image: 
+draft: true
+---
+
+
+- use many sources like ancestry.com to identify source material
+- do the work in Obsidian
+
+Obsidian contents:
+
+- transcriptions (many kinds)
+- working pages on individuals
+- images
+
+Navigational aid:
+
+last-names directory
+
+Indexing and tagging:
+
+- cataloged-claims
+- tagging conclusions
