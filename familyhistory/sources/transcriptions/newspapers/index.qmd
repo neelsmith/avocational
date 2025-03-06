@@ -13,6 +13,7 @@ engine: julia
 - [H.G. White obituary in Buffalo Enquirer](./H.G._White_obituary_in_Buffalo_Enquirer.html)
 - [H.G. White obituary in Buffalo News p. 5](./H.G._White_obituary_in_Buffalo_News_p._5.html)
 - [H.G. White obituary in Buffalo News](./H.G._White_obituary_in_Buffalo_News.html)
+- [Hiram Smith White obituary in Burlington Free Press](./Hiram_Smith_White_obituary_in_Burlington_Free_Press.html)
 - [Isaac N. Gattis obituary Murfreesboro News Journal](./Isaac_N._Gattis_obituary_Murfreesboro_News_Journal.html)
 - [Isaac Newton Gattis obituary](./Isaac_Newton_Gattis_obituary.html)
 - [James Green obituary](./James_Green_obituary.html)

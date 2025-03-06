@@ -1,0 +1,21 @@
+
+ 
+
+
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+Enumeration::Chesterfield K, Essex, New York
+Date::1850-09-19
+House::3378
+Family::3657
+Name::Artemas White
+Age::42
+Sex::m
+Race::
+Occupation::Painter
+Real estate value::1200
+Birthplace::Vt
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::
+

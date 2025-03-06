@@ -25,6 +25,8 @@ engine: julia
 
 - [Hiram Smith White](./Hiram_Smith_White.html)
 
+- [Artemas White](./Artemas_White.html)
+
 
 
 Documented ancestors:
@@ -88,6 +90,9 @@ Ebenezer_White_and_Candace_Smith[ ] --> Eliza_Ann_White(<a href='./Eliza_Ann_Whi
 class Ebenezer_White father
 class Candace_Smith mother
 Ebenezer_White_and_Candace_Smith[ ] --> Hiram_Smith_White(<a href='./Hiram_Smith_White.html'>Hiram Smith White</>)
+class Ebenezer_White father
+class Candace_Smith mother
+Ebenezer_White_and_Candace_Smith[ ] --> Artemas_White(<a href='./Artemas_White.html'>Artemas White</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -121,5 +126,7 @@ Sources for children with [Candace Smith](./Candace-Smith-line/Candace_Smith.htm
 - [Eliza Ann White death](./../../../transcriptions/vitals/Eliza_Ann_White_death.html)
 
 - [Hiram Smith White death record](./../../../transcriptions/vitals/Hiram_Smith_White_death_record.html)
+
+- [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 
 

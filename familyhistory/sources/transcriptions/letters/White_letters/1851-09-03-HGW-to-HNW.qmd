@@ -54,7 +54,7 @@ refersto::[Sister of Ann Quayle](./../../../people/Merrill-line/White-line/Siste
 refersto::[Brother of Ann Quayle](./../../../people/Merrill-line/White-line/Brother_of_Ann_Quayle.html)
 refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 refersto::[Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-refersto::[Henry S. White](./../../../people/Merrill-line/White-line/Henry_S._White.html)
+refersto::[Henry Sawyer White](./../../../people/Merrill-line/White-line/Henry_Sawyer_White.html)
 refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
 refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
 refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)

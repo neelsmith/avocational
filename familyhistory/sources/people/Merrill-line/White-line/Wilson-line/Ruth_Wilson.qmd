@@ -71,6 +71,9 @@ Ebenezer_White_and_Candace_Smith[ ] --> Eliza_Ann_White(<a href='./Eliza_Ann_Whi
 class Ebenezer_White father
 class Candace_Smith mother
 Ebenezer_White_and_Candace_Smith[ ] --> Hiram_Smith_White(<a href='./Hiram_Smith_White.html'>Hiram Smith White</>)
+class Ebenezer_White father
+class Candace_Smith mother
+Ebenezer_White_and_Candace_Smith[ ] --> Artemas_White(<a href='./Artemas_White.html'>Artemas White</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

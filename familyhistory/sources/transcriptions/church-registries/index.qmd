@@ -1,0 +1,8 @@
+---
+engine: julia
+---
+
+# Index
+
+- [Artemis White in First Congregational, Keeseville](./Artemis_White_in_First_Congregational,_Keeseville.html)
+- [Eugene White in North Presbyterian, Amherst, NY](./Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)

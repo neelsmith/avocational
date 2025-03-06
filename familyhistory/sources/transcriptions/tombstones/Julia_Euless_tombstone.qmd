@@ -1,5 +1,5 @@
 refersto:: [Julia B. Euless](./../../people/Gattis-line/Euless-line/Julia_B._Euless.html)
-cemetery:: [Wartrace, Hollywood Cemetery](./../../cemeteries/Wartrace,_Hollywood_Cemetery.html)
+cemetery:: [Wartrace, Hollywood Cemetery](./../../locations/cemeteries/Wartrace,_Hollywood_Cemetery.html)
 
 
 ## Transcription

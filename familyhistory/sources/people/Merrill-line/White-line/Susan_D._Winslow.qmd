@@ -17,7 +17,9 @@ engine: julia
 **Children with [Henry George White](./Henry_George_White.html)**:
 
 
-- [Eugene R. White](./Eugene_R._White.html)
+- [Eugene Richard White](./Eugene_Richard_White.html)
+
+- [Eugene Richard White](./Eugene_Richard_White.html)
 
 
 
@@ -31,7 +33,10 @@ Susan_D._Winslow(<a href=''>Susan D. Winslow</>) --> Susan_D._Winslow_and_Henry_
 Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</>) --> Susan_D._Winslow_and_Henry_George_White(( ))
 class Henry_George_White father
 class Susan_D._Winslow mother
-Susan_D._Winslow_and_Henry_George_White[ ] --> Eugene_R._White(<a href='./Eugene_R._White.html'>Eugene R. White</>)
+Susan_D._Winslow_and_Henry_George_White[ ] --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</>)
+class Henry_George_White father
+class Susan_D._Winslow mother
+Susan_D._Winslow_and_Henry_George_White[ ] --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -44,5 +49,7 @@ Sources for children with [Henry George White](./Henry_George_White.html)
 
 
 - [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)
+
+- [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)
 
 

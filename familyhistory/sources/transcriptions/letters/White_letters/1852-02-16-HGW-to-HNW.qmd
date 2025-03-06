@@ -62,5 +62,5 @@ refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.
 refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
 refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
 refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[George A. White](./../../../people/Merrill-line/White-line/George_A._White.html)
+refersto::[Henry George White 2](./../../../people/Merrill-line/White-line/Henry_George_White_2.html)
 refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)

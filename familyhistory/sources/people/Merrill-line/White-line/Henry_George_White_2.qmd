@@ -5,7 +5,7 @@ engine: julia
 
 > *Page automatically generated.*
 
-# Frederick D. White
+# Henry George White 2
 
 
 *born* ? : *died* ?

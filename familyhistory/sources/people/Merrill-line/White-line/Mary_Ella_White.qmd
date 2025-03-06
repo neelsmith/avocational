@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Mary Ella White
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Mary Ella White not identified as deceased.
+**Father**: [?]()

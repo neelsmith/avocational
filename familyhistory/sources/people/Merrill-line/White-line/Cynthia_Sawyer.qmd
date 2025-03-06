@@ -3,9 +3,13 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Cynthia Sawyer
 
 
+*born* ? : *died* ?
 
+**Mother**: [?]()
 
-Private information: Cynthia Sawyer not identified as deceased.
+**Father**: [?]()

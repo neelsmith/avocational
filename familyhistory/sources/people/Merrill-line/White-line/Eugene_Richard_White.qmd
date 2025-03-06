@@ -1,0 +1,48 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Eugene Richard White
+
+
+*born* 1872-07-19 : *died* ?
+
+**Mother**: [Susan D. Winslow](./Susan_D._Winslow.html)
+
+**Father**: [Henry George White](./Henry_George_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph RL
+%% RL ancestor diagram
+Eugene_Richard_White(<a href=''>Eugene Richard White</>) -->  Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</>)
+class Henry_George_White father
+Eugene_Richard_White(<a href=''>Eugene Richard White</>)  --> Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow</>)
+class Susan_D._Winslow mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1872-07-19 |  | [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Henry George White](./Henry_George_White.html) | [Susan D. Winslow](./Susan_D._Winslow.html) | [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html) | direct |
+| [Henry George White](./Henry_George_White.html) | [Susan D. Winslow](./Susan_D._Winslow.html) | [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html) | direct |

@@ -17,7 +17,9 @@ engine: julia
 **Children with [Susan D. Winslow](./Susan_D._Winslow.html)**:
 
 
-- [Eugene R. White](./Eugene_R._White.html)
+- [Eugene Richard White](./Eugene_Richard_White.html)
+
+- [Eugene Richard White](./Eugene_Richard_White.html)
 
 **Children with [Ann Quayle](./Ann_Quayle.html)**:
 
@@ -40,7 +42,10 @@ Henry_George_White(<a href=''>Henry George White</>) --> Henry_George_White_and_
 Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow</>) --> Henry_George_White_and_Susan_D._Winslow(( ))
 class Henry_George_White father
 class Susan_D._Winslow mother
-Henry_George_White_and_Susan_D._Winslow[ ] --> Eugene_R._White(<a href='./Eugene_R._White.html'>Eugene R. White</>)
+Henry_George_White_and_Susan_D._Winslow[ ] --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</>)
+class Henry_George_White father
+class Susan_D._Winslow mother
+Henry_George_White_and_Susan_D._Winslow[ ] --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</>)
 class Henry_George_White_and_Ann_Quayle marriage
 Henry_George_White(<a href=''>Henry George White</>) --> Henry_George_White_and_Ann_Quayle[ ]
 Ann_Quayle(<a href='./Ann_Quayle.html'>Ann Quayle</>) --> Henry_George_White_and_Ann_Quayle(( ))
@@ -65,6 +70,8 @@ Sources for children with [Susan D. Winslow](./Susan_D._Winslow.html)
 
 
 - [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)
+
+- [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)
 
 
 

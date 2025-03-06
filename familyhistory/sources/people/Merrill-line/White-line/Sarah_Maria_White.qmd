@@ -5,7 +5,7 @@ engine: julia
 
 > *Page automatically generated.*
 
-# Frederick D. White
+# Sarah Maria White
 
 
 *born* ? : *died* ?

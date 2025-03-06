@@ -5,6 +5,7 @@ engine: julia
 # Index
 
 - [Adaline White 1850 census](./Adaline_White_1850_census.html)
+- [Artemas White 1850 census](./Artemas_White_1850_census.html)
 - [Candace White 1850 census](./Candace_White_1850_census.html)
 - [Candace White 1860 census](./Candace_White_1860_census.html)
 - [Cynthia White 1850 census](./Cynthia_White_1850_census.html)
@@ -12,8 +13,8 @@ engine: julia
 - [Francis E. White 1850 census](./Francis_E._White_1850_census.html)
 - [Francis E. White 1870 census](./Francis_E._White_1870_census.html)
 - [Friend White 1850 census](./Friend_White_1850_census.html)
-- [George A. White 1850 census](./George_A._White_1850_census.html)
-- [George A. White 1860 census](./George_A._White_1860_census.html)
+- [George White 1850 census](./George_White_1850_census.html)
+- [George White 1860 census](./George_White_1860_census.html)
 - [Henry George White 1840 census](./Henry_George_White_1840_census.html)
 - [Henry George White 1850 census](./Henry_George_White_1850_census.html)
 - [Hiram White 1850 census](./Hiram_White_1850_census.html)

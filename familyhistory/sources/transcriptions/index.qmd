@@ -10,6 +10,7 @@ engine: julia
 
 
 - [census](./census/)
+- [church-registries](./church-registries/)
 - [city-directories](./city-directories/)
 - [criminal](./criminal/)
 - [family-genealogies](./family-genealogies/)
