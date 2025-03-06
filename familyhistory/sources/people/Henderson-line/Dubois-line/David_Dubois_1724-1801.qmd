@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: ?
 
-**Father**: [?]()
+**Father**: ?
 
 **Children with [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html)**:
 

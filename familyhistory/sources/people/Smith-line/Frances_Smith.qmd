@@ -14,6 +14,8 @@ engine: julia
 
 **Father**: [Charles R. Smith Sr.](./Charles_R._Smith_Sr..html)
 
+
+
 Documented ancestors:
 
 ```{mermaid}

@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: ?
 
-**Father**: [?]()
+**Father**: ?
 
 **Children with [Elizabeth Stagg](./Elizabeth_Stagg.html)**:
 

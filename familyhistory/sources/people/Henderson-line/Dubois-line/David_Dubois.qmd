@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: ?
 
-**Father**: [?]()
+**Father**: ?
 
 **Children with [Sarah Tillinghast](./../Tillinghast-line/Sarah_Tillinghast.html)**:
 

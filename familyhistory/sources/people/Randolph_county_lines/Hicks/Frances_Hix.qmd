@@ -59,9 +59,6 @@ Frances_Hix_and_Calvin_Harris_Rush[ ] --> Juanita_Rush(<a href='./../../Rush-lin
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Frances_Hix_and_Calvin_Harris_Rush[ ] --> Mona_Rush(<a href='./../../Rush-line/Mona_Rush.html'>Mona Rush</>)
-class Mona_Rush_and_ marriage
-Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
-(<a href=''></>) --> Mona_Rush_and_(( ))
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
 Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
 Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))

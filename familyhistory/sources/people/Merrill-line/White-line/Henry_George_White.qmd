@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: ?
 
-**Father**: [?]()
+**Father**: ?
 
 **Children with [Susan D. Winslow](./Susan_D._Winslow.html)**:
 

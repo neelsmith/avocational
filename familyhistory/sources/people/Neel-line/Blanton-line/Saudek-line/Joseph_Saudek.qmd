@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: ?
 
-**Father**: [?]()
+**Father**: ?
 
 **Children with [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)**:
 

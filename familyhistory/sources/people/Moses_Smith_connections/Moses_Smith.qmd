@@ -14,9 +14,6 @@ engine: julia
 
 **Father**: [Ephraim Smith](./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html)
 
-**Children with []()**:
-
-
 **Children with [Lydia Jepson Smith](./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html)**:
 
 
@@ -46,9 +43,6 @@ Documented descendants:
 ```{mermaid}
 graph LR
 %% LR descendant diagram
-class Moses_Smith_and_ marriage
-Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_[ ]
-(<a href=''></>) --> Moses_Smith_and_(( ))
 class Moses_Smith_and_Lydia_Jepson_Smith marriage
 Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith[ ]
 Lydia_Jepson_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith(( ))
