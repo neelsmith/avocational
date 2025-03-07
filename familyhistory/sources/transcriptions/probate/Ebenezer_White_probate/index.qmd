@@ -5,3 +5,4 @@ engine: julia
 # Index
 
 - [Ebenezer White probate - sales paper](./Ebenezer_White_probate_-_sales_paper.html)
+- [Ebenezer White warrant of division](./Ebenezer_White_warrant_of_division.html)
