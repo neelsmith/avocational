@@ -8,7 +8,7 @@ engine: julia
 # Candace Smith
 
 
-*born* ? : *died* ?
+*born* 1783 : *died* 1850-01-27
 
 **Mother**: [Lydia Jepson Smith](./Lydia_Jepson_Smith.html)
 
@@ -114,6 +114,20 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1783 |  | [Candace Smith in federal mortality schedule](./../../../../transcriptions/vitals/Candace_Smith_in_federal_mortality_schedule.html) | indirect |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1850-01-27 | [Ebenezer White tombstone](./../../../../transcriptions/tombstones/Ebenezer_White_tombstone.html) | direct |
+
 Sources for parents:
 
 

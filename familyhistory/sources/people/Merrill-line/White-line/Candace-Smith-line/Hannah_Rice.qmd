@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Ephraim Smith](./Ephraim_Smith.html)**:
 
@@ -32,6 +32,9 @@ Ephraim_Smith(<a href='./Ephraim_Smith.html'>Ephraim Smith</>) --> Hannah_Rice_a
 class Ephraim_Smith father
 class Hannah_Rice mother
 Hannah_Rice_and_Ephraim_Smith[ ] --> Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
+class Moses_Smith_and_ marriage
+Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_[ ]
+(<a href=''></>) --> Moses_Smith_and_(( ))
 class Moses_Smith_and_Lydia_Jepson_Smith marriage
 Moses_Smith(<a href=''>Moses Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith[ ]
 Lydia_Jepson_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>) --> Moses_Smith_and_Lydia_Jepson_Smith(( ))

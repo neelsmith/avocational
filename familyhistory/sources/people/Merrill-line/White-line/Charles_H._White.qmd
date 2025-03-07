@@ -14,8 +14,6 @@ engine: julia
 
 **Father**: [Henry George White](./Henry_George_White.html)
 
-
-
 Documented ancestors:
 
 ```{mermaid}

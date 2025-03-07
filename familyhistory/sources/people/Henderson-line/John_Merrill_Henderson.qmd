@@ -14,8 +14,6 @@ engine: julia
 
 **Father**: [John Dubois Henderson](./John_Dubois_Henderson.html)
 
-
-
 Documented ancestors:
 
 ```{mermaid}

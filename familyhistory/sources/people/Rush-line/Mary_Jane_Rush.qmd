@@ -14,8 +14,6 @@ engine: julia
 
 **Father**: [Noah Rush](./Noah_Rush.html)
 
-
-
 Documented ancestors:
 
 ```{mermaid}

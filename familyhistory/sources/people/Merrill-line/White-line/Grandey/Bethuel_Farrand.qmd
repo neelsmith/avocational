@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Rhoda Smith](./../../Rhoda_Smith.html)**:
 

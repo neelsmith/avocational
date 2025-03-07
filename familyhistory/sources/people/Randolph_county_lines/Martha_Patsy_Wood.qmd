@@ -10,9 +10,9 @@ engine: julia
 
 *born* 1796-11-14 : *died* 1880-03-29
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Cornelius Loflin](./Loflin/Cornelius_Loflin.html)**:
 
@@ -53,6 +53,9 @@ Calvin_Harris_Rush_and_Frances_Hix[ ] --> Juanita_Rush(<a href='./Juanita_Rush.h
 class Calvin_Harris_Rush father
 class Frances_Hix mother
 Calvin_Harris_Rush_and_Frances_Hix[ ] --> Mona_Rush(<a href='./Mona_Rush.html'>Mona Rush</>)
+class Mona_Rush_and_ marriage
+Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
+(<a href=''></>) --> Mona_Rush_and_(( ))
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
 Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
 Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))
@@ -65,6 +68,12 @@ Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Richard_Smith(<a href='./../Smith-line
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
 Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith</>)
+class Calvin_Harris_Rush_and_ marriage
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_[ ]
+(<a href=''></>) --> Calvin_Harris_Rush_and_(( ))
+class Sarah_Loflin_and_ marriage
+Sarah_Loflin(<a href=''>Sarah Loflin</>) --> Sarah_Loflin_and_[ ]
+(<a href=''></>) --> Sarah_Loflin_and_(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

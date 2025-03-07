@@ -10,7 +10,7 @@ engine: julia
 
 *born* 1814-06-08 : *died* 1902-12-30
 
-**Mother**: ?
+**Mother**: [?]()
 
 **Father**: [Ebenezer White](./Ebenezer_White.html)
 

@@ -8,7 +8,7 @@ engine: julia
 # Ebenezer White
 
 
-*born* 1779-07-09 : *died* ?
+*born* 1779-07-09 : *died* 1852-10-31
 
 **Mother**: [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)
 
@@ -26,6 +26,9 @@ engine: julia
 - [Hiram Smith White](./Hiram_Smith_White.html)
 
 - [Artemas White](./Artemas_White.html)
+
+**Children with []()**:
+
 
 
 
@@ -93,6 +96,9 @@ Ebenezer_White_and_Candace_Smith[ ] --> Hiram_Smith_White(<a href='./Hiram_Smith
 class Ebenezer_White father
 class Candace_Smith mother
 Ebenezer_White_and_Candace_Smith[ ] --> Artemas_White(<a href='./Artemas_White.html'>Artemas White</>)
+class Ebenezer_White_and_ marriage
+Ebenezer_White(<a href=''>Ebenezer White</>) --> Ebenezer_White_and_[ ]
+(<a href=''></>) --> Ebenezer_White_and_(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -108,6 +114,16 @@ Sources for birth:
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
 | 1771 |   | [Ebenezer White 1850 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1852-10-31 | [Ebenezer White death](./../../../transcriptions/vitals/Ebenezer_White_death.html) | direct |
+| 1852-10-31 | [Ebenezer White tombstone](./../../../transcriptions/tombstones/Ebenezer_White_tombstone.html) | direct |
+| after 12-13-1853 | [1853-12-13-EW-to-HNW](./../../../transcriptions/letters/White_letters/1853-12-13-EW-to-HNW.html) | direct |
+| before 3-12-1854 | [1854-03-12-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html) | direct |
 
 Sources for parents:
 

@@ -10,11 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
-
-
 
 Documented ancestors:
 

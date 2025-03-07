@@ -1,0 +1,30 @@
+
+## Source
+#### Source Information
+
+Ancestry.com. _U.S., Federal Census Mortality Schedules Index, 1850-1880_[database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 1999.
+
+Original data: Jackson, Ron V., Accelerated Indexing Systems, comp.. _AIS Mortality Schedules Index_. Compiled and digitized by Mr. Jackson and AIS from microfilmed schedules of the U.S. Federal Decennial Census, territorial/state censuses, and/or census substitutes.
+
+#### Description
+
+Included in the 1850, 1860, 1870, and 1880 U.S. censuses were mortality schedules that asked questions regarding those who died in the twelve months prior to the enumeration. This database is an index to several of these schedules. The schedule lists the deceased name, sex, age, color, whether widowed or not, place of birth, month of death, occupation, and cause of death. In 1870 the parents' birthplaces were added. [Learn more...](https://search.ancestry.com/search/db.aspx?dbid=3530)
+
+## Transcription
+
+| | |
+|---|---|
+|Surname|Candace White|
+|Year|1850|
+|County|Chittenden CO.|
+|State|VT|
+|Age|67|
+|Gender|F (Female)|
+|Month of Death|Jan|
+|State of Birth|MA|
+|ID
+|Occupation|NONE LISTED|
+
+## Notes
+
+refersto::[Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)

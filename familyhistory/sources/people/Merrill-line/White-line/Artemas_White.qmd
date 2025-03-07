@@ -14,8 +14,6 @@ engine: julia
 
 **Father**: [Ebenezer White](./Ebenezer_White.html)
 
-
-
 Documented ancestors:
 
 ```{mermaid}

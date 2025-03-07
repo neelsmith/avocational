@@ -14,6 +14,9 @@ engine: julia
 
 **Father**: [Jabez Ayers](./../../Jabez_Ayers.html)
 
+**Children with []()**:
+
+
 **Children with [Rocena Snow](./Rocena_Snow.html)**:
 
 
@@ -43,6 +46,9 @@ Documented descendants:
 ```{mermaid}
 graph LR
 %% LR descendant diagram
+class Stephen_Ayres_and_ marriage
+Stephen_Ayres(<a href=''>Stephen Ayres</>) --> Stephen_Ayres_and_[ ]
+(<a href=''></>) --> Stephen_Ayres_and_(( ))
 class Stephen_Ayres_and_Rocena_Snow marriage
 Stephen_Ayres(<a href=''>Stephen Ayres</>) --> Stephen_Ayres_and_Rocena_Snow[ ]
 Rocena_Snow(<a href='./Rocena_Snow.html'>Rocena Snow</>) --> Stephen_Ayres_and_Rocena_Snow(( ))

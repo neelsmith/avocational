@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Truman Grandey](./../../Grandey-line/Truman_Grandey.html)**:
 

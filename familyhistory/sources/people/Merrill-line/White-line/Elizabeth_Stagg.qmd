@@ -10,7 +10,7 @@ engine: julia
 
 *born* 1778 : *died* 1817-02-02
 
-**Mother**: ?
+**Mother**: [?]()
 
 **Father**: [Josiah Stagg](./Josiah_Stagg.html)
 

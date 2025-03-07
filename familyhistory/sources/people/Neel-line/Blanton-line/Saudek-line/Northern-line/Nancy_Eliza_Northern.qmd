@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* 1848-01-18
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Joseph Saudek](./../Joseph_Saudek.html)**:
 

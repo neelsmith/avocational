@@ -10,9 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
+
+**Children with [ ]()**:
+
 
 **Children with [Mary Patricia King](./Mary_Patricia_King.html)**:
 
@@ -26,6 +29,9 @@ Documented descendants:
 ```{mermaid}
 graph LR
 %% LR descendant diagram
+class Isaac_Newton_Gattis_Sr._and__ marriage
+Isaac_Newton_Gattis_Sr.(<a href=''>Isaac Newton Gattis Sr.</>) --> Isaac_Newton_Gattis_Sr._and__[ ]
+_(<a href=''> </>) --> Isaac_Newton_Gattis_Sr._and__(( ))
 class Isaac_Newton_Gattis_Sr._and_Mary_Patricia_King marriage
 Isaac_Newton_Gattis_Sr.(<a href=''>Isaac Newton Gattis Sr.</>) --> Isaac_Newton_Gattis_Sr._and_Mary_Patricia_King[ ]
 Mary_Patricia_King(<a href='./Mary_Patricia_King.html'>Mary Patricia King</>) --> Isaac_Newton_Gattis_Sr._and_Mary_Patricia_King(( ))

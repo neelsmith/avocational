@@ -12,9 +12,7 @@ engine: julia
 
 **Mother**: [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
-**Father**: ?
-
-
+**Father**: [?]()
 
 Documented ancestors:
 

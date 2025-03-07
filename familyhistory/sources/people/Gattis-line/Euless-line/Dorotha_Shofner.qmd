@@ -10,9 +10,12 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
+
+**Children with []()**:
+
 
 **Children with [Adam Euless](./Adam_Euless.html)**:
 
@@ -26,6 +29,9 @@ Documented descendants:
 ```{mermaid}
 graph LR
 %% LR descendant diagram
+class Dorotha_Shofner_and_ marriage
+Dorotha_Shofner(<a href=''>Dorotha Shofner</>) --> Dorotha_Shofner_and_[ ]
+(<a href=''></>) --> Dorotha_Shofner_and_(( ))
 class Dorotha_Shofner_and_Adam_Euless marriage
 Dorotha_Shofner(<a href=''>Dorotha Shofner</>) --> Dorotha_Shofner_and_Adam_Euless[ ]
 Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>) --> Dorotha_Shofner_and_Adam_Euless(( ))

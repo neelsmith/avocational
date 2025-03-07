@@ -14,8 +14,6 @@ engine: julia
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
-
-
 Documented ancestors:
 
 ```{mermaid}

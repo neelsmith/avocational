@@ -10,9 +10,9 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)**:
 
@@ -74,6 +74,9 @@ Ebenezer_White_and_Candace_Smith[ ] --> Hiram_Smith_White(<a href='./Hiram_Smith
 class Ebenezer_White father
 class Candace_Smith mother
 Ebenezer_White_and_Candace_Smith[ ] --> Artemas_White(<a href='./Artemas_White.html'>Artemas White</>)
+class Ebenezer_White_and_ marriage
+Ebenezer_White(<a href=''>Ebenezer White</>) --> Ebenezer_White_and_[ ]
+(<a href=''></>) --> Ebenezer_White_and_(( ))
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

@@ -14,6 +14,9 @@ engine: julia
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
+**Children with []()**:
+
+
 **Children with [Charles R. Smith Sr.](./../Smith-line/Charles_R._Smith_Sr..html)**:
 
 
@@ -63,6 +66,9 @@ Documented descendants:
 ```{mermaid}
 graph LR
 %% LR descendant diagram
+class Mona_Rush_and_ marriage
+Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
+(<a href=''></>) --> Mona_Rush_and_(( ))
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
 Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
 Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))

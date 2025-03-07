@@ -10,9 +10,9 @@ engine: julia
 
 *born* 1774 : *died* 1853-02-21
 
-**Mother**: ?
+**Mother**: [?]()
 
-**Father**: ?
+**Father**: [?]()
 
 **Children with [Stephen Ayres](./Stephen_Ayres.html)**:
 
