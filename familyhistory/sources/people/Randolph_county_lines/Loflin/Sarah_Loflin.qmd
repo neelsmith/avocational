@@ -21,9 +21,6 @@ engine: julia
 
 - [Calvin Harris Rush](./../../Rush-line/Calvin_Harris_Rush.html)
 
-**Children with []()**:
-
-
 
 
 Documented ancestors:
@@ -31,7 +28,7 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius Loflin
 class Cornelius_Loflin father
 Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
 class Martha_Patsy_Wood mother
@@ -49,47 +46,35 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Sarah_Loflin_and_Noah_Rush marriage
-Sarah_Loflin(<a href=''>Sarah Loflin</>) --> Sarah_Loflin_and_Noah_Rush[ ]
-Noah_Rush(<a href='./../../Rush-line/Noah_Rush.html'>Noah Rush</>) --> Sarah_Loflin_and_Noah_Rush(( ))
+[[Noah Rush]] --> Sarah_Loflin_and_Noah_Rush{{ }}
 class ? father
 class ? mother
-Sarah_Loflin_and_Noah_Rush[ ] --> Roxanna_Rush(<a href='./../../Rush-line/Roxanna_Rush.html'>Roxanna Rush</>)
+Sarah_Loflin_and_Noah_Rush{{ }} --> [[Roxanna Rush]]
 class Noah_Rush father
 class Sarah_Loflin mother
-Sarah_Loflin_and_Noah_Rush[ ] --> Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
+Sarah_Loflin_and_Noah_Rush{{ }} --> [[Calvin Harris Rush]]
 class Calvin_Harris_Rush_and_Frances_Hix marriage
-Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_Frances_Hix[ ]
-Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>) --> Calvin_Harris_Rush_and_Frances_Hix(( ))
+[[Frances Hix]] --> Calvin_Harris_Rush_and_Frances_Hix{{ }}
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Calvin_Harris_Rush_and_Frances_Hix[ ] --> Clarence_Harris_Rush(<a href='./Clarence_Harris_Rush.html'>Clarence Harris Rush</>)
+Calvin_Harris_Rush_and_Frances_Hix{{ }} --> [[Clarence Harris Rush]]
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Calvin_Harris_Rush_and_Frances_Hix[ ] --> Juanita_Rush(<a href='./Juanita_Rush.html'>Juanita Rush</>)
+Calvin_Harris_Rush_and_Frances_Hix{{ }} --> [[Juanita Rush]]
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Calvin_Harris_Rush_and_Frances_Hix[ ] --> Mona_Rush(<a href='./Mona_Rush.html'>Mona Rush</>)
-class Mona_Rush_and_ marriage
-Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
-(<a href=''></>) --> Mona_Rush_and_(( ))
+Calvin_Harris_Rush_and_Frances_Hix{{ }} --> [[Mona Rush]]
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
-Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
-Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))
+[[Charles R. Smith Sr.]] --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[David Hammond Smith]]
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Richard_Smith(<a href='./../Smith-line/Richard_Smith.html'>Richard Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[Richard Smith]]
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith</>)
-class Calvin_Harris_Rush_and_ marriage
-Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_[ ]
-(<a href=''></>) --> Calvin_Harris_Rush_and_(( ))
-class Sarah_Loflin_and_ marriage
-Sarah_Loflin(<a href=''>Sarah Loflin</>) --> Sarah_Loflin_and_[ ]
-(<a href=''></>) --> Sarah_Loflin_and_(( ))
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[Frances Smith]]
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -112,10 +97,5 @@ Sources for children with [Noah Rush](./../../Rush-line/Noah_Rush.html)
 - [Roxanna Rush 1860 census](./../../../transcriptions/census/Rush_census/Roxanna_Rush_1860_census.html)
 
 - [Noah Rush 1860 census](./../../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
-
-
-
-Sources for children with []()
-
 
 

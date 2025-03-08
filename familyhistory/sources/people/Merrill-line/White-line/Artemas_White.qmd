@@ -34,7 +34,7 @@ class Hannah_Rice mother
 class Moses_Smith father
 Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
 Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
-Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia_Smith(<a href='./../../Zachia_Smith.html'>Zachia Smith</>)
+Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia Smith
 class Zachia_Smith father
 Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
 class Susanah_Grout mother

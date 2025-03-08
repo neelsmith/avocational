@@ -30,8 +30,6 @@ Claud_Gattis(<a href=''>Claud Gattis</>) -->  Isaac_Newton_Gattis(<a href='./Isa
 Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>) -->  Thomas_A._Gattis(<a href='./Thomas_A._Gattis.html'>Thomas A. Gattis</>)
 Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</>)
 class Isaac_Newton_Gattis_Sr. father
-Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>)  --> _(<a href=''> </>)
-class _ mother
 class Thomas_A._Gattis father
 Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>)  --> Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</>)
 Julia_B._Euless(<a href=''>Julia B. Euless</>) -->  Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>)
@@ -46,15 +44,15 @@ class Julia_B._Euless mother
 class Isaac_Newton_Gattis father
 Claud_Gattis(<a href=''>Claud Gattis</>)  --> Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green</>)
 Cassie_Green(<a href=''>Cassie Green</>) -->  James_Green(<a href='./James_Green.html'>James Green</>)
-James_Green(<a href=''>James Green</>) -->  William_Green(<a href='./William_Green.html'>William Green</>)
+James_Green(<a href=''>James Green</>) -->  William Green
 class William_Green father
-James_Green(<a href=''>James Green</>)  --> Sarah_Phillips(<a href='./Sarah_Phillips.html'>Sarah Phillips</>)
+James_Green(<a href=''>James Green</>)  --> Sarah Phillips
 class Sarah_Phillips mother
 class James_Green father
 Cassie_Green(<a href=''>Cassie Green</>)  --> Elvira_Ann_Williams(<a href='./Williams-line/Elvira_Ann_Williams.html'>Elvira Ann Williams</>)
-Elvira_Ann_Williams(<a href=''>Elvira Ann Williams</>) -->  David_Williams(<a href='./David_Williams.html'>David Williams</>)
+Elvira_Ann_Williams(<a href=''>Elvira Ann Williams</>) -->  David Williams
 class David_Williams father
-Elvira_Ann_Williams(<a href=''>Elvira Ann Williams</>)  --> Sallie_T.__Harris(<a href='./Sallie_T.__Harris.html'>Sallie T.  Harris</>)
+Elvira_Ann_Williams(<a href=''>Elvira Ann Williams</>)  --> Sallie T.  Harris
 class Sallie_T.__Harris mother
 class Elvira_Ann_Williams mother
 class Cassie_Green mother
@@ -72,11 +70,10 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Claud_Gattis_and_Mary_Louise_Neel marriage
-Claud_Gattis(<a href=''>Claud Gattis</>) --> Claud_Gattis_and_Mary_Louise_Neel[ ]
-Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel</>) --> Claud_Gattis_and_Mary_Louise_Neel(( ))
+[[Mary Louise Neel]] --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
 class Claud_Gattis father
 class Mary_Louise_Neel mother
-Claud_Gattis_and_Mary_Louise_Neel[ ] --> Judy_Gattis(<a href='./Judy_Gattis.html'>Judy Gattis</>)
+Claud_Gattis_and_Mary_Louise_Neel{{ }} --> [[Judy Gattis]]
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

@@ -23,9 +23,6 @@ engine: julia
 
 - [Mona Rush](./Mona_Rush.html)
 
-**Children with []()**:
-
-
 
 
 Documented ancestors:
@@ -34,13 +31,13 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
-Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee_Rush_1790-1872(<a href='./Zebedee_Rush_1790-1872.html'>Zebedee Rush 1790-1872</>)
+Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee Rush 1790-1872
 class Zebedee_Rush_1790-1872 father
-Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_county_lines/Frances_Fuller.html'>Frances Fuller</>)
+Noah_Rush(<a href=''>Noah Rush</>)  --> Frances Fuller
 class Frances_Fuller mother
 class Noah_Rush father
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
-Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius Loflin
 class Cornelius_Loflin father
 Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
 class Martha_Patsy_Wood mother
@@ -59,35 +56,27 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Calvin_Harris_Rush_and_Frances_Hix marriage
-Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_Frances_Hix[ ]
-Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>) --> Calvin_Harris_Rush_and_Frances_Hix(( ))
+[[Frances Hix]] --> Calvin_Harris_Rush_and_Frances_Hix{{ }}
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Calvin_Harris_Rush_and_Frances_Hix[ ] --> Clarence_Harris_Rush(<a href='./Clarence_Harris_Rush.html'>Clarence Harris Rush</>)
+Calvin_Harris_Rush_and_Frances_Hix{{ }} --> [[Clarence Harris Rush]]
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Calvin_Harris_Rush_and_Frances_Hix[ ] --> Juanita_Rush(<a href='./Juanita_Rush.html'>Juanita Rush</>)
+Calvin_Harris_Rush_and_Frances_Hix{{ }} --> [[Juanita Rush]]
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Calvin_Harris_Rush_and_Frances_Hix[ ] --> Mona_Rush(<a href='./Mona_Rush.html'>Mona Rush</>)
-class Mona_Rush_and_ marriage
-Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_[ ]
-(<a href=''></>) --> Mona_Rush_and_(( ))
+Calvin_Harris_Rush_and_Frances_Hix{{ }} --> [[Mona Rush]]
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
-Mona_Rush(<a href=''>Mona Rush</>) --> Mona_Rush_and_Charles_R._Smith_Sr.[ ]
-Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>) --> Mona_Rush_and_Charles_R._Smith_Sr.(( ))
+[[Charles R. Smith Sr.]] --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[David Hammond Smith]]
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Richard_Smith(<a href='./../Smith-line/Richard_Smith.html'>Richard Smith</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[Richard Smith]]
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.[ ] --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith</>)
-class Calvin_Harris_Rush_and_ marriage
-Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) --> Calvin_Harris_Rush_and_[ ]
-(<a href=''></>) --> Calvin_Harris_Rush_and_(( ))
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[Frances Smith]]
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff
@@ -116,7 +105,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| []() | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |
+| [](Calvin Harris Rush) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |
 | [Noah Rush](./Noah_Rush.html) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html) | indirect |
 
 Sources for children with [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
@@ -127,10 +116,5 @@ Sources for children with [Frances Hix](./../Randolph_county_lines/Hicks/Frances
 - [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html)
 
 - [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)
-
-
-
-Sources for children with []()
-
 
 

@@ -29,9 +29,9 @@ graph RL
 John_Dubois_Henderson(<a href=''>John Dubois Henderson</>) -->  John_Dryden_Henderson(<a href='./John_Dryden_Henderson.html'>John Dryden Henderson</>)
 John_Dryden_Henderson(<a href=''>John Dryden Henderson</>) -->  Nathaniel_S._Henderson(<a href='./Nathaniel_S._Henderson.html'>Nathaniel S. Henderson</>)
 Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</>) -->  Daniel_Clyde_Henderson(<a href='./Daniel_Clyde_Henderson.html'>Daniel Clyde Henderson</>)
-Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>) -->  Edward_Henderson(<a href='./Edward_Henderson.html'>Edward Henderson</>)
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>) -->  Edward Henderson
 class Edward_Henderson father
-Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>)  --> Mary_Mathis(<a href='./Mary_Mathis.html'>Mary Mathis</>)
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</>)  --> Mary Mathis
 class Mary_Mathis mother
 class Daniel_Clyde_Henderson father
 Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</>)  --> Margaret_Carpenter(<a href='./Carpenter-line/Margaret_Carpenter.html'>Margaret Carpenter</>)
@@ -39,9 +39,9 @@ class Margaret_Carpenter mother
 class Nathaniel_S._Henderson father
 John_Dryden_Henderson(<a href=''>John Dryden Henderson</>)  --> Angeline_Ayers(<a href='./Ayers-line/Angeline_Ayers.html'>Angeline Ayers</>)
 Angeline_Ayers(<a href=''>Angeline Ayers</>) -->  Stephen_Ayres(<a href='./Stephen_Ayres.html'>Stephen Ayres</>)
-Stephen_Ayres(<a href=''>Stephen Ayres</>) -->  Jabez_Ayers(<a href='./../../Jabez_Ayers.html'>Jabez Ayers</>)
+Stephen_Ayres(<a href=''>Stephen Ayres</>) -->  Jabez Ayers
 class Jabez_Ayers father
-Stephen_Ayres(<a href=''>Stephen Ayres</>)  --> Persis_Ayers(<a href='./../../Persis_Ayers.html'>Persis Ayers</>)
+Stephen_Ayres(<a href=''>Stephen Ayres</>)  --> Persis Ayers
 class Persis_Ayers mother
 class Stephen_Ayres father
 Angeline_Ayers(<a href=''>Angeline Ayers</>)  --> Rocena_Snow(<a href='./Rocena_Snow.html'>Rocena Snow</>)
@@ -51,7 +51,7 @@ class John_Dryden_Henderson father
 John_Dubois_Henderson(<a href=''>John Dubois Henderson</>)  --> Frances_Dubois(<a href='./Dubois-line/Frances_Dubois.html'>Frances Dubois</>)
 Frances_Dubois(<a href=''>Frances Dubois</>) -->  David_Dubois(<a href='./David_Dubois.html'>David Dubois</>)
 class David_Dubois father
-Frances_Dubois(<a href=''>Frances Dubois</>)  --> Sarah_Tillinghast(<a href='./../Tillinghast-line/Sarah_Tillinghast.html'>Sarah Tillinghast</>)
+Frances_Dubois(<a href=''>Frances Dubois</>)  --> Sarah Tillinghast
 class Sarah_Tillinghast mother
 class Frances_Dubois mother
 classDef mother fill:#ffd1dc
@@ -68,11 +68,10 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class John_Dubois_Henderson_and_Marguerite_Merrill marriage
-John_Dubois_Henderson(<a href=''>John Dubois Henderson</>) --> John_Dubois_Henderson_and_Marguerite_Merrill[ ]
-Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill</>) --> John_Dubois_Henderson_and_Marguerite_Merrill(( ))
+[[Marguerite Merrill]] --> John_Dubois_Henderson_and_Marguerite_Merrill{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-John_Dubois_Henderson_and_Marguerite_Merrill[ ] --> John_Merrill_Henderson(<a href='./John_Merrill_Henderson.html'>John Merrill Henderson</>)
+John_Dubois_Henderson_and_Marguerite_Merrill{{ }} --> [[John Merrill Henderson]]
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

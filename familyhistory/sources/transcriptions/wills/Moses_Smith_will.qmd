@@ -1,3 +1,23 @@
+## Source
+
+Probate Records (Worcester County, Massachusetts); Index 1731-1881; Author: Massachusetts. Probate Court (Worcester County); Probate Place: Worcester, Massachusetts
+
+###### Description
+
+Notes: _Probate Records, Vol 45-46, 1814-1816_
+
+###### Source Information
+
+Ancestry.com. _Massachusetts, U.S., Wills and Probate Records, 1635-1991_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
+Original data:Massachusetts County, District and Probate Courts.
+
+## Transcription
+
+TBA
+
+
+## Notes
+
 refersto::[Moses Smith](./../../people/Moses_Smith_connections/Moses_Smith.html)
 refersto::[Thankful Holland](./../../people/Moses_Smith_connections/Thankful_Holland.html)
 refersto::[Hannah Susannah Smith](./../../people/Moses_Smith_connections/Hannah_Susannah_Smith.html)
@@ -5,9 +25,6 @@ refersto::[Daniel Frost](./../../people/Moses_Smith_connections/Daniel_Frost.htm
 refersto::[Ephraim Smith 2](./../../people/Moses_Smith_connections/Ephraim_Smith_2.html)
 refersto::[Seth Smith](./../../people/Moses_Smith_connections/Seth_Smith.html)
 
-
-
-## Notes
 
 Wife is Thankful. (This is [Thankful Holland](./../../people/Moses_Smith_connections/Thankful_Holland.html))
 
@@ -22,22 +39,4 @@ Son Eben Smith
 Daughter Meriam Newton wife of Donna Newton
 Daughter Candis White wife of Ebenezer White (These are [Candace Smith](./../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html) and [Ebenezer White](./../../people/Merrill-line/White-line/Ebenezer_White.html)
 )
-....
 
-
-
-
-## Citation
-
-Probate Records (Worcester County, Massachusetts); Index 1731-1881; Author: Massachusetts. Probate Court (Worcester County); Probate Place: Worcester, Massachusetts
-
-###### Description
-
-Notes: _Probate Records, Vol 45-46, 1814-1816_
-
-###### Source Information
-
-Ancestry.com. _Massachusetts, U.S., Wills and Probate Records, 1635-1991_. Lehi, UT, USA: Ancestry.com Operations, Inc., 2015. 
-Original data:Massachusetts County, District and Probate Courts.
-
-## Transcription

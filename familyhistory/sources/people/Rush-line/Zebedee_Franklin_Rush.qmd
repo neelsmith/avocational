@@ -12,7 +12,7 @@ engine: julia
 
 **Mother**: [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
 
-**Father**: [?]()
+**Father**: ?
 
 Documented ancestors:
 
@@ -20,7 +20,7 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Zebedee_Franklin_Rush(<a href=''>Zebedee Franklin Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
-Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius Loflin
 class Cornelius_Loflin father
 Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
 class Martha_Patsy_Wood mother
@@ -39,4 +39,4 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| []() | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |
+| [](Zebedee Franklin Rush) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |

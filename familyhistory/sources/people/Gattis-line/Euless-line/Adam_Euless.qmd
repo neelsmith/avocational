@@ -44,29 +44,25 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Adam_Euless_and_Dorotha_Shofner marriage
-Adam_Euless(<a href=''>Adam Euless</>) --> Adam_Euless_and_Dorotha_Shofner[ ]
-Dorotha_Shofner(<a href='./Dorotha_Shofner.html'>Dorotha Shofner</>) --> Adam_Euless_and_Dorotha_Shofner(( ))
+[[Dorotha Shofner]] --> Adam_Euless_and_Dorotha_Shofner{{ }}
 class Adam_Euless father
 class Dorotha_Shofner mother
-Adam_Euless_and_Dorotha_Shofner[ ] --> Julia_B._Euless(<a href='./Julia_B._Euless.html'>Julia B. Euless</>)
+Adam_Euless_and_Dorotha_Shofner{{ }} --> [[Julia B. Euless]]
 class Julia_B._Euless_and_Thomas_A._Gattis marriage
-Julia_B._Euless(<a href=''>Julia B. Euless</>) --> Julia_B._Euless_and_Thomas_A._Gattis[ ]
-Thomas_A._Gattis(<a href='./../Thomas_A._Gattis.html'>Thomas A. Gattis</>) --> Julia_B._Euless_and_Thomas_A._Gattis(( ))
+[[Thomas A. Gattis]] --> Julia_B._Euless_and_Thomas_A._Gattis{{ }}
 class Thomas_A._Gattis father
 class Julia_B._Euless mother
-Julia_B._Euless_and_Thomas_A._Gattis[ ] --> Isaac_Newton_Gattis(<a href='./../Isaac_Newton_Gattis.html'>Isaac Newton Gattis</>)
+Julia_B._Euless_and_Thomas_A._Gattis{{ }} --> [[Isaac Newton Gattis]]
 class Isaac_Newton_Gattis_and_Cassie_Green marriage
-Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>) --> Isaac_Newton_Gattis_and_Cassie_Green[ ]
-Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green</>) --> Isaac_Newton_Gattis_and_Cassie_Green(( ))
+[[Cassie Green]] --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
 class Isaac_Newton_Gattis father
 class Cassie_Green mother
-Isaac_Newton_Gattis_and_Cassie_Green[ ] --> Claud_Gattis(<a href='./Claud_Gattis.html'>Claud Gattis</>)
+Isaac_Newton_Gattis_and_Cassie_Green{{ }} --> [[Claud Gattis]]
 class Claud_Gattis_and_Mary_Louise_Neel marriage
-Claud_Gattis(<a href=''>Claud Gattis</>) --> Claud_Gattis_and_Mary_Louise_Neel[ ]
-Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel</>) --> Claud_Gattis_and_Mary_Louise_Neel(( ))
+[[Mary Louise Neel]] --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
 class Claud_Gattis father
 class Mary_Louise_Neel mother
-Claud_Gattis_and_Mary_Louise_Neel[ ] --> Judy_Gattis(<a href='./Judy_Gattis.html'>Judy Gattis</>)
+Claud_Gattis_and_Mary_Louise_Neel{{ }} --> [[Judy Gattis]]
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

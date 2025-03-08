@@ -10,7 +10,7 @@ engine: julia
 
 *born* ? : *died* ?
 
-**Mother**: [?]()
+**Mother**: ?
 
 **Father**: [Calvin Harris Rush](./Calvin_Harris_Rush.html)
 
@@ -21,13 +21,13 @@ graph RL
 %% RL ancestor diagram
 Elinor_Agnes_Rush(<a href=''>Elinor Agnes Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
-Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee_Rush_1790-1872(<a href='./Zebedee_Rush_1790-1872.html'>Zebedee Rush 1790-1872</>)
+Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee Rush 1790-1872
 class Zebedee_Rush_1790-1872 father
-Noah_Rush(<a href=''>Noah Rush</>)  --> Frances_Fuller(<a href='./../Randolph_county_lines/Frances_Fuller.html'>Frances Fuller</>)
+Noah_Rush(<a href=''>Noah Rush</>)  --> Frances Fuller
 class Frances_Fuller mother
 class Noah_Rush father
 Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
-Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius_Loflin(<a href='./Cornelius_Loflin.html'>Cornelius Loflin</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius Loflin
 class Cornelius_Loflin father
 Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
 class Martha_Patsy_Wood mother
@@ -47,4 +47,4 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | []() | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |
+| [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [](Elinor Agnes Rush) | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |

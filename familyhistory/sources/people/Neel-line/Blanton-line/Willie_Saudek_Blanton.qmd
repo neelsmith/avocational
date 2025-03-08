@@ -29,9 +29,9 @@ Documented ancestors:
 graph RL
 %% RL ancestor diagram
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) -->  John_Owen_Blanton(<a href='./John_Owen_Blanton.html'>John Owen Blanton</>)
-John_Owen_Blanton(<a href=''>John Owen Blanton</>) -->  Richard_Blanton(<a href='./Richard_Blanton.html'>Richard Blanton</>)
+John_Owen_Blanton(<a href=''>John Owen Blanton</>) -->  Richard Blanton
 class Richard_Blanton father
-John_Owen_Blanton(<a href=''>John Owen Blanton</>)  --> Sarah_Campbell(<a href='./Sarah_Campbell.html'>Sarah Campbell</>)
+John_Owen_Blanton(<a href=''>John Owen Blanton</>)  --> Sarah Campbell
 class Sarah_Campbell mother
 class John_Owen_Blanton father
 Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>)  --> Leonora_Josephine_Saudek(<a href='./Saudek-line/Leonora_Josephine_Saudek.html'>Leonora Josephine Saudek</>)
@@ -54,20 +54,18 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Willie_Saudek_Blanton_and_Robert_Wilburn_Neel marriage
-Willie_Saudek_Blanton(<a href=''>Willie Saudek Blanton</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ]
-Robert_Wilburn_Neel(<a href='./../Robert_Wilburn_Neel.html'>Robert Wilburn Neel</>) --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel(( ))
+[[Robert Wilburn Neel]] --> Willie_Saudek_Blanton_and_Robert_Wilburn_Neel{{ }}
 class Robert_Wilburn_Neel father
 class Willie_Saudek_Blanton mother
-Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ] --> Mary_Louise_Neel(<a href='./../Mary_Louise_Neel.html'>Mary Louise Neel</>)
+Willie_Saudek_Blanton_and_Robert_Wilburn_Neel{{ }} --> [[Mary Louise Neel]]
 class Mary_Louise_Neel_and_Claud_Gattis marriage
-Mary_Louise_Neel(<a href=''>Mary Louise Neel</>) --> Mary_Louise_Neel_and_Claud_Gattis[ ]
-Claud_Gattis(<a href='./../Gattis-line/Claud_Gattis.html'>Claud Gattis</>) --> Mary_Louise_Neel_and_Claud_Gattis(( ))
+[[Claud Gattis]] --> Mary_Louise_Neel_and_Claud_Gattis{{ }}
 class Claud_Gattis father
 class Mary_Louise_Neel mother
-Mary_Louise_Neel_and_Claud_Gattis[ ] --> Judy_Gattis(<a href='./../Gattis-line/Judy_Gattis.html'>Judy Gattis</>)
+Mary_Louise_Neel_and_Claud_Gattis{{ }} --> [[Judy Gattis]]
 class Robert_Wilburn_Neel father
 class Willie_Saudek_Blanton mother
-Willie_Saudek_Blanton_and_Robert_Wilburn_Neel[ ] --> Josephine_Neel(<a href='./../Josephine_Neel.html'>Josephine Neel</>)
+Willie_Saudek_Blanton_and_Robert_Wilburn_Neel{{ }} --> [[Josephine Neel]]
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

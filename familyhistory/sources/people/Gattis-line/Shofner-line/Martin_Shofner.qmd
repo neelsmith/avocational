@@ -10,9 +10,9 @@ engine: julia
 
 *born* 1758-12-03 : *died* 1838-09-30
 
-**Mother**: [?]()
+**Mother**: ?
 
-**Father**: [?]()
+**Father**: ?
 
 ## Sources
 Sources for birth:
