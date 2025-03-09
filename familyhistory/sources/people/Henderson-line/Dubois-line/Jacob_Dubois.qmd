@@ -8,7 +8,7 @@ engine: julia
 # Jacob Dubois
 
 
-*born* ? : *died* ?
+*born* 1763-12-07 : *died* ?
 
 **Mother**: [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html)
 
@@ -19,9 +19,9 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Jacob_Dubois(<a href=''>Jacob Dubois</>) -->  David_Dubois_1724-1801(<a href='./David_Dubois_1724-1801.html'>David Dubois 1724-1801</>)
+Jacob_Dubois(<a href=''>Jacob Dubois'</>) -->  David_Dubois_1724-1801(<a href='./David_Dubois_1724-1801.html'>David Dubois 1724-1801'</>)
 class David_Dubois_1724-1801 father
-Jacob_Dubois(<a href=''>Jacob Dubois</>)  --> Elizabeth_Newkirk_Dubois(<a href='./Elizabeth_Newkirk_Dubois.html'>Elizabeth Newkirk Dubois</>)
+Jacob_Dubois(<a href=''>Jacob Dubois'</>)  --> Elizabeth_Newkirk_Dubois(<a href='./Elizabeth_Newkirk_Dubois.html'>Elizabeth Newkirk Dubois'</>)
 class Elizabeth_Newkirk_Dubois mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -32,6 +32,13 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1763-12-07 | New Jersey | [Jacob Dubois  birth](./../../../transcriptions/vitals/Jacob_Dubois__birth.html) | direct |
+
 Sources for parents:
 
 

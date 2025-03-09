@@ -7,3 +7,4 @@ engine: julia
 - [David Williams Jr.](./../people/Gattis-line/Green-line/Williams-line/David_Williams_Jr..html)
 - [L.B. Williams](./../people/Gattis-line/Green-line/Williams-line/L.B._Williams.html)
 - [Lavenia Williams](./../people/Gattis-line/Green-line/Williams-line/Lavenia_Williams.html)
+- [Sallie T.  Harris](./../people/Gattis-line/Green-line/Williams-line/Sallie_T.__Harris.html)

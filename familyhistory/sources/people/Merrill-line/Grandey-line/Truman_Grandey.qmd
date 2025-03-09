@@ -27,25 +27,29 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Truman_Grandey_and_Polly_Myrick marriage
-[[Polly Myrick]] --> Truman_Grandey_and_Polly_Myrick{{ }}
+Truman_Grandey(<a href=''>Truman Grandey'</>) --> Truman_Grandey_and_Polly_Myrick{{ }}
+Polly_Myrick(<a href='./../White-line/Grandey/Polly_Myrick.html'>Polly Myrick'</>) --> Truman_Grandey_and_Polly_Myrick{{ }}
 class Truman_Grandey father
 class Polly_Myrick mother
-Truman_Grandey_and_Polly_Myrick{{ }} --> [[Ellen Grandey]]
+Truman_Grandey_and_Polly_Myrick{{ }} --> Ellen_Grandey(<a href='./Ellen_Grandey.html'>Ellen Grandey'</>)
 class Ellen_Grandey_and_William_E._White marriage
-[[William E. White]] --> Ellen_Grandey_and_William_E._White{{ }}
+Ellen_Grandey(<a href=''>Ellen Grandey'</>) --> Ellen_Grandey_and_William_E._White{{ }}
+William_E._White(<a href='./../White-line/William_E._White.html'>William E. White'</>) --> Ellen_Grandey_and_William_E._White{{ }}
 class William_E._White father
 class Ellen_Grandey mother
-Ellen_Grandey_and_William_E._White{{ }} --> [[Anna Serena White]]
+Ellen_Grandey_and_William_E._White{{ }} --> Anna_Serena_White(<a href='./../White-line/Anna_Serena_White.html'>Anna Serena White'</>)
 class Anna_Serena_White_and_James_Albee_Merrill marriage
-[[James Albee Merrill]] --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+Anna_Serena_White(<a href=''>Anna Serena White'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+James_Albee_Merrill(<a href='./../James_Albee_Merrill.html'>James Albee Merrill'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
 class James_Albee_Merrill father
 class Anna_Serena_White mother
-Anna_Serena_White_and_James_Albee_Merrill{{ }} --> [[Marguerite Merrill]]
+Anna_Serena_White_and_James_Albee_Merrill{{ }} --> Marguerite_Merrill(<a href='./../Marguerite_Merrill.html'>Marguerite Merrill'</>)
 class Marguerite_Merrill_and_John_Dubois_Henderson marriage
-[[John Dubois Henderson]] --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> [[John Merrill Henderson]]
+Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

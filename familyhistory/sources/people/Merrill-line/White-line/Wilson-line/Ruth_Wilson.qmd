@@ -27,47 +27,53 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Ruth_Wilson_and_Benjamin_White marriage
-[[Benjamin White]] --> Ruth_Wilson_and_Benjamin_White{{ }}
+Ruth_Wilson(<a href=''>Ruth Wilson'</>) --> Ruth_Wilson_and_Benjamin_White{{ }}
+Benjamin_White(<a href='./../Benjamin_White.html'>Benjamin White'</>) --> Ruth_Wilson_and_Benjamin_White{{ }}
 class Benjamin_White father
 class Ruth_Wilson mother
-Ruth_Wilson_and_Benjamin_White{{ }} --> [[Ebenezer White]]
+Ruth_Wilson_and_Benjamin_White{{ }} --> Ebenezer_White(<a href='./../Ebenezer_White.html'>Ebenezer White'</>)
 class Ebenezer_White_and_Candace_Smith marriage
-[[Candace Smith]] --> Ebenezer_White_and_Candace_Smith{{ }}
+Ebenezer_White(<a href=''>Ebenezer White'</>) --> Ebenezer_White_and_Candace_Smith{{ }}
+Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith'</>) --> Ebenezer_White_and_Candace_Smith{{ }}
 class Ebenezer_White father
 class Candace_Smith mother
-Ebenezer_White_and_Candace_Smith{{ }} --> [[Horatio Nelson White]]
+Ebenezer_White_and_Candace_Smith{{ }} --> Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White'</>)
 class Horatio_Nelson_White_and_Syrena_Adams marriage
-[[Syrena Adams]] --> Horatio_Nelson_White_and_Syrena_Adams{{ }}
+Horatio_Nelson_White(<a href=''>Horatio Nelson White'</>) --> Horatio_Nelson_White_and_Syrena_Adams{{ }}
+Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams'</>) --> Horatio_Nelson_White_and_Syrena_Adams{{ }}
 class Horatio_Nelson_White father
 class Syrena_Adams mother
-Horatio_Nelson_White_and_Syrena_Adams{{ }} --> [[William E. White]]
+Horatio_Nelson_White_and_Syrena_Adams{{ }} --> William_E._White(<a href='./William_E._White.html'>William E. White'</>)
 class William_E._White_and_Ellen_Grandey marriage
-[[Ellen Grandey]] --> William_E._White_and_Ellen_Grandey{{ }}
+William_E._White(<a href=''>William E. White'</>) --> William_E._White_and_Ellen_Grandey{{ }}
+Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey'</>) --> William_E._White_and_Ellen_Grandey{{ }}
 class William_E._White father
 class Ellen_Grandey mother
-William_E._White_and_Ellen_Grandey{{ }} --> [[Anna Serena White]]
+William_E._White_and_Ellen_Grandey{{ }} --> Anna_Serena_White(<a href='./Anna_Serena_White.html'>Anna Serena White'</>)
 class Anna_Serena_White_and_James_Albee_Merrill marriage
-[[James Albee Merrill]] --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+Anna_Serena_White(<a href=''>Anna Serena White'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+James_Albee_Merrill(<a href='./../James_Albee_Merrill.html'>James Albee Merrill'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
 class James_Albee_Merrill father
 class Anna_Serena_White mother
-Anna_Serena_White_and_James_Albee_Merrill{{ }} --> [[Marguerite Merrill]]
+Anna_Serena_White_and_James_Albee_Merrill{{ }} --> Marguerite_Merrill(<a href='./../Marguerite_Merrill.html'>Marguerite Merrill'</>)
 class Marguerite_Merrill_and_John_Dubois_Henderson marriage
-[[John Dubois Henderson]] --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> [[John Merrill Henderson]]
+Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson'</>)
 class Ebenezer_White father
 class Candace_Smith mother
-Ebenezer_White_and_Candace_Smith{{ }} --> [[Adaline White]]
+Ebenezer_White_and_Candace_Smith{{ }} --> Adaline_White(<a href='./Adaline_White.html'>Adaline White'</>)
 class Ebenezer_White father
 class Candace_Smith mother
-Ebenezer_White_and_Candace_Smith{{ }} --> [[Eliza Ann White]]
+Ebenezer_White_and_Candace_Smith{{ }} --> Eliza_Ann_White(<a href='./Eliza_Ann_White.html'>Eliza Ann White'</>)
 class Ebenezer_White father
 class Candace_Smith mother
-Ebenezer_White_and_Candace_Smith{{ }} --> [[Hiram Smith White]]
+Ebenezer_White_and_Candace_Smith{{ }} --> Hiram_Smith_White(<a href='./Hiram_Smith_White.html'>Hiram Smith White'</>)
 class Ebenezer_White father
 class Candace_Smith mother
-Ebenezer_White_and_Candace_Smith{{ }} --> [[Artemas White]]
+Ebenezer_White_and_Candace_Smith{{ }} --> Artemas_White(<a href='./Artemas_White.html'>Artemas White'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

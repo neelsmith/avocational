@@ -27,32 +27,35 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Jane_Lassiter_and_William_J._Hicks marriage
-[[William J. Hicks]] --> Jane_Lassiter_and_William_J._Hicks{{ }}
+Jane_Lassiter(<a href=''>Jane Lassiter'</>) --> Jane_Lassiter_and_William_J._Hicks{{ }}
+William_J._Hicks(<a href='./../Hicks/William_J._Hicks.html'>William J. Hicks'</>) --> Jane_Lassiter_and_William_J._Hicks{{ }}
 class William_J._Hicks father
 class Jane_Lassiter mother
-Jane_Lassiter_and_William_J._Hicks{{ }} --> [[Frances Hix]]
+Jane_Lassiter_and_William_J._Hicks{{ }} --> Frances_Hix(<a href='./../Hicks/Frances_Hix.html'>Frances Hix'</>)
 class Frances_Hix_and_Calvin_Harris_Rush marriage
-[[Calvin Harris Rush]] --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
+Frances_Hix(<a href=''>Frances Hix'</>) --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
+Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Harris Rush'</>) --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Frances_Hix_and_Calvin_Harris_Rush{{ }} --> [[Clarence Harris Rush]]
+Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Clarence_Harris_Rush(<a href='./../../Rush-line/Clarence_Harris_Rush.html'>Clarence Harris Rush'</>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Frances_Hix_and_Calvin_Harris_Rush{{ }} --> [[Juanita Rush]]
+Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Juanita_Rush(<a href='./../../Rush-line/Juanita_Rush.html'>Juanita Rush'</>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Frances_Hix_and_Calvin_Harris_Rush{{ }} --> [[Mona Rush]]
+Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Mona_Rush(<a href='./../../Rush-line/Mona_Rush.html'>Mona Rush'</>)
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
-[[Charles R. Smith Sr.]] --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
+Mona_Rush(<a href=''>Mona Rush'</>) --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
+Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.'</>) --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[David Hammond Smith]]
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith'</>)
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[Richard Smith]]
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> Richard_Smith(<a href='./../Smith-line/Richard_Smith.html'>Richard Smith'</>)
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> [[Frances Smith]]
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

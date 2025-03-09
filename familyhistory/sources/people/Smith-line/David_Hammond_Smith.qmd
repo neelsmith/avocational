@@ -19,27 +19,27 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-David_Hammond_Smith(<a href=''>David Hammond Smith</>) -->  Charles_R._Smith_Sr.(<a href='./Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</>)
+David_Hammond_Smith(<a href=''>David Hammond Smith'</>) -->  Charles_R._Smith_Sr.(<a href='./Charles_R._Smith_Sr..html'>Charles R. Smith Sr.'</>)
 class Charles_R._Smith_Sr. father
-David_Hammond_Smith(<a href=''>David Hammond Smith</>)  --> Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush</>)
-Mona_Rush(<a href=''>Mona Rush</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush</>)
-Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</>)
-Noah_Rush(<a href=''>Noah Rush</>) -->  Zebedee Rush 1790-1872
+David_Hammond_Smith(<a href=''>David Hammond Smith'</>)  --> Mona_Rush(<a href='./../Rush-line/Mona_Rush.html'>Mona Rush'</>)
+Mona_Rush(<a href=''>Mona Rush'</>) -->  Calvin_Harris_Rush(<a href='./Calvin_Harris_Rush.html'>Calvin Harris Rush'</>)
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush'</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush'</>)
+Noah_Rush(<a href=''>Noah Rush'</>) -->  Zebedee_Rush_1790-1872(Zebedee Rush 1790-1872)
 class Zebedee_Rush_1790-1872 father
-Noah_Rush(<a href=''>Noah Rush</>)  --> Frances Fuller
+Noah_Rush(<a href=''>Noah Rush'</>)  --> Frances_Fuller(Frances Fuller)
 class Frances_Fuller mother
 class Noah_Rush father
-Calvin_Harris_Rush(<a href=''>Calvin Harris Rush</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</>)
-Sarah_Loflin(<a href=''>Sarah Loflin</>) -->  Cornelius Loflin
+Calvin_Harris_Rush(<a href=''>Calvin Harris Rush'</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin'</>)
+Sarah_Loflin(<a href=''>Sarah Loflin'</>) -->  Cornelius_Loflin(Cornelius Loflin)
 class Cornelius_Loflin father
-Sarah_Loflin(<a href=''>Sarah Loflin</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</>)
+Sarah_Loflin(<a href=''>Sarah Loflin'</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood'</>)
 class Martha_Patsy_Wood mother
 class Sarah_Loflin mother
 class Calvin_Harris_Rush father
-Mona_Rush(<a href=''>Mona Rush</>)  --> Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix</>)
-Frances_Hix(<a href=''>Frances Hix</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks</>)
+Mona_Rush(<a href=''>Mona Rush'</>)  --> Frances_Hix(<a href='./../Randolph_county_lines/Hicks/Frances_Hix.html'>Frances Hix'</>)
+Frances_Hix(<a href=''>Frances Hix'</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks'</>)
 class William_J._Hicks father
-Frances_Hix(<a href=''>Frances Hix</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter</>)
+Frances_Hix(<a href=''>Frances Hix'</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter'</>)
 class Jane_Lassiter mother
 class Frances_Hix mother
 class Mona_Rush mother

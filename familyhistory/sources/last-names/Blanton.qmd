@@ -9,7 +9,7 @@ engine: julia
 - [John Owen Blanton](./../people/Neel-line/Blanton-line/John_Owen_Blanton.html)
 - [Joseph Saudek](./../people/Neel-line/Blanton-line/Saudek-line/Joseph_Saudek.html)
 - [Leonora Campbell Blanton](./../people/Neel-line/Blanton-line/Leonora_Campbell_Blanton.html)
-- [Leonora Campbell Blanton](./../people/Neel-line/Blanton-line/Leonora_Campbell_Blanton.html)
+- [Leonora Campbell Blanton overview](./../overviews-people/Blanton/Leonora_Campbell_Blanton_overview.html)
 - [Leonora Josephine Saudek](./../people/Neel-line/Blanton-line/Saudek-line/Leonora_Josephine_Saudek.html)
 - [Mary Josephine Blanton](./../overviews-people/Blanton/Mary_Josephine_Blanton.html)
 - [Mary Melissa Burrow](./../people/Neel-line/Blanton-line/Mary_Melissa_Burrow.html)

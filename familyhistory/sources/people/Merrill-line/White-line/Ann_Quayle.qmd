@@ -31,16 +31,17 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Ann_Quayle_and_Henry_George_White marriage
-[[Henry George White]] --> Ann_Quayle_and_Henry_George_White{{ }}
+Ann_Quayle(<a href=''>Ann Quayle'</>) --> Ann_Quayle_and_Henry_George_White{{ }}
+Henry_George_White(<a href='./Henry_George_White.html'>Henry George White'</>) --> Ann_Quayle_and_Henry_George_White{{ }}
 class Henry_George_White father
 class Ann_Quayle mother
-Ann_Quayle_and_Henry_George_White{{ }} --> [[Charles H. White]]
+Ann_Quayle_and_Henry_George_White{{ }} --> Charles_H._White(<a href='./Charles_H._White.html'>Charles H. White'</>)
 class Henry_George_White father
 class Ann_Quayle mother
-Ann_Quayle_and_Henry_George_White{{ }} --> [[George William White]]
+Ann_Quayle_and_Henry_George_White{{ }} --> George_William_White(<a href='./George_William_White.html'>George William White'</>)
 class Henry_George_White father
 class Ann_Quayle mother
-Ann_Quayle_and_Henry_George_White{{ }} --> [[James Herbert White]]
+Ann_Quayle_and_Henry_George_White{{ }} --> James_Herbert_White(<a href='./James_Herbert_White.html'>James Herbert White'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

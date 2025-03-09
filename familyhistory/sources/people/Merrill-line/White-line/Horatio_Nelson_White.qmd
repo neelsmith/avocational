@@ -26,27 +26,27 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Horatio_Nelson_White(<a href=''>Horatio Nelson White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
-Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+Horatio_Nelson_White(<a href=''>Horatio Nelson White'</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White'</>)
+Ebenezer_White(<a href=''>Ebenezer White'</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White'</>)
 class Benjamin_White father
-Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+Ebenezer_White(<a href=''>Ebenezer White'</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson'</>)
 class Ruth_Wilson mother
 class Ebenezer_White father
-Horatio_Nelson_White(<a href=''>Horatio Nelson White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
-Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
-Moses_Smith(<a href=''>Moses Smith</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</>)
+Horatio_Nelson_White(<a href=''>Horatio Nelson White'</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith'</>)
+Candace_Smith(<a href=''>Candace Smith'</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith'</>)
+Moses_Smith(<a href=''>Moses Smith'</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith'</>)
 class Ephraim_Smith father
-Moses_Smith(<a href=''>Moses Smith</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</>)
+Moses_Smith(<a href=''>Moses Smith'</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice'</>)
 class Hannah_Rice mother
 class Moses_Smith father
-Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
-Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
-Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia Smith
+Candace_Smith(<a href=''>Candace Smith'</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith'</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith'</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith'</>)
+Zachariah_Smith(<a href=''>Zachariah Smith'</>) -->  Zachia_Smith(Zachia Smith)
 class Zachia_Smith father
-Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
+Zachariah_Smith(<a href=''>Zachariah Smith'</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout'</>)
 class Susanah_Grout mother
 class Zachariah_Smith father
-Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith'</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith'</>)
 class Lydia_Hastings_Smith mother
 class Lydia_Jepson_Smith mother
 class Candace_Smith mother
@@ -64,25 +64,29 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Horatio_Nelson_White_and_Syrena_Adams marriage
-[[Syrena Adams]] --> Horatio_Nelson_White_and_Syrena_Adams{{ }}
+Horatio_Nelson_White(<a href=''>Horatio Nelson White'</>) --> Horatio_Nelson_White_and_Syrena_Adams{{ }}
+Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams'</>) --> Horatio_Nelson_White_and_Syrena_Adams{{ }}
 class Horatio_Nelson_White father
 class Syrena_Adams mother
-Horatio_Nelson_White_and_Syrena_Adams{{ }} --> [[William E. White]]
+Horatio_Nelson_White_and_Syrena_Adams{{ }} --> William_E._White(<a href='./William_E._White.html'>William E. White'</>)
 class William_E._White_and_Ellen_Grandey marriage
-[[Ellen Grandey]] --> William_E._White_and_Ellen_Grandey{{ }}
+William_E._White(<a href=''>William E. White'</>) --> William_E._White_and_Ellen_Grandey{{ }}
+Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey'</>) --> William_E._White_and_Ellen_Grandey{{ }}
 class William_E._White father
 class Ellen_Grandey mother
-William_E._White_and_Ellen_Grandey{{ }} --> [[Anna Serena White]]
+William_E._White_and_Ellen_Grandey{{ }} --> Anna_Serena_White(<a href='./Anna_Serena_White.html'>Anna Serena White'</>)
 class Anna_Serena_White_and_James_Albee_Merrill marriage
-[[James Albee Merrill]] --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+Anna_Serena_White(<a href=''>Anna Serena White'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+James_Albee_Merrill(<a href='./../James_Albee_Merrill.html'>James Albee Merrill'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
 class James_Albee_Merrill father
 class Anna_Serena_White mother
-Anna_Serena_White_and_James_Albee_Merrill{{ }} --> [[Marguerite Merrill]]
+Anna_Serena_White_and_James_Albee_Merrill{{ }} --> Marguerite_Merrill(<a href='./../Marguerite_Merrill.html'>Marguerite Merrill'</>)
 class Marguerite_Merrill_and_John_Dubois_Henderson marriage
-[[John Dubois Henderson]] --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> [[John Merrill Henderson]]
+Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

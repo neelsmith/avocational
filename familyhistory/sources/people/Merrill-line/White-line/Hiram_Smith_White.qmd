@@ -19,27 +19,27 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Hiram_Smith_White(<a href=''>Hiram Smith White</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</>)
-Ebenezer_White(<a href=''>Ebenezer White</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</>)
+Hiram_Smith_White(<a href=''>Hiram Smith White'</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White'</>)
+Ebenezer_White(<a href=''>Ebenezer White'</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White'</>)
 class Benjamin_White father
-Ebenezer_White(<a href=''>Ebenezer White</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</>)
+Ebenezer_White(<a href=''>Ebenezer White'</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson'</>)
 class Ruth_Wilson mother
 class Ebenezer_White father
-Hiram_Smith_White(<a href=''>Hiram Smith White</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</>)
-Candace_Smith(<a href=''>Candace Smith</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</>)
-Moses_Smith(<a href=''>Moses Smith</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</>)
+Hiram_Smith_White(<a href=''>Hiram Smith White'</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith'</>)
+Candace_Smith(<a href=''>Candace Smith'</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith'</>)
+Moses_Smith(<a href=''>Moses Smith'</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith'</>)
 class Ephraim_Smith father
-Moses_Smith(<a href=''>Moses Smith</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</>)
+Moses_Smith(<a href=''>Moses Smith'</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice'</>)
 class Hannah_Rice mother
 class Moses_Smith father
-Candace_Smith(<a href=''>Candace Smith</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</>)
-Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</>)
-Zachariah_Smith(<a href=''>Zachariah Smith</>) -->  Zachia Smith
+Candace_Smith(<a href=''>Candace Smith'</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith'</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith'</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith'</>)
+Zachariah_Smith(<a href=''>Zachariah Smith'</>) -->  Zachia_Smith(Zachia Smith)
 class Zachia_Smith father
-Zachariah_Smith(<a href=''>Zachariah Smith</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</>)
+Zachariah_Smith(<a href=''>Zachariah Smith'</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout'</>)
 class Susanah_Grout mother
 class Zachariah_Smith father
-Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith'</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith'</>)
 class Lydia_Hastings_Smith mother
 class Lydia_Jepson_Smith mother
 class Candace_Smith mother

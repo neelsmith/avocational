@@ -26,9 +26,9 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Frances_Dubois(<a href=''>Frances Dubois</>) -->  David_Dubois(<a href='./David_Dubois.html'>David Dubois</>)
+Frances_Dubois(<a href=''>Frances Dubois'</>) -->  David_Dubois(<a href='./David_Dubois.html'>David Dubois'</>)
 class David_Dubois father
-Frances_Dubois(<a href=''>Frances Dubois</>)  --> Sarah Tillinghast
+Frances_Dubois(<a href=''>Frances Dubois'</>)  --> Sarah_Tillinghast(Sarah Tillinghast)
 class Sarah_Tillinghast mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -44,15 +44,17 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Frances_Dubois_and_John_Dryden_Henderson marriage
-[[John Dryden Henderson]] --> Frances_Dubois_and_John_Dryden_Henderson{{ }}
+Frances_Dubois(<a href=''>Frances Dubois'</>) --> Frances_Dubois_and_John_Dryden_Henderson{{ }}
+John_Dryden_Henderson(<a href='./../John_Dryden_Henderson.html'>John Dryden Henderson'</>) --> Frances_Dubois_and_John_Dryden_Henderson{{ }}
 class John_Dryden_Henderson father
 class Frances_Dubois mother
-Frances_Dubois_and_John_Dryden_Henderson{{ }} --> [[John Dubois Henderson]]
+Frances_Dubois_and_John_Dryden_Henderson{{ }} --> John_Dubois_Henderson(<a href='./../John_Dubois_Henderson.html'>John Dubois Henderson'</>)
 class John_Dubois_Henderson_and_Marguerite_Merrill marriage
-[[Marguerite Merrill]] --> John_Dubois_Henderson_and_Marguerite_Merrill{{ }}
+John_Dubois_Henderson(<a href=''>John Dubois Henderson'</>) --> John_Dubois_Henderson_and_Marguerite_Merrill{{ }}
+Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill'</>) --> John_Dubois_Henderson_and_Marguerite_Merrill{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-John_Dubois_Henderson_and_Marguerite_Merrill{{ }} --> [[John Merrill Henderson]]
+John_Dubois_Henderson_and_Marguerite_Merrill{{ }} --> John_Merrill_Henderson(<a href='./John_Merrill_Henderson.html'>John Merrill Henderson'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

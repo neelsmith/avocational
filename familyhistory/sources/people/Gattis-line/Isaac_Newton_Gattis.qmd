@@ -26,18 +26,18 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>) -->  Thomas_A._Gattis(<a href='./Thomas_A._Gattis.html'>Thomas A. Gattis</>)
-Thomas_A._Gattis(<a href=''>Thomas A. Gattis</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</>)
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis'</>) -->  Thomas_A._Gattis(<a href='./Thomas_A._Gattis.html'>Thomas A. Gattis'</>)
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis'</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.'</>)
 class Isaac_Newton_Gattis_Sr. father
 class Thomas_A._Gattis father
-Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</>)  --> Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</>)
-Julia_B._Euless(<a href=''>Julia B. Euless</>) -->  Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless</>)
-Adam_Euless(<a href=''>Adam Euless</>) -->  Philip_Euless(<a href='./Philip_Euless.html'>Philip Euless</>)
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis'</>)  --> Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless'</>)
+Julia_B._Euless(<a href=''>Julia B. Euless'</>) -->  Adam_Euless(<a href='./Adam_Euless.html'>Adam Euless'</>)
+Adam_Euless(<a href=''>Adam Euless'</>) -->  Philip_Euless(<a href='./Philip_Euless.html'>Philip Euless'</>)
 class Philip_Euless father
-Adam_Euless(<a href=''>Adam Euless</>)  --> Elizabeth_Euless(<a href='./Elizabeth_Euless.html'>Elizabeth Euless</>)
+Adam_Euless(<a href=''>Adam Euless'</>)  --> Elizabeth_Euless(<a href='./Elizabeth_Euless.html'>Elizabeth Euless'</>)
 class Elizabeth_Euless mother
 class Adam_Euless father
-Julia_B._Euless(<a href=''>Julia B. Euless</>)  --> Dorotha_Shofner(<a href='./Dorotha_Shofner.html'>Dorotha Shofner</>)
+Julia_B._Euless(<a href=''>Julia B. Euless'</>)  --> Dorotha_Shofner(<a href='./Dorotha_Shofner.html'>Dorotha Shofner'</>)
 class Dorotha_Shofner mother
 class Julia_B._Euless mother
 classDef mother fill:#ffd1dc
@@ -54,15 +54,17 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Isaac_Newton_Gattis_and_Cassie_Green marriage
-[[Cassie Green]] --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis'</>) --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
+Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green'</>) --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
 class Isaac_Newton_Gattis father
 class Cassie_Green mother
-Isaac_Newton_Gattis_and_Cassie_Green{{ }} --> [[Claud Gattis]]
+Isaac_Newton_Gattis_and_Cassie_Green{{ }} --> Claud_Gattis(<a href='./Claud_Gattis.html'>Claud Gattis'</>)
 class Claud_Gattis_and_Mary_Louise_Neel marriage
-[[Mary Louise Neel]] --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
+Claud_Gattis(<a href=''>Claud Gattis'</>) --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
+Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel'</>) --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
 class Claud_Gattis father
 class Mary_Louise_Neel mother
-Claud_Gattis_and_Mary_Louise_Neel{{ }} --> [[Judy Gattis]]
+Claud_Gattis_and_Mary_Louise_Neel{{ }} --> Judy_Gattis(Judy Gattis)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

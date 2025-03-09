@@ -27,10 +27,11 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Elizabeth_Newkirk_Dubois_and_David_Dubois_1724-1801 marriage
-[[David Dubois 1724-1801]] --> Elizabeth_Newkirk_Dubois_and_David_Dubois_1724-1801{{ }}
+Elizabeth_Newkirk_Dubois(<a href=''>Elizabeth Newkirk Dubois'</>) --> Elizabeth_Newkirk_Dubois_and_David_Dubois_1724-1801{{ }}
+David_Dubois_1724-1801(<a href='./David_Dubois_1724-1801.html'>David Dubois 1724-1801'</>) --> Elizabeth_Newkirk_Dubois_and_David_Dubois_1724-1801{{ }}
 class David_Dubois_1724-1801 father
 class Elizabeth_Newkirk_Dubois mother
-Elizabeth_Newkirk_Dubois_and_David_Dubois_1724-1801{{ }} --> [[Jacob Dubois]]
+Elizabeth_Newkirk_Dubois_and_David_Dubois_1724-1801{{ }} --> Jacob_Dubois(<a href='./Jacob_Dubois.html'>Jacob Dubois'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

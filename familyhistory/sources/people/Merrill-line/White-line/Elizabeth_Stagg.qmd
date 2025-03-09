@@ -26,7 +26,7 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Elizabeth_Stagg(<a href=''>Elizabeth Stagg</>) -->  Josiah Stagg
+Elizabeth_Stagg(<a href=''>Elizabeth Stagg'</>) -->  Josiah_Stagg(Josiah Stagg)
 class Josiah_Stagg father
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -42,30 +42,35 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Elizabeth_Stagg_and_Friend_Adams marriage
-[[Friend Adams]] --> Elizabeth_Stagg_and_Friend_Adams{{ }}
+Elizabeth_Stagg(<a href=''>Elizabeth Stagg'</>) --> Elizabeth_Stagg_and_Friend_Adams{{ }}
+Friend_Adams(<a href='./Friend_Adams.html'>Friend Adams'</>) --> Elizabeth_Stagg_and_Friend_Adams{{ }}
 class Friend_Adams father
 class Elizabeth_Stagg mother
-Elizabeth_Stagg_and_Friend_Adams{{ }} --> [[Syrena Adams]]
+Elizabeth_Stagg_and_Friend_Adams{{ }} --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams'</>)
 class Syrena_Adams_and_Horatio_Nelson_White marriage
-[[Horatio Nelson White]] --> Syrena_Adams_and_Horatio_Nelson_White{{ }}
+Syrena_Adams(<a href=''>Syrena Adams'</>) --> Syrena_Adams_and_Horatio_Nelson_White{{ }}
+Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White'</>) --> Syrena_Adams_and_Horatio_Nelson_White{{ }}
 class Horatio_Nelson_White father
 class Syrena_Adams mother
-Syrena_Adams_and_Horatio_Nelson_White{{ }} --> [[William E. White]]
+Syrena_Adams_and_Horatio_Nelson_White{{ }} --> William_E._White(<a href='./William_E._White.html'>William E. White'</>)
 class William_E._White_and_Ellen_Grandey marriage
-[[Ellen Grandey]] --> William_E._White_and_Ellen_Grandey{{ }}
+William_E._White(<a href=''>William E. White'</>) --> William_E._White_and_Ellen_Grandey{{ }}
+Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey'</>) --> William_E._White_and_Ellen_Grandey{{ }}
 class William_E._White father
 class Ellen_Grandey mother
-William_E._White_and_Ellen_Grandey{{ }} --> [[Anna Serena White]]
+William_E._White_and_Ellen_Grandey{{ }} --> Anna_Serena_White(<a href='./Anna_Serena_White.html'>Anna Serena White'</>)
 class Anna_Serena_White_and_James_Albee_Merrill marriage
-[[James Albee Merrill]] --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+Anna_Serena_White(<a href=''>Anna Serena White'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
+James_Albee_Merrill(<a href='./../James_Albee_Merrill.html'>James Albee Merrill'</>) --> Anna_Serena_White_and_James_Albee_Merrill{{ }}
 class James_Albee_Merrill father
 class Anna_Serena_White mother
-Anna_Serena_White_and_James_Albee_Merrill{{ }} --> [[Marguerite Merrill]]
+Anna_Serena_White_and_James_Albee_Merrill{{ }} --> Marguerite_Merrill(<a href='./../Marguerite_Merrill.html'>Marguerite Merrill'</>)
 class Marguerite_Merrill_and_John_Dubois_Henderson marriage
-[[John Dubois Henderson]] --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> [[John Merrill Henderson]]
+Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson'</>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

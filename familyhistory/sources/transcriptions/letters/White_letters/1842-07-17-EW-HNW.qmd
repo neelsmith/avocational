@@ -42,7 +42,17 @@ Page 1: [IMG_3059](./../../../images/IMG_3059.html)
 
 ## Notes
 
+From
+
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+
+to
+
+refersto::[[Horatio Nelson White]]
+
+
 Family members in the letter:
+
 
 refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html) 
 refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html) 
