@@ -19,9 +19,9 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Jacob_Dubois(<a href=''>Jacob Dubois'</>) -->  David_Dubois_1724-1801(<a href='./David_Dubois_1724-1801.html'>David Dubois 1724-1801'</>)
+Jacob_Dubois(<a href=''>Jacob Dubois</a>) -->  David_Dubois_1724-1801(<a href='./David_Dubois_1724-1801.html'>David Dubois 1724-1801</a>)
 class David_Dubois_1724-1801 father
-Jacob_Dubois(<a href=''>Jacob Dubois'</>)  --> Elizabeth_Newkirk_Dubois(<a href='./Elizabeth_Newkirk_Dubois.html'>Elizabeth Newkirk Dubois'</>)
+Jacob_Dubois(<a href=''>Jacob Dubois</a>)  --> Elizabeth_Newkirk_Dubois(<a href='./Elizabeth_Newkirk_Dubois.html'>Elizabeth Newkirk Dubois</a>)
 class Elizabeth_Newkirk_Dubois mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  

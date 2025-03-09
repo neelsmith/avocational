@@ -29,14 +29,14 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Susan_D._Winslow_and_Henry_George_White marriage
-Susan_D._Winslow(<a href=''>Susan D. Winslow'</>) --> Susan_D._Winslow_and_Henry_George_White{{ }}
-Henry_George_White(<a href='./Henry_George_White.html'>Henry George White'</>) --> Susan_D._Winslow_and_Henry_George_White{{ }}
+Susan_D._Winslow(<a href=''>Susan D. Winslow</a>) --> Susan_D._Winslow_and_Henry_George_White{{ }}
+Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</a>) --> Susan_D._Winslow_and_Henry_George_White{{ }}
 class Henry_George_White father
 class Susan_D._Winslow mother
-Susan_D._Winslow_and_Henry_George_White{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White'</>)
+Susan_D._Winslow_and_Henry_George_White{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</a>)
 class Henry_George_White father
 class Susan_D._Winslow mother
-Susan_D._Winslow_and_Henry_George_White{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White'</>)
+Susan_D._Winslow_and_Henry_George_White{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</a>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

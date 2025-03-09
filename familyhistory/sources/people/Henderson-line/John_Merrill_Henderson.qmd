@@ -19,96 +19,96 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-John_Merrill_Henderson(<a href=''>John Merrill Henderson'</>) -->  John_Dubois_Henderson(<a href='./John_Dubois_Henderson.html'>John Dubois Henderson'</>)
-John_Dubois_Henderson(<a href=''>John Dubois Henderson'</>) -->  John_Dryden_Henderson(<a href='./John_Dryden_Henderson.html'>John Dryden Henderson'</>)
-John_Dryden_Henderson(<a href=''>John Dryden Henderson'</>) -->  Nathaniel_S._Henderson(<a href='./Nathaniel_S._Henderson.html'>Nathaniel S. Henderson'</>)
-Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson'</>) -->  Daniel_Clyde_Henderson(<a href='./Daniel_Clyde_Henderson.html'>Daniel Clyde Henderson'</>)
-Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson'</>) -->  Edward_Henderson(Edward Henderson)
+John_Merrill_Henderson(<a href=''>John Merrill Henderson</a>) -->  John_Dubois_Henderson(<a href='./John_Dubois_Henderson.html'>John Dubois Henderson</a>)
+John_Dubois_Henderson(<a href=''>John Dubois Henderson</a>) -->  John_Dryden_Henderson(<a href='./John_Dryden_Henderson.html'>John Dryden Henderson</a>)
+John_Dryden_Henderson(<a href=''>John Dryden Henderson</a>) -->  Nathaniel_S._Henderson(<a href='./Nathaniel_S._Henderson.html'>Nathaniel S. Henderson</a>)
+Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</a>) -->  Daniel_Clyde_Henderson(<a href='./Daniel_Clyde_Henderson.html'>Daniel Clyde Henderson</a>)
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</a>) -->  Edward_Henderson(Edward Henderson)
 class Edward_Henderson father
-Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson'</>)  --> Mary_Mathis(Mary Mathis)
+Daniel_Clyde_Henderson(<a href=''>Daniel Clyde Henderson</a>)  --> Mary_Mathis(Mary Mathis)
 class Mary_Mathis mother
 class Daniel_Clyde_Henderson father
-Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson'</>)  --> Margaret_Carpenter(<a href='./Carpenter-line/Margaret_Carpenter.html'>Margaret Carpenter'</>)
+Nathaniel_S._Henderson(<a href=''>Nathaniel S. Henderson</a>)  --> Margaret_Carpenter(<a href='./Carpenter-line/Margaret_Carpenter.html'>Margaret Carpenter</a>)
 class Margaret_Carpenter mother
 class Nathaniel_S._Henderson father
-John_Dryden_Henderson(<a href=''>John Dryden Henderson'</>)  --> Angeline_Ayers(<a href='./Ayers-line/Angeline_Ayers.html'>Angeline Ayers'</>)
-Angeline_Ayers(<a href=''>Angeline Ayers'</>) -->  Stephen_Ayres(<a href='./Stephen_Ayres.html'>Stephen Ayres'</>)
-Stephen_Ayres(<a href=''>Stephen Ayres'</>) -->  Jabez_Ayers(Jabez Ayers)
+John_Dryden_Henderson(<a href=''>John Dryden Henderson</a>)  --> Angeline_Ayers(<a href='./Ayers-line/Angeline_Ayers.html'>Angeline Ayers</a>)
+Angeline_Ayers(<a href=''>Angeline Ayers</a>) -->  Stephen_Ayres(<a href='./Stephen_Ayres.html'>Stephen Ayres</a>)
+Stephen_Ayres(<a href=''>Stephen Ayres</a>) -->  Jabez_Ayers(Jabez Ayers)
 class Jabez_Ayers father
-Stephen_Ayres(<a href=''>Stephen Ayres'</>)  --> Persis_Ayers(Persis Ayers)
+Stephen_Ayres(<a href=''>Stephen Ayres</a>)  --> Persis_Ayers(Persis Ayers)
 class Persis_Ayers mother
 class Stephen_Ayres father
-Angeline_Ayers(<a href=''>Angeline Ayers'</>)  --> Rocena_Snow(<a href='./Rocena_Snow.html'>Rocena Snow'</>)
+Angeline_Ayers(<a href=''>Angeline Ayers</a>)  --> Rocena_Snow(<a href='./Rocena_Snow.html'>Rocena Snow</a>)
 class Rocena_Snow mother
 class Angeline_Ayers mother
 class John_Dryden_Henderson father
-John_Dubois_Henderson(<a href=''>John Dubois Henderson'</>)  --> Frances_Dubois(<a href='./Dubois-line/Frances_Dubois.html'>Frances Dubois'</>)
-Frances_Dubois(<a href=''>Frances Dubois'</>) -->  David_Dubois(<a href='./David_Dubois.html'>David Dubois'</>)
+John_Dubois_Henderson(<a href=''>John Dubois Henderson</a>)  --> Frances_Dubois(<a href='./Dubois-line/Frances_Dubois.html'>Frances Dubois</a>)
+Frances_Dubois(<a href=''>Frances Dubois</a>) -->  David_Dubois(<a href='./David_Dubois.html'>David Dubois</a>)
 class David_Dubois father
-Frances_Dubois(<a href=''>Frances Dubois'</>)  --> Sarah_Tillinghast(Sarah Tillinghast)
+Frances_Dubois(<a href=''>Frances Dubois</a>)  --> Sarah_Tillinghast(Sarah Tillinghast)
 class Sarah_Tillinghast mother
 class Frances_Dubois mother
 class John_Dubois_Henderson father
-John_Merrill_Henderson(<a href=''>John Merrill Henderson'</>)  --> Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill'</>)
-Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) -->  James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill'</>)
-James_Albee_Merrill(<a href=''>James Albee Merrill'</>) -->  Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill'</>)
-Hiram_Merrill(<a href=''>Hiram Merrill'</>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill'</>)
+John_Merrill_Henderson(<a href=''>John Merrill Henderson</a>)  --> Marguerite_Merrill(<a href='./../Merrill-line/Marguerite_Merrill.html'>Marguerite Merrill</a>)
+Marguerite_Merrill(<a href=''>Marguerite Merrill</a>) -->  James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</a>)
+James_Albee_Merrill(<a href=''>James Albee Merrill</a>) -->  Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</a>)
+Hiram_Merrill(<a href=''>Hiram Merrill</a>) -->  Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</a>)
 class Aaron_Merrill father
-Hiram_Merrill(<a href=''>Hiram Merrill'</>)  --> Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand'</>)
-Nancy_Farrand(<a href=''>Nancy Farrand'</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand'</>)
+Hiram_Merrill(<a href=''>Hiram Merrill</a>)  --> Nancy_Farrand(<a href='./Nancy_Farrand.html'>Nancy Farrand</a>)
+Nancy_Farrand(<a href=''>Nancy Farrand</a>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</a>)
 class Bethuel_Farrand father
-Nancy_Farrand(<a href=''>Nancy Farrand'</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith'</>)
+Nancy_Farrand(<a href=''>Nancy Farrand</a>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</a>)
 class Rhoda_Smith mother
 class Nancy_Farrand mother
 class Hiram_Merrill father
-James_Albee_Merrill(<a href=''>James Albee Merrill'</>)  --> Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell'</>)
-Lucy_Witherell(<a href=''>Lucy Witherell'</>) -->  James_Witherell(<a href='./James_Witherell.html'>James Witherell'</>)
+James_Albee_Merrill(<a href=''>James Albee Merrill</a>)  --> Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</a>)
+Lucy_Witherell(<a href=''>Lucy Witherell</a>) -->  James_Witherell(<a href='./James_Witherell.html'>James Witherell</a>)
 class James_Witherell father
-Lucy_Witherell(<a href=''>Lucy Witherell'</>)  --> Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis'</>)
+Lucy_Witherell(<a href=''>Lucy Witherell</a>)  --> Susan_Willis(<a href='./Willis-line/Susan_Willis.html'>Susan Willis</a>)
 class Susan_Willis mother
 class Lucy_Witherell mother
 class James_Albee_Merrill father
-Marguerite_Merrill(<a href=''>Marguerite Merrill'</>)  --> Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White'</>)
-Anna_Serena_White(<a href=''>Anna Serena White'</>) -->  William_E._White(<a href='./William_E._White.html'>William E. White'</>)
-William_E._White(<a href=''>William E. White'</>) -->  Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White'</>)
-Horatio_Nelson_White(<a href=''>Horatio Nelson White'</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White'</>)
-Ebenezer_White(<a href=''>Ebenezer White'</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White'</>)
+Marguerite_Merrill(<a href=''>Marguerite Merrill</a>)  --> Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</a>)
+Anna_Serena_White(<a href=''>Anna Serena White</a>) -->  William_E._White(<a href='./William_E._White.html'>William E. White</a>)
+William_E._White(<a href=''>William E. White</a>) -->  Horatio_Nelson_White(<a href='./Horatio_Nelson_White.html'>Horatio Nelson White</a>)
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</a>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</a>)
+Ebenezer_White(<a href=''>Ebenezer White</a>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</a>)
 class Benjamin_White father
-Ebenezer_White(<a href=''>Ebenezer White'</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson'</>)
+Ebenezer_White(<a href=''>Ebenezer White</a>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</a>)
 class Ruth_Wilson mother
 class Ebenezer_White father
-Horatio_Nelson_White(<a href=''>Horatio Nelson White'</>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith'</>)
-Candace_Smith(<a href=''>Candace Smith'</>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith'</>)
-Moses_Smith(<a href=''>Moses Smith'</>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith'</>)
+Horatio_Nelson_White(<a href=''>Horatio Nelson White</a>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</a>)
+Candace_Smith(<a href=''>Candace Smith</a>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</a>)
+Moses_Smith(<a href=''>Moses Smith</a>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</a>)
 class Ephraim_Smith father
-Moses_Smith(<a href=''>Moses Smith'</>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice'</>)
+Moses_Smith(<a href=''>Moses Smith</a>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</a>)
 class Hannah_Rice mother
 class Moses_Smith father
-Candace_Smith(<a href=''>Candace Smith'</>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith'</>)
-Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith'</>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith'</>)
-Zachariah_Smith(<a href=''>Zachariah Smith'</>) -->  Zachia_Smith(Zachia Smith)
+Candace_Smith(<a href=''>Candace Smith</a>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</a>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</a>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</a>)
+Zachariah_Smith(<a href=''>Zachariah Smith</a>) -->  Zachia_Smith(Zachia Smith)
 class Zachia_Smith father
-Zachariah_Smith(<a href=''>Zachariah Smith'</>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout'</>)
+Zachariah_Smith(<a href=''>Zachariah Smith</a>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</a>)
 class Susanah_Grout mother
 class Zachariah_Smith father
-Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith'</>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith'</>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</a>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</a>)
 class Lydia_Hastings_Smith mother
 class Lydia_Jepson_Smith mother
 class Candace_Smith mother
 class Horatio_Nelson_White father
-William_E._White(<a href=''>William E. White'</>)  --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams'</>)
-Syrena_Adams(<a href=''>Syrena Adams'</>) -->  Friend_Adams(<a href='./Friend_Adams.html'>Friend Adams'</>)
+William_E._White(<a href=''>William E. White</a>)  --> Syrena_Adams(<a href='./Syrena_Adams.html'>Syrena Adams</a>)
+Syrena_Adams(<a href=''>Syrena Adams</a>) -->  Friend_Adams(<a href='./Friend_Adams.html'>Friend Adams</a>)
 class Friend_Adams father
-Syrena_Adams(<a href=''>Syrena Adams'</>)  --> Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg'</>)
-Elizabeth_Stagg(<a href=''>Elizabeth Stagg'</>) -->  Josiah_Stagg(Josiah Stagg)
+Syrena_Adams(<a href=''>Syrena Adams</a>)  --> Elizabeth_Stagg(<a href='./Elizabeth_Stagg.html'>Elizabeth Stagg</a>)
+Elizabeth_Stagg(<a href=''>Elizabeth Stagg</a>) -->  Josiah_Stagg(Josiah Stagg)
 class Josiah_Stagg father
 class Elizabeth_Stagg mother
 class Syrena_Adams mother
 class William_E._White father
-Anna_Serena_White(<a href=''>Anna Serena White'</>)  --> Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey'</>)
-Ellen_Grandey(<a href=''>Ellen Grandey'</>) -->  Truman_Grandey(<a href='./Truman_Grandey.html'>Truman Grandey'</>)
+Anna_Serena_White(<a href=''>Anna Serena White</a>)  --> Ellen_Grandey(<a href='./../Grandey-line/Ellen_Grandey.html'>Ellen Grandey</a>)
+Ellen_Grandey(<a href=''>Ellen Grandey</a>) -->  Truman_Grandey(<a href='./Truman_Grandey.html'>Truman Grandey</a>)
 class Truman_Grandey father
-Ellen_Grandey(<a href=''>Ellen Grandey'</>)  --> Polly_Myrick(<a href='./../White-line/Grandey/Polly_Myrick.html'>Polly Myrick'</>)
+Ellen_Grandey(<a href=''>Ellen Grandey</a>)  --> Polly_Myrick(<a href='./../White-line/Grandey/Polly_Myrick.html'>Polly Myrick</a>)
 class Polly_Myrick mother
 class Ellen_Grandey mother
 class Anna_Serena_White mother

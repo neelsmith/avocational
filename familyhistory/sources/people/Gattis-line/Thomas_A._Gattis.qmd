@@ -26,7 +26,7 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Thomas_A._Gattis(<a href=''>Thomas A. Gattis'</>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.'</>)
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</a>) -->  Isaac_Newton_Gattis_Sr.(<a href='./Isaac_Newton_Gattis_Sr..html'>Isaac Newton Gattis Sr.</a>)
 class Isaac_Newton_Gattis_Sr. father
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -42,20 +42,20 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Thomas_A._Gattis_and_Julia_B._Euless marriage
-Thomas_A._Gattis(<a href=''>Thomas A. Gattis'</>) --> Thomas_A._Gattis_and_Julia_B._Euless{{ }}
-Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless'</>) --> Thomas_A._Gattis_and_Julia_B._Euless{{ }}
+Thomas_A._Gattis(<a href=''>Thomas A. Gattis</a>) --> Thomas_A._Gattis_and_Julia_B._Euless{{ }}
+Julia_B._Euless(<a href='./Euless-line/Julia_B._Euless.html'>Julia B. Euless</a>) --> Thomas_A._Gattis_and_Julia_B._Euless{{ }}
 class Thomas_A._Gattis father
 class Julia_B._Euless mother
-Thomas_A._Gattis_and_Julia_B._Euless{{ }} --> Isaac_Newton_Gattis(<a href='./Isaac_Newton_Gattis.html'>Isaac Newton Gattis'</>)
+Thomas_A._Gattis_and_Julia_B._Euless{{ }} --> Isaac_Newton_Gattis(<a href='./Isaac_Newton_Gattis.html'>Isaac Newton Gattis</a>)
 class Isaac_Newton_Gattis_and_Cassie_Green marriage
-Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis'</>) --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
-Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green'</>) --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
+Isaac_Newton_Gattis(<a href=''>Isaac Newton Gattis</a>) --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
+Cassie_Green(<a href='./Green-line/Cassie_Green.html'>Cassie Green</a>) --> Isaac_Newton_Gattis_and_Cassie_Green{{ }}
 class Isaac_Newton_Gattis father
 class Cassie_Green mother
-Isaac_Newton_Gattis_and_Cassie_Green{{ }} --> Claud_Gattis(<a href='./Claud_Gattis.html'>Claud Gattis'</>)
+Isaac_Newton_Gattis_and_Cassie_Green{{ }} --> Claud_Gattis(<a href='./Claud_Gattis.html'>Claud Gattis</a>)
 class Claud_Gattis_and_Mary_Louise_Neel marriage
-Claud_Gattis(<a href=''>Claud Gattis'</>) --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
-Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel'</>) --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
+Claud_Gattis(<a href=''>Claud Gattis</a>) --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
+Mary_Louise_Neel(<a href='./../Neel-line/Mary_Louise_Neel.html'>Mary Louise Neel</a>) --> Claud_Gattis_and_Mary_Louise_Neel{{ }}
 class Claud_Gattis father
 class Mary_Louise_Neel mother
 Claud_Gattis_and_Mary_Louise_Neel{{ }} --> Judy_Gattis(Judy Gattis)

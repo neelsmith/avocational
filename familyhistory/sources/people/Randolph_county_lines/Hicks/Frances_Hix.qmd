@@ -30,9 +30,9 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Frances_Hix(<a href=''>Frances Hix'</>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks'</>)
+Frances_Hix(<a href=''>Frances Hix</a>) -->  William_J._Hicks(<a href='./William_J._Hicks.html'>William J. Hicks</a>)
 class William_J._Hicks father
-Frances_Hix(<a href=''>Frances Hix'</>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter'</>)
+Frances_Hix(<a href=''>Frances Hix</a>)  --> Jane_Lassiter(<a href='./../Lassiter/Jane_Lassiter.html'>Jane Lassiter</a>)
 class Jane_Lassiter mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -48,29 +48,29 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Frances_Hix_and_Calvin_Harris_Rush marriage
-Frances_Hix(<a href=''>Frances Hix'</>) --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
-Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Harris Rush'</>) --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
+Frances_Hix(<a href=''>Frances Hix</a>) --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
+Calvin_Harris_Rush(<a href='./../../Rush-line/Calvin_Harris_Rush.html'>Calvin Harris Rush</a>) --> Frances_Hix_and_Calvin_Harris_Rush{{ }}
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Clarence_Harris_Rush(<a href='./../../Rush-line/Clarence_Harris_Rush.html'>Clarence Harris Rush'</>)
+Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Clarence_Harris_Rush(<a href='./../../Rush-line/Clarence_Harris_Rush.html'>Clarence Harris Rush</a>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Juanita_Rush(<a href='./../../Rush-line/Juanita_Rush.html'>Juanita Rush'</>)
+Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Juanita_Rush(<a href='./../../Rush-line/Juanita_Rush.html'>Juanita Rush</a>)
 class Calvin_Harris_Rush father
 class Frances_Hix mother
-Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Mona_Rush(<a href='./../../Rush-line/Mona_Rush.html'>Mona Rush'</>)
+Frances_Hix_and_Calvin_Harris_Rush{{ }} --> Mona_Rush(<a href='./../../Rush-line/Mona_Rush.html'>Mona Rush</a>)
 class Mona_Rush_and_Charles_R._Smith_Sr. marriage
-Mona_Rush(<a href=''>Mona Rush'</>) --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
-Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.'</>) --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
+Mona_Rush(<a href=''>Mona Rush</a>) --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
+Charles_R._Smith_Sr.(<a href='./../Smith-line/Charles_R._Smith_Sr..html'>Charles R. Smith Sr.</a>) --> Mona_Rush_and_Charles_R._Smith_Sr.{{ }}
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith'</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> David_Hammond_Smith(<a href='./../Smith-line/David_Hammond_Smith.html'>David Hammond Smith</a>)
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> Richard_Smith(<a href='./../Smith-line/Richard_Smith.html'>Richard Smith'</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> Richard_Smith(<a href='./../Smith-line/Richard_Smith.html'>Richard Smith</a>)
 class Charles_R._Smith_Sr. father
 class Mona_Rush mother
-Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith'</>)
+Mona_Rush_and_Charles_R._Smith_Sr.{{ }} --> Frances_Smith(<a href='./../Smith-line/Frances_Smith.html'>Frances Smith</a>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

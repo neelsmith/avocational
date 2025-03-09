@@ -19,15 +19,15 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Eugene_Richard_White(<a href=''>Eugene Richard White'</>) -->  Henry_George_White(<a href='./Henry_George_White.html'>Henry George White'</>)
-Henry_George_White(<a href=''>Henry George White'</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White'</>)
-Ebenezer_White(<a href=''>Ebenezer White'</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White'</>)
+Eugene_Richard_White(<a href=''>Eugene Richard White</a>) -->  Henry_George_White(<a href='./Henry_George_White.html'>Henry George White</a>)
+Henry_George_White(<a href=''>Henry George White</a>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</a>)
+Ebenezer_White(<a href=''>Ebenezer White</a>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</a>)
 class Benjamin_White father
-Ebenezer_White(<a href=''>Ebenezer White'</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson'</>)
+Ebenezer_White(<a href=''>Ebenezer White</a>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</a>)
 class Ruth_Wilson mother
 class Ebenezer_White father
 class Henry_George_White father
-Eugene_Richard_White(<a href=''>Eugene Richard White'</>)  --> Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow'</>)
+Eugene_Richard_White(<a href=''>Eugene Richard White</a>)  --> Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow</a>)
 class Susan_D._Winslow mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  

@@ -28,9 +28,9 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Nancy_Farrand(<a href=''>Nancy Farrand'</>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand'</>)
+Nancy_Farrand(<a href=''>Nancy Farrand</a>) -->  Bethuel_Farrand(<a href='./White-line/Grandey/Bethuel_Farrand.html'>Bethuel Farrand</a>)
 class Bethuel_Farrand father
-Nancy_Farrand(<a href=''>Nancy Farrand'</>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith'</>)
+Nancy_Farrand(<a href=''>Nancy Farrand</a>)  --> Rhoda_Smith(<a href='./Rhoda_Smith.html'>Rhoda Smith</a>)
 class Rhoda_Smith mother
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
@@ -46,50 +46,50 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Nancy_Farrand_and_Aaron_Merrill marriage
-Nancy_Farrand(<a href=''>Nancy Farrand'</>) --> Nancy_Farrand_and_Aaron_Merrill{{ }}
-Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill'</>) --> Nancy_Farrand_and_Aaron_Merrill{{ }}
+Nancy_Farrand(<a href=''>Nancy Farrand</a>) --> Nancy_Farrand_and_Aaron_Merrill{{ }}
+Aaron_Merrill(<a href='./Aaron_Merrill.html'>Aaron Merrill</a>) --> Nancy_Farrand_and_Aaron_Merrill{{ }}
 class Aaron_Merrill father
 class Nancy_Farrand mother
-Nancy_Farrand_and_Aaron_Merrill{{ }} --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill'</>)
+Nancy_Farrand_and_Aaron_Merrill{{ }} --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</a>)
 class Hiram_Merrill_and_Lucy_Witherell marriage
-Hiram_Merrill(<a href=''>Hiram Merrill'</>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
-Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell'</>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
+Hiram_Merrill(<a href=''>Hiram Merrill</a>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
+Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</a>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
 class Hiram_Merrill father
 class Lucy_Witherell mother
-Hiram_Merrill_and_Lucy_Witherell{{ }} --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill'</>)
+Hiram_Merrill_and_Lucy_Witherell{{ }} --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</a>)
 class James_Albee_Merrill_and_Anna_Serena_White marriage
-James_Albee_Merrill(<a href=''>James Albee Merrill'</>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
-Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White'</>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
+James_Albee_Merrill(<a href=''>James Albee Merrill</a>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</a>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
 class James_Albee_Merrill father
 class Anna_Serena_White mother
-James_Albee_Merrill_and_Anna_Serena_White{{ }} --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill'</>)
+James_Albee_Merrill_and_Anna_Serena_White{{ }} --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill</a>)
 class Marguerite_Merrill_and_John_Dubois_Henderson marriage
-Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
-John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+Marguerite_Merrill(<a href=''>Marguerite Merrill</a>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson</a>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson'</>)
+Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson</a>)
 class Aaron_Merrill father
 class Nancy_Farrand mother
-Nancy_Farrand_and_Aaron_Merrill{{ }} --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill'</>)
+Nancy_Farrand_and_Aaron_Merrill{{ }} --> Hiram_Merrill(<a href='./Hiram_Merrill.html'>Hiram Merrill</a>)
 class Hiram_Merrill_and_Lucy_Witherell marriage
-Hiram_Merrill(<a href=''>Hiram Merrill'</>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
-Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell'</>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
+Hiram_Merrill(<a href=''>Hiram Merrill</a>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
+Lucy_Witherell(<a href='./Lucy_Witherell.html'>Lucy Witherell</a>) --> Hiram_Merrill_and_Lucy_Witherell{{ }}
 class Hiram_Merrill father
 class Lucy_Witherell mother
-Hiram_Merrill_and_Lucy_Witherell{{ }} --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill'</>)
+Hiram_Merrill_and_Lucy_Witherell{{ }} --> James_Albee_Merrill(<a href='./James_Albee_Merrill.html'>James Albee Merrill</a>)
 class James_Albee_Merrill_and_Anna_Serena_White marriage
-James_Albee_Merrill(<a href=''>James Albee Merrill'</>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
-Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White'</>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
+James_Albee_Merrill(<a href=''>James Albee Merrill</a>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
+Anna_Serena_White(<a href='./White-line/Anna_Serena_White.html'>Anna Serena White</a>) --> James_Albee_Merrill_and_Anna_Serena_White{{ }}
 class James_Albee_Merrill father
 class Anna_Serena_White mother
-James_Albee_Merrill_and_Anna_Serena_White{{ }} --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill'</>)
+James_Albee_Merrill_and_Anna_Serena_White{{ }} --> Marguerite_Merrill(<a href='./Marguerite_Merrill.html'>Marguerite Merrill</a>)
 class Marguerite_Merrill_and_John_Dubois_Henderson marriage
-Marguerite_Merrill(<a href=''>Marguerite Merrill'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
-John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson'</>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+Marguerite_Merrill(<a href=''>Marguerite Merrill</a>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
+John_Dubois_Henderson(<a href='./../Henderson-line/John_Dubois_Henderson.html'>John Dubois Henderson</a>) --> Marguerite_Merrill_and_John_Dubois_Henderson{{ }}
 class John_Dubois_Henderson father
 class Marguerite_Merrill mother
-Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson'</>)
+Marguerite_Merrill_and_John_Dubois_Henderson{{ }} --> John_Merrill_Henderson(<a href='./../Henderson-line/John_Merrill_Henderson.html'>John Merrill Henderson</a>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

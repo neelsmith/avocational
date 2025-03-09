@@ -39,10 +39,10 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Henry_George_White(<a href=''>Henry George White'</>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White'</>)
-Ebenezer_White(<a href=''>Ebenezer White'</>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White'</>)
+Henry_George_White(<a href=''>Henry George White</a>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</a>)
+Ebenezer_White(<a href=''>Ebenezer White</a>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</a>)
 class Benjamin_White father
-Ebenezer_White(<a href=''>Ebenezer White'</>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson'</>)
+Ebenezer_White(<a href=''>Ebenezer White</a>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</a>)
 class Ruth_Wilson mother
 class Ebenezer_White father
 classDef mother fill:#ffd1dc
@@ -59,26 +59,26 @@ Documented descendants:
 graph LR
 %% LR descendant diagram
 class Henry_George_White_and_Susan_D._Winslow marriage
-Henry_George_White(<a href=''>Henry George White'</>) --> Henry_George_White_and_Susan_D._Winslow{{ }}
-Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow'</>) --> Henry_George_White_and_Susan_D._Winslow{{ }}
+Henry_George_White(<a href=''>Henry George White</a>) --> Henry_George_White_and_Susan_D._Winslow{{ }}
+Susan_D._Winslow(<a href='./Susan_D._Winslow.html'>Susan D. Winslow</a>) --> Henry_George_White_and_Susan_D._Winslow{{ }}
 class Henry_George_White father
 class Susan_D._Winslow mother
-Henry_George_White_and_Susan_D._Winslow{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White'</>)
+Henry_George_White_and_Susan_D._Winslow{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</a>)
 class Henry_George_White father
 class Susan_D._Winslow mother
-Henry_George_White_and_Susan_D._Winslow{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White'</>)
+Henry_George_White_and_Susan_D._Winslow{{ }} --> Eugene_Richard_White(<a href='./Eugene_Richard_White.html'>Eugene Richard White</a>)
 class Henry_George_White_and_Ann_Quayle marriage
-Henry_George_White(<a href=''>Henry George White'</>) --> Henry_George_White_and_Ann_Quayle{{ }}
-Ann_Quayle(<a href='./Ann_Quayle.html'>Ann Quayle'</>) --> Henry_George_White_and_Ann_Quayle{{ }}
+Henry_George_White(<a href=''>Henry George White</a>) --> Henry_George_White_and_Ann_Quayle{{ }}
+Ann_Quayle(<a href='./Ann_Quayle.html'>Ann Quayle</a>) --> Henry_George_White_and_Ann_Quayle{{ }}
 class Henry_George_White father
 class Ann_Quayle mother
-Henry_George_White_and_Ann_Quayle{{ }} --> Charles_H._White(<a href='./Charles_H._White.html'>Charles H. White'</>)
+Henry_George_White_and_Ann_Quayle{{ }} --> Charles_H._White(<a href='./Charles_H._White.html'>Charles H. White</a>)
 class Henry_George_White father
 class Ann_Quayle mother
-Henry_George_White_and_Ann_Quayle{{ }} --> George_William_White(<a href='./George_William_White.html'>George William White'</>)
+Henry_George_White_and_Ann_Quayle{{ }} --> George_William_White(<a href='./George_William_White.html'>George William White</a>)
 class Henry_George_White father
 class Ann_Quayle mother
-Henry_George_White_and_Ann_Quayle{{ }} --> James_Herbert_White(<a href='./James_Herbert_White.html'>James Herbert White'</>)
+Henry_George_White_and_Ann_Quayle{{ }} --> James_Herbert_White(<a href='./James_Herbert_White.html'>James Herbert White</a>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

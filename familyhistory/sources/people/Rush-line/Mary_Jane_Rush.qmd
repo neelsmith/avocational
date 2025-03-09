@@ -19,16 +19,16 @@ Documented ancestors:
 ```{mermaid}
 graph RL
 %% RL ancestor diagram
-Mary_Jane_Rush(<a href=''>Mary Jane Rush'</>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush'</>)
-Noah_Rush(<a href=''>Noah Rush'</>) -->  Zebedee_Rush_1790-1872(Zebedee Rush 1790-1872)
+Mary_Jane_Rush(<a href=''>Mary Jane Rush</a>) -->  Noah_Rush(<a href='./Noah_Rush.html'>Noah Rush</a>)
+Noah_Rush(<a href=''>Noah Rush</a>) -->  Zebedee_Rush_1790-1872(Zebedee Rush 1790-1872)
 class Zebedee_Rush_1790-1872 father
-Noah_Rush(<a href=''>Noah Rush'</>)  --> Frances_Fuller(Frances Fuller)
+Noah_Rush(<a href=''>Noah Rush</a>)  --> Frances_Fuller(Frances Fuller)
 class Frances_Fuller mother
 class Noah_Rush father
-Mary_Jane_Rush(<a href=''>Mary Jane Rush'</>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin'</>)
-Sarah_Loflin(<a href=''>Sarah Loflin'</>) -->  Cornelius_Loflin(Cornelius Loflin)
+Mary_Jane_Rush(<a href=''>Mary Jane Rush</a>)  --> Sarah_Loflin(<a href='./../Randolph_county_lines/Loflin/Sarah_Loflin.html'>Sarah Loflin</a>)
+Sarah_Loflin(<a href=''>Sarah Loflin</a>) -->  Cornelius_Loflin(Cornelius Loflin)
 class Cornelius_Loflin father
-Sarah_Loflin(<a href=''>Sarah Loflin'</>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood'</>)
+Sarah_Loflin(<a href=''>Sarah Loflin</a>)  --> Martha_Patsy_Wood(<a href='./../Martha_Patsy_Wood.html'>Martha Patsy Wood</a>)
 class Martha_Patsy_Wood mother
 class Sarah_Loflin mother
 classDef mother fill:#ffd1dc
