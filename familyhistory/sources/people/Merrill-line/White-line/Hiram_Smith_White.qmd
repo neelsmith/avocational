@@ -14,6 +14,15 @@ engine: julia
 
 **Father**: [Ebenezer White](./Ebenezer_White.html)
 
+**Children with [Cynthia Sawyer](./Cynthia_Sawyer.html)**:
+
+
+- [H.C. White](./../../../overviews-people/White/H.C._White.html)
+
+- [Edward Cornelius White](./Edward_Cornelius_White.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
@@ -51,6 +60,28 @@ classDef marriage fill:#ffffff
 
 
 
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Hiram_Smith_White_and_Cynthia_Sawyer marriage
+Hiram_Smith_White(<a href=''>Hiram Smith White</a>) --> Hiram_Smith_White_and_Cynthia_Sawyer{{ }}
+Cynthia_Sawyer(<a href='./Cynthia_Sawyer.html'>Cynthia Sawyer</a>) --> Hiram_Smith_White_and_Cynthia_Sawyer{{ }}
+class Hiram_Smith_White father
+class Cynthia_Sawyer mother
+Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> H.C._White(<a href='./../../../overviews-people/White/H.C._White.html'>H.C. White</a>)
+class Hiram_Smith_White father
+class Cynthia_Sawyer mother
+Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> Edward_Cornelius_White(<a href='./Edward_Cornelius_White.html'>Edward Cornelius White</a>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
 ## Sources
 Sources for birth:
 
@@ -72,3 +103,12 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Hiram Smith White death record](./../../../transcriptions/vitals/Hiram_Smith_White_death_record.html) | direct |
+
+Sources for children with [Cynthia Sawyer](./Cynthia_Sawyer.html)
+
+
+- [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)
+
+- [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)
+
+

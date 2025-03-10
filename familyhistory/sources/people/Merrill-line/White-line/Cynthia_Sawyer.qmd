@@ -8,8 +8,64 @@ engine: julia
 # Cynthia Sawyer
 
 
-*born* ? : *died* ?
+*born* 1820 : *died* 1889
 
 **Mother**: ?
 
 **Father**: ?
+
+**Children with [Hiram Smith White](./Hiram_Smith_White.html)**:
+
+
+- [H.C. White](./../../../overviews-people/White/H.C._White.html)
+
+- [Edward Cornelius White](./Edward_Cornelius_White.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Cynthia_Sawyer_and_Hiram_Smith_White marriage
+Cynthia_Sawyer(<a href=''>Cynthia Sawyer</a>) --> Cynthia_Sawyer_and_Hiram_Smith_White{{ }}
+Hiram_Smith_White(<a href='./Hiram_Smith_White.html'>Hiram Smith White</a>) --> Cynthia_Sawyer_and_Hiram_Smith_White{{ }}
+class Hiram_Smith_White father
+class Cynthia_Sawyer mother
+Cynthia_Sawyer_and_Hiram_Smith_White{{ }} --> H.C._White(<a href='./../../../overviews-people/White/H.C._White.html'>H.C. White</a>)
+class Hiram_Smith_White father
+class Cynthia_Sawyer mother
+Cynthia_Sawyer_and_Hiram_Smith_White{{ }} --> Edward_Cornelius_White(<a href='./Edward_Cornelius_White.html'>Edward Cornelius White</a>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1801 |  | [Cynthia White 1850 census](./../../../transcriptions/census/White_census/Cynthia_White_1850_census.html) | indirect |
+| 1820 |  | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1889 | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |
+
+Sources for children with [Hiram Smith White](./Hiram_Smith_White.html)
+
+
+- [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)
+
+- [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)
+
+

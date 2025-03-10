@@ -105,6 +105,7 @@ engine: julia
 - [Neal](./Neal.html)
 - [Neel](./Neel.html)
 - [Newkirk](./Newkirk.html)
+- [Newton](./Newton.html)
 - [Norcross](./Norcross.html)
 - [North](./North.html)
 - [Northern](./Northern.html)

@@ -107,7 +107,7 @@ Sources for death:
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1924 | [James A. Merrill tombstone](./../../../transcriptions/tombstones/James_A._Merrill_tombstone.html) | direct |
+| 1924 | [James Merrill and Anna White family tombstone](./../../../transcriptions/tombstones/James_Merrill_and_Anna_White_family_tombstone.html) | direct |
 | 1913-05-03 | [Anna Serena White death](./../../../transcriptions/vitals/Anna_Serena_White_death.html) | direct |
 
 Sources for parents:

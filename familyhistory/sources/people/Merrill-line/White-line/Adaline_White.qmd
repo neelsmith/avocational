@@ -8,7 +8,7 @@ engine: julia
 # Adaline White
 
 
-*born* ? : *died* 1890-10-31
+*born* 1808 : *died* 1890-10-31
 
 **Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
 
@@ -52,6 +52,13 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1808 |  | [Adaline White death](./../../../transcriptions/vitals/Adaline_White_death.html) | indirect |
+
 Sources for death:
 
 
