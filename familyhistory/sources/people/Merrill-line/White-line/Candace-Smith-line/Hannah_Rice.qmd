@@ -82,7 +82,11 @@ Hiram_Smith_White(<a href=''>Hiram Smith White</a>) --> Hiram_Smith_White_and_Cy
 Cynthia_Sawyer(<a href='./Cynthia_Sawyer.html'>Cynthia Sawyer</a>) --> Hiram_Smith_White_and_Cynthia_Sawyer{{ }}
 class Hiram_Smith_White father
 class Cynthia_Sawyer mother
+<<<<<<< HEAD
 Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> H.C._White(<a href='./../../../H.C._White.html'>H.C. White</a>)
+=======
+Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> H.C._White(<a href='./../../../overviews-people/White/H.C._White.html'>H.C. White</a>)
+>>>>>>> c93ee287ce2395a0e1e6ec3b6b348dd16576132b
 class Hiram_Smith_White father
 class Cynthia_Sawyer mother
 Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> Edward_Cornelius_White(<a href='./Edward_Cornelius_White.html'>Edward Cornelius White</a>)

@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Newton
+
+- [Elsie Merrill](./../people/Merrill-line/Elsie_Merrill.html)
+- [Harold C. Newton](./../overviews-people/White/Harold_C._Newton.html)
+- [Harvey Newton](./../people/Merrill-line/White-line/Harvey_Newton.html)

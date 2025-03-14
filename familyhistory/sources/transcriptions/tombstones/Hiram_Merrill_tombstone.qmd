@@ -1,9 +1,6 @@
-refersto::[Hiram Merrill](./../../people/Merrill-line/Hiram_Merrill.html)
-refersto::[Lucy Witherell](./../../people/Merrill-line/Lucy_Witherell.html)
-refersto::[[Frances A. Merrill]]
-refersto::[[Daisy Merrill]]
 
-## Source
+
+
 
 ## Transcription
 
@@ -27,4 +24,22 @@ Frances A.
 Daisy
 
 1871-1874
+
+## Illustrations
+
+
+## Source
+
+Transcribed from public-domain images listed here.
+
+## Notes
+
+refersto::[Hiram Merrill](./../../people/Merrill-line/Hiram_Merrill.html)
+refersto::[Lucy Witherell](./../../people/Merrill-line/Lucy_Witherell.html)
+refersto::[[Frances A. Merrill]]
+refersto::[[Daisy Merrill]]
+
+
+[Monument 48060794](https://www.findagrave.com/memorial/48060794/hiram-merrill) in findagrave
+
 

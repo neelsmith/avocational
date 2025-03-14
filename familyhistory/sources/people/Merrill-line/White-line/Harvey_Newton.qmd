@@ -5,7 +5,7 @@ engine: julia
 
 > *Page automatically generated.*
 
-# Elsie Merrill
+# Harvey Newton
 
 
 *born* ? : *died* ?
