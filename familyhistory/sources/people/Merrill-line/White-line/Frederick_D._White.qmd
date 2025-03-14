@@ -8,8 +8,70 @@ engine: julia
 # Frederick D. White
 
 
-*born* ? : *died* ?
+*born* 1851-09-26 : *died* 1938-12-17
 
-**Mother**: ?
+**Mother**: [Lydia R. Brumley](./Lydia_R._Brumley.html)
 
-**Father**: ?
+**Father**: [Artemas White](./Artemas_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph RL
+%% RL ancestor diagram
+Frederick_D._White(<a href=''>Frederick D. White</a>) -->  Artemas_White(<a href='./Artemas_White.html'>Artemas White</a>)
+Artemas_White(<a href=''>Artemas White</a>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</a>)
+Ebenezer_White(<a href=''>Ebenezer White</a>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</a>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</a>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</a>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Artemas_White(<a href=''>Artemas White</a>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</a>)
+Candace_Smith(<a href=''>Candace Smith</a>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</a>)
+Moses_Smith(<a href=''>Moses Smith</a>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</a>)
+class Ephraim_Smith father
+Moses_Smith(<a href=''>Moses Smith</a>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</a>)
+class Hannah_Rice mother
+class Moses_Smith father
+Candace_Smith(<a href=''>Candace Smith</a>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</a>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</a>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</a>)
+Zachariah_Smith(<a href=''>Zachariah Smith</a>) -->  Zachia_Smith(Zachia Smith)
+class Zachia_Smith father
+Zachariah_Smith(<a href=''>Zachariah Smith</a>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</a>)
+class Susanah_Grout mother
+class Zachariah_Smith father
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</a>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</a>)
+class Lydia_Hastings_Smith mother
+class Lydia_Jepson_Smith mother
+class Candace_Smith mother
+class Artemas_White father
+Frederick_D._White(<a href=''>Frederick D. White</a>)  --> Lydia_R._Brumley(<a href='./Lydia_R._Brumley.html'>Lydia R. Brumley</a>)
+class Lydia_R._Brumley mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1938-12-17 | [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Artemas White](./Artemas_White.html) | [Lydia R. Brumley](./Lydia_R._Brumley.html) | [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html) | direct |

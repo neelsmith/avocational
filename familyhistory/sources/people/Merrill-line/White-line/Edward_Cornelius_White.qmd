@@ -8,8 +8,71 @@ engine: julia
 # Edward Cornelius White
 
 
-*born* ? : *died* ?
+*born* 1843 : *died* 1844
 
-**Mother**: ?
+**Mother**: [Cynthia Sawyer](./Cynthia_Sawyer.html)
 
-**Father**: ?
+**Father**: [Hiram Smith White](./Hiram_Smith_White.html)
+
+Documented ancestors:
+
+```{mermaid}
+graph RL
+%% RL ancestor diagram
+Edward_Cornelius_White(<a href=''>Edward Cornelius White</a>) -->  Hiram_Smith_White(<a href='./Hiram_Smith_White.html'>Hiram Smith White</a>)
+Hiram_Smith_White(<a href=''>Hiram Smith White</a>) -->  Ebenezer_White(<a href='./Ebenezer_White.html'>Ebenezer White</a>)
+Ebenezer_White(<a href=''>Ebenezer White</a>) -->  Benjamin_White(<a href='./Benjamin_White.html'>Benjamin White</a>)
+class Benjamin_White father
+Ebenezer_White(<a href=''>Ebenezer White</a>)  --> Ruth_Wilson(<a href='./Wilson-line/Ruth_Wilson.html'>Ruth Wilson</a>)
+class Ruth_Wilson mother
+class Ebenezer_White father
+Hiram_Smith_White(<a href=''>Hiram Smith White</a>)  --> Candace_Smith(<a href='./Candace-Smith-line/Candace_Smith.html'>Candace Smith</a>)
+Candace_Smith(<a href=''>Candace Smith</a>) -->  Moses_Smith(<a href='./../../../Moses_Smith_connections/Moses_Smith.html'>Moses Smith</a>)
+Moses_Smith(<a href=''>Moses Smith</a>) -->  Ephraim_Smith(<a href='./../Merrill-line/White-line/Candace-Smith-line/Ephraim_Smith.html'>Ephraim Smith</a>)
+class Ephraim_Smith father
+Moses_Smith(<a href=''>Moses Smith</a>)  --> Hannah_Rice(<a href='./../Merrill-line/White-line/Candace-Smith-line/Hannah_Rice.html'>Hannah Rice</a>)
+class Hannah_Rice mother
+class Moses_Smith father
+Candace_Smith(<a href=''>Candace Smith</a>)  --> Lydia_Jepson_Smith(<a href='./Lydia_Jepson_Smith.html'>Lydia Jepson Smith</a>)
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</a>) -->  Zachariah_Smith(<a href='./Zachariah_Smith.html'>Zachariah Smith</a>)
+Zachariah_Smith(<a href=''>Zachariah Smith</a>) -->  Zachia_Smith(Zachia Smith)
+class Zachia_Smith father
+Zachariah_Smith(<a href=''>Zachariah Smith</a>)  --> Susanah_Grout(<a href='./../../Susanah_Grout.html'>Susanah Grout</a>)
+class Susanah_Grout mother
+class Zachariah_Smith father
+Lydia_Jepson_Smith(<a href=''>Lydia Jepson Smith</a>)  --> Lydia_Hastings_Smith(<a href='./Lydia_Hastings_Smith.html'>Lydia Hastings Smith</a>)
+class Lydia_Hastings_Smith mother
+class Lydia_Jepson_Smith mother
+class Candace_Smith mother
+class Hiram_Smith_White father
+Edward_Cornelius_White(<a href=''>Edward Cornelius White</a>)  --> Cynthia_Sawyer(<a href='./Cynthia_Sawyer.html'>Cynthia Sawyer</a>)
+class Cynthia_Sawyer mother
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1843 |  | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1844 | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |
+
+Sources for parents:
+
+
+| Father | Mother | Source | Type |
+| --- | --- | --- | --- |
+| [Hiram Smith White](./Hiram_Smith_White.html) | [Cynthia Sawyer](./Cynthia_Sawyer.html) | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |

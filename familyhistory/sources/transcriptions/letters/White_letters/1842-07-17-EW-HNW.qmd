@@ -48,7 +48,7 @@ refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_Wh
 
 to
 
-refersto::[[Horatio Nelson White]]
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
 
 
 Family members in the letter:

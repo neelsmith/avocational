@@ -14,6 +14,13 @@ engine: julia
 
 **Father**: [Ebenezer White](./Ebenezer_White.html)
 
+**Children with [Lydia R. Brumley](./Lydia_R._Brumley.html)**:
+
+
+- [Frederick D. White](./Frederick_D._White.html)
+
+
+
 Documented ancestors:
 
 ```{mermaid}
@@ -51,6 +58,25 @@ classDef marriage fill:#ffffff
 
 
 
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Artemas_White_and_Lydia_R._Brumley marriage
+Artemas_White(<a href=''>Artemas White</a>) --> Artemas_White_and_Lydia_R._Brumley{{ }}
+Lydia_R._Brumley(<a href='./Lydia_R._Brumley.html'>Lydia R. Brumley</a>) --> Artemas_White_and_Lydia_R._Brumley{{ }}
+class Artemas_White father
+class Lydia_R._Brumley mother
+Artemas_White_and_Lydia_R._Brumley{{ }} --> Frederick_D._White(<a href='./Frederick_D._White.html'>Frederick D. White</a>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
 ## Sources
 Sources for birth:
 
@@ -72,3 +98,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html) | direct |
+
+Sources for children with [Lydia R. Brumley](./Lydia_R._Brumley.html)
+
+
+- [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html)
+
+

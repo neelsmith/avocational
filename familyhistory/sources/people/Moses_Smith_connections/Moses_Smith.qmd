@@ -88,9 +88,24 @@ Candace_Smith_and_Ebenezer_White{{ }} --> Eliza_Ann_White(<a href='./../Eliza_An
 class Ebenezer_White father
 class Candace_Smith mother
 Candace_Smith_and_Ebenezer_White{{ }} --> Hiram_Smith_White(<a href='./../Hiram_Smith_White.html'>Hiram Smith White</a>)
+class Hiram_Smith_White_and_Cynthia_Sawyer marriage
+Hiram_Smith_White(<a href=''>Hiram Smith White</a>) --> Hiram_Smith_White_and_Cynthia_Sawyer{{ }}
+Cynthia_Sawyer(<a href='./Cynthia_Sawyer.html'>Cynthia Sawyer</a>) --> Hiram_Smith_White_and_Cynthia_Sawyer{{ }}
+class Hiram_Smith_White father
+class Cynthia_Sawyer mother
+Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> H.C._White(<a href='./../../../H.C._White.html'>H.C. White</a>)
+class Hiram_Smith_White father
+class Cynthia_Sawyer mother
+Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> Edward_Cornelius_White(<a href='./Edward_Cornelius_White.html'>Edward Cornelius White</a>)
 class Ebenezer_White father
 class Candace_Smith mother
 Candace_Smith_and_Ebenezer_White{{ }} --> Artemas_White(<a href='./../Artemas_White.html'>Artemas White</a>)
+class Artemas_White_and_Lydia_R._Brumley marriage
+Artemas_White(<a href=''>Artemas White</a>) --> Artemas_White_and_Lydia_R._Brumley{{ }}
+Lydia_R._Brumley(<a href='./Lydia_R._Brumley.html'>Lydia R. Brumley</a>) --> Artemas_White_and_Lydia_R._Brumley{{ }}
+class Artemas_White father
+class Lydia_R._Brumley mother
+Artemas_White_and_Lydia_R._Brumley{{ }} --> Frederick_D._White(<a href='./Frederick_D._White.html'>Frederick D. White</a>)
 classDef mother fill:#ffd1dc
 classDef father fill:#daf0f7  
 classDef marriage fill:#ffffff

@@ -29,6 +29,7 @@ engine: julia
 - [Friend Adams White](./../people/Merrill-line/White-line/Friend_Adams_White.html)
 - [George Nelson White](./../people/Merrill-line/White-line/George_Nelson_White.html)
 - [George William White](./../people/Merrill-line/White-line/George_William_White.html)
+- [H.C. White](./../H.C._White.html)
 - [Henry George White](./../people/Merrill-line/White-line/Henry_George_White.html)
 - [Henry George White 2](./../people/Merrill-line/White-line/Henry_George_White_2.html)
 - [Henry Sawyer White](./../people/Merrill-line/White-line/Henry_Sawyer_White.html)

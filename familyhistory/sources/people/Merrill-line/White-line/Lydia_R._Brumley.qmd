@@ -3,9 +3,61 @@ engine: julia
 ---
 
 
+> *Page automatically generated.*
+
 # Lydia R. Brumley
 
 
+*born* 1810 : *died* 1882
+
+**Mother**: ?
+
+**Father**: ?
+
+**Children with [Artemas White](./Artemas_White.html)**:
 
 
-Private information: Lydia R. Brumley not identified as deceased.
+- [Frederick D. White](./Frederick_D._White.html)
+
+
+
+Documented descendants:
+
+```{mermaid}
+graph LR
+%% LR descendant diagram
+class Lydia_R._Brumley_and_Artemas_White marriage
+Lydia_R._Brumley(<a href=''>Lydia R. Brumley</a>) --> Lydia_R._Brumley_and_Artemas_White{{ }}
+Artemas_White(<a href='./Artemas_White.html'>Artemas White</a>) --> Lydia_R._Brumley_and_Artemas_White{{ }}
+class Artemas_White father
+class Lydia_R._Brumley mother
+Lydia_R._Brumley_and_Artemas_White{{ }} --> Frederick_D._White(<a href='./Frederick_D._White.html'>Frederick D. White</a>)
+classDef mother fill:#ffd1dc
+classDef father fill:#daf0f7  
+classDef marriage fill:#ffffff
+
+```
+
+
+
+## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1810 | New York | [Lydia B. White 1850 census](./../../../transcriptions/census/White_census/Lydia_B._White_1850_census.html) | indirect |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1882 | [Lydia B. White probate](./../../../transcriptions/probate/Lydia_B._White_probate.html) | indirect |
+
+Sources for children with [Artemas White](./Artemas_White.html)
+
+
+- [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html)
+
+

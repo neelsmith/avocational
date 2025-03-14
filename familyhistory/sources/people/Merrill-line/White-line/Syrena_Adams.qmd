@@ -8,7 +8,7 @@ engine: julia
 # Syrena Adams
 
 
-*born* ? : *died* ?
+*born* 1808-10-26 : *died* 1876-09-23
 
 **Mother**: [Elizabeth Stagg](./Elizabeth_Stagg.html)
 
@@ -78,6 +78,21 @@ classDef marriage fill:#ffffff
 
 
 ## Sources
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1808-10-26 | Panton, Vermont | [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html) | direct |
+| 1808-10-26 | Panton, VT | [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1876-09-23 | [Syrena Adams tombstone](./../../../transcriptions/tombstones/Syrena_Adams_tombstone.html) | direct |
+
 Sources for parents:
 
 

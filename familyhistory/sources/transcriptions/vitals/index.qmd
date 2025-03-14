@@ -18,6 +18,7 @@ engine: julia
 - [Elizabeth Stagg death](./Elizabeth_Stagg_death.html)
 - [Elvira Ann Williams death certificate](./Elvira_Ann_Williams_death_certificate.html)
 - [Frances Hix death certificate](./Frances_Hix_death_certificate.html)
+- [Frederick White death](./Frederick_White_death.html)
 - [Hiram Merrill death certificate](./Hiram_Merrill_death_certificate.html)
 - [Hiram Smith White death record](./Hiram_Smith_White_death_record.html)
 - [Horatio Nelson White death](./Horatio_Nelson_White_death.html)
