@@ -29,6 +29,8 @@ engine: julia
 
 
 
+
+
 Documented ancestors:
 
 ```{mermaid}
@@ -114,7 +116,9 @@ classDef marriage fill:#ffffff
 
 ```
 
+## Events
 
+![](./Ebenezer_White_events.png)
 
 ## Sources
 Sources for birth:

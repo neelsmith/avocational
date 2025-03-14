@@ -86,6 +86,9 @@ classDef marriage fill:#ffffff
 ```
 
 
+## Events
+
+![](./Henry_George_White_events.png)
 
 ## Sources
 Sources for birth:
