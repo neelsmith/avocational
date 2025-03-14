@@ -82,7 +82,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [David Williams](./David_Williams.html) | [Sallie T.  Harris](./Sallie_T.__Harris.html) | [Elvira Ann Williams 1850 census](./../../../../transcriptions/census/Elvira_Ann_Williams_1850_census.html) | indirect |
+| [David Williams](./David_Williams.html) | [Sallie T.  Harris](./Sallie_T.__Harris.html) | [Elvira Ann Williams 1850 census](./../../../../transcriptions/census/Gattis_census/Elvira_Ann_Williams_1850_census.html) | indirect |
 
 Sources for children with [James Green](./../James_Green.html)
 

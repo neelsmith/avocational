@@ -5,7 +5,7 @@ Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addi
 Date::October 15, 1850
 House::30
 Family::31
-Name::Horatio N. White
+Name::Syrena White
 Age::41
 Sex::F
 Race::

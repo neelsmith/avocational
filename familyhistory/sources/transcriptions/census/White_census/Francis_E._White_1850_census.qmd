@@ -1,7 +1,7 @@
 
  
 
-refersto::[Frances E. White 1860 census](./Frances_E._White_1860_census.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
 Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
 Date::October 15, 1850
 House::30

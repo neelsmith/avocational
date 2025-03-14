@@ -86,9 +86,6 @@ classDef marriage fill:#ffffff
 ```
 
 
-## Events
-
-![](./Henry_George_White_events.png)
 
 ## Sources
 Sources for birth:
@@ -96,7 +93,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
-| 1814-06-08 | Burlington, VT | [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html) | direct |
+| 1814-06-08 | [[Burlington, Vermont]] | [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html) | direct |
 
 Sources for death:
 

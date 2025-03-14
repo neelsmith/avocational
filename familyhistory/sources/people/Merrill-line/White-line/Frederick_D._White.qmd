@@ -61,6 +61,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
+| 1851-09-26 | New York | [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html) | direct |
 
 Sources for death:
 

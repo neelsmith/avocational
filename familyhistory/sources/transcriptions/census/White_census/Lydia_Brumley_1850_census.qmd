@@ -1,7 +1,7 @@
  
 
 refersto::[Lydia R. Brumley](./../../../people/Merrill-line/White-line/Lydia_R._Brumley.html)
-Enumeration::Chesterfield K, Essex, New York
+Enumeration::[Chesterfield K, Essex, New York](./../../../census-districts/Chesterfield_K,_Essex,_New_York.html)
 Date::1850-09-19
 House::3378
 Family::3657

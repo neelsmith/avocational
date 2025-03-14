@@ -3,7 +3,7 @@
 
 
 refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-Enumeration::Chesterfield K, Essex, New York
+Enumeration::[Chesterfield K, Essex, New York](./../../../census-districts/Chesterfield_K,_Essex,_New_York.html)
 Date::1850-09-19
 House::3378
 Family::3657

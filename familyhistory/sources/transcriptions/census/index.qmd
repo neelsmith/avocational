@@ -4,7 +4,6 @@ engine: julia
 
 # Index
 
-- [Elvira Ann Williams 1850 census](./Elvira_Ann_Williams_1850_census.html)
 
 
 ## Further documents

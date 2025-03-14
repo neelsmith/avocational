@@ -22,9 +22,5 @@ E. C. White
 
 refersto::[Hiram Smith White](./../../people/Merrill-line/White-line/Hiram_Smith_White.html)
 refersto::[Cynthia Sawyer](./../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-<<<<<<< HEAD
-refersto::[H.C. White](./../../H.C._White.html)
-=======
 refersto::[H.C. White](./../../overviews-people/White/H.C._White.html)
->>>>>>> c93ee287ce2395a0e1e6ec3b6b348dd16576132b
 refersto::[Edward Cornelius White](./../../people/Merrill-line/White-line/Edward_Cornelius_White.html)

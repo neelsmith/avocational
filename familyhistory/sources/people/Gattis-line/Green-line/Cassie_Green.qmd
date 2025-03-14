@@ -77,7 +77,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
-| 11-01-1873 | Bedford County, Tennessee | [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html) | direct |
+| 1873-11-01 | Bedford County, Tennessee | [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html) | direct |
 
 Sources for death:
 

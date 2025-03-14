@@ -17,6 +17,7 @@ engine: julia
 - [Cordelia Gattis 1910 census](./Cordelia_Gattis_1910_census.html)
 - [Dorotha Schofner 1850 census](./Dorotha_Schofner_1850_census.html)
 - [Edith Gattis 1900 census](./Edith_Gattis_1900_census.html)
+- [Elvira Ann Williams 1850 census](./Elvira_Ann_Williams_1850_census.html)
 - [Emma Dora Gattis 1870 census](./Emma_Dora_Gattis_1870_census.html)
 - [Evaline Gattis 1870 census](./Evaline_Gattis_1870_census.html)
 - [Isaac Newton Gattis 1870 census](./Isaac_Newton_Gattis_1870_census.html)

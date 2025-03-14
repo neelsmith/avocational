@@ -29,8 +29,6 @@ engine: julia
 
 
 
-
-
 Documented ancestors:
 
 ```{mermaid}
@@ -97,11 +95,7 @@ Hiram_Smith_White(<a href=''>Hiram Smith White</a>) --> Hiram_Smith_White_and_Cy
 Cynthia_Sawyer(<a href='./Cynthia_Sawyer.html'>Cynthia Sawyer</a>) --> Hiram_Smith_White_and_Cynthia_Sawyer{{ }}
 class Hiram_Smith_White father
 class Cynthia_Sawyer mother
-<<<<<<< HEAD
-Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> H.C._White(<a href='./../../../H.C._White.html'>H.C. White</a>)
-=======
 Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> H.C._White(<a href='./../../../overviews-people/White/H.C._White.html'>H.C. White</a>)
->>>>>>> c93ee287ce2395a0e1e6ec3b6b348dd16576132b
 class Hiram_Smith_White father
 class Cynthia_Sawyer mother
 Hiram_Smith_White_and_Cynthia_Sawyer{{ }} --> Edward_Cornelius_White(<a href='./Edward_Cornelius_White.html'>Edward Cornelius White</a>)
@@ -120,9 +114,7 @@ classDef marriage fill:#ffffff
 
 ```
 
-## Events
 
-![](./Ebenezer_White_events.png)
 
 ## Sources
 Sources for birth:
@@ -139,8 +131,8 @@ Sources for death:
 | --- | --- | --- |
 | 1852-10-31 | [Ebenezer White death](./../../../transcriptions/vitals/Ebenezer_White_death.html) | direct |
 | 1852-10-31 | [Ebenezer White tombstone](./../../../transcriptions/tombstones/Ebenezer_White_tombstone.html) | direct |
-| after 12-13-1853 | [1853-12-13-EW-to-HNW](./../../../transcriptions/letters/White_letters/1853-12-13-EW-to-HNW.html) | direct |
-| before 3-12-1854 | [1854-03-12-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html) | direct |
+| after 1853-12-13 | [1853-12-13-EW-to-HNW](./../../../transcriptions/letters/White_letters/1853-12-13-EW-to-HNW.html) | direct |
+| before 1854-3-12 | [1854-03-12-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html) | direct |
 
 Sources for parents:
 

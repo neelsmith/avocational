@@ -64,7 +64,7 @@ Sources for death:
 
 | Date | Source | Type |
 | --- | --- | --- |
-| 1890-11-31 | [Adaline White death](./../../../transcriptions/vitals/Adaline_White_death.html) | direct |
+| 1890-10-31 | [Adaline White death](./../../../transcriptions/vitals/Adaline_White_death.html) | direct |
 
 Sources for parents:
 
