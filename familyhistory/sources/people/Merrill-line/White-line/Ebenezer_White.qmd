@@ -116,6 +116,26 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- Birth of Ebenezer White
+- Census event: Ebenezer White 1810 census
+- Census event: Ebenezer White 1820 census
+- Census event: Ebenezer White 1830 census
+- Census event: Ebenezer White 1840 census
+- Census event: Ebenezer White 1850 census
+- Death of Ebenezer White
+- Death of Ebenezer White
+- Death of Ebenezer White
+- Death of Ebenezer White
+- Event: burial of Ebenezer White
+
+
+![ ](./Ebenezer_White_events.png)
+
+
+
 ## Sources
 Sources for birth:
 

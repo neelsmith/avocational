@@ -87,6 +87,19 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- Birth of Henry George White
+- Census event: Henry George White 1840 census
+- Census event: Henry George White 1850 census
+- Death of Henry George White
+
+
+![ ](./Henry_George_White_events.png)
+
+
+
 ## Sources
 Sources for birth:
 
