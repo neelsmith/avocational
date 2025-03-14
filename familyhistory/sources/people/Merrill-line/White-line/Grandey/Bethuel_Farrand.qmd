@@ -85,6 +85,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Bethuel Farrand
+
+
 Sources for children with [Rhoda Smith](./../../Rhoda_Smith.html)
 
 

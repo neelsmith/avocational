@@ -55,6 +55,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1851-09-26 Birth of Frederick D. White
+- 1938-12-17 Death of Frederick D. White
+
+
 ## Sources
 Sources for birth:
 

@@ -47,6 +47,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1880-01-01 Birth of Juanita Rush
+- 1937-10-12 Death of Juanita Rush
+- nothing Event: burial of Juanita Rush
+
+
 ## Sources
 Sources for birth:
 

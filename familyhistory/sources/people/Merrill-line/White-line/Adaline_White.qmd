@@ -51,6 +51,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1808-01-01 Birth of Adaline White
+- nothing Census event: Adaline White 1850 census
+- 1890-10-31 Death of Adaline White
+
+
 ## Sources
 Sources for birth:
 

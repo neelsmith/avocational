@@ -72,6 +72,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1838-01-08 Birth of Sarah Jane Barton
+- 1891-07-08 Death of Sarah Jane Barton
+- nothing Event: burial of Sarah Jane Barton
+
+
 ## Sources
 Sources for birth:
 

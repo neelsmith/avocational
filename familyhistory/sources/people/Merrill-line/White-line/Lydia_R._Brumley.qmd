@@ -40,6 +40,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1810-01-01 Birth of Lydia R. Brumley
+- 1850-09-19 Census event: Lydia B. White 1850 census
+- 1850-09-19 Census event: Lydia Brumley 1850 census
+- 1882-01-01 Death of Lydia R. Brumley
+
+
 ## Sources
 Sources for birth:
 

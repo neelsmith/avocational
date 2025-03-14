@@ -73,6 +73,18 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1827-08-12 Birth of Julia B. Euless
+- 1850-11-09 Census event: Julia Euless 1850 census
+- 1870-08-16 Census event: Julia Euless 1870 census
+- 1880-06-10 Census event: Julia Euless 1880 census
+- 1900-06-01 Census event: Julia Euless 1900 census
+- 1910-04-18 Census event: Julia Euless 1910 census
+- nothing Event: burial of Julia B. Euless
+
+
 ## Sources
 Sources for birth:
 

@@ -71,6 +71,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1873-11-01 Birth of Cassie Green
+- nothing Census event: Cassie E. Gattis 1900 census
+- 1946-02-12 Death of Cassie Green
+- nothing Event: burial of Cassie Green
+
+
 ## Sources
 Sources for birth:
 

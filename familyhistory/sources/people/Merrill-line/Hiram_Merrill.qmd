@@ -73,6 +73,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1817-09-02 Birth of Hiram Merrill
+- 1910-10-13 Death of Hiram Merrill
+- nothing Event: burial of Hiram Merrill
+
+
 ## Sources
 Sources for birth:
 

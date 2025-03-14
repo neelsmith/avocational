@@ -61,6 +61,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Census event: Joseph Saudek 1850 schedule 2
+- nothing Event: burial of Joseph Saudek
+
+
 Sources for children with [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)
 
 

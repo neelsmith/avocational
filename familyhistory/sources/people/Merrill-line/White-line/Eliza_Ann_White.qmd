@@ -51,6 +51,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1810-01-01 Birth of Eliza Ann White
+- 1813-11-02 Death of Eliza Ann White
+
+
 ## Sources
 Sources for parents:
 

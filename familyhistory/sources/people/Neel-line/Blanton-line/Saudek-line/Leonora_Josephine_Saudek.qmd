@@ -72,6 +72,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1843-03-11 Birth of Leonora Josephine Saudek
+- 1880-07-04 Death of Leonora Josephine Saudek
+- nothing Event: burial of Leonora Josephine Saudek
+
+
 ## Sources
 Sources for birth:
 

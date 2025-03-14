@@ -13,3 +13,10 @@ engine: julia
 **Mother**: ?
 
 **Father**: ?
+
+## Events
+
+
+- 1850-10-19 Census event: Argyle Bearden 1850 census
+- nothing Event: burial of Argyle Bearden
+

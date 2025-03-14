@@ -95,6 +95,18 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1779-07-09 Birth of Horatio Nelson White
+- nothing Census event: Horatio N. White 1840 census
+- 1850-10-15 Census event: Horatio N. White 1850 census
+- nothing Census event: Horatio N. White 1860 census
+- nothing Census event: Horatio N. White 1870 census
+- nothing Census event: Horatio N. White 1880 census
+- 1886-05-05 Death of Horatio Nelson White
+
+
 ## Sources
 Sources for birth:
 

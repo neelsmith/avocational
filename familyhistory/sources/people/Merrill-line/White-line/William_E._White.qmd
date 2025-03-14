@@ -99,6 +99,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1836-08-03 Birth of William E. White
+- nothing Census event: William E. White 1850 census
+- 1902-03-08 Death of William E. White
+- nothing Event: burial of William E. White
+
+
 ## Sources
 Sources for birth:
 

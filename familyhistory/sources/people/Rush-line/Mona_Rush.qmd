@@ -83,6 +83,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1891-02-19 Birth of Mona Rush
+- nothing Census event: Mona Rush 1940 census
+- 1967-11-27 Death of Mona Rush
+
+
 ## Sources
 Sources for birth:
 

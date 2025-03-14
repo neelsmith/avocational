@@ -75,6 +75,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1778-11-22 Birth of Adam Euless
+- nothing Census event: Adam Euless 1840 census
+- 1843-12-22 Death of Adam Euless
+- nothing Event: burial of Adam Euless
+
+
 ## Sources
 Sources for birth:
 

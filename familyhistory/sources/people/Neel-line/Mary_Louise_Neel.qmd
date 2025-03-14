@@ -77,6 +77,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1912-05-01 Birth of Mary Louise Neel
+- 1920-01-11 Census event: Louise Neel 1920 census
+- 1995-11-23 Death of Mary Louise Neel
+- nothing Event: burial of Mary Louise Neel
+
+
 ## Sources
 Sources for parents:
 

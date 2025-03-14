@@ -13,3 +13,11 @@ engine: julia
 **Mother**: ?
 
 **Father**: ?
+
+## Events
+
+
+- nothing Census event: Michael Shofner 1790 census
+- nothing Census event: Michael Shofner 1800 census
+- nothing Event: burial of Michael Shofner
+

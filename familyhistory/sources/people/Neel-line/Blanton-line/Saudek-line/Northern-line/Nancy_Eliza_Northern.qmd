@@ -61,6 +61,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1848-01-18 Death of Nancy Eliza Northern
+- nothing Event: burial of Nancy Eliza Northern
+
+
 ## Sources
 Sources for death:
 

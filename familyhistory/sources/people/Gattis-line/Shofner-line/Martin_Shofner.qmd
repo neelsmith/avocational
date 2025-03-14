@@ -14,6 +14,17 @@ engine: julia
 
 **Father**: ?
 
+## Events
+
+
+- 1758-12-03 Birth of Martin Shofner
+- nothing Census event: Martin Shofner 1790 census
+- nothing Census event: Martin Shofner 1800 census
+- nothing Census event: Martin Shofner 1830 census
+- 1838-09-30 Death of Martin Shofner
+- nothing Event: burial of Martin Shofner
+
+
 ## Sources
 Sources for birth:
 

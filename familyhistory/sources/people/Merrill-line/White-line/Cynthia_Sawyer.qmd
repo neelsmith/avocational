@@ -45,6 +45,16 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1801-01-01 Birth of Cynthia Sawyer
+- 1820-01-01 Birth of Cynthia Sawyer
+- nothing Census event: Cynthia White 1850 census
+- 1889-01-01 Death of Cynthia Sawyer
+- nothing Event: burial of Cynthia Sawyer
+
+
 ## Sources
 Sources for birth:
 

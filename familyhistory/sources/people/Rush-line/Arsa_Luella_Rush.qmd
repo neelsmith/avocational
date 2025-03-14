@@ -14,6 +14,15 @@ engine: julia
 
 **Father**: ?
 
+## Events
+
+
+- 1858-01-16 Birth of Arsa Luella Rush
+- nothing Census event: Arsa Luella Rush 1870 census
+- 1894-03-11 Death of Arsa Luella Rush
+- nothing Event: burial of Arsa Luella Rush
+
+
 ## Sources
 Sources for birth:
 

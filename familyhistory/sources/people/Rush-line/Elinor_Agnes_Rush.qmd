@@ -41,6 +41,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Elinor Agnes Rush
+
+
 ## Sources
 Sources for parents:
 

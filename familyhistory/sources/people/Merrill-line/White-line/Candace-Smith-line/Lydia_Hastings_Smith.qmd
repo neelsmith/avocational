@@ -103,6 +103,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Lydia Hastings Smith
+
+
 Sources for children with [Zachariah Smith](./Zachariah_Smith.html)
 
 

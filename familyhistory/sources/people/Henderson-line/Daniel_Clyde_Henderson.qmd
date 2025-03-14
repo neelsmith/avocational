@@ -75,6 +75,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1784-12-08 Birth of Daniel Clyde Henderson
+
+
 ## Sources
 Sources for birth:
 

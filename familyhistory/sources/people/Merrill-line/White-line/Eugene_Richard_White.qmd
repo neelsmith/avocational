@@ -37,6 +37,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1872-07-19 Birth of Eugene Richard White
+
+
 ## Sources
 Sources for birth:
 

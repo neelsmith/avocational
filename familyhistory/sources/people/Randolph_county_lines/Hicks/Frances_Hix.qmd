@@ -79,6 +79,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1852-07-10 Birth of Frances Hix
+- 1925-11-13 Death of Frances Hix
+- 1925-11-13 Death of Frances Hix
+
+
 ## Sources
 Sources for birth:
 

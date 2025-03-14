@@ -51,6 +51,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1910-04-28 Census event: Josephine Neel 1910 census
+- 1920-01-11 Census event: Josephine Neel 1920 census
+- nothing Event: burial of Josephine Neel
+
+
 ## Sources
 Sources for parents:
 

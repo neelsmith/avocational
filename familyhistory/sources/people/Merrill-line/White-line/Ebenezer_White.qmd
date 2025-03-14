@@ -119,17 +119,17 @@ classDef marriage fill:#ffffff
 ## Events
 
 
-- Birth of Ebenezer White
-- Census event: Ebenezer White 1810 census
-- Census event: Ebenezer White 1820 census
-- Census event: Ebenezer White 1830 census
-- Census event: Ebenezer White 1840 census
-- Census event: Ebenezer White 1850 census
-- Death of Ebenezer White
-- Death of Ebenezer White
-- Death of Ebenezer White
-- Death of Ebenezer White
-- Event: burial of Ebenezer White
+- 1771-01-01 Birth of Ebenezer White
+- 1810-08-06 Census event: Ebenezer White 1810 census
+- 1820-08-07 Census event: Ebenezer White 1820 census
+- 1830-01-01 Census event: Ebenezer White 1830 census
+- nothing Census event: Ebenezer White 1840 census
+- 1810-08-20 Census event: Ebenezer White 1850 census
+- 1852-10-31 Death of Ebenezer White
+- 1852-10-31 Death of Ebenezer White
+- 1853-12-13 Death of Ebenezer White
+- 1854-03-12 Death of Ebenezer White
+- nothing Event: burial of Ebenezer White
 
 
 ![ ](./Ebenezer_White_events.png)

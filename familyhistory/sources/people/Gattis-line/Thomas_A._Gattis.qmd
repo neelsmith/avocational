@@ -67,6 +67,20 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1825-07-03 Birth of Thomas A. Gattis
+- 1826-01-01 Birth of Thomas A. Gattis
+- 1825-01-01 Birth of Thomas A. Gattis
+- 1828-01-01 Birth of Thomas A. Gattis
+- nothing Census event: Thomas A. Gattis 1850 census
+- nothing Census event: Thomas A. Gattis 1870 census
+- nothing Census event: Thomas A. Gattis 1880 census
+- 1898-01-25 Death of Thomas A. Gattis
+- nothing Event: burial of Thomas A. Gattis
+
+
 ## Sources
 Sources for birth:
 

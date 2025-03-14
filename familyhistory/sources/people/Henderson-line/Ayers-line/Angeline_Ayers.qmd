@@ -73,6 +73,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Angeline Ayers
+
+
 ## Sources
 Sources for parents:
 

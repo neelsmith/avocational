@@ -75,6 +75,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1868-01-01 Birth of James Albee Merrill
+- 1924-11-21 Death of James Albee Merrill
+- 1924-01-01 Death of James Albee Merrill
+- nothing Event: burial of James Albee Merrill
+
+
 ## Sources
 Sources for death:
 

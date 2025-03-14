@@ -69,6 +69,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1841-07-07 Birth of Elvira Ann Williams
+- 1928-02-22 Death of Elvira Ann Williams
+- nothing Event: burial of Elvira Ann Williams
+
+
 ## Sources
 Sources for death:
 

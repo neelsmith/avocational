@@ -58,6 +58,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1774-01-01 Birth of Rocena Snow
+- 1853-02-21 Death of Rocena Snow
+- nothing Event: burial of Rocena Snow
+
+
 ## Sources
 Sources for birth:
 

@@ -39,6 +39,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1860-08-18 Census event: Mary Rush 1860 census
+- nothing Census event: Mary Rush 1870 census
+
+
 ## Sources
 Sources for parents:
 

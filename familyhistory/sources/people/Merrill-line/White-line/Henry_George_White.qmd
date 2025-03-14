@@ -90,10 +90,10 @@ classDef marriage fill:#ffffff
 ## Events
 
 
-- Birth of Henry George White
-- Census event: Henry George White 1840 census
-- Census event: Henry George White 1850 census
-- Death of Henry George White
+- 1814-06-08 Birth of Henry George White
+- nothing Census event: Henry George White 1840 census
+- nothing Census event: Henry George White 1850 census
+- 1902-12-30 Death of Henry George White
 
 
 ![ ](./Henry_George_White_events.png)

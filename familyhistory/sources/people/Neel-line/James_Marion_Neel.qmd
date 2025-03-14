@@ -80,6 +80,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1900-06-20 Census event: James Marion Neel 1900 census
+- 1910-04-28 Census event: James Marion Neel 1910 census
+- 1917-02-11 Death of James Marion Neel
+- nothing Event: burial of James Marion Neel
+
+
 ## Sources
 Sources for death:
 

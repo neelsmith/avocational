@@ -121,6 +121,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1928-01-01 Birth of John Merrill Henderson
+- 2020-01-01 Death of John Merrill Henderson
+- nothing Event: burial of John Merrill Henderson
+
+
 ## Sources
 Sources for birth:
 

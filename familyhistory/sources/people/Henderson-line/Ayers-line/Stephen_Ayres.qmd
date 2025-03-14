@@ -75,6 +75,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1770-02-16 Birth of Stephen Ayres
+- nothing Event: burial of Stephen Ayres
+
+
 ## Sources
 Sources for birth:
 

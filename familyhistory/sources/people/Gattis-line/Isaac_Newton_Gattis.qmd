@@ -73,6 +73,17 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1933-01-01 Birth of Isaac Newton Gattis
+- nothing Census event: Isaac Newton Gattis 1870 census
+- nothing Census event: Isaac Newton Gattis 1880 census
+- nothing Census event: Isaac Newton Gattis 1900 census
+- 1939-01-01 Death of Isaac Newton Gattis
+- nothing Event: burial of Isaac Newton Gattis
+
+
 ## Sources
 Sources for birth:
 

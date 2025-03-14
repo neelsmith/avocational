@@ -101,6 +101,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1870-01-01 Birth of Anna Serena White
+- 1924-01-01 Death of Anna Serena White
+- 1913-05-03 Death of Anna Serena White
+
+
 ## Sources
 Sources for death:
 

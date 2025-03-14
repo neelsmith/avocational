@@ -120,6 +120,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1716-09-04 Birth of Zachariah Smith
+- nothing Event: burial of Zachariah Smith
+
+
 ## Sources
 Sources for parents:
 

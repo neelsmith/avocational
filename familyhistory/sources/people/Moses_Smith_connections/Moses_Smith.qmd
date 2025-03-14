@@ -114,6 +114,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1738-01-25 Birth of Moses Smith
+- nothing Census event: Moses Smith 1790 census
+- nothing Census event: Moses Smith 1800 census
+- 1815-09-01 Death of Moses Smith
+
+
 ## Sources
 Sources for birth:
 

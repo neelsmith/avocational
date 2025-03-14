@@ -118,6 +118,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Lydia Jepson Smith
+
+
 ## Sources
 Sources for parents:
 

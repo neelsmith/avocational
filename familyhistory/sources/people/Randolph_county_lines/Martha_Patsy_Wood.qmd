@@ -73,6 +73,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1796-11-14 Birth of Martha Patsy Wood
+- 1880-03-29 Death of Martha Patsy Wood
+- nothing Event: burial of Martha Patsy Wood
+
+
 ## Sources
 Sources for birth:
 

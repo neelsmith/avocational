@@ -58,6 +58,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Margaret Carpenter
+
+
 Sources for children with [Daniel Clyde Henderson](./../Daniel_Clyde_Henderson.html)
 
 

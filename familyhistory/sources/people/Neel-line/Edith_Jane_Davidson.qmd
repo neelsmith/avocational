@@ -13,3 +13,11 @@ engine: julia
 **Mother**: ?
 
 **Father**: ?
+
+## Events
+
+
+- 1900-06-20 Census event: Edith Jane Davidson 1900 census
+- 1910-04-28 Census event: Edith Jane Davidson 1910 census
+- nothing Event: burial of Edith Jane Davidson
+

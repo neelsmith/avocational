@@ -72,6 +72,18 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1868-01-01 Birth of Robert Wilburn Neel
+- 1868-09-28 Birth of Robert Wilburn Neel
+- 1900-06-20 Census event: Robert Wilburn Neel 1900 census
+- 1910-04-28 Census event: Robert Wilburn Neel 1910 census
+- 1920-01-11 Census event: Robert Wilburn Neel 1920 census
+- 1952-07-04 Death of Robert Wilburn Neel
+- nothing Event: burial of Robert Wilburn Neel
+
+
 ## Sources
 Sources for birth:
 

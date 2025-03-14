@@ -14,6 +14,13 @@ engine: julia
 
 **Father**: ?
 
+## Events
+
+
+- 1824-07-19 Birth of Susan Prince
+- 1864-01-13 Death of Susan Prince
+
+
 ## Sources
 Sources for birth:
 

@@ -86,6 +86,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1860-08-18 Census event: Noah Rush 1860 census
+- nothing Census event: Noah Rush 1870 census
+
+
 ## Sources
 Sources for parents:
 

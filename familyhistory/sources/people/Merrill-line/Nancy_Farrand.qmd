@@ -98,6 +98,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Nancy Farrand
+
+
 ## Sources
 Sources for parents:
 

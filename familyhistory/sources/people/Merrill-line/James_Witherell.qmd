@@ -58,6 +58,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Census event: James Witherell 1850 census
+- nothing Event: burial of James Witherell
+
+
 Sources for children with [Susan Willis](./Willis-line/Susan_Willis.html)
 
 

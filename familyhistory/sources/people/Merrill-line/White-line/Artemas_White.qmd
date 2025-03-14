@@ -77,6 +77,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1808-01-01 Birth of Artemas White
+- 1850-09-19 Census event: Artemas White 1850 census
+- 1888-01-01 Death of Artemas White
+
+
 ## Sources
 Sources for birth:
 

@@ -83,6 +83,16 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1897-10-01 Birth of Claud Gattis
+- 1895-10-24 Birth of Claud Gattis
+- nothing Census event: Claud Gattis 1890 census
+- 1987-12-09 Death of Claud Gattis
+- nothing Event: burial of Claud Gattis
+
+
 ## Sources
 Sources for birth:
 

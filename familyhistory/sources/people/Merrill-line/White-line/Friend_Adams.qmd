@@ -64,6 +64,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Friend Adams
+
+
 Sources for children with [Elizabeth Stagg](./Elizabeth_Stagg.html)
 
 

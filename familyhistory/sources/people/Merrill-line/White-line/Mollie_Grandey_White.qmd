@@ -13,3 +13,9 @@ engine: julia
 **Mother**: ?
 
 **Father**: ?
+
+## Events
+
+
+- nothing Census event: Mollie White 1920 census
+

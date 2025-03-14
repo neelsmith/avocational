@@ -77,6 +77,18 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1808-10-26 Birth of Syrena Adams
+- 1808-10-26 Birth of Syrena Adams
+- nothing Census event: Syrena White 1850 census
+- nothing Census event: Syrena White 1860 census
+- nothing Census event: Syrena White 1870 census
+- 1876-09-23 Death of Syrena Adams
+- nothing Event: burial of Syrena Adams
+
+
 ## Sources
 Sources for birth:
 

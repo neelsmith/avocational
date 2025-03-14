@@ -97,6 +97,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Benjamin White
+
+
 Sources for children with [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)
 
 

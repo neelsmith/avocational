@@ -33,6 +33,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1860-01-01 Census event: Zebedee Franklin Rush 1860 census
+- nothing Census event: Zebedee Franklin Rush 1870 census
+
+
 ## Sources
 Sources for parents:
 

@@ -69,6 +69,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Lucy Witherell
+
+
 ## Sources
 Sources for parents:
 

@@ -81,6 +81,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1900-06-09 Census event: John Dubois Henderson 1900 census
+
+
 ## Sources
 Sources for parents:
 

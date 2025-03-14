@@ -13,3 +13,11 @@ engine: julia
 **Mother**: ?
 
 **Father**: ?
+
+## Events
+
+
+- nothing Census event: Frances E. White 1860 census
+- nothing Census event: Francis E. White 1850 census
+- nothing Census event: Francis E. White 1870 census
+

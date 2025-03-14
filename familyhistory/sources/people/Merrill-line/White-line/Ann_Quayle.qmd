@@ -50,6 +50,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1860-01-01 Death of Ann Quayle
+
+
 Sources for children with [Henry George White](./Henry_George_White.html)
 
 

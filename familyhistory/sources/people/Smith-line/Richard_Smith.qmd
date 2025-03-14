@@ -51,6 +51,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Census event: Richard Smith 1940 census
+
+
 ## Sources
 Sources for parents:
 

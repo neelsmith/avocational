@@ -79,6 +79,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1778-01-01 Birth of Elizabeth Stagg
+- 1817-02-02 Death of Elizabeth Stagg
+- nothing Event: burial of Elizabeth Stagg
+
+
 ## Sources
 Sources for birth:
 

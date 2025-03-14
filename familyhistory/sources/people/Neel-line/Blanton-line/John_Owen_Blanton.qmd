@@ -72,6 +72,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1848-12-10 Birth of John Owen Blanton
+- 1913-07-20 Death of John Owen Blanton
+- nothing Event: burial of John Owen Blanton
+
+
 ## Sources
 Sources for birth:
 

@@ -63,6 +63,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Frances Dubois
+
+
 ## Sources
 Sources for parents:
 

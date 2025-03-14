@@ -82,6 +82,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1816-01-01 Birth of Hiram Smith White
+- nothing Census event: Hiram White 1850 census
+- 1893-06-29 Death of Hiram Smith White
+- nothing Event: burial of Hiram Smith White
+
+
 ## Sources
 Sources for birth:
 

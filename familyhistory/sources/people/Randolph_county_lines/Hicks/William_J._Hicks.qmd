@@ -64,6 +64,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1828-03-12 Birth of William J. Hicks
+- 1856-04-11 Death of William J. Hicks
+
+
 ## Sources
 Sources for birth:
 

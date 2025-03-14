@@ -13,3 +13,10 @@ engine: julia
 **Mother**: ?
 
 **Father**: ?
+
+## Events
+
+
+- nothing Census event: George White 1850 census
+- nothing Census event: George White 1860 census
+

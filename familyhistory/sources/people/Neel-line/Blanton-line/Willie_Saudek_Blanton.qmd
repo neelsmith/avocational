@@ -76,6 +76,20 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1877-12-24 Birth of Willie Saudek Blanton
+- 1877-12-24 Birth of Willie Saudek Blanton
+- 1920-01-11 Census event: James Davidson Neel 1920 census
+- 1920-01-11 Census event: Josephine Neel 1920 census
+- 1920-01-11 Census event: Louise Neel 1920 census
+- 1910-04-28 Census event: Willie Saudek Blanton 1910 census
+- 1920-01-11 Census event: Willie Saudek Blanton 1920 census
+- 1941-03-25 Death of Willie Saudek Blanton
+- nothing Event: burial of Willie Saudek Blanton
+
+
 ## Sources
 Sources for birth:
 

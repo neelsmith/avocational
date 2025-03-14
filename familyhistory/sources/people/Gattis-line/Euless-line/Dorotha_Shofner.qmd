@@ -58,6 +58,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Census event: Dorotha Schofner 1850 census
+- nothing Event: burial of Dorotha Shofner
+
+
 Sources for children with [Adam Euless](./Adam_Euless.html)
 
 

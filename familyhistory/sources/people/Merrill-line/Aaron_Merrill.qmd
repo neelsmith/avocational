@@ -81,6 +81,12 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Event: burial of Aaron Merrill
+
+
 Sources for children with [Nancy Farrand](./Nancy_Farrand.html)
 
 

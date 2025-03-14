@@ -87,6 +87,15 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1853-01-01 Birth of Calvin Harris Rush
+- 1860-08-18 Census event: Calvin Rush 1860 census
+- nothing Census event: Calvin Rush 1870 census
+- 1936-12-17 Death of Calvin Harris Rush
+
+
 ## Sources
 Sources for birth:
 

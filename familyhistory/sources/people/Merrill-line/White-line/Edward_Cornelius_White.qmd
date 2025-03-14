@@ -55,6 +55,14 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- 1843-01-01 Birth of Edward Cornelius White
+- 1844-01-01 Death of Edward Cornelius White
+- nothing Event: burial of Edward Cornelius White
+
+
 ## Sources
 Sources for birth:
 

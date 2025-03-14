@@ -64,6 +64,13 @@ classDef marriage fill:#ffffff
 
 
 
+## Events
+
+
+- nothing Census event: Duncan Neel 1830 census
+- nothing Census event: Duncan Neel 1840 census
+
+
 Sources for children with [Betty Neel](./Betty_Neel.html)
 
 
