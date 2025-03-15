@@ -8,15 +8,22 @@ engine: julia
 # Henry George White 2
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Henry George White 2
 
 
-- nothing Census event: George White 1850 census
-- nothing Census event: George White 1860 census
-
+- [George White 1850 census](./../../../transcriptions/census/White_census/George_White_1850_census.html)
+- [George White 1860 census](./../../../transcriptions/census/White_census/George_White_1860_census.html)
+- [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-12-19-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1852-12-19-HGW-to-FAW.html)

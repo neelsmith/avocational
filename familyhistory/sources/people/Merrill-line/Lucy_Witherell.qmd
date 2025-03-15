@@ -8,6 +8,9 @@ engine: julia
 # Lucy Witherell
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Susan Willis](./Willis-line/Susan_Willis.html)
@@ -69,13 +72,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of Lucy Witherell
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -89,3 +86,10 @@ Sources for children with [Hiram Merrill](./Hiram_Merrill.html)
 - [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html)
 
 
+
+## All sources for Lucy Witherell
+
+
+- [Lucy Witherell 1850 census](./../../transcriptions/census/Merrill_census/Lucy_Witherell_1850_census.html)
+- [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html)
+- [Hiram Merrill tombstone](./../../transcriptions/tombstones/Hiram_Merrill_tombstone.html)

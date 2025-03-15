@@ -8,6 +8,9 @@ engine: julia
 # Sarah Maria White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?

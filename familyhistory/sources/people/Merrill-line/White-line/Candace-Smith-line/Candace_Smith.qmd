@@ -8,6 +8,9 @@ engine: julia
 # Candace Smith
 
 
+## Biographical summary
+
+
 *born* 1783 : *died* 1850-01-27
 
 **Mother**: [Lydia Jepson Smith](./Lydia_Jepson_Smith.html)
@@ -128,15 +131,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1783-01-01 Birth of Candace Smith
 - 1850-01-27 Death of Candace Smith
-- nothing Event: burial of Candace Smith
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -173,3 +175,17 @@ Sources for children with [Ebenezer White](./../Ebenezer_White.html)
 - [Artemas White freedmans bank record 2894](./../../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 
 
+
+## All sources for Candace Smith
+
+
+- [Artemas White freedmans bank record 2894](./../../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
+- [1842-07-17-EW-HNW](./../../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
+- [1849-08-09-EW-toHNW](./../../../../transcriptions/letters/White_letters/1849-08-09-EW-toHNW.html)
+- [1849-11-18-EW-to-HNW](./../../../../transcriptions/letters/White_letters/1849-11-18-EW-to-HNW.html)
+- [Ebenezer White - Candace Smith marriage](./../../../../transcriptions/marriages/Ebenezer_White_-_Candace_Smith_marriage.html)
+- [Ebenezer White tombstone](./../../../../transcriptions/tombstones/Ebenezer_White_tombstone.html)
+- [Candace Smith in federal mortality schedule](./../../../../transcriptions/vitals/Candace_Smith_in_federal_mortality_schedule.html)
+- [Ebenezer White death](./../../../../transcriptions/vitals/Ebenezer_White_death.html)
+- [Hiram Smith White death record](./../../../../transcriptions/vitals/Hiram_Smith_White_death_record.html)
+- [Horatio Nelson White death](./../../../../transcriptions/vitals/Horatio_Nelson_White_death.html)

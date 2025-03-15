@@ -8,8 +8,16 @@ engine: julia
 # Henry Sawyer White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Henry Sawyer White
+
+
+- [1851-09-03-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-09-03-HGW-to-HNW.html)

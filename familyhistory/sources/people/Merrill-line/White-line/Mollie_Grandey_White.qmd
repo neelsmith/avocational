@@ -8,14 +8,16 @@ engine: julia
 # Mollie Grandey White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Mollie Grandey White
 
 
-- nothing Census event: Mollie White 1920 census
-
+- [Mollie White 1920 census](./../../../transcriptions/census/White_census/Mollie_G._White_census/Mollie_White_1920_census.html)

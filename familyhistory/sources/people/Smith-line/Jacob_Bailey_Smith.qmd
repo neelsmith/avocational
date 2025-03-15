@@ -8,6 +8,9 @@ engine: julia
 # Jacob Bailey Smith
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?

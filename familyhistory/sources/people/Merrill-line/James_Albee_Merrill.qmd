@@ -8,6 +8,9 @@ engine: julia
 # James Albee Merrill
 
 
+## Biographical summary
+
+
 *born* ? : *died* 1924-11-21
 
 **Mother**: [Lucy Witherell](./Lucy_Witherell.html)
@@ -75,16 +78,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1868-01-01 Birth of James Albee Merrill
 - 1924-11-21 Death of James Albee Merrill
-- 1924-01-01 Death of James Albee Merrill
-- nothing Event: burial of James Albee Merrill
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for death:
 
 
@@ -106,3 +106,12 @@ Sources for children with [Anna Serena White](./White-line/Anna_Serena_White.htm
 - [Marguerite Merrill birth](./../../transcriptions/vitals/Marguerite_Merrill_birth.html)
 
 
+
+## All sources for James Albee Merrill
+
+
+- [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html)
+- [Anna White Merrill death notice](./../../transcriptions/newspapers/Anna_White_Merrill_death_notice.html)
+- [James Merrill and Anna White family tombstone](./../../transcriptions/tombstones/James_Merrill_and_Anna_White_family_tombstone.html)
+- [James A. Merrill MN death index](./../../transcriptions/vitals/James_A._Merrill_MN_death_index.html)
+- [Marguerite Merrill birth](./../../transcriptions/vitals/Marguerite_Merrill_birth.html)

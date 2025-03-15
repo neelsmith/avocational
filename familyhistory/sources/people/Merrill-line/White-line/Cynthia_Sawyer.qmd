@@ -8,6 +8,9 @@ engine: julia
 # Cynthia Sawyer
 
 
+## Biographical summary
+
+
 *born* 1820 : *died* 1889
 
 **Mother**: ?
@@ -45,17 +48,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1801-01-01 Birth of Cynthia Sawyer
 - 1820-01-01 Birth of Cynthia Sawyer
-- nothing Census event: Cynthia White 1850 census
 - 1889-01-01 Death of Cynthia Sawyer
-- nothing Event: burial of Cynthia Sawyer
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -79,3 +79,19 @@ Sources for children with [Hiram Smith White](./Hiram_Smith_White.html)
 - [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)
 
 
+
+## All sources for Cynthia Sawyer
+
+
+- [Cynthia White 1850 census](./../../../transcriptions/census/White_census/Cynthia_White_1850_census.html)
+- [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
+- [1849-11-18-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-11-18-EW-to-HNW.html)
+- [1850-04-07-HSW-to-HNW](./../../../transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)
+- [1851-03-02-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-03-02-EW-to-HNW.html)
+- [1851-07-27-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-07-27-EW-to-HNW.html)
+- [1851-09-03-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-09-03-HGW-to-HNW.html)
+- [1851-10-30-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-30-EW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-11-11-EW-to-HNW](./../../../transcriptions/letters/White_letters/1852-11-11-EW-to-HNW.html)
+- [1853-12-13-EW-to-HNW](./../../../transcriptions/letters/White_letters/1853-12-13-EW-to-HNW.html)
+- [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)

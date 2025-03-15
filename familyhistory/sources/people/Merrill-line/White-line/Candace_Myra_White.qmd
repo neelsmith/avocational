@@ -8,8 +8,16 @@ engine: julia
 # Candace Myra White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Candace Myra White
+
+
+- [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)

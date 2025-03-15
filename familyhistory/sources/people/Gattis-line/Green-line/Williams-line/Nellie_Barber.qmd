@@ -8,6 +8,9 @@ engine: julia
 # Nellie Barber
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?

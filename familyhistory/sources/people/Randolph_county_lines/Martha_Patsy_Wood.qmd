@@ -8,6 +8,9 @@ engine: julia
 # Martha Patsy Wood
 
 
+## Biographical summary
+
+
 *born* 1796-11-14 : *died* 1880-03-29
 
 **Mother**: ?
@@ -73,15 +76,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1796-11-14 Birth of Martha Patsy Wood
 - 1880-03-29 Death of Martha Patsy Wood
-- nothing Event: burial of Martha Patsy Wood
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -102,3 +104,9 @@ Sources for children with [Cornelius Loflin](./Loflin/Cornelius_Loflin.html)
 - [Cornelius Loflin will](./../../transcriptions/wills/Cornelius_Loflin_will.html)
 
 
+
+## All sources for Martha Patsy Wood
+
+
+- [Martha Wood tombstone](./../../transcriptions/tombstones/Martha_Wood_tombstone.html)
+- [Cornelius Loflin will](./../../transcriptions/wills/Cornelius_Loflin_will.html)

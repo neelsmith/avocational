@@ -8,14 +8,11 @@ engine: julia
 # Hannah Watts
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Hannah Watts
-

@@ -8,20 +8,23 @@ engine: julia
 # Susan Prince
 
 
+## Biographical summary
+
+
 *born* 1824-07-19 : *died* 1864-01-13
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## Dated events
 
 
 - 1824-07-19 Birth of Susan Prince
 - 1864-01-13 Death of Susan Prince
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -35,3 +38,9 @@ Sources for death:
 | Date | Source | Type |
 | --- | --- | --- |
 | 1864-01-13 | [Susan Prince tombstone](./../../../transcriptions/tombstones/Susan_Prince_tombstone.html) | direct |
+
+## All sources for Susan Prince
+
+
+- [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)
+- [Susan Prince tombstone](./../../../transcriptions/tombstones/Susan_Prince_tombstone.html)

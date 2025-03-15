@@ -8,6 +8,9 @@ engine: julia
 # Juanita Rush
 
 
+## Biographical summary
+
+
 *born* 1880 : *died* 1937-10-12
 
 **Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
@@ -47,15 +50,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1880-01-01 Birth of Juanita Rush
 - 1937-10-12 Death of Juanita Rush
-- nothing Event: burial of Juanita Rush
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -77,3 +79,8 @@ Sources for parents:
 | --- | --- | --- | --- |
 | [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html) | [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html) | direct |
 | [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [](Juanita Rush) | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |
+
+## All sources for Juanita Rush
+
+
+- [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html)

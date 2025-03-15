@@ -8,14 +8,16 @@ engine: julia
 # Eda J. Neel
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Eda J. Neel
 
 
-- nothing Event: burial of Eda J. Neel
-
+- [Eda Neel Peacock tombstone](./../../transcriptions/tombstones/Eda_Neel_Peacock_tombstone.html)

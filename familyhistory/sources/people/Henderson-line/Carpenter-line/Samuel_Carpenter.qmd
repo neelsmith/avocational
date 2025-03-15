@@ -8,14 +8,11 @@ engine: julia
 # Samuel Carpenter
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Samuel Carpenter
-

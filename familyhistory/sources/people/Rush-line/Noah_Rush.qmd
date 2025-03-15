@@ -8,6 +8,9 @@ engine: julia
 # Noah Rush
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Frances Fuller](./../Randolph_county_lines/Frances_Fuller.html)
@@ -86,14 +89,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1860-08-18 Census event: Noah Rush 1860 census
-- nothing Census event: Noah Rush 1870 census
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -110,3 +112,11 @@ Sources for children with [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah
 - [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
 
 
+
+## All sources for Noah Rush
+
+
+- [Noah Rush 1860 census](./../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
+- [Noah Rush 1870 census](./../../transcriptions/census/Rush_census/Noah_Rush_1870_census.html)
+- [Noah Rush - Sarah Loughlin marriage bond](./../../transcriptions/marriages/Noah_Rush_-_Sarah_Loughlin_marriage_bond.html)
+- [Zebedee Rush will](./../../transcriptions/wills/Zebedee_Rush_will.html)

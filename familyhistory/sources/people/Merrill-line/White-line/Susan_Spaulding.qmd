@@ -8,14 +8,17 @@ engine: julia
 # Susan Spaulding
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Susan Spaulding
 
 
-- nothing Census event: Susan White 1880 census
-
+- [Susan White 1880 census](./../../../transcriptions/census/White_census/Susan_White_1880_census.html)
+- [Horatio White - Susan Spaulding marriage](./../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html)

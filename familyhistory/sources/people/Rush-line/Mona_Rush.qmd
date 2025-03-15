@@ -8,6 +8,9 @@ engine: julia
 # Mona Rush
 
 
+## Biographical summary
+
+
 *born* 1891-02-19 : *died* 1967-11-27
 
 **Mother**: [Frances Hix](./../Randolph_county_lines/Hicks/Frances_Hix.html)
@@ -83,15 +86,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1891-02-19 Birth of Mona Rush
-- nothing Census event: Mona Rush 1940 census
 - 1967-11-27 Death of Mona Rush
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -124,3 +126,13 @@ Sources for children with [Charles R. Smith Sr.](./../Smith-line/Charles_R._Smit
 - [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
 
 
+
+## All sources for Mona Rush
+
+
+- [Mona Rush 1940 census](./../../transcriptions/census/Smith_census/Mona_Rush_1940_census.html)
+- [Charles Smith - Mona Rush marriage](./../../transcriptions/marriages/Charles_Smith_-_Mona_Rush_marriage.html)
+- [Mona Rush - C.R. Smith marriage](./../../transcriptions/marriages/Mona_Rush_-_C.R._Smith_marriage.html)
+- [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html)
+- [Mona Rush tombstone](./../../transcriptions/tombstones/Mona_Rush_tombstone.html)
+- [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)

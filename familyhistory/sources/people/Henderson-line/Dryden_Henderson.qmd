@@ -8,8 +8,16 @@ engine: julia
 # Dryden Henderson
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Dryden Henderson
+
+
+- [Daniel Clyde Henderson will](./../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)

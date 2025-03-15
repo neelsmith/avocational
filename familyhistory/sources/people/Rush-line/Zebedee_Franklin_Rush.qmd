@@ -8,6 +8,9 @@ engine: julia
 # Zebedee Franklin Rush
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
@@ -33,17 +36,24 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1860-01-01 Census event: Zebedee Franklin Rush 1860 census
-- nothing Census event: Zebedee Franklin Rush 1870 census
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [](Zebedee Franklin Rush) | [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html) | [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html) | direct |
+
+## All sources for Zebedee Franklin Rush
+
+
+- [Zebedee Franklin Rush 1860 census](./../../transcriptions/census/Rush_census/Zebedee_Franklin_Rush_1860_census.html)
+- [Zebedee Franklin Rush 1870 census](./../../transcriptions/census/Rush_census/Zebedee_Franklin_Rush_1870_census.html)
+- [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html)
+- [Zebedee Rush will](./../../transcriptions/wills/Zebedee_Rush_will.html)

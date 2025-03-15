@@ -8,6 +8,9 @@ engine: julia
 # Cassie Green
 
 
+## Biographical summary
+
+
 *born* 1873-11-01 : *died* 1946-02-12
 
 **Mother**: [Elvira Ann Williams](./Williams-line/Elvira_Ann_Williams.html)
@@ -71,16 +74,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1873-11-01 Birth of Cassie Green
-- nothing Census event: Cassie E. Gattis 1900 census
 - 1946-02-12 Death of Cassie Green
-- nothing Event: burial of Cassie Green
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -108,3 +109,12 @@ Sources for children with [Isaac Newton Gattis](./../Isaac_Newton_Gattis.html)
 - [Claud Gattis obituary in News-Journal](./../../../transcriptions/newspapers/Claud_Gattis_obituary_in_News-Journal.html)
 
 
+
+## All sources for Cassie Green
+
+
+- [Cassie E. Gattis 1900 census](./../../../transcriptions/census/Gattis_census/Cassie_E._Gattis_1900_census.html)
+- [Isaac Newton Gattis - Cassie Green marriage](./../../../transcriptions/marriages/Isaac_Newton_Gattis_-_Cassie_Green_marriage.html)
+- [Isaac Newton Gattis obituary](./../../../transcriptions/newspapers/Isaac_Newton_Gattis_obituary.html)
+- [James Green obituary](./../../../transcriptions/newspapers/James_Green_obituary.html)
+- [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html)

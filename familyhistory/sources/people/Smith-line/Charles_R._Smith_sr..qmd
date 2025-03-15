@@ -8,6 +8,9 @@ engine: julia
 # Charles R. Smith Sr.
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -60,3 +63,10 @@ Sources for children with [Mona Rush](./../Rush-line/Mona_Rush.html)
 - [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
 
 
+
+## All sources for Charles R. Smith Sr.
+
+
+- [Charles Smith - Mona Rush marriage](./../../transcriptions/marriages/Charles_Smith_-_Mona_Rush_marriage.html)
+- [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html)
+- [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)

@@ -8,6 +8,9 @@ engine: julia
 # Ruth Wilson
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -95,12 +98,6 @@ classDef marriage fill:#ffffff
 
 ```
 
-
-
-## Events
-
-
-- nothing Event: burial of Ruth Wilson
 
 
 Sources for children with [Benjamin White](./../Benjamin_White.html)

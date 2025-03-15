@@ -8,6 +8,9 @@ engine: julia
 # Willie Saudek Blanton
 
 
+## Biographical summary
+
+
 *born* 1877-12-24 : *died* 1941-03-25
 
 **Mother**: [Leonora Josephine Saudek](./Saudek-line/Leonora_Josephine_Saudek.html)
@@ -76,21 +79,20 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1877-12-24 Birth of Willie Saudek Blanton
 - 1877-12-24 Birth of Willie Saudek Blanton
+- 1910-04-28 Census event: Willie Saudek Blanton 1910 census
 - 1920-01-11 Census event: James Davidson Neel 1920 census
 - 1920-01-11 Census event: Josephine Neel 1920 census
 - 1920-01-11 Census event: Louise Neel 1920 census
-- 1910-04-28 Census event: Willie Saudek Blanton 1910 census
 - 1920-01-11 Census event: Willie Saudek Blanton 1920 census
 - 1941-03-25 Death of Willie Saudek Blanton
-- nothing Event: burial of Willie Saudek Blanton
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -121,3 +123,14 @@ Sources for children with [Robert Wilburn Neel](./../Robert_Wilburn_Neel.html)
 - [Josephine Neel 1910 census](./../../../transcriptions/census/Neel_census/Josephine_Neel_1910_census.html)
 
 
+
+## All sources for Willie Saudek Blanton
+
+
+- [James Davidson Neel 1920 census](./../../../transcriptions/census/Neel_census/James_Davidson_Neel_1920_census.html)
+- [Josephine Neel 1920 census](./../../../transcriptions/census/Neel_census/Josephine_Neel_1920_census.html)
+- [Louise Neel 1920 census](./../../../transcriptions/census/Neel_census/Louise_Neel_1920_census.html)
+- [Willie Saudek Blanton 1910 census](./../../../transcriptions/census/Neel_census/Willie_Saudek_Blanton_1910_census.html)
+- [Willie Saudek Blanton 1920 census](./../../../transcriptions/census/Neel_census/Willie_Saudek_Blanton_1920_census.html)
+- [Louise Neel Gattis obituary](./../../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+- [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html)

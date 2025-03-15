@@ -8,15 +8,16 @@ engine: julia
 # Marmaduke Vickery
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Marmaduke Vickery
 
 
-- 1787-01-01 Death of Marmaduke Vickery
-- nothing Event: burial of Marmaduke Vickery
-
+- [Marmaduke Vickery will](./../../../transcriptions/wills/Marmaduke_Vickery_will.html)

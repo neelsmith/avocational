@@ -8,14 +8,11 @@ engine: julia
 # Margaret A. McCrery
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Margaret A. McCrery
-

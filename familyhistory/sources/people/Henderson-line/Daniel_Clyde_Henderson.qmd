@@ -8,6 +8,9 @@ engine: julia
 # Daniel Clyde Henderson
 
 
+## Biographical summary
+
+
 *born* 1784-12-08 : *died* ?
 
 **Mother**: [Mary Mathis](./Mary_Mathis.html)
@@ -75,13 +78,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1784-12-08 Birth of Daniel Clyde Henderson
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -102,3 +105,9 @@ Sources for children with [Margaret Carpenter](./Carpenter-line/Margaret_Carpent
 - [Daniel Clyde Henderson will](./../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)
 
 
+
+## All sources for Daniel Clyde Henderson
+
+
+- [Daniel Clyde Henderson birth](./../../transcriptions/vitals/Daniel_Clyde_Henderson_birth.html)
+- [Daniel Clyde Henderson will](./../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)

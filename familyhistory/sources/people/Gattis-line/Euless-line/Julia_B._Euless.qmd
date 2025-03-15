@@ -8,6 +8,9 @@ engine: julia
 # Julia B. Euless
 
 
+## Biographical summary
+
+
 *born* 1827-08-12 : *died* 1910-07-05
 
 **Mother**: [Dorotha Shofner](./Dorotha_Shofner.html)
@@ -73,7 +76,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1827-08-12 Birth of Julia B. Euless
@@ -82,10 +85,9 @@ classDef marriage fill:#ffffff
 - 1880-06-10 Census event: Julia Euless 1880 census
 - 1900-06-01 Census event: Julia Euless 1900 census
 - 1910-04-18 Census event: Julia Euless 1910 census
-- nothing Event: burial of Julia B. Euless
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -113,3 +115,15 @@ Sources for children with [Thomas A. Gattis](./../Thomas_A._Gattis.html)
 - [Isaac Newton Gattis 1870 census](./../../../transcriptions/census/Gattis_census/Isaac_Newton_Gattis_1870_census.html)
 
 
+
+## All sources for Julia B. Euless
+
+
+- [Julia Euless 1850 census](./../../../transcriptions/census/Gattis_census/Julia_Euless_1850_census.html)
+- [Julia Euless 1870 census](./../../../transcriptions/census/Gattis_census/Julia_Euless_1870_census.html)
+- [Julia Euless 1880 census](./../../../transcriptions/census/Gattis_census/Julia_Euless_1880_census.html)
+- [Julia Euless 1900 census](./../../../transcriptions/census/Gattis_census/Julia_Euless_1900_census.html)
+- [Julia Euless 1910 census](./../../../transcriptions/census/Gattis_census/Julia_Euless_1910_census.html)
+- [Julia B. Euless tombstone](./../../../transcriptions/tombstones/Julia_B._Euless_tombstone.html)
+- [Julia Euless tombstone](./../../../transcriptions/tombstones/Julia_Euless_tombstone.html)
+- [Julia Euless Chattanooga death certificate](./../../../transcriptions/vitals/Julia_Euless_Chattanooga_death_certificate.html)

@@ -8,6 +8,9 @@ engine: julia
 # Josephine Neel
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html)
@@ -51,18 +54,23 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1910-04-28 Census event: Josephine Neel 1910 census
 - 1920-01-11 Census event: Josephine Neel 1920 census
-- nothing Event: burial of Josephine Neel
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Robert Wilburn Neel](./Robert_Wilburn_Neel.html) | [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html) | [Josephine Neel 1910 census](./../../transcriptions/census/Neel_census/Josephine_Neel_1910_census.html) | direct |
+
+## All sources for Josephine Neel
+
+
+- [Josephine Neel 1910 census](./../../transcriptions/census/Neel_census/Josephine_Neel_1910_census.html)
+- [Josephine Neel 1920 census](./../../transcriptions/census/Neel_census/Josephine_Neel_1920_census.html)

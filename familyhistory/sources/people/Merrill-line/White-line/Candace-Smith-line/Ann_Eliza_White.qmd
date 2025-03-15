@@ -8,8 +8,19 @@ engine: julia
 # Ann Eliza White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Ann Eliza White
+
+
+- [1848-07-02-HGW-to-HNW](./../../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1851-10-26-HGW-to-HNW](./../../../../transcriptions/letters/White_letters/1851-10-26-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1854-03-12-HGW-to-HNW](./../../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html)

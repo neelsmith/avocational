@@ -8,6 +8,9 @@ engine: julia
 # Eliza Ann White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
@@ -51,17 +54,15 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- 1810-01-01 Birth of Eliza Ann White
-- 1813-11-02 Death of Eliza Ann White
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Ebenezer White](./Ebenezer_White.html) | [Candace Smith](./Candace-Smith-line/Candace_Smith.html) | [Eliza Ann White death](./../../../transcriptions/vitals/Eliza_Ann_White_death.html) | direct |
+
+## All sources for Eliza Ann White
+
+
+- [Eliza Ann White death](./../../../transcriptions/vitals/Eliza_Ann_White_death.html)

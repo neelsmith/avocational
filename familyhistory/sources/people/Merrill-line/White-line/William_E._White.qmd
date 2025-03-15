@@ -8,6 +8,9 @@ engine: julia
 # William E. White
 
 
+## Biographical summary
+
+
 *born* 1836-08-03 : *died* 1902-03-08
 
 **Mother**: [Syrena Adams](./Syrena_Adams.html)
@@ -99,16 +102,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1836-08-03 Birth of William E. White
-- nothing Census event: William E. White 1850 census
 - 1902-03-08 Death of William E. White
-- nothing Event: burial of William E. White
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -136,3 +137,21 @@ Sources for children with [Ellen Grandey](./../Grandey-line/Ellen_Grandey.html)
 - [Anna Serena White death](./../../../transcriptions/vitals/Anna_Serena_White_death.html)
 
 
+
+## All sources for William E. White
+
+
+- [William E. White 1850 census](./../../../transcriptions/census/White_census/William_E._White_1850_census.html)
+- [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
+- [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-12-19-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1852-12-19-HGW-to-FAW.html)
+- [1855-04-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-04-01-HGW-to-HNW.html)
+- [1855-08-19-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-08-19-HGW-to-HNW.html)
+- [1856-01-02 HG to HN](./../../../transcriptions/letters/White_letters/1856-01-02_HG_to_HN.html)
+- [Ellen M. Grandy marriage record](./../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html)
+- [William White - Jennie Warner marriage](./../../../transcriptions/marriages/William_White_-_Jennie_Warner_marriage.html)
+- [Anna White Merrill death notice](./../../../transcriptions/newspapers/Anna_White_Merrill_death_notice.html)
+- [Anna Serena White death](./../../../transcriptions/vitals/Anna_Serena_White_death.html)
+- [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html)

@@ -8,14 +8,11 @@ engine: julia
 # Honor Hopkins
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Honor Hopkins
-

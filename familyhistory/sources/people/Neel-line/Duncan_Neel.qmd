@@ -8,6 +8,9 @@ engine: julia
 # Duncan Neel
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -64,16 +67,21 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Census event: Duncan Neel 1830 census
-- nothing Census event: Duncan Neel 1840 census
-
-
 Sources for children with [Betty Neel](./Betty_Neel.html)
 
 
 - [Duncan Neel will](./../../transcriptions/wills/Duncan_Neel_will.html)
 
 
+
+## All sources for Duncan Neel
+
+
+- [Duncan Neel 1830 census](./../../transcriptions/census/Neel_census/Duncan_Neel_1830_census.html)
+- [Duncan Neel 1840 census](./../../transcriptions/census/Neel_census/Duncan_Neel_1840_census.html)
+- [Duncan Neel Tennessee land grant 10023](./../../transcriptions/landrecords/Duncan_Neel_Tennessee_land_grant_10023.html)
+- [Duncan Neel Tennessee land grant 10984](./../../transcriptions/landrecords/Duncan_Neel_Tennessee_land_grant_10984.html)
+- [Duncan Neel Tennessee land grant 7446](./../../transcriptions/landrecords/Duncan_Neel_Tennessee_land_grant_7446.html)
+- [Duncan Neel Tennessee state tax 1836](./../../transcriptions/taxlists/Duncan_Neel_Tennessee_state_tax_1836.html)
+- [Duncan Neel Tennessee state tax 1839](./../../transcriptions/taxlists/Duncan_Neel_Tennessee_state_tax_1839.html)
+- [Duncan Neel will](./../../transcriptions/wills/Duncan_Neel_will.html)

@@ -8,15 +8,16 @@ engine: julia
 # James Harris
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for James Harris
 
 
-- 1777-10-02 Birth of James Harris
-- 1863-11-03 Death of James Harris
-
+- [James Harris application for military headstone](./../../transcriptions/other/James_Harris_application_for_military_headstone.html)

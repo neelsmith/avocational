@@ -8,6 +8,9 @@ engine: julia
 # Susan Willis
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -58,15 +61,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of Susan Willis
-
-
 Sources for children with [James Witherell](./../James_Witherell.html)
 
 
 - [Lucy Witherell 1850 census](./../../../transcriptions/census/Merrill_census/Lucy_Witherell_1850_census.html)
 
 
+
+## All sources for Susan Willis
+
+
+- [Susan Willis 1850 census](./../../../transcriptions/census/Merrill_census/Susan_Willis_1850_census.html)

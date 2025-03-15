@@ -8,6 +8,9 @@ engine: julia
 # Leonora Josephine Saudek
 
 
+## Biographical summary
+
+
 *born* 1843-03-11 : *died* 1880-07-04
 
 **Mother**: [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)
@@ -72,15 +75,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1843-03-11 Birth of Leonora Josephine Saudek
 - 1880-07-04 Death of Leonora Josephine Saudek
-- nothing Event: burial of Leonora Josephine Saudek
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -108,3 +110,8 @@ Sources for children with [John Owen Blanton](./../John_Owen_Blanton.html)
 - [Willie Blanton death certificate](./../../../../transcriptions/vitals/Willie_Blanton_death_certificate.html)
 
 
+
+## All sources for Leonora Josephine Saudek
+
+
+- [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html)

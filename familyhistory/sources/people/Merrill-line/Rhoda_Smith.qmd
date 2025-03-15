@@ -8,6 +8,9 @@ engine: julia
 # Rhoda Smith
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -83,12 +86,6 @@ classDef marriage fill:#ffffff
 
 ```
 
-
-
-## Events
-
-
-- nothing Event: burial of Rhoda Smith
 
 
 Sources for children with [Bethuel Farrand](./White-line/Grandey/Bethuel_Farrand.html)

@@ -8,16 +8,30 @@ engine: julia
 # Frances E. White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Frances E. White
 
 
-- nothing Census event: Frances E. White 1860 census
-- nothing Census event: Francis E. White 1850 census
-- nothing Census event: Francis E. White 1870 census
-
+- [Frances E. White 1860 census](./../../../transcriptions/census/White_census/Frances_E._White_1860_census.html)
+- [Francis E. White 1850 census](./../../../transcriptions/census/White_census/Francis_E._White_1850_census.html)
+- [Francis E. White 1870 census](./../../../transcriptions/census/White_census/Francis_E._White_1870_census.html)
+- [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
+- [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1850-04-07-HSW-to-HNW](./../../../transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)
+- [1851-03-02-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-03-02-EW-to-HNW.html)
+- [1851-07-27-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-07-27-EW-to-HNW.html)
+- [1851-09-03-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-09-03-HGW-to-HNW.html)
+- [1851-10-30-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-30-EW-to-HNW.html)
+- [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-12-19-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1852-12-19-HGW-to-FAW.html)
+- [1854-03-12-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html)
+- [1855-04-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-04-01-HGW-to-HNW.html)

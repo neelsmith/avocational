@@ -8,8 +8,16 @@ engine: julia
 # Annie Ladd
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Annie Ladd
+
+
+- [Candace White Palmer death certificate](./../transcriptions/vitals/Candace_White_Palmer_death_certificate.html)

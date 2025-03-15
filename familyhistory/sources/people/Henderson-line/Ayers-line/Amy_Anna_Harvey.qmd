@@ -8,14 +8,11 @@ engine: julia
 # Amy Anna Harvey
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Amy Anna Harvey
-

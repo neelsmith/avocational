@@ -8,14 +8,11 @@ engine: julia
 # William Shattuck
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of William Shattuck
-

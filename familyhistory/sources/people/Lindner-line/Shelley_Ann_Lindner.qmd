@@ -8,14 +8,16 @@ engine: julia
 # Shelley Ann Lindner
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Shelley Ann Lindner
 
 
-- nothing Event: burial of Shelley Ann Lindner
-
+- [John Henderson - Shelley Lindner marriage record](./../../transcriptions/marriages/John_Henderson_-_Shelley_Lindner_marriage_record.html)

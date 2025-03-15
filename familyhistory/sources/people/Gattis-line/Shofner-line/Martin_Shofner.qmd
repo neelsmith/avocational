@@ -8,24 +8,23 @@ engine: julia
 # Martin Shofner
 
 
+## Biographical summary
+
+
 *born* 1758-12-03 : *died* 1838-09-30
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## Dated events
 
 
 - 1758-12-03 Birth of Martin Shofner
-- nothing Census event: Martin Shofner 1790 census
-- nothing Census event: Martin Shofner 1800 census
-- nothing Census event: Martin Shofner 1830 census
 - 1838-09-30 Death of Martin Shofner
-- nothing Event: burial of Martin Shofner
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -39,3 +38,11 @@ Sources for death:
 | Date | Source | Type |
 | --- | --- | --- |
 | 1838-09-30 | [Martin Shofner tombstone](./../../../transcriptions/tombstones/Martin_Shofner_tombstone.html) | direct |
+
+## All sources for Martin Shofner
+
+
+- [Martin Shofner 1790 census](./../../../transcriptions/census/Gattis_census/Martin_Shofner_1790_census.html)
+- [Martin Shofner 1800 census](./../../../transcriptions/census/Gattis_census/Martin_Shofner_1800_census.html)
+- [Martin Shofner 1830 census](./../../../transcriptions/census/Gattis_census/Martin_Shofner_1830_census.html)
+- [Martin Shofner tombstone](./../../../transcriptions/tombstones/Martin_Shofner_tombstone.html)

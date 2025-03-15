@@ -8,6 +8,9 @@ engine: julia
 # David Hammond Smith
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Mona Rush](./../Rush-line/Mona_Rush.html)
@@ -51,13 +54,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Census event: David Smith 1940 census
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -65,3 +62,9 @@ Sources for parents:
 | --- | --- | --- | --- |
 | [](David Hammond Smith) | [Mona Rush](./../Rush-line/Mona_Rush.html) | [David Smith 1940 census](./../../transcriptions/census/Smith_census/David_Smith_1940_census.html) | direct |
 | [Charles R. Smith Sr.](./Charles_R._Smith_Sr..html) | [Mona Rush](./../Rush-line/Mona_Rush.html) | [Charles R. Smith obituary Roanoke Times](./../../transcriptions/newspapers/Charles_R._Smith_obituary_Roanoke_Times.html) | direct |
+
+## All sources for David Hammond Smith
+
+
+- [David Smith 1940 census](./../../transcriptions/census/Smith_census/David_Smith_1940_census.html)
+- [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)

@@ -8,6 +8,9 @@ engine: julia
 # Ephraim Smith
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -109,3 +112,8 @@ Sources for children with [Hannah Rice](./Hannah_Rice.html)
 - [Moses Smith birth](./../../../../transcriptions/vitals/Moses_Smith_birth.html)
 
 
+
+## All sources for Ephraim Smith
+
+
+- [Ephraim Smith - Hannah Rice marriage](./../../../../transcriptions/marriages/Ephraim_Smith_-_Hannah_Rice_marriage.html)

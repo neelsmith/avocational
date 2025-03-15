@@ -8,6 +8,9 @@ engine: julia
 # Mary Lucille Rush
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -41,10 +44,15 @@ classDef marriage fill:#ffffff
 
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Calvin Harris Rush](./Calvin_Harris_Rush.html) | [](Mary Lucille Rush) | [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html) | direct |
+
+## All sources for Mary Lucille Rush
+
+
+- [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html)

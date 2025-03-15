@@ -8,14 +8,11 @@ engine: julia
 # Micajah Benson Lassiter
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Micajah Benson Lassiter
-

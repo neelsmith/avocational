@@ -8,6 +8,9 @@ engine: julia
 # Nancy Farrand
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Rhoda Smith](./Rhoda_Smith.html)
@@ -98,13 +101,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of Nancy Farrand
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -120,3 +117,8 @@ Sources for children with [Aaron Merrill](./Aaron_Merrill.html)
 - [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html)
 
 
+
+## All sources for Nancy Farrand
+
+
+- [Nancy Farrand parents](./../../transcriptions/family-genealogies/Nancy_Farrand_parents.html)

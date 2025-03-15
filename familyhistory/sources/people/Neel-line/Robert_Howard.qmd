@@ -8,8 +8,16 @@ engine: julia
 # Robert Howard
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Robert Howard
+
+
+- [Bob Howard SS death index](./../../transcriptions/socialsecurity/Bob_Howard_SS_death_index.html)

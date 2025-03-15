@@ -8,6 +8,9 @@ engine: julia
 # John Merrill Henderson
 
 
+## Biographical summary
+
+
 *born* 1928-04-27 : *died* 2020-11-04
 
 **Mother**: [Marguerite Merrill](./../Merrill-line/Marguerite_Merrill.html)
@@ -121,15 +124,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- 1928-01-01 Birth of John Merrill Henderson
-- 2020-01-01 Death of John Merrill Henderson
-- nothing Event: burial of John Merrill Henderson
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -150,3 +145,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [John Dubois Henderson](./John_Dubois_Henderson.html) | [Marguerite Merrill](./../Merrill-line/Marguerite_Merrill.html) | [Shelley Lindner - John Henderson wedding plans](./../../transcriptions/newspapers/Shelley_Lindner_-_John_Henderson_wedding_plans.html) | direct |
+
+## All sources for John Merrill Henderson
+
+
+- [John Henderson - Shelley Lindner marriage record](./../../transcriptions/marriages/John_Henderson_-_Shelley_Lindner_marriage_record.html)
+- [Shelley Lindner - John Henderson wedding plans](./../../transcriptions/newspapers/Shelley_Lindner_-_John_Henderson_wedding_plans.html)
+- [John M. Henderson tombstone](./../../transcriptions/tombstones/John_M._Henderson_tombstone.html)

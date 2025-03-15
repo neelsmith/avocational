@@ -8,6 +8,9 @@ engine: julia
 # Stephen Ayres
 
 
+## Biographical summary
+
+
 *born* 1770-02-16 : *died* ?
 
 **Mother**: [Persis Ayers](./../../Persis_Ayers.html)
@@ -75,14 +78,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1770-02-16 Birth of Stephen Ayres
-- nothing Event: burial of Stephen Ayres
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -103,3 +105,9 @@ Sources for children with [Rocena Snow](./Rocena_Snow.html)
 - [Rocena Snow tombstone](./../../../transcriptions/tombstones/Rocena_Snow_tombstone.html)
 
 
+
+## All sources for Stephen Ayres
+
+
+- [Stephen Ayers birth](./../../../transcriptions/vitals/Stephen_Ayers_birth.html)
+- [Stephen Ayres will](./../../../transcriptions/wills/Stephen_Ayres_will.html)

@@ -8,14 +8,11 @@ engine: julia
 # Correll Merrill
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Correll Merrill
-

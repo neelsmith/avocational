@@ -8,6 +8,9 @@ engine: julia
 # John Dubois Henderson
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Frances Dubois](./Dubois-line/Frances_Dubois.html)
@@ -81,13 +84,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1900-06-09 Census event: John Dubois Henderson 1900 census
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -101,3 +104,8 @@ Sources for children with [Marguerite Merrill](./../Merrill-line/Marguerite_Merr
 - [Shelley Lindner - John Henderson wedding plans](./../../transcriptions/newspapers/Shelley_Lindner_-_John_Henderson_wedding_plans.html)
 
 
+
+## All sources for John Dubois Henderson
+
+
+- [John Dubois Henderson 1900 census](./../../transcriptions/census/Henderson_census/John_Dubois_Henderson_1900_census.html)

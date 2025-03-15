@@ -8,6 +8,9 @@ engine: julia
 # John Dryden Henderson
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Angeline Ayers](./Ayers-line/Angeline_Ayers.html)
@@ -79,7 +82,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -93,3 +96,9 @@ Sources for children with [Frances Dubois](./Dubois-line/Frances_Dubois.html)
 - [John Dubois Henderson 1900 census](./../../transcriptions/census/Henderson_census/John_Dubois_Henderson_1900_census.html)
 
 
+
+## All sources for John Dryden Henderson
+
+
+- [John Dryden Henderson 1860 census](./../../transcriptions/census/Henderson_census/John_Dryden_Henderson_1860_census.html)
+- [Daniel Clyde Henderson will](./../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)

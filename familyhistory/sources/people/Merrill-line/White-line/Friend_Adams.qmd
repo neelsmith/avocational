@@ -8,6 +8,9 @@ engine: julia
 # Friend Adams
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -62,12 +65,6 @@ classDef marriage fill:#ffffff
 
 ```
 
-
-
-## Events
-
-
-- nothing Event: burial of Friend Adams
 
 
 Sources for children with [Elizabeth Stagg](./Elizabeth_Stagg.html)

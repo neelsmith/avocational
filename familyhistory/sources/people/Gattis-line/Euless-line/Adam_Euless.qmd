@@ -8,6 +8,9 @@ engine: julia
 # Adam Euless
 
 
+## Biographical summary
+
+
 *born* 1778-11-22 : *died* 1843-12-22
 
 **Mother**: [Elizabeth Euless](./Elizabeth_Euless.html)
@@ -75,16 +78,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1778-11-22 Birth of Adam Euless
-- nothing Census event: Adam Euless 1840 census
 - 1843-12-22 Death of Adam Euless
-- nothing Event: burial of Adam Euless
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -112,3 +113,11 @@ Sources for children with [Dorotha Shofner](./Dorotha_Shofner.html)
 - [Adam Euliss - Dorotha Shofner marriage bond](./../../../transcriptions/marriages/Adam_Euliss_-_Dorotha_Shofner_marriage_bond.html)
 
 
+
+## All sources for Adam Euless
+
+
+- [Adam Euless 1840 census](./../../../transcriptions/census/Gattis_census/Adam_Euless_1840_census.html)
+- [Adam Euliss - Dorotha Shofner marriage bond](./../../../transcriptions/marriages/Adam_Euliss_-_Dorotha_Shofner_marriage_bond.html)
+- [Adam Euless tombstone](./../../../transcriptions/tombstones/Adam_Euless_tombstone.html)
+- [Philip Euless will](./../../../transcriptions/wills/Philip_Euless_will.html)

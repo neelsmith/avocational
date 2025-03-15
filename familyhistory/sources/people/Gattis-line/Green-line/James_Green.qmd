@@ -8,6 +8,9 @@ engine: julia
 # James Green
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Sarah Phillips](./Sarah_Phillips.html)
@@ -69,13 +72,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of James Green
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -89,3 +86,10 @@ Sources for children with [Elvira Ann Williams](./Williams-line/Elvira_Ann_Willi
 - [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html)
 
 
+
+## All sources for James Green
+
+
+- [James Green 1850 census](./../../../transcriptions/census/Gattis_census/James_Green_1850_census.html)
+- [James Green obituary](./../../../transcriptions/newspapers/James_Green_obituary.html)
+- [Cassie Green death certificate](./../../../transcriptions/vitals/Cassie_Green_death_certificate.html)

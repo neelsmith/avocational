@@ -8,8 +8,16 @@ engine: julia
 # Thankful Holland
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Thankful Holland
+
+
+- [Moses Smith will](./../../transcriptions/wills/Moses_Smith_will.html)

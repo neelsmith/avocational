@@ -8,6 +8,9 @@ engine: julia
 # William J. Hicks
 
 
+## Biographical summary
+
+
 *born* 1828-03-12 : *died* 1856-04-11
 
 **Mother**: ?
@@ -64,14 +67,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1828-03-12 Birth of William J. Hicks
 - 1856-04-11 Death of William J. Hicks
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -92,3 +95,9 @@ Sources for children with [Jane Lassiter](./../Lassiter/Jane_Lassiter.html)
 - [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html)
 
 
+
+## All sources for William J. Hicks
+
+
+- [William J. Hix tombstone](./../../../transcriptions/tombstones/William_J._Hix_tombstone.html)
+- [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html)

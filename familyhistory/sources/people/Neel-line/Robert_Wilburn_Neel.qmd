@@ -8,6 +8,9 @@ engine: julia
 # Robert Wilburn Neel
 
 
+## Biographical summary
+
+
 *born* 1868-09-28 : *died* 1952-07-04
 
 **Mother**: [Sarah Jane Barton](./Sarah_Jane_Barton.html)
@@ -72,19 +75,17 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1868-01-01 Birth of Robert Wilburn Neel
 - 1868-09-28 Birth of Robert Wilburn Neel
 - 1900-06-20 Census event: Robert Wilburn Neel 1900 census
 - 1910-04-28 Census event: Robert Wilburn Neel 1910 census
 - 1920-01-11 Census event: Robert Wilburn Neel 1920 census
 - 1952-07-04 Death of Robert Wilburn Neel
-- nothing Event: burial of Robert Wilburn Neel
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -116,3 +117,13 @@ Sources for children with [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_B
 - [Josephine Neel 1910 census](./../../transcriptions/census/Neel_census/Josephine_Neel_1910_census.html)
 
 
+
+## All sources for Robert Wilburn Neel
+
+
+- [Robert Wilburn Neel 1900 census](./../../transcriptions/census/Neel_census/Robert_Wilburn_Neel_1900_census.html)
+- [Robert Wilburn Neel 1910 census](./../../transcriptions/census/Neel_census/Robert_Wilburn_Neel_1910_census.html)
+- [Robert Wilburn Neel 1920 census](./../../transcriptions/census/Neel_census/Robert_Wilburn_Neel_1920_census.html)
+- [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+- [Robert Neel tombstone](./../../transcriptions/tombstones/Robert_Neel_tombstone.html)
+- [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html)

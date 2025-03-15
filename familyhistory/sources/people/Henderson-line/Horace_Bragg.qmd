@@ -8,8 +8,16 @@ engine: julia
 # Horace Bragg
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Horace Bragg
+
+
+- [Daniel Clyde Henderson will](./../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)

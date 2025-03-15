@@ -8,6 +8,9 @@ engine: julia
 # Frances Hix
 
 
+## Biographical summary
+
+
 *born* 1852-07-10 : *died* 1925-11-25
 
 **Mother**: [Jane Lassiter](./../Lassiter/Jane_Lassiter.html)
@@ -79,15 +82,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1852-07-10 Birth of Frances Hix
-- 1925-11-13 Death of Frances Hix
-- 1925-11-13 Death of Frances Hix
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -120,3 +121,11 @@ Sources for children with [Calvin Harris Rush](./../../Rush-line/Calvin_Harris_R
 - [Mona Rush death certificate](./../../../transcriptions/vitals/Mona_Rush_death_certificate.html)
 
 
+
+## All sources for Frances Hix
+
+
+- [Frances Hix tombstone](./../../../transcriptions/tombstones/Frances_Hix_tombstone.html)
+- [Frances Hix death certificate](./../../../transcriptions/vitals/Frances_Hix_death_certificate.html)
+- [Juanita Rush death](./../../../transcriptions/vitals/Juanita_Rush_death.html)
+- [Mona Rush death certificate](./../../../transcriptions/vitals/Mona_Rush_death_certificate.html)

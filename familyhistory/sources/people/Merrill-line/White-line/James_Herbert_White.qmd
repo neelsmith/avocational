@@ -8,6 +8,9 @@ engine: julia
 # James Herbert White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Ann Quayle](./Ann_Quayle.html)
@@ -37,10 +40,16 @@ classDef marriage fill:#ffffff
 
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Henry George White](./Henry_George_White.html) | [Ann Quayle](./Ann_Quayle.html) | [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html) | direct |
+
+## All sources for James Herbert White
+
+
+- [1855-04-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-04-01-HGW-to-HNW.html)
+- [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)

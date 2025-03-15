@@ -8,14 +8,16 @@ engine: julia
 # Henry Rush
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Henry Rush
 
 
-- nothing Event: burial of Henry Rush
-
+- [Zebedee Rush will](./../../transcriptions/wills/Zebedee_Rush_will.html)

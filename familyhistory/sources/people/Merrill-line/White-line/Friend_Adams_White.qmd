@@ -8,14 +8,30 @@ engine: julia
 # Friend Adams White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Friend Adams White
 
 
-- nothing Census event: Friend White 1850 census
-
+- [Friend White 1850 census](./../../../transcriptions/census/White_census/Friend_White_1850_census.html)
+- [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1848-12-20-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1848-12-20-HGW-to-FAW.html)
+- [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
+- [1850-04-07-HSW-to-HNW](./../../../transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)
+- [1851-03-02-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-03-02-EW-to-HNW.html)
+- [1851-07-27-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-07-27-EW-to-HNW.html)
+- [1851-09-03-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-09-03-HGW-to-HNW.html)
+- [1851-10-30-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-30-EW-to-HNW.html)
+- [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-12-19-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1852-12-19-HGW-to-FAW.html)
+- [1855-04-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-04-01-HGW-to-HNW.html)
+- [1855-08-19-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-08-19-HGW-to-HNW.html)
+- [1856-01-02 HG to HN](./../../../transcriptions/letters/White_letters/1856-01-02_HG_to_HN.html)

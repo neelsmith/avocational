@@ -8,6 +8,9 @@ engine: julia
 # Artemas White
 
 
+## Biographical summary
+
+
 *born* 1808 : *died* 1888
 
 **Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
@@ -77,7 +80,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1808-01-01 Birth of Artemas White
@@ -85,7 +88,7 @@ classDef marriage fill:#ffffff
 - 1888-01-01 Death of Artemas White
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -113,3 +116,24 @@ Sources for children with [Lydia R. Brumley](./Lydia_R._Brumley.html)
 - [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html)
 
 
+
+## All sources for Artemas White
+
+
+- [Artemas White 1850 census](./../../../transcriptions/census/White_census/Artemas_White_1850_census.html)
+- [Artemis White in First Congregational, Keeseville](./../../../transcriptions/church-registries/Artemis_White_in_First_Congregational,_Keeseville.html)
+- [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
+- [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
+- [1842-09-31-AW-HNW](./../../../transcriptions/letters/White_letters/1842-09-31-AW-HNW.html)
+- [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1849-08-09-EW-toHNW](./../../../transcriptions/letters/White_letters/1849-08-09-EW-toHNW.html)
+- [1849-11-18-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-11-18-EW-to-HNW.html)
+- [1851-09-03-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-09-03-HGW-to-HNW.html)
+- [1851-12-25-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-12-25-EW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1854-03-12-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html)
+- [1855-04-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-04-01-HGW-to-HNW.html)
+- [1855-08-19-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-08-19-HGW-to-HNW.html)
+- [1856-01-02 HG to HN](./../../../transcriptions/letters/White_letters/1856-01-02_HG_to_HN.html)
+- [Ebenezer White probate - sales paper](./../../../transcriptions/probate/Ebenezer_White_probate/Ebenezer_White_probate_-_sales_paper.html)
+- [Ebenezer White warrant of division](./../../../transcriptions/probate/Ebenezer_White_probate/Ebenezer_White_warrant_of_division.html)

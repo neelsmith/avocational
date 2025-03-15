@@ -8,6 +8,9 @@ engine: julia
 # Horatio Nelson White
 
 
+## Biographical summary
+
+
 *born* 1802-10-23 : *died* 1886-05-05
 
 **Mother**: [Candace Smith](./Candace-Smith-line/Candace_Smith.html)
@@ -95,19 +98,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1779-07-09 Birth of Horatio Nelson White
-- nothing Census event: Horatio N. White 1840 census
 - 1850-10-15 Census event: Horatio N. White 1850 census
-- nothing Census event: Horatio N. White 1860 census
-- nothing Census event: Horatio N. White 1870 census
-- nothing Census event: Horatio N. White 1880 census
 - 1886-05-05 Death of Horatio Nelson White
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -135,3 +133,43 @@ Sources for children with [Syrena Adams](./Syrena_Adams.html)
 - [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html)
 
 
+
+## All sources for Horatio Nelson White
+
+
+- [Horatio N. White 1840 census](./../../../transcriptions/census/White_census/Horatio_N._White_1840_census.html)
+- [Horatio N. White 1850 census](./../../../transcriptions/census/White_census/Horatio_N._White_1850_census.html)
+- [Horatio N. White 1860 census](./../../../transcriptions/census/White_census/Horatio_N._White_1860_census.html)
+- [Horatio N. White 1870 census](./../../../transcriptions/census/White_census/Horatio_N._White_1870_census.html)
+- [Horatio N. White 1880 census](./../../../transcriptions/census/White_census/Horatio_N._White_1880_census.html)
+- [1855-04-01   to HN](./../../../transcriptions/letters/1855-04-01___to_HN.html)
+- [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
+- [1842-09-31-AW-HNW](./../../../transcriptions/letters/White_letters/1842-09-31-AW-HNW.html)
+- [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
+- [1848-12-20-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1848-12-20-HGW-to-FAW.html)
+- [1849-08-09-EW-toHNW](./../../../transcriptions/letters/White_letters/1849-08-09-EW-toHNW.html)
+- [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
+- [1849-11-18-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-11-18-EW-to-HNW.html)
+- [1850-04-07-HSW-to-HNW](./../../../transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)
+- [1851-03-02-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-03-02-EW-to-HNW.html)
+- [1851-07-27-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-07-27-EW-to-HNW.html)
+- [1851-09-03-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-09-03-HGW-to-HNW.html)
+- [1851-10-26-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-26-HGW-to-HNW.html)
+- [1851-10-30-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-30-EW-to-HNW.html)
+- [1851-12-25-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-12-25-EW-to-HNW.html)
+- [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)
+- [1852-06-07-EW-to-HNW](./../../../transcriptions/letters/White_letters/1852-06-07-EW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-11-11-EW-to-HNW](./../../../transcriptions/letters/White_letters/1852-11-11-EW-to-HNW.html)
+- [1852-12-19-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1852-12-19-HGW-to-FAW.html)
+- [1853-12-13-EW-to-HNW](./../../../transcriptions/letters/White_letters/1853-12-13-EW-to-HNW.html)
+- [1854-03-12-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1854-03-12-HGW-to-HNW.html)
+- [1855-04-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-04-01-HGW-to-HNW.html)
+- [1855-08-19-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1855-08-19-HGW-to-HNW.html)
+- [1856-01-02 HG to HN](./../../../transcriptions/letters/White_letters/1856-01-02_HG_to_HN.html)
+- [Horatio White - Susan Spaulding marriage](./../../../transcriptions/marriages/Horatio_White_-_Susan_Spaulding_marriage.html)
+- [Ebenezer White probate - sales paper](./../../../transcriptions/probate/Ebenezer_White_probate/Ebenezer_White_probate_-_sales_paper.html)
+- [Ebenezer White warrant of division](./../../../transcriptions/probate/Ebenezer_White_probate/Ebenezer_White_warrant_of_division.html)
+- [Syrena Adams tombstone](./../../../transcriptions/tombstones/Syrena_Adams_tombstone.html)
+- [Horatio Nelson White death](./../../../transcriptions/vitals/Horatio_Nelson_White_death.html)
+- [William E. White death](./../../../transcriptions/vitals/William_E._White_death.html)

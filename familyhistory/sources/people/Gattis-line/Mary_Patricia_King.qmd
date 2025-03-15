@@ -8,6 +8,9 @@ engine: julia
 # Mary Patricia King
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -58,15 +61,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of Mary Patricia King
-
-
 Sources for children with [Isaac Newton Gattis Sr.](./Isaac_Newton_Gattis_Sr..html)
 
 
 - [Isaac Newton Gattis Sr. and Patty King marriage bonds](./../../transcriptions/marriages/Isaac_Newton_Gattis_Sr._and_Patty_King_marriage_bonds.html)
 
 
+
+## All sources for Mary Patricia King
+
+
+- [Isaac Newton Gattis Sr. and Patty King marriage bonds](./../../transcriptions/marriages/Isaac_Newton_Gattis_Sr._and_Patty_King_marriage_bonds.html)

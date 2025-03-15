@@ -8,6 +8,9 @@ engine: julia
 # Frederick D. White
 
 
+## Biographical summary
+
+
 *born* 1851-09-26 : *died* 1938-12-17
 
 **Mother**: [Lydia R. Brumley](./Lydia_R._Brumley.html)
@@ -55,14 +58,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1851-09-26 Birth of Frederick D. White
 - 1938-12-17 Death of Frederick D. White
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -83,3 +86,10 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Artemas White](./Artemas_White.html) | [Lydia R. Brumley](./Lydia_R._Brumley.html) | [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html) | direct |
+
+## All sources for Frederick D. White
+
+
+- [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
+- [1851-10-26-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-26-HGW-to-HNW.html)
+- [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html)

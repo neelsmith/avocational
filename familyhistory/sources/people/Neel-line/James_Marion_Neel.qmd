@@ -8,6 +8,9 @@ engine: julia
 # James Marion Neel
 
 
+## Biographical summary
+
+
 *born* ? : *died* 1917-02-11
 
 **Mother**: [Betty Neel](./Betty_Neel.html)
@@ -80,16 +83,15 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1900-06-20 Census event: James Marion Neel 1900 census
 - 1910-04-28 Census event: James Marion Neel 1910 census
 - 1917-02-11 Death of James Marion Neel
-- nothing Event: burial of James Marion Neel
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for death:
 
 
@@ -115,3 +117,12 @@ Sources for children with [Sarah Jane Barton](./Sarah_Jane_Barton.html)
 - [Robert Neel death certificate](./../../transcriptions/vitals/Robert_Neel_death_certificate.html)
 
 
+
+## All sources for James Marion Neel
+
+
+- [James Marion Neel 1900 census](./../../transcriptions/census/Neel_census/James_Marion_Neel_1900_census.html)
+- [James Marion Neel 1910 census](./../../transcriptions/census/Neel_census/James_Marion_Neel_1910_census.html)
+- [James Marion Neel - Edith Davidson marriage](./../../transcriptions/marriages/James_Marion_Neel_-_Edith_Davidson_marriage.html)
+- [James Marion Neel death certificate](./../../transcriptions/vitals/James_Marion_Neel_death_certificate.html)
+- [Duncan Neel will](./../../transcriptions/wills/Duncan_Neel_will.html)

@@ -8,6 +8,9 @@ engine: julia
 # Thomas A. Gattis
 
 
+## Biographical summary
+
+
 *born* 1825-07-03 : *died* 1989-01-25
 
 **Mother**: [Mary Patricia King](./Mary_Patricia_King.html)
@@ -67,21 +70,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1825-07-03 Birth of Thomas A. Gattis
-- 1826-01-01 Birth of Thomas A. Gattis
-- 1825-01-01 Birth of Thomas A. Gattis
-- 1828-01-01 Birth of Thomas A. Gattis
-- nothing Census event: Thomas A. Gattis 1850 census
-- nothing Census event: Thomas A. Gattis 1870 census
-- nothing Census event: Thomas A. Gattis 1880 census
-- 1898-01-25 Death of Thomas A. Gattis
-- nothing Event: burial of Thomas A. Gattis
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -113,3 +108,11 @@ Sources for children with [Julia B. Euless](./Euless-line/Julia_B._Euless.html)
 - [Isaac Newton Gattis 1870 census](./../../transcriptions/census/Gattis_census/Isaac_Newton_Gattis_1870_census.html)
 
 
+
+## All sources for Thomas A. Gattis
+
+
+- [Thomas A. Gattis 1850 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1850_census.html)
+- [Thomas A. Gattis 1870 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1870_census.html)
+- [Thomas A. Gattis 1880 census](./../../transcriptions/census/Gattis_census/Thomas_A._Gattis_1880_census.html)
+- [Thomas A. Gattis tombstone](./../../transcriptions/tombstones/Thomas_A._Gattis_tombstone.html)

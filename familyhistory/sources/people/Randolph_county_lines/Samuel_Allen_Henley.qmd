@@ -8,14 +8,17 @@ engine: julia
 # Samuel Allen Henley
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Samuel Allen Henley
 
 
-- nothing Event: burial of Samuel Allen Henley
-
+- [Samuel Allen - Eunice Rush marriage record](./../../transcriptions/marriages/Samuel_Allen_-_Eunice_Rush_marriage_record.html)
+- [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html)

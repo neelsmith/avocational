@@ -8,14 +8,16 @@ engine: julia
 # Ebenezer Torrey Englesby
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Ebenezer Torrey Englesby
 
 
-- nothing Event: burial of Ebenezer Torrey Englesby
-
+- [1842-07-17-EW-HNW](./../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)

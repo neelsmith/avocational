@@ -8,6 +8,9 @@ engine: julia
 # John Owen Blanton
 
 
+## Biographical summary
+
+
 *born* 1848-12-10 : *died* 1913-07-20
 
 **Mother**: [Sarah Campbell](./Sarah_Campbell.html)
@@ -72,15 +75,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1848-12-10 Birth of John Owen Blanton
 - 1913-07-20 Death of John Owen Blanton
-- nothing Event: burial of John Owen Blanton
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -108,3 +110,9 @@ Sources for children with [Leonora Josephine Saudek](./Saudek-line/Leonora_Josep
 - [Willie Blanton death certificate](./../../../transcriptions/vitals/Willie_Blanton_death_certificate.html)
 
 
+
+## All sources for John Owen Blanton
+
+
+- [J.O. Blanton 1850 census](./../../../transcriptions/census/Neel_census/J.O._Blanton_1850_census.html)
+- [J.O. Blanton tombstone](./../../../transcriptions/tombstones/J.O._Blanton_tombstone.html)

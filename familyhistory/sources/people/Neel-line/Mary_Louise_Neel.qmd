@@ -8,6 +8,9 @@ engine: julia
 # Mary Louise Neel
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Willie Saudek Blanton](./Blanton-line/Willie_Saudek_Blanton.html)
@@ -77,16 +80,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1912-05-01 Birth of Mary Louise Neel
 - 1920-01-11 Census event: Louise Neel 1920 census
-- 1995-11-23 Death of Mary Louise Neel
-- nothing Event: burial of Mary Louise Neel
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -100,3 +100,11 @@ Sources for children with [Claud Gattis](./../Gattis-line/Claud_Gattis.html)
 - [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
 
 
+
+## All sources for Mary Louise Neel
+
+
+- [Louise Neel 1920 census](./../../transcriptions/census/Neel_census/Louise_Neel_1920_census.html)
+- [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
+- [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+- [Louise Neel - Claude J. Gattis tombstone](./../../transcriptions/tombstones/Louise_Neel_-_Claude_J._Gattis_tombstone.html)

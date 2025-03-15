@@ -8,6 +8,9 @@ engine: julia
 # Hiram Merrill
 
 
+## Biographical summary
+
+
 *born* 1817-09-02 : *died* 1910-10-13
 
 **Mother**: [Nancy Farrand](./Nancy_Farrand.html)
@@ -73,15 +76,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1817-09-02 Birth of Hiram Merrill
 - 1910-10-13 Death of Hiram Merrill
-- nothing Event: burial of Hiram Merrill
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -110,3 +112,10 @@ Sources for children with [Lucy Witherell](./Lucy_Witherell.html)
 - [James A. Merrill 1870 census](./../../transcriptions/census/Merrill_census/James_A._Merrill_1870_census.html)
 
 
+
+## All sources for Hiram Merrill
+
+
+- [Hiram Merrill - Lucy Witherell marriage](./../../transcriptions/marriages/Hiram_Merrill_-_Lucy_Witherell_marriage.html)
+- [Hiram Merrill tombstone](./../../transcriptions/tombstones/Hiram_Merrill_tombstone.html)
+- [Hiram Merrill death certificate](./../../transcriptions/vitals/Hiram_Merrill_death_certificate.html)

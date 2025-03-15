@@ -8,16 +8,17 @@ engine: julia
 # Michael Shofner
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Michael Shofner
 
 
-- nothing Census event: Michael Shofner 1790 census
-- nothing Census event: Michael Shofner 1800 census
-- nothing Event: burial of Michael Shofner
-
+- [Michael Shofner 1790 census](./../../../transcriptions/census/Gattis_census/Michael_Shofner_1790_census.html)
+- [Michael Shofner 1800 census](./../../../transcriptions/census/Gattis_census/Michael_Shofner_1800_census.html)

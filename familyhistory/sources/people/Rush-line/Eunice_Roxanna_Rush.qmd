@@ -8,14 +8,16 @@ engine: julia
 # Eunice Roxanna Rush
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Eunice Roxanna Rush
 
 
-- nothing Event: burial of Eunice Roxanna Rush
-
+- [Samuel Allen - Eunice Rush marriage record](./../../transcriptions/marriages/Samuel_Allen_-_Eunice_Rush_marriage_record.html)

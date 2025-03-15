@@ -8,14 +8,11 @@ engine: julia
 # Zerubbabel Snow
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Zerubbabel Snow
-

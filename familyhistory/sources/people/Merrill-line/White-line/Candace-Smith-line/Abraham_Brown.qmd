@@ -8,14 +8,11 @@ engine: julia
 # Abraham Brown
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Abraham Brown
-

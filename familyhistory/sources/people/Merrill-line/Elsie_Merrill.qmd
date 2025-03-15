@@ -8,8 +8,16 @@ engine: julia
 # Elsie Merrill
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Elsie Merrill
+
+
+- [Harvey Newton family tombstone](./../../transcriptions/tombstones/Harvey_Newton_family_tombstone.html)

@@ -8,8 +8,16 @@ engine: julia
 # Charles D. Church
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Charles D. Church
+
+
+- [Susan Winslow - Charles Church marriage](./../../../transcriptions/newspapers/Susan_Winslow_-_Charles_Church_marriage.html)

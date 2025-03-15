@@ -8,6 +8,9 @@ engine: julia
 # Claud Gattis
 
 
+## Biographical summary
+
+
 *born* 1895-10-24 : *died* 1987-12-09
 
 **Mother**: [Cassie Green](./Green-line/Cassie_Green.html)
@@ -83,17 +86,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1897-10-01 Birth of Claud Gattis
 - 1895-10-24 Birth of Claud Gattis
-- nothing Census event: Claud Gattis 1890 census
 - 1987-12-09 Death of Claud Gattis
-- nothing Event: burial of Claud Gattis
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -122,3 +122,12 @@ Sources for children with [Mary Louise Neel](./../Neel-line/Mary_Louise_Neel.htm
 - [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
 
 
+
+## All sources for Claud Gattis
+
+
+- [Claud Gattis 1890 census](./../../transcriptions/census/Gattis_census/Claud_Gattis_1890_census.html)
+- [Claud Gattis obituary in News-Journal](./../../transcriptions/newspapers/Claud_Gattis_obituary_in_News-Journal.html)
+- [Judy Smith birth announcement in Murfreesboro News Journal](./../../transcriptions/newspapers/Judy_Smith_birth_announcement_in_Murfreesboro_News_Journal.html)
+- [Louise Neel Gattis obituary](./../../transcriptions/newspapers/Louise_Neel_Gattis_obituary.html)
+- [Louise Neel - Claude J. Gattis tombstone](./../../transcriptions/tombstones/Louise_Neel_-_Claude_J._Gattis_tombstone.html)

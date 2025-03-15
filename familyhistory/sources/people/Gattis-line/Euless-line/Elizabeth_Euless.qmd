@@ -8,6 +8,9 @@ engine: julia
 # Elizabeth Euless
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -70,3 +73,8 @@ Sources for children with [Philip Euless](./Philip_Euless.html)
 - [Philip Euless will](./../../../transcriptions/wills/Philip_Euless_will.html)
 
 
+
+## All sources for Elizabeth Euless
+
+
+- [Philip Euless will](./../../../transcriptions/wills/Philip_Euless_will.html)

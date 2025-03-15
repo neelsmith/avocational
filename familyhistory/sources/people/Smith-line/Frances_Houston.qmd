@@ -8,14 +8,11 @@ engine: julia
 # Frances Houston
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Frances Houston
-

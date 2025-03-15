@@ -8,6 +8,9 @@ engine: julia
 # Jacob Dubois
 
 
+## Biographical summary
+
+
 *born* 1763-12-07 : *died* ?
 
 **Mother**: [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html)
@@ -31,13 +34,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1763-12-07 Birth of Jacob Dubois
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -51,3 +54,8 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [David Dubois 1724-1801](./David_Dubois_1724-1801.html) | [Elizabeth Newkirk Dubois](./Elizabeth_Newkirk_Dubois.html) | [Jacob Dubois  birth](./../../../transcriptions/vitals/Jacob_Dubois__birth.html) | direct |
+
+## All sources for Jacob Dubois
+
+
+- [Jacob Dubois  birth](./../../../transcriptions/vitals/Jacob_Dubois__birth.html)

@@ -8,6 +8,9 @@ engine: julia
 # Joseph Saudek
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -61,16 +64,15 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Census event: Joseph Saudek 1850 schedule 2
-- nothing Event: burial of Joseph Saudek
-
-
 Sources for children with [Nancy Eliza Northern](./Northern-line/Nancy_Eliza_Northern.html)
 
 
 - [Leonora Saudek Blanton tombstone](./../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html)
 
 
+
+## All sources for Joseph Saudek
+
+
+- [Joseph Saudek 1850 schedule 2](./../../../../transcriptions/census/Neel_census/Joseph_Saudek_1850_schedule_2.html)
+- [Joseph Saudek - Nancy Northern marriage](./../../../../transcriptions/vitals/Joseph_Saudek_-_Nancy_Northern_marriage.html)

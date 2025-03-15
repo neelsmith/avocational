@@ -8,16 +8,25 @@ engine: julia
 # Edith Jane Davidson
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## Dated events
 
 
 - 1900-06-20 Census event: Edith Jane Davidson 1900 census
 - 1910-04-28 Census event: Edith Jane Davidson 1910 census
-- nothing Event: burial of Edith Jane Davidson
 
+
+## All sources for Edith Jane Davidson
+
+
+- [Edith Jane Davidson 1900 census](./../../transcriptions/census/Neel_census/Edith_Jane_Davidson_1900_census.html)
+- [Edith Jane Davidson 1910 census](./../../transcriptions/census/Neel_census/Edith_Jane_Davidson_1910_census.html)
+- [James Marion Neel - Edith Davidson marriage](./../../transcriptions/marriages/James_Marion_Neel_-_Edith_Davidson_marriage.html)

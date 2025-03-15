@@ -8,6 +8,9 @@ engine: julia
 # Zachariah Smith
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Susanah Grout](./../../Susanah_Grout.html)
@@ -120,14 +123,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- 1716-09-04 Birth of Zachariah Smith
-- nothing Event: burial of Zachariah Smith
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -141,3 +137,9 @@ Sources for children with [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)
 - [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html)
 
 
+
+## All sources for Zachariah Smith
+
+
+- [Zachariah Smith birth record](./../../../../transcriptions/vitals/Zachariah_Smith_birth_record.html)
+- [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html)

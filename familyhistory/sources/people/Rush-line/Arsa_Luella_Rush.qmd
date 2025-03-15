@@ -8,22 +8,23 @@ engine: julia
 # Arsa Luella Rush
 
 
+## Biographical summary
+
+
 *born* 1858-01-16 : *died* 1894-03-11
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## Dated events
 
 
 - 1858-01-16 Birth of Arsa Luella Rush
-- nothing Census event: Arsa Luella Rush 1870 census
 - 1894-03-11 Death of Arsa Luella Rush
-- nothing Event: burial of Arsa Luella Rush
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -37,3 +38,11 @@ Sources for death:
 | Date | Source | Type |
 | --- | --- | --- |
 | 1894-03-11 | [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html) | direct |
+
+## All sources for Arsa Luella Rush
+
+
+- [Arsa Luella Rush 1860 census](./../../transcriptions/census/Rush_census/Arsa_Luella_Rush_1860_census.html)
+- [Arsa Luella Rush 1870 census](./../../transcriptions/census/Rush_census/Arsa_Luella_Rush_1870_census.html)
+- [McLaurin Cranford  - Luella Rush marriage record](./../../transcriptions/marriages/McLaurin_Cranford__-_Luella_Rush_marriage_record.html)
+- [Arsa Luella Rush tombstone](./../../transcriptions/tombstones/Arsa_Luella_Rush_tombstone.html)

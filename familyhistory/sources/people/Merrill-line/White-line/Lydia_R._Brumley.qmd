@@ -8,6 +8,9 @@ engine: julia
 # Lydia R. Brumley
 
 
+## Biographical summary
+
+
 *born* 1810 : *died* 1882
 
 **Mother**: ?
@@ -40,7 +43,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1810-01-01 Birth of Lydia R. Brumley
@@ -49,7 +52,7 @@ classDef marriage fill:#ffffff
 - 1882-01-01 Death of Lydia R. Brumley
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -70,3 +73,11 @@ Sources for children with [Artemas White](./Artemas_White.html)
 - [Frederick White death](./../../../transcriptions/vitals/Frederick_White_death.html)
 
 
+
+## All sources for Lydia R. Brumley
+
+
+- [Lydia B. White 1850 census](./../../../transcriptions/census/White_census/Lydia_B._White_1850_census.html)
+- [Lydia Brumley 1850 census](./../../../transcriptions/census/White_census/Lydia_Brumley_1850_census.html)
+- [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
+- [Lydia B. White probate](./../../../transcriptions/probate/Lydia_B._White_probate.html)

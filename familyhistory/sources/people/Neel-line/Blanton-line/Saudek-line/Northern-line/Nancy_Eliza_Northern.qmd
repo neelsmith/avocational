@@ -8,6 +8,9 @@ engine: julia
 # Nancy Eliza Northern
 
 
+## Biographical summary
+
+
 *born* ? : *died* 1848-01-18
 
 **Mother**: ?
@@ -61,14 +64,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1848-01-18 Death of Nancy Eliza Northern
-- nothing Event: burial of Nancy Eliza Northern
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for death:
 
 
@@ -82,3 +84,9 @@ Sources for children with [Joseph Saudek](./../Joseph_Saudek.html)
 - [Leonora Saudek Blanton tombstone](./../../../../../transcriptions/tombstones/Leonora_Saudek_Blanton_tombstone.html)
 
 
+
+## All sources for Nancy Eliza Northern
+
+
+- [Nancy Northern tombstone](./../../../../../transcriptions/tombstones/Nancy_Northern_tombstone.html)
+- [Joseph Saudek - Nancy Northern marriage](./../../../../../transcriptions/vitals/Joseph_Saudek_-_Nancy_Northern_marriage.html)

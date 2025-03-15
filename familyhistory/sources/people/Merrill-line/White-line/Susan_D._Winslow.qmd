@@ -8,6 +8,9 @@ engine: julia
 # Susan D. Winslow
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -53,3 +56,10 @@ Sources for children with [Henry George White](./Henry_George_White.html)
 - [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)
 
 
+
+## All sources for Susan D. Winslow
+
+
+- [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)
+- [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)
+- [Susan Winslow - Charles Church marriage](./../../../transcriptions/newspapers/Susan_Winslow_-_Charles_Church_marriage.html)

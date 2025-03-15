@@ -8,6 +8,9 @@ engine: julia
 # Dorotha Shofner
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -58,16 +61,16 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Census event: Dorotha Schofner 1850 census
-- nothing Event: burial of Dorotha Shofner
-
-
 Sources for children with [Adam Euless](./Adam_Euless.html)
 
 
 - [Adam Euliss - Dorotha Shofner marriage bond](./../../../transcriptions/marriages/Adam_Euliss_-_Dorotha_Shofner_marriage_bond.html)
 
 
+
+## All sources for Dorotha Shofner
+
+
+- [Dorotha Schofner 1850 census](./../../../transcriptions/census/Gattis_census/Dorotha_Schofner_1850_census.html)
+- [Adam Euliss - Dorotha Shofner marriage bond](./../../../transcriptions/marriages/Adam_Euliss_-_Dorotha_Shofner_marriage_bond.html)
+- [Dorotha Shofner tombstone](./../../../transcriptions/tombstones/Dorotha_Shofner_tombstone.html)

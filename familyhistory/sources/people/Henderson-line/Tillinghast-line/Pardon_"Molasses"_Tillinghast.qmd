@@ -8,14 +8,11 @@ engine: julia
 # Pardon "Molasses" Tillinghast
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Pardon "Molasses" Tillinghast
-

@@ -8,8 +8,16 @@ engine: julia
 # Ephraim Smith 2
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Ephraim Smith 2
+
+
+- [Moses Smith will](./../../transcriptions/wills/Moses_Smith_will.html)

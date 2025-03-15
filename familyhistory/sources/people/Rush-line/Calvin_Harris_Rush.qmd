@@ -8,6 +8,9 @@ engine: julia
 # Calvin Harris Rush
 
 
+## Biographical summary
+
+
 *born* 1853 : *died* 1936-12-17
 
 **Mother**: [Sarah Loflin](./../Randolph_county_lines/Loflin/Sarah_Loflin.html)
@@ -87,16 +90,15 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1853-01-01 Birth of Calvin Harris Rush
 - 1860-08-18 Census event: Calvin Rush 1860 census
-- nothing Census event: Calvin Rush 1870 census
 - 1936-12-17 Death of Calvin Harris Rush
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -129,3 +131,15 @@ Sources for children with [Frances Hix](./../Randolph_county_lines/Hicks/Frances
 - [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)
 
 
+
+## All sources for Calvin Harris Rush
+
+
+- [Calvin Rush 1860 census](./../../transcriptions/census/Rush_census/Calvin_Rush_1860_census.html)
+- [Calvin Rush 1870 census](./../../transcriptions/census/Rush_census/Calvin_Rush_1870_census.html)
+- [Calvin Harris Rush obituary in Greensboro News and Record](./../../transcriptions/newspapers/Calvin_Harris_Rush_obituary_in_Greensboro_News_and_Record.html)
+- [Sallie Rush obituary in Asheboro Courier](./../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html)
+- [Frances Hix death certificate](./../../transcriptions/vitals/Frances_Hix_death_certificate.html)
+- [Juanita Rush death](./../../transcriptions/vitals/Juanita_Rush_death.html)
+- [Mona Rush death certificate](./../../transcriptions/vitals/Mona_Rush_death_certificate.html)
+- [Zebedee Rush will](./../../transcriptions/wills/Zebedee_Rush_will.html)

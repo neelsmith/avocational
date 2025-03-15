@@ -8,8 +8,16 @@ engine: julia
 # Jennie Marks Warner
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Jennie Marks Warner
+
+
+- [William White - Jennie Warner marriage](./../../../transcriptions/marriages/William_White_-_Jennie_Warner_marriage.html)

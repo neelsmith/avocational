@@ -8,6 +8,9 @@ engine: julia
 # Margaret Carpenter
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
@@ -58,15 +61,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of Margaret Carpenter
-
-
 Sources for children with [Daniel Clyde Henderson](./../Daniel_Clyde_Henderson.html)
 
 
 - [Daniel Clyde Henderson will](./../../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)
 
 
+
+## All sources for Margaret Carpenter
+
+
+- [Daniel Clyde Henderson will](./../../../transcriptions/wills/Daniel_Clyde_Henderson_will.html)

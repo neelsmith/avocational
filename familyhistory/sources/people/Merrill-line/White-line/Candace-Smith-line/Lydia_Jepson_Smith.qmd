@@ -8,6 +8,9 @@ engine: julia
 # Lydia Jepson Smith
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)
@@ -118,13 +121,7 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
-
-
-- nothing Event: burial of Lydia Jepson Smith
-
-
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -138,3 +135,10 @@ Sources for children with [Moses Smith](./../../../Moses_Smith_connections/Moses
 - [Moses Smith - Lydia Jepson marriage](./../../../../transcriptions/marriages/Moses_Smith_-_Lydia_Jepson_marriage.html)
 
 
+
+## All sources for Lydia Jepson Smith
+
+
+- [Moses Smith - Lydia Jepson marriage](./../../../../transcriptions/marriages/Moses_Smith_-_Lydia_Jepson_marriage.html)
+- [Moses Smith - Lydia Smith marriage](./../../../../transcriptions/marriages/Moses_Smith_-_Lydia_Smith_marriage.html)
+- [Lydia J. Smith tombstone](./../../../../transcriptions/tombstones/Lydia_J._Smith_tombstone.html)

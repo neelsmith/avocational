@@ -8,6 +8,9 @@ engine: julia
 # Eugene Richard White
 
 
+## Biographical summary
+
+
 *born* 1872-07-19 : *died* ?
 
 **Mother**: [Susan D. Winslow](./Susan_D._Winslow.html)
@@ -37,13 +40,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1872-07-19 Birth of Eugene Richard White
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -58,3 +61,9 @@ Sources for parents:
 | --- | --- | --- | --- |
 | [Henry George White](./Henry_George_White.html) | [Susan D. Winslow](./Susan_D._Winslow.html) | [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html) | direct |
 | [Henry George White](./Henry_George_White.html) | [Susan D. Winslow](./Susan_D._Winslow.html) | [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html) | direct |
+
+## All sources for Eugene Richard White
+
+
+- [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)
+- [H.G. White obituary in Buffalo News p. 5](./../../../transcriptions/newspapers/H.G._White_obituary_in_Buffalo_News_p._5.html)

@@ -8,6 +8,9 @@ engine: julia
 # Edward Cornelius White
 
 
+## Biographical summary
+
+
 *born* 1843 : *died* 1844
 
 **Mother**: [Cynthia Sawyer](./Cynthia_Sawyer.html)
@@ -55,15 +58,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1843-01-01 Birth of Edward Cornelius White
 - 1844-01-01 Death of Edward Cornelius White
-- nothing Event: burial of Edward Cornelius White
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -84,3 +86,8 @@ Sources for parents:
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
 | [Hiram Smith White](./Hiram_Smith_White.html) | [Cynthia Sawyer](./Cynthia_Sawyer.html) | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |
+
+## All sources for Edward Cornelius White
+
+
+- [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html)

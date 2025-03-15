@@ -8,15 +8,25 @@ engine: julia
 # Candace White
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Candace White
 
 
-- nothing Census event: Candace White 1850 census
-- nothing Census event: Candace White 1860 census
-
+- [Candace White 1850 census](./../../../transcriptions/census/White_census/Candace_White_1850_census.html)
+- [Candace White 1860 census](./../../../transcriptions/census/White_census/Candace_White_1860_census.html)
+- [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
+- [1851-07-27-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-07-27-EW-to-HNW.html)
+- [1851-10-30-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-10-30-EW-to-HNW.html)
+- [1851-12-25-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-12-25-EW-to-HNW.html)
+- [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)
+- [1852-08-01-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-08-01-HGW-to-HNW.html)
+- [1852-12-19-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1852-12-19-HGW-to-FAW.html)
+- [Candace White Palmer death certificate](./../../../transcriptions/vitals/Candace_White_Palmer_death_certificate.html)

@@ -8,14 +8,16 @@ engine: julia
 # Harvey Newton
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## All sources for Harvey Newton
 
 
-- nothing Event: burial of Harvey Newton
-
+- [Harvey Newton family tombstone](./../../../transcriptions/tombstones/Harvey_Newton_family_tombstone.html)

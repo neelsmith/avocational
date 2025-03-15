@@ -8,14 +8,11 @@ engine: julia
 # Stukely Tillinghast
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Stukely Tillinghast
-

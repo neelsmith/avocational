@@ -8,14 +8,11 @@ engine: julia
 # Anna Margaretha Fogelman
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Anna Margaretha Fogelman
-

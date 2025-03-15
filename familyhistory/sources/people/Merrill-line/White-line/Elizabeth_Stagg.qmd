@@ -8,6 +8,9 @@ engine: julia
 # Elizabeth Stagg
 
 
+## Biographical summary
+
+
 *born* 1778 : *died* 1817-02-02
 
 **Mother**: ?
@@ -79,15 +82,14 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1778-01-01 Birth of Elizabeth Stagg
 - 1817-02-02 Death of Elizabeth Stagg
-- nothing Event: burial of Elizabeth Stagg
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for birth:
 
 
@@ -115,3 +117,8 @@ Sources for children with [Friend Adams](./Friend_Adams.html)
 - [Syrena Adams birth certificate](./../../../transcriptions/vitals/Syrena_Adams_birth_certificate.html)
 
 
+
+## All sources for Elizabeth Stagg
+
+
+- [Elizabeth Stagg death](./../../../transcriptions/vitals/Elizabeth_Stagg_death.html)

@@ -8,6 +8,9 @@ engine: julia
 # Elvira Ann Williams
 
 
+## Biographical summary
+
+
 *born* ? : *died* 1928-02-22
 
 **Mother**: [Sallie T.  Harris](./Sallie_T.__Harris.html)
@@ -69,15 +72,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1841-07-07 Birth of Elvira Ann Williams
 - 1928-02-22 Death of Elvira Ann Williams
-- nothing Event: burial of Elvira Ann Williams
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for death:
 
 
@@ -98,3 +99,11 @@ Sources for children with [James Green](./../James_Green.html)
 - [Cassie Green death certificate](./../../../../transcriptions/vitals/Cassie_Green_death_certificate.html)
 
 
+
+## All sources for Elvira Ann Williams
+
+
+- [Elvira Ann Williams 1850 census](./../../../../transcriptions/census/Gattis_census/Elvira_Ann_Williams_1850_census.html)
+- [James Green obituary](./../../../../transcriptions/newspapers/James_Green_obituary.html)
+- [Cassie Green death certificate](./../../../../transcriptions/vitals/Cassie_Green_death_certificate.html)
+- [Elvira Ann Williams death certificate](./../../../../transcriptions/vitals/Elvira_Ann_Williams_death_certificate.html)

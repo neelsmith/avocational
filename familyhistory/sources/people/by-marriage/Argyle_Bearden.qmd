@@ -8,15 +8,22 @@ engine: julia
 # Argyle Bearden
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
 
-## Events
+## Dated events
 
 
 - 1850-10-19 Census event: Argyle Bearden 1850 census
-- nothing Event: burial of Argyle Bearden
 
+
+## All sources for Argyle Bearden
+
+
+- [Argyle Bearden 1850 census](./../../transcriptions/census/other_census/Argyle_Bearden_1850_census.html)

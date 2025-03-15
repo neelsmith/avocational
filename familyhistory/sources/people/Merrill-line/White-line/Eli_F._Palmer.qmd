@@ -8,8 +8,16 @@ engine: julia
 # Eli F. Palmer
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Eli F. Palmer
+
+
+- [Candace White Palmer death certificate](./../../../transcriptions/vitals/Candace_White_Palmer_death_certificate.html)

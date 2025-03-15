@@ -8,6 +8,9 @@ engine: julia
 # Sarah Loflin
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: [Martha Patsy Wood](./../Martha_Patsy_Wood.html)
@@ -86,14 +89,13 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
 - 1860-08-18 Census event: Sarah Loughlin 1860 census
-- nothing Census event: Sarah Loughlin 1870 census
 
 
-## Sources
+## Sources for preceding conclusions
 Sources for parents:
 
 
@@ -109,3 +111,11 @@ Sources for children with [Noah Rush](./../../Rush-line/Noah_Rush.html)
 - [Noah Rush 1860 census](./../../../transcriptions/census/Rush_census/Noah_Rush_1860_census.html)
 
 
+
+## All sources for Sarah Loflin
+
+
+- [Sarah Loughlin 1860 census](./../../../transcriptions/census/Rush_census/Sarah_Loughlin_1860_census.html)
+- [Sarah Loughlin 1870 census](./../../../transcriptions/census/Rush_census/Sarah_Loughlin_1870_census.html)
+- [Noah Rush - Sarah Loughlin marriage bond](./../../../transcriptions/marriages/Noah_Rush_-_Sarah_Loughlin_marriage_bond.html)
+- [Sallie Rush obituary in Asheboro Courier](./../../../transcriptions/newspapers/Sallie_Rush_obituary_in_Asheboro_Courier.html)

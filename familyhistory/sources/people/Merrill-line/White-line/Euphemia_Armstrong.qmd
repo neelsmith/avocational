@@ -8,8 +8,16 @@ engine: julia
 # Euphemia Armstrong
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
+
+## All sources for Euphemia Armstrong
+
+
+- [Hiram Smith White obituary in Burlington Free Press](./../../../transcriptions/newspapers/Hiram_Smith_White_obituary_in_Burlington_Free_Press.html)

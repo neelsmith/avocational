@@ -8,14 +8,11 @@ engine: julia
 # Jacob Lassiter
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Jacob Lassiter
-

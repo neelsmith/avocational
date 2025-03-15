@@ -8,14 +8,11 @@ engine: julia
 # Daniel Carpenter 1
 
 
+## Biographical summary
+
+
 *born* ? : *died* ?
 
 **Mother**: ?
 
 **Father**: ?
-
-## Events
-
-
-- nothing Event: burial of Daniel Carpenter 1
-
