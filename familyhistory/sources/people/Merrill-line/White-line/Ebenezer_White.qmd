@@ -116,20 +116,17 @@ classDef marriage fill:#ffffff
 
 
 
-## Events
+## Dated events
 
 
-- 1771-01-01 Birth of Ebenezer White
-- 1810-08-06 Census event: Ebenezer White 1810 census
-- 1820-08-07 Census event: Ebenezer White 1820 census
-- 1830-01-01 Census event: Ebenezer White 1830 census
-- nothing Census event: Ebenezer White 1840 census
-- 1810-08-20 Census event: Ebenezer White 1850 census
-- 1852-10-31 Death of Ebenezer White
-- 1852-10-31 Death of Ebenezer White
-- 1853-12-13 Death of Ebenezer White
-- 1854-03-12 Death of Ebenezer White
-- nothing Event: burial of Ebenezer White
+1779-07-09 Birth of Ebenezer White
+1810-08-06 Census event: Ebenezer White 1810 census
+1810-08-20 Census event: Ebenezer White 1850 census
+1820-08-07 Census event: Ebenezer White 1820 census
+1830-01-01 Census event: Ebenezer White 1830 census
+1840-01-01 Census event: Ebenezer White 1840 census
+1852-10-31 Death of Ebenezer White
+1852-10-31 Death of Ebenezer White
 
 
 ![ ](./Ebenezer_White_events.png)
@@ -143,6 +140,7 @@ Sources for birth:
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
 | 1771 |   | [Ebenezer White 1850 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
+| 1779-07-09 | [[Templeton, Massachusetts]] | [Ebenezer White birth](./../../../transcriptions/vitals/Ebenezer_White_birth.html) | direct |
 
 Sources for death:
 
