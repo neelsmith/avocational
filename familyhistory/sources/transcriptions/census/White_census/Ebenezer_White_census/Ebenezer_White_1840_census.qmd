@@ -1,4 +1,5 @@
  
+censusyear::1840
 
 refersto::[Ebenezer White](./../../../../people/Merrill-line/White-line/Ebenezer_White.html)
 Enumeration::[Burlington, Chittenden, Vermont](./../../../../census-districts/Burlington,_Chittenden,_Vermont.html)
