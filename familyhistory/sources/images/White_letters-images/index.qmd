@@ -1,0 +1,14 @@
+---
+engine: julia
+---
+
+# Images in directory `images/White letters-images`
+
+- [IMG 3057](./IMG_3057.html): Letter of Ebenezer White to Horatio Nelson, July 17, 1842: cover with address.
+- [IMG 3058](./IMG_3058.html): Letter of Ebenezer White to Horatio Nelson, July 17, 1842: rear of cover.
+- [IMG 3059](./IMG_3059.html): Letter of Ebenezer White to Horatio Nelson, July 17, 1842, page 1.
+- [IMG 3153](./IMG_3153.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: cover with address.
+- [IMG 3154](./IMG_3154.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: back cover.
+- [IMG 3156](./IMG_3156.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 2.
+- [IMG 3157](./IMG_3157.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 3.
+- [IMG 3158](./IMG_3158.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 4.

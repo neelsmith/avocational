@@ -4,4 +4,4 @@ engine: julia
 
 # Index
 
-- [Artemas White freedmans bank record 2894](./Artemas_White_freedmans_bank_record_2894.html)
+- [Artemas_White_freedmans_bank_record_2894](./Artemas_White_freedmans_bank_record_2894.html)

@@ -1,0 +1,16 @@
+---
+engine: julia
+---
+
+# Images in directory `images/Vermont locations-images/Burlington-images`
+
+- [IMG 0629](./IMG_0629.html): Family tombstone and individual footstones for James Albee Merrill and Anna Serena White.
+- [IMG 0630](./IMG_0630.html): Footstone marker for James Albee Merrill, Lakeview Cemetery, Burlington.
+- [IMG 0631](./IMG_0631.html): Footstone marker for Anna Serena White. Merrill, Lakeview Cemetery, Burlington.
+- [IMG 0632](./IMG_0632.html): Family tombstone for James Albee Merrill and Anna Serena White: site in Lakeview Cemetery, Burlington
+- [IMG 0633](./IMG_0633.html): Footstone marker for James Albee Merrill, Lakeview Cemetery, Burlington.
+- [IMG 0634](./IMG_0634.html): Inscription of family tombstone for James Albee Merrill and Anna Serena White
+- [IMG 0642](./IMG_0642.html): Tombstone for Harvey Newton family: site in Lakeview Cemetery, Burlington.
+- [IMG 0643](./IMG_0643.html): Tombstone for Harvey Newton family: inscription.
+- [IMG 0644](./IMG_0644.html): Tombstone for Harvey Newton family: inscription.
+- [IMG 0645](./IMG_0645.html): Tombstone for Harvey Newton family: detail of inscription, "endowed".

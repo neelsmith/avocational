@@ -4,7 +4,7 @@ engine: julia
 
 # Index
 
-- [Melvin Sheirel ID card from San Quentin prison](./Melvin_Sheirel_ID_card_from_San_Quentin_prison.html)
-- [Melvin Sheirel in San Quentin Prison register](./Melvin_Sheirel_in_San_Quentin_Prison_register.html)
-- [Melvin Sheirel in San Quention prison mug book](./Melvin_Sheirel_in_San_Quention_prison_mug_book.html)
-- [Melvin Sheirel in register of prisoners received at Folsom prison](./Melvin_Sheirel_in_register_of_prisoners_received_at_Folsom_prison.html)
+- [Melvin_Sheirel_ID_card_from_San_Quentin_prison](./Melvin_Sheirel_ID_card_from_San_Quentin_prison.html)
+- [Melvin_Sheirel_in_San_Quentin_Prison_register](./Melvin_Sheirel_in_San_Quentin_Prison_register.html)
+- [Melvin_Sheirel_in_San_Quention_prison_mug_book](./Melvin_Sheirel_in_San_Quention_prison_mug_book.html)
+- [Melvin_Sheirel_in_register_of_prisoners_received_at_Folsom_prison](./Melvin_Sheirel_in_register_of_prisoners_received_at_Folsom_prison.html)

@@ -4,7 +4,7 @@ engine: julia
 
 # Index
 
-- [David Smith 1940 census](./David_Smith_1940_census.html)
-- [Frances Smith 1940 census](./Frances_Smith_1940_census.html)
-- [Mona Rush 1940 census](./Mona_Rush_1940_census.html)
-- [Richard Smith 1940 census](./Richard_Smith_1940_census.html)
+- [David_Smith_1940_census](./David_Smith_1940_census.html)
+- [Frances_Smith_1940_census](./Frances_Smith_1940_census.html)
+- [Mona_Rush_1940_census](./Mona_Rush_1940_census.html)
+- [Richard_Smith_1940_census](./Richard_Smith_1940_census.html)

@@ -4,5 +4,5 @@ engine: julia
 
 # Index
 
-- [Duncan Neel Tennessee state tax 1836](./Duncan_Neel_Tennessee_state_tax_1836.html)
-- [Duncan Neel Tennessee state tax 1839](./Duncan_Neel_Tennessee_state_tax_1839.html)
+- [Duncan_Neel_Tennessee_state_tax_1836](./Duncan_Neel_Tennessee_state_tax_1836.html)
+- [Duncan_Neel_Tennessee_state_tax_1839](./Duncan_Neel_Tennessee_state_tax_1839.html)

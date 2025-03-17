@@ -4,5 +4,5 @@ engine: julia
 
 # Index
 
-- [Mollie White 1920 census](./Mollie_White_1920_census.html)
-- [Mollie White 1930 census](./Mollie_White_1930_census.html)
+- [Mollie_White_1920_census](./Mollie_White_1920_census.html)
+- [Mollie_White_1930_census](./Mollie_White_1930_census.html)

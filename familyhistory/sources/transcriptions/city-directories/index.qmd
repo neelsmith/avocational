@@ -4,5 +4,5 @@ engine: julia
 
 # Index
 
-- [Hiram S. White in Burlington 1861 directory](./Hiram_S._White_in_Burlington_1861_directory.html)
-- [Hiram S. White in Burlington 1863 directory](./Hiram_S._White_in_Burlington_1863_directory.html)
+- [Hiram_S._White_in_Burlington_1861_directory](./Hiram_S._White_in_Burlington_1861_directory.html)
+- [Hiram_S._White_in_Burlington_1863_directory](./Hiram_S._White_in_Burlington_1863_directory.html)
