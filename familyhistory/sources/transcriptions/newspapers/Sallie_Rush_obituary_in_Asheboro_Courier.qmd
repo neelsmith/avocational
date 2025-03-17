@@ -1,11 +1,9 @@
-refersto::[Sarah Loflin](./../../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)
-refersto::[Zebedee Franklin Rush](./../../people/Rush-line/Zebedee_Franklin_Rush.html)
-refersto::[Calvin Harris Rush](./../../people/Rush-line/Calvin_Harris_Rush.html)
-refersto::[Mary Jane Rush](./../../people/Rush-line/Mary_Jane_Rush.html)
+
 
 ## Source
 
 *The Courier*, Asheboro, North Carolina · Thursday, September 13, 1906, page 1
+
 ## Transcription
 
 **Aged Lady Dead.**
@@ -20,3 +18,10 @@ The deceased was the mother of our townsmen, Z.F. and Harris Rush and Mrs. Nereu
 
 The bereaved relatives have the sympathy of a host of friends in the county.
 
+
+## Notes
+
+refersto::[Sarah Loflin](./../../people/Randolph_county_lines/Loflin/Sarah_Loflin.html)
+refersto::[Zebedee Franklin Rush](./../../people/Rush-line/Zebedee_Franklin_Rush.html)
+refersto::[Calvin Harris Rush](./../../people/Rush-line/Calvin_Harris_Rush.html)
+refersto::[Mary Jane Rush](./../../people/Rush-line/Mary_Jane_Rush.html)

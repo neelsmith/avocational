@@ -9,5 +9,6 @@ engine: julia
 ## Further lists images
 
 
+- [Shrewsbury-images](./Shrewsbury-images/)
 - [Vermont locations-images](./Vermont_locations-images/)
 - [White letters-images](./White_letters-images/)

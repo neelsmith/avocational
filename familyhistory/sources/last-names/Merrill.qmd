@@ -12,6 +12,7 @@ engine: julia
 - [Ebenezer Merrill](./../people/Merrill-line/Ebenezer_Merrill.html)
 - [Elsie Merrill](./../people/Merrill-line/Elsie_Merrill.html)
 - [Esther Richards](./../people/Merrill-line/Esther_Richards.html)
+- [Helen Merrill](./../people/Merrill-line/Helen_Merrill.html)
 - [Hiram Merrill](./../people/Merrill-line/Hiram_Merrill.html)
 - [James Albee Merrill](./../people/Merrill-line/James_Albee_Merrill.html)
 - [John Merrill](./../people/Merrill-line/John_Merrill.html)

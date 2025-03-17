@@ -159,5 +159,6 @@ Sources for children with [John Dubois Henderson](./../Henderson-line/John_Duboi
 ## All sources for Marguerite Merrill
 
 
+- [Anna White Merrill death notice](./../../transcriptions/newspapers/Anna_White_Merrill_death_notice.html)
 - [Marguerite Merrill birth](./../../transcriptions/vitals/Marguerite_Merrill_birth.html)
 - [Marguerite Merrill death certificate](./../../transcriptions/vitals/Marguerite_Merrill_death_certificate.html)

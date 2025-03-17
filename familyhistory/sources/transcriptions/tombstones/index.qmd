@@ -21,6 +21,7 @@ engine: julia
 - [Julia_Euless_tombstone](./Julia_Euless_tombstone.html)
 - [Leonora_Saudek_Blanton_tombstone](./Leonora_Saudek_Blanton_tombstone.html)
 - [Louise_Neel_-_Claude_J._Gattis_tombstone](./Louise_Neel_-_Claude_J._Gattis_tombstone.html)
+- [Lydia_Hastings_Smith_tombstone](./Lydia_Hastings_Smith_tombstone.html)
 - [Lydia_J._Smith_tombstone](./Lydia_J._Smith_tombstone.html)
 - [Martha_Wood_tombstone](./Martha_Wood_tombstone.html)
 - [Martin_Shofner_tombstone](./Martin_Shofner_tombstone.html)
@@ -33,3 +34,4 @@ engine: julia
 - [Syrena_Adams_tombstone](./Syrena_Adams_tombstone.html)
 - [Thomas_A._Gattis_tombstone](./Thomas_A._Gattis_tombstone.html)
 - [William_J._Hix_tombstone](./William_J._Hix_tombstone.html)
+- [Zachariah_Smith_tombstone](./Zachariah_Smith_tombstone.html)

@@ -1,6 +1,4 @@
-refersto::[Judy Gattis](./../../people/Gattis-line/Judy_Gattis.html)
-refersto::[Claud Gattis](./../../people/Gattis-line/Claud_Gattis.html)
-refersto::[Mary Louise Neel](./../../people/Neel-line/Mary_Louise_Neel.html)
+
 
 ## Source
 
@@ -13,3 +11,10 @@ refersto::[Mary Louise Neel](./../../people/Neel-line/Mary_Louise_Neel.html)
 **Birth announcement**
 
 Mr. and Mrs. Claude Gattis are receiving congratulations on the arrival of a daughter at Rutherford Hospital on Thursday.
+
+
+## Notes
+
+refersto::[Judy Gattis](./../../people/Gattis-line/Judy_Gattis.html)
+refersto::[Claud Gattis](./../../people/Gattis-line/Claud_Gattis.html)
+refersto::[Mary Louise Neel](./../../people/Neel-line/Mary_Louise_Neel.html)

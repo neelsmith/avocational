@@ -10,6 +10,7 @@ engine: julia
 - [Daniel Clyde Henderson](./../people/Henderson-line/Daniel_Clyde_Henderson.html)
 - [Edward Henderson](./../people/Henderson-line/Edward_Henderson.html)
 - [Frances Dubois](./../people/Henderson-line/Dubois-line/Frances_Dubois.html)
+- [Helen Myers](./../Helen_Myers.html)
 - [John Dryden Henderson](./../people/Henderson-line/John_Dryden_Henderson.html)
 - [John Dubois Henderson](./../people/Henderson-line/John_Dubois_Henderson.html)
 - [John Merrill Henderson](./../people/Henderson-line/John_Merrill_Henderson.html)

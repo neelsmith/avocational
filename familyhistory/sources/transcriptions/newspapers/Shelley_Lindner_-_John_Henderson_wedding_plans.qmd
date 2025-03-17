@@ -1,4 +1,3 @@
-refersto::[John Merrill Henderson](./../../people/Henderson-line/John_Merrill_Henderson.html)
 
 ## Source
 
@@ -11,3 +10,9 @@ Miss Shelley Ann Lindner, daughter of Mrs. Mary A. Lindner and Dr. Joseph Lindne
 The ceremony will take place at 4:30 o'clock in Calvary Episcopal Church, Clifton. It will be followed by a wedding reception at the University Club.
 
 Miss Lindner, who has been residing in New York for the last two years, will arrive in Cincinnati September 2 to join her mother, and to complete the plans for her wedding.
+
+
+## Notes
+
+refersto::[John Merrill Henderson](./../../people/Henderson-line/John_Merrill_Henderson.html)
+

@@ -11,7 +11,7 @@ engine: julia
 ## Biographical summary
 
 
-*born* ? : *died* ?
+*born* ? : *died* 1795-07-12
 
 **Mother**: ?
 
@@ -105,6 +105,20 @@ classDef marriage fill:#ffffff
 ```
 
 
+
+## Dated events
+
+
+- 1795-07-12 Death of Lydia Hastings Smith
+
+
+## Sources for preceding conclusions
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1795-07-12 | [Lydia Hastings Smith tombstone](./../../../../transcriptions/tombstones/Lydia_Hastings_Smith_tombstone.html) | direct |
 
 Sources for children with [Zachariah Smith](./Zachariah_Smith.html)
 

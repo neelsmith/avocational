@@ -20,4 +20,5 @@ engine: julia
 ## All sources for Elsie Merrill
 
 
+- [Anna White Merrill death notice](./../../transcriptions/newspapers/Anna_White_Merrill_death_notice.html)
 - [Harvey Newton family tombstone](./../../transcriptions/tombstones/Harvey_Newton_family_tombstone.html)

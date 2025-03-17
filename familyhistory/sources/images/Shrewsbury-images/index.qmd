@@ -1,0 +1,8 @@
+---
+engine: julia
+---
+
+# Images in directory `images/Shrewsbury-images`
+
+- [IMG 2800](./IMG_2800.html): Tombstone of Zachariah Smith.
+- [IMG 2802](./IMG_2802.html): Tombstone of Lydia Hastings Smith.

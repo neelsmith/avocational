@@ -11,7 +11,7 @@ engine: julia
 ## Biographical summary
 
 
-*born* ? : *died* ?
+*born* 1716-09-04 : *died* 1792-01-28
 
 **Mother**: [Susanah Grout](./../../Susanah_Grout.html)
 
@@ -123,7 +123,28 @@ classDef marriage fill:#ffffff
 
 
 
+## Dated events
+
+
+- 1716-09-04 Birth of Zachariah Smith
+- 1792-01-28 Death of Zachariah Smith
+
+
 ## Sources for preceding conclusions
+Sources for birth:
+
+
+| Date | Source | Place | Type |
+| --- | --- | --- | --- |
+| 1716-09-04 | Watertown, MA | [Zachariah Smith birth record](./../../../../transcriptions/vitals/Zachariah_Smith_birth_record.html) | direct |
+
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1792-01-28 | [Zachariah Smith tombstone](./../../../../transcriptions/tombstones/Zachariah_Smith_tombstone.html) | direct |
+
 Sources for parents:
 
 
@@ -141,5 +162,6 @@ Sources for children with [Lydia Hastings Smith](./Lydia_Hastings_Smith.html)
 ## All sources for Zachariah Smith
 
 
+- [Zachariah Smith tombstone](./../../../../transcriptions/tombstones/Zachariah_Smith_tombstone.html)
 - [Zachariah Smith birth record](./../../../../transcriptions/vitals/Zachariah_Smith_birth_record.html)
 - [Zachariah Smith will](./../../../../transcriptions/wills/Zachariah_Smith_will.html)

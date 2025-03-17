@@ -1,7 +1,4 @@
-refersto::[Anna Serena White](./../../people/Merrill-line/White-line/Anna_Serena_White.html)
-refersto::[James Albee Merrill](./../../people/Merrill-line/James_Albee_Merrill.html)
-refersto::[William E. White](./../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[Ellen Grandey](./../../people/Merrill-line/Grandey-line/Ellen_Grandey.html)
+
 
 ## Source
 
@@ -12,6 +9,21 @@ refersto::[Ellen Grandey](./../../people/Merrill-line/Grandey-line/Ellen_Grandey
 
 **Obituary**
 
-Mr.s James A. Merrill died very suddently Saturday afternoon at her home in Burlington, after a week's illness with angina pectoris aged 43. She had not been considered critically ill and only an hour before her death she had assured her husband that she felt much better.
+Mrs. James A. Merrill died very suddenly Saturday afternoon at her home in Burlington, after a week's illness with angina pectoris aged 43. She had not been considered critically ill and only an hour before her death she had assured her husband that she felt much better.
 
 Mrs. Merrill was born in Panton, the daughter of William E. and Ellen M. White. In 1892 she was married to Mr. Merrill and after living in Panton for three years, they went to Burlington, in which city they have since resided. Besides her husband, Mrs. Merrill is survived by three daugthers, Elsie, Marguerite and Helen; two brothers, Walter White of Panton and George White of Worcester, Mass.; and two sisters, Mrs. Frank Randall of Pasadena, Cal., and Mrs. George W. Hatch of Burlington. The funeral services were held Tuesday morning at the house and were private. Interment was made in Lakeview cemetery, Burlington.
+
+## Notes
+
+refersto::[Anna Serena White](./../../people/Merrill-line/White-line/Anna_Serena_White.html)
+refersto::[James Albee Merrill](./../../people/Merrill-line/James_Albee_Merrill.html)
+refersto::[William E. White](./../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[Ellen Grandey](./../../people/Merrill-line/Grandey-line/Ellen_Grandey.html)
+refersto::[Elsie Merrill](./../../people/Merrill-line/Elsie_Merrill.html)
+refersto::[Marguerite Merrill](./../../people/Merrill-line/Marguerite_Merrill.html)
+refersto::[Helen Merrill](./../../people/Merrill-line/Helen_Merrill.html)
+
+
+"Mrs. Frank Randall" refersto::[Mollie Grandey White](./../../people/Merrill-line/White-line/Mollie_Grandey_White.html) 
+"Mrs. George Hatch " refersto::[Elsie White](./../../people/Merrill-line/White-line/Elsie_White.html)
+

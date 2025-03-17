@@ -1,10 +1,9 @@
-refersto::[Mary Louise Neel](./../../people/Neel-line/Mary_Louise_Neel.html)
-refersto::[Robert Wilburn Neel](./../../people/Neel-line/Robert_Wilburn_Neel.html)
-refersto::[Willie Saudek Blanton](./../../people/Neel-line/Blanton-line/Willie_Saudek_Blanton.html)
-refersto::[Claud Gattis](./../../people/Gattis-line/Claud_Gattis.html)
-
 
 ## Source
+
+Murfreesboro, Tennessee, *The Daily News-Journal* - 24 Nov 1995 - 2
+
+www.newspapers.com
 
 ## Transcription
 
@@ -23,3 +22,11 @@ Memorial contributions may be made to her church, Linebaugh Library, or to Hospi
 Visitation will be held from 2-4 p.m. Saturday at Jennings & Ayers Funeral Home.
 
 Daily News Journal, Nov. 24, 1995.
+
+
+## Notes
+
+refersto::[Mary Louise Neel](./../../people/Neel-line/Mary_Louise_Neel.html)
+refersto::[Robert Wilburn Neel](./../../people/Neel-line/Robert_Wilburn_Neel.html)
+refersto::[Willie Saudek Blanton](./../../people/Neel-line/Blanton-line/Willie_Saudek_Blanton.html)
+refersto::[Claud Gattis](./../../people/Gattis-line/Claud_Gattis.html)
