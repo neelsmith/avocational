@@ -17,6 +17,7 @@ engine: julia
 - [freedmans-bank-records](./freedmans-bank-records/)
 - [landrecords](./landrecords/)
 - [letters](./letters/)
+- [local-histories](./local-histories/)
 - [marriages](./marriages/)
 - [military](./military/)
 - [newspapers](./newspapers/)

@@ -12,3 +12,4 @@ engine: julia
 - [IMG 3156](./IMG_3156.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 2.
 - [IMG 3157](./IMG_3157.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 3.
 - [IMG 3158](./IMG_3158.html): Letter of Ebenezer White to Horatio Nelson, June 7, 1852: page 4.
+- [IMG 3295](./IMG_3295.html): Letter of Henry George White to Horatio Nelson White, March 1, 1857:  cover with address.

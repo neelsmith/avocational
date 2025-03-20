@@ -1,0 +1,17 @@
+
+
+![](https://dl.dropbox.com/scl/fi/y3j8m1kjj465jti104p9w/commonwealth_wd376466z_image_primary_wgs84ll_img.png?rlkey=ohlcjxt6g29x259fjxzmmqyzy&st=gbcsnrqn&dl=1)
+
+https://collections.leventhalmap.org/search/commonwealth:wd376466z
+
+ADD INFROM FROM BPL. And link to georef info: [xml](https://dl.dropbox.com/scl/fi/vz7v84y5vehgtk7mpt00v/commonwealth_wd376466z_image_primary_wgs84ll.tif.aux.xml?rlkey=hk85o4suavvsb0dipr6f6d0dv&st=ymy8waqd&dl=1)
+
+
+caption::Map of Addison County in 1857.
+
+credits::Walling, Henry Francis. "Map of Addison County, Vermont." Map. Boston: Baker & Tilden, 1857. _Norman B. Leventhal Map & Education Center_, https://collections.leventhalmap.org/search/commonwealth:wd376466z (accessed March 20, 2025).
+
+license::Public domain.
+
+url::https://dl.dropbox.com/scl/fi/y3j8m1kjj465jti104p9w/commonwealth_wd376466z_image_primary_wgs84ll_img.png?rlkey=ohlcjxt6g29x259fjxzmmqyzy&st=gbcsnrqn&dl=1
+

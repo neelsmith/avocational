@@ -1,0 +1,11 @@
+---
+engine: julia
+---
+
+
+# Philo Bristol
+
+
+
+
+Private information: Philo Bristol not identified as deceased.

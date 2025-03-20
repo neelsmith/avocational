@@ -9,7 +9,7 @@ categories: [White letters, Panton VT]
 citation: 
   url: https://neelsmith.quarto.pub/posts/2025-03-20-panton-vermont/ 
 image: Panton-map.png
-draft: false
+draft: true
 ---
 
 On a mid-October day in 1850, Gaius A. Collum, Assistant Marshall for the U.S. Census, made his way from Panton Village towards Lake Champlain, then headed south along a series of farms bordering the lake. He numbered each residence he visited from 1 to 39 as he recorded their answers to the questions for the 1850 census. I have been able to identify locations for about half of the houses where he stopped that day.
@@ -31,7 +31,9 @@ The property at house 31 must have been pleasant. Collum recored its value as $7
 ![Detail of [this image](https://neelsmith.quarto.pub/personal/familyhistory/sources/images/White_letters-images/IMG_3295.html): address on the cover of a letter from Henry George White, Buffalo, New York, to his brother, Horatio Nelson White in Panton, Vermont.](./address.png)
 
 
-
+:::{.column-page}
+![ ](./map-overlay.png)
+:::
 
 
 Map[^walling]

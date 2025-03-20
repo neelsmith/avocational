@@ -12,3 +12,4 @@ engine: julia
 - [Shrewsbury-images](./Shrewsbury-images/)
 - [Vermont locations-images](./Vermont_locations-images/)
 - [White letters-images](./White_letters-images/)
+- [maps](./maps/)
