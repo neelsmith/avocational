@@ -1,5 +1,16 @@
-
-
+---
+title: "Real estate in 19th-century Panton, Vermont"
+engine: julia
+description: "SUMMARY."
+author:
+  - name: Neel Smith
+date: 2025-03-20
+categories: [White letters, Panton VT] 
+citation: 
+  url: https://neelsmith.quarto.pub/posts/DATE-panton-realestate/
+image: Panton-map.png
+draft: false
+---
 
 
 
