@@ -1,0 +1,26 @@
+
+
+
+
+
+### How prosperous were the Whites?
+
+
+The property at house 31 must have been pleasant: Gaius Collum recorded its value as $7,000, a figure exceeded by only 10 of the 56 properties listed with recorded values in the 1850 census for Panton.
+
+
+
+```{=html}
+<figure>
+<img src="./panton1850realestate.png" width="600" alt="Real estate values recorded in 1850 census for Panton, Vermont"/>
+<figcaption>Real estate values recorded in 1850 census for Panton, Vermont.</figcaption>
+</figure>
+```
+
+
+```{=html}
+<figure>
+<img src="./panton1860realestate.png" width="600" alt="Real estate values recorded in 1860 census for Panton, Vermont"/>
+<figcaption>Real estate values recorded in 1850 census for Panton, Vermont.</figcaption>
+</figure>
+```
