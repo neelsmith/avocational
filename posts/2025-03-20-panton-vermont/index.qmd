@@ -73,12 +73,14 @@ Wedding record: Ellen M. Grandey is daughter of Truman and Polly Grandey
 
 1860 : no value for HN; WmE has 18600 which should be whole thing
 
+![](./multiyear.png)
 
 | 1850 | 1860|
 | --- | --- |
 | [![](./sequence-1850.png)](./sequence-1850.png) | [![](./sequence-1860.png)](./sequence-1860.png) |
 
 
+![](./White-Grandy.png)
 
 
 
