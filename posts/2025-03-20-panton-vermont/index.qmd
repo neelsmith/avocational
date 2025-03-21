@@ -13,7 +13,7 @@ draft: false
 ---
 
 
-![ ](./Gaius.png)
+![First household in Gaius A. Collum's 1850 census records for Panton, Vermont.](./Gaius.png)
 
 ## Finding census locations on maps
 
@@ -64,10 +64,16 @@ This is also the same Horatio Nelson White who kept a series of family letters t
 Connecting information in documentary sources like census records with geographic information can illuminate many aspects of the White letters. For a very simple first example, I will mention the marriage of Horatio Nelson's son, William E. White, to Ellen Grandey.[^promise] The Vermont state archives [records their marriage on November 19, 1859](https://neelsmith.quarto.pub/personal/familyhistory/sources/transcriptions/marriages/William_White_-_Ellen_Grandey_marriage.html), and helpfully gives us the names of the bride's parents, Truman and Polly Grandey.
 
 
+The US Census of 1850 was the first to list individuals by name (rather than just counts of individuals in various categories), so we can follow changes in the makeup of households from decade to decade. In 1850, 14-year-old William White was living with his parents and five siblings. One Truman Grandy and his wife Polly have a daughter Ellen, then age 8.  Ten years later, we find William and Ellen together, and a check in the final column illustrated here indicates "Married within the year".
+
+![1860 census entries for William E. and Ellen White checking their status as newlyweds.](./newlywed.png)
 
 
 
-![](./White-Grandy.png)
+Like the Whites, the Grandys also lived in Panton: Horatio Nelson and his family were house 31 on Collum's itinerary, the Grandys were house 44. Only when we find them both on H.F. Walling's map is it obvious that Collum's route from house 31 to house 44 twisted and turned through a cluster of residences at a small crossroads. Despite the large separation in numbering from 31 to 44, the Grandys and Whites were in fact separated only by the distance of a couple of farms.  We'll never know exactly how William and Ellen met, but we're now free to imagine all the possibilities of two neighboring farming families in a small town in nineteenth-century Vermont.
+
+
+![Relative location of White and Grandy families, houses 31 and 44 in the 1850 census for Panton.](./White-Grandy.png)
 
 [^promise]: I'll look at what we can learn from the full set of documents contextualizing their marriage in a later note. 
 
