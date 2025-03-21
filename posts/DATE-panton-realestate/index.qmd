@@ -9,7 +9,7 @@ categories: [White letters, Panton VT]
 citation: 
   url: https://neelsmith.quarto.pub/posts/DATE-panton-realestate/
 image: Panton-map.png
-draft: false
+draft: true
 ---
 
 

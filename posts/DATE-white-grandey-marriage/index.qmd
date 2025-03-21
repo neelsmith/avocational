@@ -1,0 +1,34 @@
+---
+title: "Edward White and Ellen Grandey"
+engine: julia
+description: "Documents and inferences."
+author:
+  - name: Neel Smith
+date: 2025-03-08
+categories: [White letters, White, Grandy] # self-defined categories
+citation: 
+  url: https://neelsmith.quarto.pub/posts/DATE-white-grandey-marriage/ 
+image: ../imgs/filled-w-grief.png
+draft: true
+---
+
+
+### A marriage in the White family
+
+The geographic knowledge from Wallis and the data recorded in the census illuminate the White letters in many ways. Since the White letters are dated from 1842 to 1860, the Wallis map shows us a  Panton, where Horatio Nelson lived, at exactly this time. The US Census of 1850 was the first to list individuals by name (rather than just counts of individuals in various categories), so we can follow changes in the makeup of households from decade to decade.
+
+The marriage of Horatio Nelson's son, William, is an example. 
+
+
+In 1850, for example, 
+
+Wedding record: Ellen M. Grandey is daughter of Truman and Polly Grandey
+
+1860 : no value for HN; WmE has 18600 which should be whole thing
+
+![](./multiyear.png)
+
+| 1850 | 1860|
+| --- | --- |
+| [![](./sequence-1850.png)](./sequence-1850.png) | [![](./sequence-1860.png)](./sequence-1860.png) |
+

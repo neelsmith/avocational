@@ -78,7 +78,7 @@ Sources for parents:
 
 | Father | Mother | Source | Type |
 | --- | --- | --- | --- |
-| [Truman Grandey](./Truman_Grandey.html) | [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html) | [Ellen M. Grandy marriage record](./../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html) | direct |
+| [Truman Grandey](./Truman_Grandey.html) | [Polly Myrick](./../White-line/Grandey/Polly_Myrick.html) | [Ellen M. Grandy marriage record]() | direct |
 
 Sources for children with [William E. White](./../White-line/William_E._White.html)
 
@@ -91,6 +91,6 @@ Sources for children with [William E. White](./../White-line/William_E._White.ht
 
 
 - [Ellen Grandey 1850 census](./../../../transcriptions/census/Merrill_census/Ellen_Grandey_1850_census.html)
-- [Ellen M. Grandy marriage record](./../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html)
+- [William White - Ellen Grandey marriage](./../../../transcriptions/marriages/William_White_-_Ellen_Grandey_marriage.html)
 - [Anna White Merrill death notice](./../../../transcriptions/newspapers/Anna_White_Merrill_death_notice.html)
 - [Anna Serena White death](./../../../transcriptions/vitals/Anna_Serena_White_death.html)

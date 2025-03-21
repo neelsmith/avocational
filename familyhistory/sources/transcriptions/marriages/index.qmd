@@ -14,7 +14,6 @@ engine: julia
 - [Bee_Neel_-_Ray_Harris_1955](./Bee_Neel_-_Ray_Harris_1955.html)
 - [Charles_Smith_-_Mona_Rush_marriage](./Charles_Smith_-_Mona_Rush_marriage.html)
 - [Ebenezer_White_-_Candace_Smith_marriage](./Ebenezer_White_-_Candace_Smith_marriage.html)
-- [Ellen_M._Grandy_marriage_record](./Ellen_M._Grandy_marriage_record.html)
 - [Ephraim_Smith_-_Hannah_Rice_marriage](./Ephraim_Smith_-_Hannah_Rice_marriage.html)
 - [Hiram_Merrill_-_Lucy_Witherell_marriage](./Hiram_Merrill_-_Lucy_Witherell_marriage.html)
 - [Horatio_White_-_Susan_Spaulding_marriage](./Horatio_White_-_Susan_Spaulding_marriage.html)
@@ -28,4 +27,5 @@ engine: julia
 - [Moses_Smith_-_Lydia_Smith_marriage](./Moses_Smith_-_Lydia_Smith_marriage.html)
 - [Noah_Rush_-_Sarah_Loughlin_marriage_bond](./Noah_Rush_-_Sarah_Loughlin_marriage_bond.html)
 - [Samuel_Allen_-_Eunice_Rush_marriage_record](./Samuel_Allen_-_Eunice_Rush_marriage_record.html)
+- [William_White_-_Ellen_Grandey_marriage](./William_White_-_Ellen_Grandey_marriage.html)
 - [William_White_-_Jennie_Warner_marriage](./William_White_-_Jennie_Warner_marriage.html)

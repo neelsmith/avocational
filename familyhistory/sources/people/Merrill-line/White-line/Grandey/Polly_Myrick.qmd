@@ -64,6 +64,11 @@ classDef marriage fill:#ffffff
 Sources for children with [Truman Grandey](./../../Grandey-line/Truman_Grandey.html)
 
 
-- [Ellen M. Grandy marriage record](./../../../../transcriptions/marriages/Ellen_M._Grandy_marriage_record.html)
+- [Ellen M. Grandy marriage record]()
 
 
+
+## All sources for Polly Myrick
+
+
+- [William White - Ellen Grandey marriage](./../../../../transcriptions/marriages/William_White_-_Ellen_Grandey_marriage.html)

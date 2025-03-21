@@ -25,22 +25,29 @@ On a mid-October day in 1850, Gaius A. Collum, Assistant Marshall for the U.S. C
 
  
  
- Walling's printed wall maps of Vermont counties were luxe products. His 1857 map of Addison County (where the census district of Panton is located) spanned more than four feet in each dimension, was printed on four sheets that were then mounted on linen backing, and cost $5 per copy, an exorbitant expense at the time. There are two printings of the map with slightly different bordering illustrations, both dated to 1857.[^walling] Both the Library of Congress and the Boston Public Library have digitized copies of the second printing.[^archives] For this post, I worked with a copy of the BPL's digitization.[^wallingmapbpl]
+ Walling's printed wall maps of Vermont counties were luxe products. His 1857 map of Addison County (where the census district of Panton is located) spanned more than four feet in each dimension, was printed on four sheets that were then mounted on linen backing, and cost $5 per copy, an exorbitant expenditure at the time. There are two printings of the map with slightly different bordering illustrations, both dated to 1857.[^walling] Both the Library of Congress and the Boston Public Library have digitized copies of the second printing.[^archives] For this post, I worked with a copy of the BPL's digitization.[^wallingmapbpl]
 
 
 [![Henry Francis Walling, map of Addison County, Vermont, published 1857.](./addison-co-1857.png)](https://neelsmith.quarto.pub/personal/familyhistory/sources/images/maps/Addison_County_VT_1857.html)
 
 
 
-I georeferenced the map to create a copy I could work with in longitude-latitude coordinates. (I may add a DIY post later on how I did this, but you can download the resulting file in GeoTIFF format [here](https://dl.dropbox.com/scl/fi/4uhisdr9iwp1bg9aywfk9/commonwealth_wd376466z_image_primary_wgs84ll.tif?rlkey=iy7erqstmygtnm52kn39zr8ik&st=l169peps&dl=1) if you want to use Walling's map in a GIS now.)  Walling's map includes the surveyed boundary lines of each town in Addison county, most of which are unchanged today. Their clear corners and crossing points provide easy targets to align with modern GIS data from the state of Vermont's [Open Geodata Portal](https://geodata.vermont.gov/search?tags=isothemeboundary%2Cisothemegeodetic%2Cisothemecadastral), and are ideally spread across the area of Addison county to yield reasonable results from georeferencing. One inescapabale limit to the accuracy that can be achieved, however, are gaps between the four original printed sheets. Unfortunately the village of Panton falls right on the crossing where all four sheets touch.
-
+I georeferenced the map to create a version I could work with using longitude-latitude coordinates.[^geotiff]  Walling's map includes the surveyed boundary lines of each town in Addison county, most of which are unchanged today. Their clear corners and crossing points provide easy targets to align with modern GIS data from the state of Vermont's [Open Geodata Portal](https://geodata.vermont.gov/search?tags=isothemeboundary%2Cisothemegeodetic%2Cisothemecadastral), and are ideally spread across the area of Addison county to yield reasonable results from georeferencing. One inescapabale limit to the accuracy that can be achieved, however, are gaps between the four original printed sheets. Unfortunately the village of Panton falls right on the crossing where all four sheets touch.
 
 
 ![Overlay of Wallis' map on modern dataset showing close alignment of georeferenced nineteenth-century road with modern Route 22A.](./route22A.png)
 
-Nevertheless, the resulting alignment is very usable.  In the illustration above, for example, we can see how closely a modern map of Vermont Route 22A aligns with the same road in the georeferenced version of Wallis' map. We can also see the detailed plotting with labels of every major house and structure Wallis observed. It was appealing to potential buyers to see their own house on the map -- and a gold mine for historians more than a century and a half later.  With the georeferenced map in place, I followed Gaius Collum's census listings, and matched names in the census record with labels on Walling's map.
+ [^geotiff]: I may add a DIY post later on how I did this, but you can download the resulting file in GeoTIFF format [here](https://dl.dropbox.com/scl/fi/4uhisdr9iwp1bg9aywfk9/commonwealth_wd376466z_image_primary_wgs84ll.tif?rlkey=iy7erqstmygtnm52kn39zr8ik&st=l169peps&dl=1) if you want to use Walling's map in a GIS now.
 
-The result was that we can now trace Collum's route on October 15, 1850, house by house. In the following illustration, points are labelled with the number Collum assigned to each house, and the name of the head of household in his census record.
+
+Nevertheless, the resulting alignment is very usable.  In the illustration above, for example, we can see how closely a modern map of Vermont Route 22A aligns with the same road in the georeferenced version of Wallis' map. We can also see the detailed plotting with labels of every major house and structure Wallis observed. It was appealing to potential buyers to see their own house on the map -- and a gold mine for historians more than a century and a half later.  With the georeferenced map in place, I followed Collum's census listings, and matched names in the census record with labels on Walling's map.
+
+
+
+## Reading the White letters
+
+
+We can now trace Gaius Collum's route on October 15, 1850, house by house. Here, points are labelled with the number Collum assigned to each house, and the name of the head of household in his census record.
 
 
 :::{.column-page}
@@ -48,43 +55,25 @@ The result was that we can now trace Collum's route on October 15, 1850, house b
 :::
 
 
-## Reading the White letters: an example
+The property at house 31 must have been pleasant: Collum recorded its value as $7,000, a figure exceeded by only 10 of the 56 properties listed with recorded values in the 1850 census for Panton. Collum identified the farmer who lived there as 47-year-old Horatio N. White. This corresponds perfectly with the location of two adjacent buildings that Walling labels "H.N. White Res" and "H.N. White." 
 
-
-Collum identified the farmer who lived at house 31 as 47-year-old Horatio N. White. In a town with a total population of 559 in the 1850 census, this is unambiguously the same Horatio Nelson White who kept a series of family letters that were passed along by five generations of his descendants until they were donated to the [American Antiquarian Society](https://www.americanantiquarian.org) (AAS) in 2024.[^aas] In fact, Horatio Nelson's family normally sent him letters addressed simply "H.N. White, Panton, Vermont," as illustrated in the detail to the right. Dated to March of 1857, it falls exactly between the time Walling completed his survey of Addison county in 1856, and the time when his map was printed in New York and Boston. 
-
-:::{.column-margin}
+This is also the same Horatio Nelson White who kept a series of family letters that were passed along by five generations of his descendants until they were donated to the [American Antiquarian Society](https://www.americanantiquarian.org) (AAS) in 2024.[^aas] In a town with a total population of 559 in the 1850 census, Walling's "H.N. White" identifies him unambiguously, and "H.N. White, Panton, Vermont," was in fact the normal address his family used in writing to him, as illustrated in this detail of a letter dated to March of 1857, at exactly the time Walling was surveying and publishing his map of Addison county.
 
 ![Detail of [this full image](https://neelsmith.quarto.pub/personal/familyhistory/sources/images/White_letters-images/IMG_3295.html): address on the cover of a letter from Henry George White, Buffalo, New York, to his brother, Horatio Nelson White in Panton, Vermont.](./address.png)
-:::
+
+Connecting information in documentary sources like census records with geographic information can illuminate many aspects of the White letters. For a very simple first example, I will mention the marriage of Horatio Nelson's son, William E. White, to Ellen Grandey.[^promise] The Vermont state archives [records their marriage on November 19, 1859](https://neelsmith.quarto.pub/personal/familyhistory/sources/transcriptions/marriages/William_White_-_Ellen_Grandey_marriage.html), and helpfully gives us the names of the bride's parents, Truman and Polly Grandey.
 
 
 
-### A marriage in the White family
-
-The geographic knowledge from Wallis and the data recorded in the census illuminate the White letters in many ways. Since the White letters are dated from 1842 to 1860, the Wallis map shows us a  Panton, where Horatio Nelson lived, at exactly this time. The US Census of 1850 was the first to list individuals by name (rather than just counts of individuals in various categories), so we can follow changes in the makeup of households from decade to decade.
-
-The marriage of Horatio Nelson's son, William, is an example. 
-
-
-In 1850, for example, 
-
-Wedding record: Ellen M. Grandey is daughter of Truman and Polly Grandey
-
-1860 : no value for HN; WmE has 18600 which should be whole thing
-
-![](./multiyear.png)
-
-| 1850 | 1860|
-| --- | --- |
-| [![](./sequence-1850.png)](./sequence-1850.png) | [![](./sequence-1860.png)](./sequence-1860.png) |
 
 
 ![](./White-Grandy.png)
 
+[^promise]: I'll look at what we can learn from the full set of documents contextualizing their marriage in a later note. 
 
 
-[^walling]: [This post](https://www.old-maps.com/blog/mapping-vermont-in-the-1850s/) (attribued only to "admin") from old-maps.com, provides helpful background on Walling's mapping of Vermont. A PDF on the same site has more detail including on the two printings of the Addison County map:  Dave Allen, "[Preliminary Notes on the Vermont County Maps]"(https://www.old-maps.com/vermont/00_VT_WALLMAPSoptimized.pdf), Feb. 15 2006/May 2007, https://www.old-maps.com/vermont/00_VT_WALLMAPSoptimized.pdf, accessed March 20, 2025.
+
+[^walling]: [This post](https://www.old-maps.com/blog/mapping-vermont-in-the-1850s/) (attribued only to "admin") from old-maps.com, provides helpful background on Walling's mapping of Vermont: "Mapping Vermont in the 1850s", February 19. 2014, https://www.old-maps.com/blog/mapping-vermont-in-the-1850s/, accessed March 20, 2025. A PDF on the same site has more detail including a discussion of the two printings of the Addison County map:  Dave Allen, "[Preliminary Notes on the Vermont County Maps](https://www.old-maps.com/vermont/00_VT_WALLMAPSoptimized.pdf)", Feb. 15 2006/May 2007, https://www.old-maps.com/vermont/00_VT_WALLMAPSoptimized.pdf, accessed March 20, 2025.
 
 
 
