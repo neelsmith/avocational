@@ -58,7 +58,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
-| 1810 | New York | [Lydia B. White 1850 census](./../../../transcriptions/census/White_census/Lydia_B._White_1850_census.html) | indirect |
+| 1810 | New York | [Lydia B. White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Lydia_B._White_1850_census.html) | indirect |
 
 Sources for death:
 
@@ -77,7 +77,7 @@ Sources for children with [Artemas White](./Artemas_White.html)
 ## All sources for Lydia R. Brumley
 
 
-- [Lydia B. White 1850 census](./../../../transcriptions/census/White_census/Lydia_B._White_1850_census.html)
-- [Lydia Brumley 1850 census](./../../../transcriptions/census/White_census/Lydia_Brumley_1850_census.html)
+- [Lydia B. White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Lydia_B._White_1850_census.html)
+- [Lydia Brumley 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Lydia_Brumley_1850_census.html)
 - [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 - [Lydia B. White probate](./../../../transcriptions/probate/Lydia_B._White_probate.html)

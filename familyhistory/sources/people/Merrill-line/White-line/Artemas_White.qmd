@@ -94,7 +94,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
-| 1808 |  | [Artemas White 1850 census](./../../../transcriptions/census/White_census/Artemas_White_1850_census.html) | indirect |
+| 1808 |  | [Artemas White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Artemas_White_1850_census.html) | indirect |
 
 Sources for death:
 
@@ -120,7 +120,7 @@ Sources for children with [Lydia R. Brumley](./Lydia_R._Brumley.html)
 ## All sources for Artemas White
 
 
-- [Artemas White 1850 census](./../../../transcriptions/census/White_census/Artemas_White_1850_census.html)
+- [Artemas White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Artemas_White_1850_census.html)
 - [Artemis White in First Congregational, Keeseville](./../../../transcriptions/church-registries/Artemis_White_in_First_Congregational,_Keeseville.html)
 - [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 - [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)

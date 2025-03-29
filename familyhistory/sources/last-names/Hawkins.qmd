@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Hawkins
+
+- [Asa Perry Hawkins](./../people/Vermont/Asa_Perry_Hawkins.html)
+- [Betsey Hawkins](./../people/Vermont/Betsey_Hawkins.html)
+- [Charlotte Palmer](./../people/Vermont/Charlotte_Palmer.html)

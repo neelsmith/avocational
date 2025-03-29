@@ -1,0 +1,9 @@
+---
+engine: julia
+---
+
+# Graves
+
+- [Elijah Graves](./../people/Vermont/Elijah_Graves.html)
+- [Lavina Gage](./../people/Vermont/Lavina_Gage.html)
+- [Roswell Graves](./../people/Vermont/Roswell_Graves.html)

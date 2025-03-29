@@ -146,8 +146,8 @@ Sources for children with [Ann Quayle](./Ann_Quayle.html)
 ## All sources for Henry George White
 
 
-- [Henry George White 1840 census](./../../../transcriptions/census/White_census/Henry_George_White_1840_census.html)
-- [Henry George White 1850 census](./../../../transcriptions/census/White_census/Henry_George_White_1850_census.html)
+- [Henry George White 1840 census](./../../../transcriptions/census/Panton_Vermont_census/Henry_George_White_1840_census.html)
+- [Henry George White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Henry_George_White_1850_census.html)
 - [Eugene White in North Presbyterian, Amherst, NY](./../../../transcriptions/church-registries/Eugene_White_in_North_Presbyterian,_Amherst,_NY.html)
 - [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 - [1855-04-01   to HN](./../../../transcriptions/letters/1855-04-01___to_HN.html)

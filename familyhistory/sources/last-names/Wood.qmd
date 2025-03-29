@@ -4,4 +4,5 @@ engine: julia
 
 # Wood
 
+- [Holly Wood](./../people/Vermont/Holly_Wood.html)
 - [Martha Patsy Wood](./../people/Randolph_county_lines/Martha_Patsy_Wood.html)

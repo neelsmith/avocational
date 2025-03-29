@@ -4,6 +4,12 @@ engine: julia
 
 # Newton
 
+- [Abigail Smith](./../people/Vermont/Abigail_Smith.html)
+- [Catharine Ecker](./../people/Vermont/Catharine_Ecker.html)
+- [Charles Newton](./../people/Vermont/Charles_Newton.html)
 - [Elsie Merrill](./../people/Merrill-line/Elsie_Merrill.html)
 - [Harold C. Newton](./../overviews-people/White/Harold_C._Newton.html)
 - [Harvey Newton](./../people/Merrill-line/White-line/Harvey_Newton.html)
+- [Holly Wood](./../people/Vermont/Holly_Wood.html)
+- [Joseph Newton Sr.](./../people/Vermont/Joseph_Newton_Sr..html)
+- [Mariam Allen](./../people/Vermont/Mariam_Allen.html)

@@ -41,6 +41,6 @@ Transcription from public domain photography listed here.
 ## Notes
 
 refersto::[Harvey Newton](./../../people/Merrill-line/White-line/Harvey_Newton.html)
-refersto::[[Agnes C. Graves]]
+refersto::[Agnes C. Graves](./../../people/Vermont/Agnes_C._Graves.html)
 refersto::[Harold C. Newton](./../../overviews-people/White/Harold_C._Newton.html)
 refersto::[Elsie Merrill](./../../people/Merrill-line/Elsie_Merrill.html)

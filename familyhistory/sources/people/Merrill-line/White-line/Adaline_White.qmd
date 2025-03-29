@@ -86,7 +86,7 @@ Sources for parents:
 ## All sources for Adaline White
 
 
-- [Adaline White 1850 census](./../../../transcriptions/census/White_census/Adaline_White_1850_census.html)
+- [Adaline White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Adaline_White_1850_census.html)
 - [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 - [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
 - [1849-08-09-EW-toHNW](./../../../transcriptions/letters/White_letters/1849-08-09-EW-toHNW.html)

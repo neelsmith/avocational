@@ -137,11 +137,11 @@ Sources for children with [Syrena Adams](./Syrena_Adams.html)
 ## All sources for Horatio Nelson White
 
 
-- [Horatio N. White 1840 census](./../../../transcriptions/census/White_census/Horatio_N._White_1840_census.html)
-- [Horatio N. White 1850 census](./../../../transcriptions/census/White_census/Horatio_N._White_1850_census.html)
-- [Horatio N. White 1860 census](./../../../transcriptions/census/White_census/Horatio_N._White_1860_census.html)
-- [Horatio N. White 1870 census](./../../../transcriptions/census/White_census/Horatio_N._White_1870_census.html)
-- [Horatio N. White 1880 census](./../../../transcriptions/census/White_census/Horatio_N._White_1880_census.html)
+- [Horatio N. White 1840 census](./../../../transcriptions/census/Panton_Vermont_census/Horatio_N._White_1840_census.html)
+- [Horatio N. White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Horatio_N._White_1850_census.html)
+- [Horatio N. White 1860 census](./../../../transcriptions/census/Panton_Vermont_census/Horatio_N._White_1860_census.html)
+- [Horatio N. White 1870 census](./../../../transcriptions/census/Panton_Vermont_census/Horatio_N._White_1870_census.html)
+- [Horatio N. White 1880 census](./../../../transcriptions/census/Panton_Vermont_census/Horatio_N._White_1880_census.html)
 - [1855-04-01   to HN](./../../../transcriptions/letters/1855-04-01___to_HN.html)
 - [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
 - [1842-09-31-AW-HNW](./../../../transcriptions/letters/White_letters/1842-09-31-AW-HNW.html)

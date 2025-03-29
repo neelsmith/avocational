@@ -142,7 +142,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
-| 1771 |   | [Ebenezer White 1850 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
+| 1771 |   | [Ebenezer White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Ebenezer_White_census/Ebenezer_White_1850_census.html) | indirect |
 | 1779-07-09 | [[Templeton, Massachusetts]] | [Ebenezer White birth](./../../../transcriptions/vitals/Ebenezer_White_birth.html) | direct |
 
 Sources for death:
@@ -180,11 +180,11 @@ Sources for children with [Candace Smith](./Candace-Smith-line/Candace_Smith.htm
 ## All sources for Ebenezer White
 
 
-- [Ebenezer White 1810 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1810_census.html)
-- [Ebenezer White 1820 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1820_census.html)
-- [Ebenezer White 1830 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1830_census.html)
-- [Ebenezer White 1840 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1840_census.html)
-- [Ebenezer White 1850 census](./../../../transcriptions/census/White_census/Ebenezer_White_census/Ebenezer_White_1850_census.html)
+- [Ebenezer White 1810 census](./../../../transcriptions/census/Panton_Vermont_census/Ebenezer_White_census/Ebenezer_White_1810_census.html)
+- [Ebenezer White 1820 census](./../../../transcriptions/census/Panton_Vermont_census/Ebenezer_White_census/Ebenezer_White_1820_census.html)
+- [Ebenezer White 1830 census](./../../../transcriptions/census/Panton_Vermont_census/Ebenezer_White_census/Ebenezer_White_1830_census.html)
+- [Ebenezer White 1840 census](./../../../transcriptions/census/Panton_Vermont_census/Ebenezer_White_census/Ebenezer_White_1840_census.html)
+- [Ebenezer White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Ebenezer_White_census/Ebenezer_White_1850_census.html)
 - [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
 - [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
 - [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)

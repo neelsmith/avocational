@@ -1,0 +1,10 @@
+---
+engine: julia
+---
+
+# Allen
+
+- [Lucretia Putnam](./../people/Vermont/Lucretia_Putnam.html)
+- [Mariam Allen](./../people/Vermont/Mariam_Allen.html)
+- [Obadiah Allen](./../people/Vermont/Obadiah_Allen.html)
+- [William Allen](./../people/Vermont/William_Allen.html)

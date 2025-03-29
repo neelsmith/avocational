@@ -20,9 +20,9 @@ engine: julia
 ## All sources for Frances E. White
 
 
-- [Frances E. White 1860 census](./../../../transcriptions/census/White_census/Frances_E._White_1860_census.html)
-- [Francis E. White 1850 census](./../../../transcriptions/census/White_census/Francis_E._White_1850_census.html)
-- [Francis E. White 1870 census](./../../../transcriptions/census/White_census/Francis_E._White_1870_census.html)
+- [Frances E. White 1860 census](./../../../transcriptions/census/Panton_Vermont_census/Frances_E._White_1860_census.html)
+- [Francis E. White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Francis_E._White_1850_census.html)
+- [Francis E. White 1870 census](./../../../transcriptions/census/Panton_Vermont_census/Francis_E._White_1870_census.html)
 - [1842-07-17-EW-HNW](./../../../transcriptions/letters/White_letters/1842-07-17-EW-HNW.html)
 - [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
 - [1850-04-07-HSW-to-HNW](./../../../transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)

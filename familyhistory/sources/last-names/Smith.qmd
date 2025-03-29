@@ -4,7 +4,9 @@ engine: julia
 
 # Smith
 
+- [Abigail Smith](./../people/Vermont/Abigail_Smith.html)
 - [Alexander Smith](./../people/Smith-line/Alexander_Smith.html)
+- [Anna Smith](./../people/Vermont/Anna_Smith.html)
 - [Annecca Smith](./../people/root/Annecca_Smith.html)
 - [Bethia Ward](./../people/Merrill-line/White-line/Candace-Smith-line/Bethia_Ward.html)
 - [Candace Henderson](./../people/root/Candace_Henderson.html)

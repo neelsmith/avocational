@@ -4,14 +4,17 @@ engine: julia
 
 # Grandy
 
+- [Anna Smith](./../people/Vermont/Anna_Smith.html)
 - [Edmon Grandy](./../people/Merrill-line/Grandey-line/Edmon_Grandy.html)
 - [Edmund Grandey b. 1724](./../people/Merrill-line/Grandey-line/Edmund_Grandey_b._1724.html)
 - [Edmund Grandey b. 1746](./../people/Merrill-line/Grandey-line/Edmund_Grandey_b._1746.html)
 - [Ellen Grandey](./../people/Merrill-line/Grandey-line/Ellen_Grandey.html)
 - [Jesse Grandey](./../people/Merrill-line/Grandey-line/Jesse_Grandey.html)
 - [Lucretia Batcheller](./../people/Merrill-line/White-line/Grandey/Lucretia_Batcheller.html)
+- [Manual sketch of Grandeys and others in VT](./../sketches-mermaid/Manual_sketch_of_Grandeys_and_others_in_VT.html)
 - [Mary Hinsdale](./../people/Merrill-line/Grandey-line/Mary_Hinsdale.html)
 - [Polly Myrick](./../people/Merrill-line/White-line/Grandey/Polly_Myrick.html)
 - [Rachel Lyman](./../people/Merrill-line/Grandey-line/Rachel_Lyman.html)
 - [Silence Brooks](./../people/Merrill-line/Grandey-line/Silence_Brooks.html)
 - [Truman Grandey](./../people/Merrill-line/Grandey-line/Truman_Grandey.html)
+- [William M. Grandey](./../people/Vermont/William_M._Grandey.html)

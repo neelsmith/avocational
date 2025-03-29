@@ -1,0 +1,20 @@
+
+
+
+
+refersto::[Ebenezer White](./../../../../people/Merrill-line/White-line/Ebenezer_White.html)
+Enumeration::[Craftsbury, Orleans, Vermont](./../../../../census-districts/Craftsbury,_Orleans,_Vermont.html) 
+Date::1810-08-06
+Head of family::Eben.r White
+White males under 10:: 
+White males 10-15: 
+White males 16-25::
+White males 26-44::1
+White males 45 and up::
+White females under 10::2
+White females 10-15::
+White females 16-25::1
+White females 26-44::
+White females 45 and up::
+Other free persons::
+Slaves::

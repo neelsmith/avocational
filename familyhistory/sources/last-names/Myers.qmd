@@ -4,4 +4,4 @@ engine: julia
 
 # Myers
 
-- [Helen Myers](./../Helen_Myers.html)
+- [Helen Myers](./../people/Henderson-line/Helen_Myers.html)

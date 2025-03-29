@@ -4,38 +4,12 @@ engine: julia
 
 # Index
 
-- [Adaline_White_1850_census](./Adaline_White_1850_census.html)
-- [Artemas_White_1850_census](./Artemas_White_1850_census.html)
-- [Candace_White_1850_census](./Candace_White_1850_census.html)
-- [Candace_White_1860_census](./Candace_White_1860_census.html)
-- [Cynthia_White_1850_census](./Cynthia_White_1850_census.html)
-- [Frances_E._White_1860_census](./Frances_E._White_1860_census.html)
-- [Francis_E._White_1850_census](./Francis_E._White_1850_census.html)
-- [Francis_E._White_1870_census](./Francis_E._White_1870_census.html)
-- [Friend_White_1850_census](./Friend_White_1850_census.html)
-- [George_White_1850_census](./George_White_1850_census.html)
-- [George_White_1860_census](./George_White_1860_census.html)
-- [Henry_George_White_1840_census](./Henry_George_White_1840_census.html)
-- [Henry_George_White_1850_census](./Henry_George_White_1850_census.html)
-- [Hiram_White_1850_census](./Hiram_White_1850_census.html)
-- [Horatio_N._White_1840_census](./Horatio_N._White_1840_census.html)
-- [Horatio_N._White_1850_census](./Horatio_N._White_1850_census.html)
-- [Horatio_N._White_1860_census](./Horatio_N._White_1860_census.html)
-- [Horatio_N._White_1870_census](./Horatio_N._White_1870_census.html)
-- [Horatio_N._White_1880_census](./Horatio_N._White_1880_census.html)
-- [Lydia_B._White_1850_census](./Lydia_B._White_1850_census.html)
-- [Lydia_Brumley_1850_census](./Lydia_Brumley_1850_census.html)
 - [Moses_Smith_1790_census](./Moses_Smith_1790_census.html)
 - [Moses_Smith_1800_census](./Moses_Smith_1800_census.html)
 - [Susan_White_1880_census](./Susan_White_1880_census.html)
-- [Syrena_White_1850_census](./Syrena_White_1850_census.html)
-- [Syrena_White_1860_census](./Syrena_White_1860_census.html)
-- [Syrena_White_1870_census](./Syrena_White_1870_census.html)
-- [William_E._White_1850_census](./William_E._White_1850_census.html)
 
 
 ## Further documents
 
 
-- [Ebenezer White census](./Ebenezer_White_census/)
 - [Mollie G. White census](./Mollie_G._White_census/)

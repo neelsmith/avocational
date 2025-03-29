@@ -61,7 +61,7 @@ Sources for birth:
 
 | Date | Source | Place | Type |
 | --- | --- | --- | --- |
-| 1801 |  | [Cynthia White 1850 census](./../../../transcriptions/census/White_census/Cynthia_White_1850_census.html) | indirect |
+| 1801 |  | [Cynthia White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Cynthia_White_1850_census.html) | indirect |
 | 1820 |  | [Hiram White family tombstone](./../../../transcriptions/tombstones/Hiram_White_family_tombstone.html) | direct |
 
 Sources for death:
@@ -83,7 +83,7 @@ Sources for children with [Hiram Smith White](./Hiram_Smith_White.html)
 ## All sources for Cynthia Sawyer
 
 
-- [Cynthia White 1850 census](./../../../transcriptions/census/White_census/Cynthia_White_1850_census.html)
+- [Cynthia White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Cynthia_White_1850_census.html)
 - [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
 - [1849-11-18-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-11-18-EW-to-HNW.html)
 - [1850-04-07-HSW-to-HNW](./../../../transcriptions/letters/White_letters/1850-04-07-HSW-to-HNW.html)

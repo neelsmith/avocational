@@ -20,7 +20,7 @@ engine: julia
 ## All sources for Friend Adams White
 
 
-- [Friend White 1850 census](./../../../transcriptions/census/White_census/Friend_White_1850_census.html)
+- [Friend White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Friend_White_1850_census.html)
 - [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
 - [1848-12-20-HGW-to-FAW](./../../../transcriptions/letters/White_letters/1848-12-20-HGW-to-FAW.html)
 - [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)

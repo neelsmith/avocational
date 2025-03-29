@@ -13,7 +13,7 @@ engine: julia
 - [Henderson census](./Henderson_census/)
 - [Merrill census](./Merrill_census/)
 - [Neel census](./Neel_census/)
-- [Panton VT](./Panton_VT/)
+- [Panton Vermont census](./Panton_Vermont_census/)
 - [Rush census](./Rush_census/)
 - [Smith census](./Smith_census/)
 - [White census](./White_census/)

@@ -121,9 +121,9 @@ Sources for children with [Horatio Nelson White](./Horatio_Nelson_White.html)
 ## All sources for Syrena Adams
 
 
-- [Syrena White 1850 census](./../../../transcriptions/census/White_census/Syrena_White_1850_census.html)
-- [Syrena White 1860 census](./../../../transcriptions/census/White_census/Syrena_White_1860_census.html)
-- [Syrena White 1870 census](./../../../transcriptions/census/White_census/Syrena_White_1870_census.html)
+- [Syrena White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Syrena_White_1850_census.html)
+- [Syrena White 1860 census](./../../../transcriptions/census/Panton_Vermont_census/Syrena_White_1860_census.html)
+- [Syrena White 1870 census](./../../../transcriptions/census/Panton_Vermont_census/Syrena_White_1870_census.html)
 - [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
 - [1851-07-27-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-07-27-EW-to-HNW.html)
 - [1851-12-25-EW-to-HNW](./../../../transcriptions/letters/White_letters/1851-12-25-EW-to-HNW.html)

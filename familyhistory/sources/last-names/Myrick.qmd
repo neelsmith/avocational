@@ -4,7 +4,9 @@ engine: julia
 
 # Myrick
 
+- [Barnabas Josiah Myrick](./../people/Vermont/Barnabas_Josiah_Myrick.html)
 - [Hannah Watts](./../people/Merrill-line/Grandey-line/Hannah_Watts.html)
 - [Isabinda Myrick](./../people/Merrill-line/Brigham-line/Isabinda_Myrick.html)
+- [Millicent Russell](./../people/Vermont/Millicent_Russell.html)
 - [Polly Myrick](./../people/Merrill-line/White-line/Grandey/Polly_Myrick.html)
 - [William Myrick](./../people/Merrill-line/Grandey-line/William_Myrick.html)

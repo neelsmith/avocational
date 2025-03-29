@@ -141,7 +141,7 @@ Sources for children with [Ellen Grandey](./../Grandey-line/Ellen_Grandey.html)
 ## All sources for William E. White
 
 
-- [William E. White 1850 census](./../../../transcriptions/census/White_census/William_E._White_1850_census.html)
+- [William E. White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/William_E._White_1850_census.html)
 - [1848-07-02-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1848-07-02-HGW-to-HNW.html)
 - [1849-09-09-EW-to-HNW](./../../../transcriptions/letters/White_letters/1849-09-09-EW-to-HNW.html)
 - [1852-02-16-HGW-to-HNW](./../../../transcriptions/letters/White_letters/1852-02-16-HGW-to-HNW.html)

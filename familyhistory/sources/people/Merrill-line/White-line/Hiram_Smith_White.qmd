@@ -126,7 +126,7 @@ Sources for children with [Cynthia Sawyer](./Cynthia_Sawyer.html)
 ## All sources for Hiram Smith White
 
 
-- [Hiram White 1850 census](./../../../transcriptions/census/White_census/Hiram_White_1850_census.html)
+- [Hiram White 1850 census](./../../../transcriptions/census/Panton_Vermont_census/Hiram_White_1850_census.html)
 - [Hiram S. White in Burlington 1861 directory](./../../../transcriptions/city-directories/Hiram_S._White_in_Burlington_1861_directory.html)
 - [Hiram S. White in Burlington 1863 directory](./../../../transcriptions/city-directories/Hiram_S._White_in_Burlington_1863_directory.html)
 - [Artemas White freedmans bank record 2894](./../../../transcriptions/freedmans-bank-records/Artemas_White_freedmans_bank_record_2894.html)
