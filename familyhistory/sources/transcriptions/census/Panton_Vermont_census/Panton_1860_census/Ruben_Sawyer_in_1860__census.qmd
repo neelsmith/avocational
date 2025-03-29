@@ -1,0 +1,29 @@
+# Ruben Sawyer in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 744](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_744.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::744
+
+Family::75
+
+Name::Ruben Sawyer
+
+Age::62
+
+Sex::M
+
+Race::
+
+Occupation::Bap. Clergyman
+
+Real estate value::
+
+Birthplace::

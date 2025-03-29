@@ -1,0 +1,29 @@
+# Ichabod Sherman in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 690](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_690.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-16
+
+House::690
+
+Family::19
+
+Name::Ichabod Sherman
+
+Age::36
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::13500
+
+Birthplace::2300

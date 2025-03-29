@@ -1,0 +1,29 @@
+# Betsy Pond in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 746](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_746.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::746
+
+Family::77
+
+Name::Betsy Pond
+
+Age::65
+
+Sex::F
+
+Race::
+
+Occupation::
+
+Real estate value::
+
+Birthplace::Vt

@@ -1,0 +1,29 @@
+# Ann F. Hays in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 50](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_50.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-16
+
+House::50
+
+Family::51
+
+Name::Ann F. Hays
+
+Age::37
+
+Sex::F
+
+Race::
+
+Occupation::
+
+Real estate value::200
+
+Birthplace::Vermont

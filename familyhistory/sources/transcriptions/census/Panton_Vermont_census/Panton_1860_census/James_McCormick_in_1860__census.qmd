@@ -1,0 +1,29 @@
+# James McCormick in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 704](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_704.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-18
+
+House::704
+
+Family::33
+
+Name::James McCormick
+
+Age::45
+
+Sex::M
+
+Race::
+
+Occupation::Day Laborer
+
+Real estate value::200
+
+Birthplace::30

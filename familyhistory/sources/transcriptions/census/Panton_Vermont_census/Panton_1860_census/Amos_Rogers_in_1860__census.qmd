@@ -1,0 +1,29 @@
+# Amos Rogers in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 713](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_713.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-18
+
+House::713
+
+Family::42
+
+Name::Amos Rogers
+
+Age::26
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::
+
+Birthplace::300

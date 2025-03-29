@@ -1,0 +1,29 @@
+# Patrick Ryan in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 757](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_757.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::757
+
+Family::88
+
+Name::Patrick Ryan
+
+Age::38
+
+Sex::M
+
+Race::
+
+Occupation::Laborer
+
+Real estate value::420
+
+Birthplace::40

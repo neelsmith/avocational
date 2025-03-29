@@ -1,0 +1,29 @@
+# Suson B. Spaulding in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 57](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_57.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-16
+
+House::57
+
+Family::58
+
+Name::Suson B. Spaulding
+
+Age::33
+
+Sex::F
+
+Race::
+
+Occupation::
+
+Real estate value::
+
+Birthplace::Vermont

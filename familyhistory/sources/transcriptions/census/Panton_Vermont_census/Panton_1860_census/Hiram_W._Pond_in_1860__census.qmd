@@ -1,0 +1,29 @@
+# Hiram W. Pond in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 743](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_743.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::743
+
+Family::74
+
+Name::Hiram W. Pond
+
+Age::60
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::2800
+
+Birthplace::300

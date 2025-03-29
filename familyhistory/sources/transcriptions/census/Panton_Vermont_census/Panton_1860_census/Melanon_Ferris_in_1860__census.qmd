@@ -1,0 +1,29 @@
+# Melanon Ferris in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 709](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_709.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-18
+
+House::709
+
+Family::38
+
+Name::Melanon Ferris
+
+Age::63
+
+Sex::M
+
+Race::
+
+Occupation::Laborer
+
+Real estate value::300
+
+Birthplace::30

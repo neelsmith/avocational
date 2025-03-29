@@ -1,0 +1,29 @@
+# Norman Towley in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 745](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_745.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::745
+
+Family::76
+
+Name::Norman Towley
+
+Age::46
+
+Sex::M
+
+Race::
+
+Occupation::Physician
+
+Real estate value::1500
+
+Birthplace::1000

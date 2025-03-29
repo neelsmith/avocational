@@ -1,0 +1,29 @@
+# George Pillsbury in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 719](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_719.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-18
+
+House::719
+
+Family::48
+
+Name::George Pillsbury
+
+Age::25
+
+Sex::M
+
+Race::
+
+Occupation::Carpenter
+
+Real estate value::
+
+Birthplace::

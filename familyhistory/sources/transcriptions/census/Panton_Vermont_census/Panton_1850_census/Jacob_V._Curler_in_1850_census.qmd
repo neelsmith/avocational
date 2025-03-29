@@ -1,0 +1,29 @@
+# Jacob V. Curler in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 47](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_47.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-16
+
+House::47
+
+Family::48
+
+Name::Jacob V. Curler
+
+Age::92
+
+Sex::M
+
+Race::
+
+Occupation::None
+
+Real estate value::2000
+
+Birthplace::New York

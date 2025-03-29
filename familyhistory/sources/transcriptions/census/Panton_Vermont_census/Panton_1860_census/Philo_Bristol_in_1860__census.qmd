@@ -1,0 +1,29 @@
+# Philo Bristol in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 764](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_764.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::764
+
+Family::95
+
+Name::Philo Bristol
+
+Age::45
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::3280
+
+Birthplace::450

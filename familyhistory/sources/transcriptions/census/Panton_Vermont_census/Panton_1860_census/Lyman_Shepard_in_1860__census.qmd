@@ -1,0 +1,29 @@
+# Lyman Shepard in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 719](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_719.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-18
+
+House::719
+
+Family::47
+
+Name::Lyman Shepard
+
+Age::65
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::2160
+
+Birthplace::250

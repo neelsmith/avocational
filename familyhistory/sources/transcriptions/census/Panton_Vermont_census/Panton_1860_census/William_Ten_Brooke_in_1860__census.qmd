@@ -1,0 +1,29 @@
+# William Ten Brooke in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 724](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_724.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-18
+
+House::724
+
+Family::53
+
+Name::William Ten Brooke
+
+Age::28
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::5600
+
+Birthplace::500

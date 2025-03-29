@@ -1,0 +1,29 @@
+# Samuel Tebo in 1860 census
+
+
+
+household::[Panton, Addison, Vermont, 1860, household 738](./../../../../census-households/VT-households-1860/Panton,_Addison,_Vermont,_1860,_household_738.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1860-06-19
+
+House::738
+
+Family::69
+
+Name::Samuel Tebo
+
+Age::24
+
+Sex::M
+
+Race::
+
+Occupation::Laborer
+
+Real estate value::
+
+Birthplace::

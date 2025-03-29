@@ -1,0 +1,29 @@
+# Enoch Kent in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 67](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_67.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-16
+
+House::67
+
+Family::68
+
+Name::Enoch Kent
+
+Age::22
+
+Sex::M
+
+Race::
+
+Occupation::Farmer
+
+Real estate value::1000
+
+Birthplace::Vermont
