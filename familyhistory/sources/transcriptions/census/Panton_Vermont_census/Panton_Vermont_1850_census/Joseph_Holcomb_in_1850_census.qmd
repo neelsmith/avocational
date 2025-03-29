@@ -1,0 +1,29 @@
+# Joseph Holcomb in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 14](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_14.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-15
+
+House::14
+
+Family::14
+
+Name::Joseph Holcomb
+
+Age::42
+
+Sex::M
+
+Race::
+
+Occupation::Laborer
+
+Real estate value::
+
+Birthplace::Vermont

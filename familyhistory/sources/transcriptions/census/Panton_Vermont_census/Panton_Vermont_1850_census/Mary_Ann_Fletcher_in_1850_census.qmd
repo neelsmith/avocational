@@ -1,0 +1,29 @@
+# Mary Ann Fletcher in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 86](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_86.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-17
+
+House::86
+
+Family::87
+
+Name::Mary Ann Fletcher
+
+Age::30
+
+Sex::F
+
+Race::
+
+Occupation::
+
+Real estate value::
+
+Birthplace::Vermont

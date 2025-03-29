@@ -1,0 +1,29 @@
+# Joseph Little Jr in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 31](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_31.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-15
+
+House::31
+
+Family::32
+
+Name::Joseph Little Jr
+
+Age::4
+
+Sex::M
+
+Race::
+
+Occupation::
+
+Real estate value::
+
+Birthplace::Canada

@@ -1,0 +1,29 @@
+# Joannah Spencer in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 90](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_90.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-17
+
+House::90
+
+Family::91
+
+Name::Joannah Spencer
+
+Age::76
+
+Sex::F
+
+Race::
+
+Occupation::
+
+Real estate value::
+
+Birthplace::Vermont
