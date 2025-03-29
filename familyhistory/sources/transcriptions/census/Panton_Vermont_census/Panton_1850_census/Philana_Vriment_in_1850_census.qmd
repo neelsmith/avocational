@@ -1,0 +1,29 @@
+# Philana Vriment in 1850 census
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 87](./../../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_87.html)
+
+## Transcription
+
+Enumeration::[Panton, Addison, Vermont](./../../../../census-districts/Panton,_Addison,_Vermont.html)
+
+Date::1850-10-17
+
+House::87
+
+Family::88
+
+Name::Philana Vriment
+
+Age::36
+
+Sex::F
+
+Race::
+
+Occupation::
+
+Real estate value::
+
+Birthplace::Canada
