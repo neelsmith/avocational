@@ -1,0 +1,18 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Garret Course
+
+
+## Biographical summary
+
+
+*born* ? : *died* ?
+
+**Mother**: ?
+
+**Father**: ?

@@ -1,0 +1,18 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Guy Holcomb
+
+
+## Biographical summary
+
+
+*born* ? : *died* ?
+
+**Mother**: ?
+
+**Father**: ?

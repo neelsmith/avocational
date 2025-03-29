@@ -1,0 +1,18 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Joseph Little
+
+
+## Biographical summary
+
+
+*born* ? : *died* ?
+
+**Mother**: ?
+
+**Father**: ?

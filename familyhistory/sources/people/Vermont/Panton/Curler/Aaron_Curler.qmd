@@ -1,0 +1,18 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Aaron Curler
+
+
+## Biographical summary
+
+
+*born* ? : *died* ?
+
+**Mother**: ?
+
+**Father**: ?

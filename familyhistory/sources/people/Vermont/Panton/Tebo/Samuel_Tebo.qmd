@@ -1,0 +1,18 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Samuel Tebo
+
+
+## Biographical summary
+
+
+*born* ? : *died* ?
+
+**Mother**: ?
+
+**Father**: ?
