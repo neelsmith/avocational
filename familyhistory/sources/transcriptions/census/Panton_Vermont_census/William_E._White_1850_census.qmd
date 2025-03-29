@@ -1,0 +1,19 @@
+
+
+
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::October 15, 1850
+House::30
+Family::31
+Name::William E. White
+Age::14
+Sex::M
+Race::
+Occupation::
+Real estate value::
+Birthplace::Vermont
+Married 1850::
+Attended school::Yes
+Cannot read and write::
+Disability::

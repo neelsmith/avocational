@@ -1,0 +1,18 @@
+ 
+
+refersto::[Lydia R. Brumley](./../../../people/Merrill-line/White-line/Lydia_R._Brumley.html)
+Enumeration::[Chesterfield K, Essex, New York](./../../../census-districts/Chesterfield_K,_Essex,_New_York.html)
+Date::1850-09-19
+House::3378
+Family::3657
+Name::Lydia White
+Age::49
+Sex::f
+Race::
+Occupation::
+Real estate value::
+Birthplace::NY
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

@@ -1,0 +1,27 @@
+ 
+
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::July 9, 1870
+
+House::50
+Family::49
+Name::Francis E. White
+Age::36
+Sex::F
+Race::W
+Occupation::At home
+Real estate value::
+Personal estate value::
+Birthplace::Vermont
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::
+Male 21 and up vote denied::
+

@@ -1,0 +1,19 @@
+
+
+
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+Enumeration::[Burlington, Chittenden, Vermont](./../../../census-districts/Burlington,_Chittenden,_Vermont.html)
+Date::August 20, 1810
+House::525
+Family::694
+Name::Adeline White
+Age::42
+Sex::F
+Race::
+Occupation::
+Real estate vaue::
+Birthplace::Vt.
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

@@ -1,0 +1,23 @@
+ 
+
+
+
+refersto::[Henry George White 2](./../../../people/Merrill-line/White-line/Henry_George_White_2.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::June 18, 1860
+House::122
+Family::51
+Name::George White
+Age::22
+Sex::M
+Race::
+Occupation::
+Real estate value::
+Personal estate value::
+Birthplace::Vt.
+Married this year::
+Attended school::
+Cannot read and write::
+Disability::
+
+

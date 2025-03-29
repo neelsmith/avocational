@@ -1,0 +1,22 @@
+
+
+household::[Panton, Addison, Vermont, 1850, household 30](./../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_30.html)
+
+
+
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::October 15, 1850
+House::30
+Family::31
+Name::Syrena White
+Age::41
+Sex::F
+Race::
+Occupation::
+Real estate vaue::
+Birthplace::Vermont
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

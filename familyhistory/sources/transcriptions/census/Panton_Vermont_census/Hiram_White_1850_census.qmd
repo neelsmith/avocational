@@ -1,0 +1,18 @@
+
+
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+Enumeration::[Burlington, Chittenden, Vermont](./../../../census-districts/Burlington,_Chittenden,_Vermont.html)
+Date::August 20, 1810
+House::525
+Family::694
+Name::Hiram White
+Age::33
+Sex::M
+Race::
+Occupation::Grocery
+Real estate vaue::
+Birthplace::Vt.
+Married 1850::
+Attended school::
+Cannot read and write::
+Disability::

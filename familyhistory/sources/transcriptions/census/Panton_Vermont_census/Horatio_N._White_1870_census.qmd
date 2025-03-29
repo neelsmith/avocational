@@ -1,0 +1,27 @@
+
+ 
+
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::July 9, 1870
+
+House::50
+Family::49
+Name::Horatio N. White
+Age::68
+Sex::M
+Race::W
+Occupation::Farmer
+Real estate value::13600
+Personal estate value::3500
+Birthplace::Vermont
+Father foreign::
+Mother foreign::
+Born this year::
+Married this year::
+Attended school::
+Cannot read::
+Cannot write::
+Disability::
+Male 21 and up::1
+Male 21 and up vote denied::

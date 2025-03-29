@@ -1,0 +1,24 @@
+
+
+
+ 
+
+
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html)
+Date::October 15, 1850
+House::30
+Family::31
+Name::Friend A. White
+Age::17
+Sex::M
+Race::
+Occupation::Farmer
+Real estate vaue::
+Birthplace::Vermont
+Married 1850::
+Attended school::Yes
+Cannot read and write::
+Disability::
+
+

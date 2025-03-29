@@ -1,0 +1,21 @@
+
+
+
+household::[Panton, Addison, Vermont, 1850, household 30](./../../../census-households/VT-households-1850/Panton,_Addison,_Vermont,_1850,_household_30.html)
+
+refersto::[Candace White](./../../../people/Merrill-line/White-line/Candace_White.html)
+Enumeration::[Panton, Addison, Vermont](./../../../census-districts/Panton,_Addison,_Vermont.html) 
+Date::October 15, 1850
+House::30
+Family::31
+Name::Canada White
+Age::8
+Sex::F
+Race::
+Occupation::
+Real estate vaue::
+Birthplace::Vermont
+Married 1850::
+Attended school::Yes
+Cannot read and write::
+Disability::
