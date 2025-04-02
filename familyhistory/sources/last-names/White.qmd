@@ -43,6 +43,8 @@ engine: julia
 - [Mary Ella White](./../people/Merrill-line/White-line/Mary_Ella_White.html)
 - [Mollie Grandey White](./../people/Merrill-line/White-line/Mollie_Grandey_White.html)
 - [Ruth Wilson](./../people/Merrill-line/White-line/Wilson-line/Ruth_Wilson.html)
+- [Samuel White](./../people/Merrill-line/White-line/Samuel_White.html)
+- [Samuel White](./../people/Merrill-line/White-line/Samuel_White.html)
 - [Sarah Maria White](./../people/Merrill-line/White-line/Sarah_Maria_White.html)
 - [Susan D. Winslow](./../people/Merrill-line/White-line/Susan_D._Winslow.html)
 - [Susan Prince](./../people/Merrill-line/White-line/Susan_Prince.html)

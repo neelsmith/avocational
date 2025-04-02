@@ -10,6 +10,7 @@ engine: julia
 - [Duncan_Neel_will](./Duncan_Neel_will.html)
 - [Henry_Euliss_will](./Henry_Euliss_will.html)
 - [Isaac_Newton_Gattis_Sr._will](./Isaac_Newton_Gattis_Sr._will.html)
+- [James_Rice_will](./James_Rice_will.html)
 - [Marmaduke_Vickery_will](./Marmaduke_Vickery_will.html)
 - [Moses_Smith_will](./Moses_Smith_will.html)
 - [Nathaniel_S._Henderson_will](./Nathaniel_S._Henderson_will.html)

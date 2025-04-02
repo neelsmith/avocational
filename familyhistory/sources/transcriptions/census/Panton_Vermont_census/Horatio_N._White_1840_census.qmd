@@ -3,7 +3,7 @@
 
 
 refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-Enumeration::[Addison, Vermont](./../../../census-districts/Addison,_Vermont.html) 
+Enumeration::[[census-districts/Addison, Vermont]] 
 Date::
 Head of family::Horatio N. White
 

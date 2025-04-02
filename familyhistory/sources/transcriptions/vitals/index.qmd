@@ -8,6 +8,7 @@ engine: julia
 - [Anna_Serena_White_death](./Anna_Serena_White_death.html)
 - [Bee_Neel_in_CA_birth_index](./Bee_Neel_in_CA_birth_index.html)
 - [Bee_Neel_in_Social_Security_death_index](./Bee_Neel_in_Social_Security_death_index.html)
+- [Benjamin_White_death](./Benjamin_White_death.html)
 - [Candace_Smith_in_federal_mortality_schedule](./Candace_Smith_in_federal_mortality_schedule.html)
 - [Candace_White_Palmer_death_certificate](./Candace_White_Palmer_death_certificate.html)
 - [Cassie_Green_death_certificate](./Cassie_Green_death_certificate.html)

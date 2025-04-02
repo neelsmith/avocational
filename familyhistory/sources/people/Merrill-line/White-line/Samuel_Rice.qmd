@@ -1,0 +1,23 @@
+---
+engine: julia
+---
+
+
+> *Page automatically generated.*
+
+# Samuel Rice
+
+
+## Biographical summary
+
+
+*born* ? : *died* ?
+
+**Mother**: ?
+
+**Father**: ?
+
+## All sources for Samuel Rice
+
+
+- [James Rice will](./../../../transcriptions/wills/James_Rice_will.html)

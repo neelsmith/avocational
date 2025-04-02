@@ -11,7 +11,7 @@ engine: julia
 ## Biographical summary
 
 
-*born* ? : *died* ?
+*born* ? : *died* 1783-03-18
 
 **Mother**: ?
 
@@ -100,9 +100,28 @@ classDef marriage fill:#ffffff
 
 
 
+## Dated events
+
+
+- 1783-03-18 Death of Benjamin White
+
+
+## Sources for preceding conclusions
+Sources for death:
+
+
+| Date | Source | Type |
+| --- | --- | --- |
+| 1783-03-18 | [Benjamin White death](./../../../transcriptions/vitals/Benjamin_White_death.html) | direct |
+
 Sources for children with [Ruth Wilson](./Wilson-line/Ruth_Wilson.html)
 
 
 - [Ebenezer White birth](./../../../transcriptions/vitals/Ebenezer_White_birth.html)
 
 
+
+## All sources for Benjamin White
+
+
+- [Benjamin White death](./../../../transcriptions/vitals/Benjamin_White_death.html)
