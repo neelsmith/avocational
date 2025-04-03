@@ -2,33 +2,17 @@
 
 
 
-
-
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Candace Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
-refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-
-Refers to without naming George's wife [Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html), Hiram's wife [Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)
-
-
-
-
-
-## Notes
-No envelope.
-
-Torn sheet.
-
 ## Synopsis
 
  
 
-Ebenezer in Burlington writes to Horatio Nelson in Panton.
+> Ebenezer White in Burlington writes to Horatio Nelson White in Panton.
+>
+> Ebenezer updates Horatio Nelson on family news. The family has been isolated because of colera outbreaks.
 
-Ebenezer updates Horatio Nelson on family news. The family has been isolated because of colera outbreaks.
+
+
+
 ## Transcription
 
 
@@ -43,3 +27,24 @@ I thought perhapse you would like to hear from this region So I will write a few
 our best Love to all *tierd* Father 
 
 H.N White Esq
+
+
+## Illustrations
+
+First page: [IMG_3032](./../../../images/White_letters-images/IMG_3032.html) Second page: [IMG_3033](./../../../images/White_letters-images/IMG_3033.html) Final page (half page): [IMG_3034](./../../../images/White_letters-images/IMG_3034.html)
+
+
+
+## Notes
+No envelope.
+
+Torn sheet.
+
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Candace Smith](./../../../people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html)
+refersto::[Adaline White](./../../../people/Merrill-line/White-line/Adaline_White.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
+
+Refers to without naming George's wife [Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html), Hiram's wife [Cynthia Sawyer](./../../../people/Merrill-line/White-line/Cynthia_Sawyer.html)

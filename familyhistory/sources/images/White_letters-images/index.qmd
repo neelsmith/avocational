@@ -4,8 +4,21 @@ engine: julia
 
 # Images in directory `images/White letters-images`
 
+- [IMG 3028](./IMG_3028.html): Letter of Ebenezer White to Friend Adams White, September 9, 1849: front cover with address.
+- [IMG 3029](./IMG_3029.html): Letter of Ebenezer White to Friend Adams White, September 9, 1849: rear cover.
+- [IMG 3030](./IMG_3030.html): Letter of Ebenezer White to Friend Adams White, September 9, 1849: interior with text of letter.
+- [IMG 3031](./IMG_3031.html): Letter of Ebenezer White to Friend Adams White, September 9, 1849: unfolded exterior.
+- [IMG 3032](./IMG_3032.html): Letter of Ebenezer White to Friend Adams White, August 9, 1849: first page.
+- [IMG 3033](./IMG_3033.html): Letter of Ebenezer White to Friend Adams White, August 9, 1849: second page.
+- [IMG 3034](./IMG_3034.html): Letter of Ebenezer White to Friend Adams White, August 9, 1849: final page.
+- [IMG 3045](./IMG_3045.html): Letter of Henry George White to Friend Adams White, December 20, 1848: front cover with address.
+- [IMG 3046](./IMG_3046.html): Letter of Henry George White to Friend Adams White, December 20, 1848: rear cover.
+- [IMG 3047](./IMG_3047.html): Letter of Henry George White to Friend Adams White, December 20, 1848: first preserved page.
+- [IMG 3048](./IMG_3048.html): Letter of Henry George White to Friend Adams White, December 20, 1848: second preserved page.
 - [IMG 3049](./IMG_3049.html): Letter of Henry George White to Horatio Nelson White, July 2, 1848, page 1.
 - [IMG 3050](./IMG_3050.html): Letter of Henry George White to Horatio Nelson White, July 2, 1848, page 2
+- [IMG 3051](./IMG_3051.html): Letter of Henry George White to Horatio Nelson White, July 2, 1848, page 3.
+- [IMG 3052](./IMG_3052.html): Letter of Henry George White to Horatio Nelson White, July 2, 1848, page 4.
 - [IMG 3053](./IMG_3053.html): Letter of Artemas White to Horatio Nelson White, October 31, 1842: cover with address.
 - [IMG 3054](./IMG_3054.html): Letter of Artemas White to Horatio Nelson White, October 31, 1842: back cover with seal, resued for calculations.
 - [IMG 3055](./IMG_3055.html): Letter of Artemas White to Horatio Nelson White, October 31, 1842: unfolded exterior.

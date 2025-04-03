@@ -1,24 +1,14 @@
 
  
 
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
 
-## Notes
-
-
-
-Postmarked Dec. 20, Buffalo. The year "1848" pencilled by a later hand on the envelope is confirmed by the subject, since Henry George also responds directly to an inquiry from Horatio Nelson about the same Dr. Allin in [1848-07-02-HGW-to-HNW](./1848-07-02-HGW-to-HNW.html).
-
-Who is Jewett?
 
 
 ## Synopsis
 
-Henry George White in Buffalo writes to Friend Adams White in Panton. 
-
-Only one sheet of a longer letter is preserved. The surviving two pages (front and back of the sheet) are entirely devoted to a tirade about the same Dr. Allin Horatio Nelson had asked about in July ([1848-07-02-HGW-to-HNW](./1848-07-02-HGW-to-HNW.html)). Henry George considers Allin a fraud, and compares him to Joseph Smith
+> Henry George White in Buffalo writes to Friend Adams White in Panton. 
+>
+> Only one sheet of a longer letter is preserved. The surviving two pages (front and back of the sheet) are entirely devoted to a tirade about the same Dr. Allin Horatio Nelson had asked about in July ([1848-07-02-HGW-to-HNW](./1848-07-02-HGW-to-HNW.html)). Henry George considers Allin a fraud, and compares him to Joseph Smith
 
 
 ## Transcription
@@ -30,3 +20,25 @@ I do not wish to get into any fuss with the aforesaid doctor nor do I like to se
 Jewett is a man of first rate character & was from Midlebury Vermont & is proprietor of the largest & most repectable paper in this city even if it is a Whig paper he is a very good sort of a man withal & likes to see all things done decently & in order
 
 Many men here believe he tells stories of his exploits that been falsity on their face & think all he tells of himself is equaly false as for his time here being worth 50 dollrs per day I do not believe that while here he averaged 50 cts per day & I heer he did not pay all the bills he ought to have done. I am sorry to hear that he could so easily dupe the citisens of my own native state but for all they are sometimes as green as the hills of their own state
+
+
+## Illustrations
+
+
+Front cover: [IMG_3045](./../../../images/White_letters-images/IMG_3045.html) Rear cover: [IMG_3046](./../../../images/White_letters-images/IMG_3046.html)
+
+First preserved page: [IMG_3047](./../../../images/White_letters-images/IMG_3047.html) Second preserved page: [IMG_3048](./../../../images/White_letters-images/IMG_3048.html) 
+
+
+
+
+
+## Notes
+
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Ebenezer White](./../../../people/Merrill-line/White-line/Ebenezer_White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+
+Postmarked Dec. 20, Buffalo. The year "1848" pencilled by a later hand on the envelope is confirmed by the subject, since Henry George also responds directly to an inquiry from Horatio Nelson about the same Dr. Allin in [1848-07-02-HGW-to-HNW](./1848-07-02-HGW-to-HNW.html).
+
+Who is Jewett?
