@@ -4,6 +4,12 @@ engine: julia
 
 # Images in directory `images/White letters-images`
 
+- [IMG 3049](./IMG_3049.html): Letter of Henry George White to Horatio Nelson White, July 2, 1848, page 1.
+- [IMG 3050](./IMG_3050.html): Letter of Henry George White to Horatio Nelson White, July 2, 1848, page 2
+- [IMG 3053](./IMG_3053.html): Letter of Artemas White to Horatio Nelson White, October 31, 1842: cover with address.
+- [IMG 3054](./IMG_3054.html): Letter of Artemas White to Horatio Nelson White, October 31, 1842: back cover with seal, resued for calculations.
+- [IMG 3055](./IMG_3055.html): Letter of Artemas White to Horatio Nelson White, October 31, 1842: unfolded exterior.
+- [IMG 3056](./IMG_3056.html): image
 - [IMG 3057](./IMG_3057.html): Letter of Ebenezer White to Horatio Nelson, July 17, 1842: cover with address.
 - [IMG 3058](./IMG_3058.html): Letter of Ebenezer White to Horatio Nelson, July 17, 1842: rear of cover.
 - [IMG 3059](./IMG_3059.html): Letter of Ebenezer White to Horatio Nelson, July 17, 1842, page 1.

@@ -3,27 +3,12 @@
 
  
 
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
-refersto::[George William White](./../../../people/Merrill-line/White-line/George_William_White.html)
-refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
-refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
-refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
-refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
-refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
-refersto::[Henry George White 2](./../../../people/Merrill-line/White-line/Henry_George_White_2.html)
-refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)
-
-
 
 ## Synopsis
 
-Henry George White in Buffalo writes to Horatio Nelson White in Panton.
-
-Henry George exchanges family news, and presses Horatio Nelson to visit during the upcoming state fair to be held in Buffalo. He responds to a request for information about a Dr. Allin who has recently come to Vermont from Buffalo where he was acquitted in a (malpractice?) trial.
+> Henry George White in Buffalo writes to Horatio Nelson White in Panton.
+>
+> Henry George exchanges family news, and presses Horatio Nelson to visit during the upcoming state fair to be held in Buffalo. He responds to a request for information about a Dr. Allin who has recently come to Vermont from Buffalo where he was acquitted in a (malpractice?) trial.
 
 ## Transcription
 
@@ -70,3 +55,30 @@ I am an advocate of cold water Temperance & they will in most cases promote Heal
 I have about Send to You the usual quantity of writing so shall as usual bid You good bye & may all the choice Blessings of Heaven ever attend You & Yours is the prayer ever of Your Brother Amen 
 
 H.G. White
+
+## Images
+
+Page 1: [IMG_3049](./../../../images/White_letters-images/IMG_3049.html). Page 2: [IMG_3050](./../../../images/White_letters-images/IMG_3050.html) Page 3: [IMG_3051](./../../../IMG_3051.html) Page 4: [IMG_3052](./../../../IMG_3052.html)
+
+
+
+
+
+
+## Notes
+
+
+
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+refersto::[Charles H. White](./../../../people/Merrill-line/White-line/Charles_H._White.html)
+refersto::[George William White](./../../../people/Merrill-line/White-line/George_William_White.html)
+refersto::[Ann Quayle](./../../../people/Merrill-line/White-line/Ann_Quayle.html)
+refersto::[Ann Eliza White](./../../../people/Merrill-line/White-line/Candace-Smith-line/Ann_Eliza_White.html)
+refersto::[William E. White](./../../../people/Merrill-line/White-line/William_E._White.html)
+refersto::[Friend Adams White](./../../../people/Merrill-line/White-line/Friend_Adams_White.html)
+refersto::[Frances E. White](./../../../people/Merrill-line/White-line/Frances_E._White.html)
+refersto::[Henry George White 2](./../../../people/Merrill-line/White-line/Henry_George_White_2.html)
+refersto::[Syrena Adams](./../../../people/Merrill-line/White-line/Syrena_Adams.html)
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Hiram Smith White](./../../../people/Merrill-line/White-line/Hiram_Smith_White.html)

@@ -1,25 +1,13 @@
 
  
 
-refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
-refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
-refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
-
-
-
-## Questions and notes
-
-Who is:
-
-- Dr. Smith
 
 
 ## Synopsis
 
-Artemas in Keeseville, NY, writes to Horatio Nelson in Panton, VT. Artemas dates the letter "9 month 31 day" but the post post mark is *Oct* 31, 1842.
-
-
-Artemas writes to arrange delivery of three kegs of nails to Horatio Nelson, and incidentally reports the death of an infant child in his family due to sickness, as well as eight victims in the collapse of a suspension bridge.
+>Artemas in Keeseville, NY, writes to Horatio Nelson in Panton, VT. Artemas dates the letter "9 month 31 day" but the post mark is *Oct* 31, 1842.
+>
+> Artemas writes to arrange delivery of three kegs of nails to Horatio Nelson, and incidentally reports the death of an infant child in his family due to sickness, as well as eight victims in the collapse of a suspension bridge.
 
 # Transcription
 
@@ -33,3 +21,21 @@ i have on hand your nails 3 Kegs and if you will direct me whom to send them i w
 good by for this time Give my best respecks to those who you have in charge with my families
 
 Artemas
+
+
+## Illustrations
+
+Front cover: [IMG_3053](./../../../images/White_letters-images/IMG_3053.html) Back cover: [IMG_3054](./../../../images/White_letters-images/IMG_3054.html) Unfolded exterior: [IMG_3055](./../../../images/White_letters-images/IMG_3055.html)
+
+Interior with text of letter: [IMG_3056](./../../../images/White_letters-images/IMG_3056.html)
+
+
+## Questions and notes
+
+refersto::[Artemas White](./../../../people/Merrill-line/White-line/Artemas_White.html)
+refersto::[Horatio Nelson White](./../../../people/Merrill-line/White-line/Horatio_Nelson_White.html)
+refersto::[Henry George White](./../../../people/Merrill-line/White-line/Henry_George_White.html)
+
+
+
+Who is "Dr. Smith"?
