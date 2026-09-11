@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Kemball
 
 - [Hannah Kemball](./../people/Henderson-line/Ayers-line/Hannah_Kemball.html)

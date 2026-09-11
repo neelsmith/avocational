@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Dubois
 
 - [Barent Dubois](./../people/Henderson-line/Dubois-line/Barent_Dubois.html)

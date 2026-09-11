@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Grout
 
 - [Joseph Grout](./../people/Joseph_Grout.html)

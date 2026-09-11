@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Howard
 
 - [Bertha Kellner](./../people/Neel-line/Bertha_Kellner.html)

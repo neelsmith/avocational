@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Warrick
 
 - [Bell Starr](./../people/Neel-line/Bell_Starr.html)

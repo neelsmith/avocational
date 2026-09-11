@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Images in directory `images/maps`
 
 - [Addison County VT 1857](./Addison_County_VT_1857.html): Map of Addison County in 1857.

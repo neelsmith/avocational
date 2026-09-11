@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hart
 
 - [James Hart](./../people/Merrill-line/James_Hart.html)

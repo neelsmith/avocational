@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Harvey
 
 - [Amy Anna Harvey](./../people/Henderson-line/Ayers-line/Amy_Anna_Harvey.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Spivey
 
 - [Celah Spivey](./../people/Randolph_county_lines/Celah_Spivey.html)

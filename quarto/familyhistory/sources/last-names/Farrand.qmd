@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Farrand
 
 - [Bethuel Farrand](./../people/Merrill-line/White-line/Grandey/Bethuel_Farrand.html)

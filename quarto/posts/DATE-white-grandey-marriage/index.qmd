@@ -1,6 +1,5 @@
 ---
 title: "Edward White and Ellen Grandey"
-engine: julia
 description: "Documents and inferences."
 author:
   - name: Neel Smith

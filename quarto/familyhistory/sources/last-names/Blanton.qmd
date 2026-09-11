@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Blanton
 
 - [George Blanton](./../people/Neel-line/Blanton-line/George_Blanton.html)

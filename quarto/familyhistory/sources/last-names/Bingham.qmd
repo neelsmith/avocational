@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Bingham
 
 - [Caroline Bingham](./../people/Randolph_county_lines/Caroline_Bingham.html)

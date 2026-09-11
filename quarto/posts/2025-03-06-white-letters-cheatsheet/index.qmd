@@ -1,6 +1,5 @@
 ---
 title: "A cheatsheet for reading the White family letters"
-engine: julia
 description: "A quick guide to the three generations of family names appearing in the White letters."
 author:
   - name: Neel Smith

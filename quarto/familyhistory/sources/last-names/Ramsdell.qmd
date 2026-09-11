@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Ramsdell
 
 - [Elizabeth Perkins](./../people/Henderson-line/Elizabeth_Perkins.html)

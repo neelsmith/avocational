@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Thompson
 
 - [Ann Nancy Thompson](./../people/Gattis-line/Green-line/Thompson-line/Ann_Nancy_Thompson.html)

@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Frank H. Randall

@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Candace M. White

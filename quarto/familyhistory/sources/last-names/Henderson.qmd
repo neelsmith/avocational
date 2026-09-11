@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Henderson
 
 - [@cutter_1910](./../sources-zotero/@cutter_1910.html)

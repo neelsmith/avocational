@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # King
 
 - [Mary Patricia King](./../people/Gattis-line/Mary_Patricia_King.html)

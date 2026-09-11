@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Ayers
 
 - [Abygaill Fellows](./../people/Henderson-line/Ayers-line/Abygaill_Fellows.html)

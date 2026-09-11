@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Bearden
 
 - [Argyle Bearden](./../people/by-marriage/Argyle_Bearden.html)

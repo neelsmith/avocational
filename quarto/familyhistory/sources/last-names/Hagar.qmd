@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hagar
 
 - [Susannah Hagar](./../people/Susannah_Hagar.html)

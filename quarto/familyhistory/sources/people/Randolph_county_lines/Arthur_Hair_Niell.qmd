@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Arthur Hair Niell

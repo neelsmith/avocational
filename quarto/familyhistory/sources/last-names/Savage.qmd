@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Savage
 
 - [Helen Merrill](./../people/Merrill-line/Helen_Merrill.html)

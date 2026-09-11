@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Cheatwood
 
 - [Chloe Cheatwood](./../people/Smith-line/Chloe_Cheatwood.html)

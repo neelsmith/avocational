@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Campbell
 
 - [Sarah Campbell](./../people/Neel-line/Blanton-line/Sarah_Campbell.html)

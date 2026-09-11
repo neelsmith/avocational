@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Rediat
 
 - [Ann Rediat](./../people/Henderson-line/Rediat-line/Ann_Rediat.html)

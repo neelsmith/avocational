@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Bigelow
 
 - [Jerusha Bigelow](./../people/Henderson-line/Mathis-line/Jerusha_Bigelow.html)

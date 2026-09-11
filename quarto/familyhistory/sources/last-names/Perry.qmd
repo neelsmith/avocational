@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Perry
 
 - [Ebenezer Perry](./../people/Merrill-line/Perry-line/Ebenezer_Perry.html)

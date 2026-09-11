@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # White
 
 - [Adaline White](./../people/Merrill-line/White-line/Adaline_White.html)

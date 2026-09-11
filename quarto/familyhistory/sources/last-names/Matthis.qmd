@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Matthis
 
 - [Elizabeth Baldwin](./../people/Henderson-line/Mathis-line/Elizabeth_Baldwin.html)

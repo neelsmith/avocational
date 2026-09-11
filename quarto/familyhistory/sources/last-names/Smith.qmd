@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Smith
 
 - [Abigail Smith](./../people/Vermont/Abigail_Smith.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Witt
 
 - [Elizabeth Witt](./../people/Henderson-line/Stewart-line/Elizabeth_Witt.html)

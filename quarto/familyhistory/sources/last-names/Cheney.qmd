@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Cheney
 
 - [Margaret Cheney](./../people/Merrill-line/White-line/Candace-Smith-line/Margaret_Cheney.html)

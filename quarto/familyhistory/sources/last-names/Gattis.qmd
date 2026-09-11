@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Gattis
 
 - [Aliene Gattis](./../people/Gattis-line/Aliene_Gattis.html)

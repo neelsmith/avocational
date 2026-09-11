@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Bragg
 
 - [Horace Bragg](./../people/Henderson-line/Horace_Bragg.html)

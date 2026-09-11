@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hix
 
 ::: {.callout-caution}

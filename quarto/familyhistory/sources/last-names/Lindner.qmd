@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Lindner
 
 - [Elizabeth Eichler](./../people/Lindner-line/Elizabeth_Eichler.html)

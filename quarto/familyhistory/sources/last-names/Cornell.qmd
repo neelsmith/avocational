@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Cornell
 
 - [Ruth Cornell](./../people/Henderson-line/Carpenter-line/Ruth_Cornell.html)

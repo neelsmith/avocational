@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Fogelman
 
 - [Anna Margaretha Fogelman](./../people/Gattis-line/Shofner-line/Anna_Margaretha_Fogelman.html)

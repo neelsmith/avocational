@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Witherell
 
 - [James Witherell](./../people/Merrill-line/James_Witherell.html)

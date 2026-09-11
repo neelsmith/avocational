@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Barker
 
 - [Alex Barker](./../people/Rush-line/Alex_Barker.html)

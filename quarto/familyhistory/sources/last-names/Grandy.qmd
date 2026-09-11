@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Grandy
 
 - [Anna Smith](./../people/Vermont/Anna_Smith.html)

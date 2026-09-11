@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Lassiter
 
 - [Aaron Lassiter](./../people/Randolph_county_lines/Lassiter/Aaron_Lassiter.html)

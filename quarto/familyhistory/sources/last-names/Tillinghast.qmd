@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Tillinghast
 
 - [Ann Tillinghast](./../people/Henderson-line/Tillinghast-line/Ann_Tillinghast.html)

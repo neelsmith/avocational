@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Wood
 
 - [Holly Wood](./../people/Vermont/Holly_Wood.html)

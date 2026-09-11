@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Graves
 
 - [Elijah Graves](./../people/Vermont/Elijah_Graves.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Images in directory `images/White letters-images`
 
 - [IMG 3028](./IMG_3028.html): Letter of Ebenezer White to Friend Adams White, September 9, 1849: front cover with address.

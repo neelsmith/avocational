@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Moore
 
 - [Dorothy Moore](./../people/Merrill-line/Woodis-line/Dorothy_Moore.html)

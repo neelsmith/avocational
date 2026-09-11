@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hicks
 
 - [Frances Hix](./../people/Randolph_county_lines/Hicks/Frances_Hix.html)

@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Pardon Tillinghast 1718-1810

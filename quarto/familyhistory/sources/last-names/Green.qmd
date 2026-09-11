@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Green
 
 - [Cassie Green](./../people/Gattis-line/Green-line/Cassie_Green.html)

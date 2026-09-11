@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Ellard
 
 - [James K. Ellard](./../people/Neel-line/James_K._Ellard.html)

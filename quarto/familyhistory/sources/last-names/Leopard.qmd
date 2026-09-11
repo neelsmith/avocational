@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Leopard
 
 - [Claude J. Leopard](./../people/Californians/Claude_J._Leopard.html)

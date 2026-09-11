@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Randall
 
 - [Frank H. Randall](./../people/Merrill-line/White-line/Frank_H._Randall.html)

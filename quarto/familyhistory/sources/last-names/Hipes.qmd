@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hipes
 
 - [Apollonia Abigail Wamser](./../people/Smith-line/Apollonia_Abigail_Wamser.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # McCrery
 
 - [Frances Houston](./../people/Smith-line/Frances_Houston.html)
