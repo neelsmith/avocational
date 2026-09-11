@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Images in directory `images/Vermont locations-images`
 
 

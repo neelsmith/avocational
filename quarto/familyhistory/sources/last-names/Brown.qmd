@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Brown
 
 - [Abraham Brown](./../people/Merrill-line/White-line/Candace-Smith-line/Abraham_Brown.html)

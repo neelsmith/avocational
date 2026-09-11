@@ -1,6 +1,5 @@
 ---
 title: "Introducing Ebenezer White"
-engine: julia
 description: "The collection of White family letters starts with Ebenezer."
 author:
   - name: Neel Smith

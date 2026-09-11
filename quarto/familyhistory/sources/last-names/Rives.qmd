@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Rives
 
 - [Mary Frances Smith](./../people/Smith-line/Mary_Frances_Smith.html)

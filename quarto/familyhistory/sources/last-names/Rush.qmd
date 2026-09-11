@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Rush
 
 - [Absalom Rush](./../people/Rush-line/Absalom_Rush.html)

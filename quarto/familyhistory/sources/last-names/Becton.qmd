@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Becton
 
 - [Nancy Becton Hodge](./../people/Neel-line/Nancy_Becton_Hodge.html)

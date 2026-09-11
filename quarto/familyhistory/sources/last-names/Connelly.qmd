@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Connelly
 
 - [Elizabeth Connelly](./../people/Gattis-line/Elizabeth_Connelly.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Vickery
 
 - [Dorcas Vickery](./../people/Randolph_county_lines/Vickery/Dorcas_Vickery.html)

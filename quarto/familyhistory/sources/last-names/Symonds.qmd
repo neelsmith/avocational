@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Symonds
 
 - [Mark Symonds](./../people/Henderson-line/Symonds-line/Mark_Symonds.html)

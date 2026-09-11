@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Franklin L. Johnson

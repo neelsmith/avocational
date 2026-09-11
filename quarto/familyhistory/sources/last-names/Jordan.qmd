@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Jordan
 
 - [Stephen Jordan](./../people/Merrill-line/Stephen_Jordan.html)

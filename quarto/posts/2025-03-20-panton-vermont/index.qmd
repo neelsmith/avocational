@@ -1,6 +1,5 @@
 ---
 title: "Panton, Vermont: background to reading the White letters"
-engine: julia
 description: "Combining census data with nineteenth-century maps provides context for reading the White letters."
 author:
   - name: Neel Smith

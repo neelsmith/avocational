@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hopkins
 
 - [Honor Hopkins](./../people/Henderson-line/Tillinghast-line/Honor_Hopkins.html)

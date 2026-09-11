@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Ecker
 
 - [Catharine Ecker](./../people/Vermont/Catharine_Ecker.html)

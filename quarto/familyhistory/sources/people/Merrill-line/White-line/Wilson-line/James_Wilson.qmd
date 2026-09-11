@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # James Wilson

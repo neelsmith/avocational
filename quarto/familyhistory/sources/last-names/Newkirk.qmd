@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Newkirk
 
 - [Elizabeth Newkirk Dubois](./../people/Henderson-line/Dubois-line/Elizabeth_Newkirk_Dubois.html)

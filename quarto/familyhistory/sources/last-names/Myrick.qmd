@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Myrick
 
 - [Barnabas Josiah Myrick](./../people/Vermont/Barnabas_Josiah_Myrick.html)

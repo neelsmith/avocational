@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Shepherd
 
 - [Martha Shepherd](./../people/Merrill-line/White-line/Martha_Shepherd.html)

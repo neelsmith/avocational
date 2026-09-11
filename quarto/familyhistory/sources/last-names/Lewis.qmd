@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Lewis
 
 - [Drewry Lewis](./../people/Rush-line/Drewry_Lewis.html)

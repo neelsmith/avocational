@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Reynolds
 
 - [Anna Crandall](./../people/Henderson-line/Tillinghast-line/Anna_Crandall.html)

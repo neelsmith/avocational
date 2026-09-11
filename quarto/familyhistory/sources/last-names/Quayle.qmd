@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Quayle
 
 - [Ann Quayle](./../people/Merrill-line/White-line/Ann_Quayle.html)

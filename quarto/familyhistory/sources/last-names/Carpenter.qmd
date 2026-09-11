@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Carpenter
 
 - [Daniel Carpenter 1](./../people/Henderson-line/Carpenter-line/Daniel_Carpenter_1.html)

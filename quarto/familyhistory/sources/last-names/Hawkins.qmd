@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hawkins
 
 - [Asa Perry Hawkins](./../people/Vermont/Asa_Perry_Hawkins.html)

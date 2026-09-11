@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Lowe
 
 - [Mary Jane Rush](./../people/Rush-line/Mary_Jane_Rush.html)

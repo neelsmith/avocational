@@ -1,6 +1,5 @@
 ---
 title: "Real estate in 19th-century Panton, Vermont"
-engine: julia
 description: "SUMMARY."
 author:
   - name: Neel Smith

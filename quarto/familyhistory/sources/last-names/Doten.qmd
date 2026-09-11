@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Doten
 
 - [Leonard Doten](./../people/Merrill-line/White-line/Leonard_Doten.html)

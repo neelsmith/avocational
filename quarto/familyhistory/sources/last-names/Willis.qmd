@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Willis
 
 - [Jonathan Willis](./../people/Merrill-line/Willis-line/Jonathan_Willis.html)

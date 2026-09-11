@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Sawyer
 
 - [Cynthia Sawyer](./../people/Merrill-line/White-line/Cynthia_Sawyer.html)

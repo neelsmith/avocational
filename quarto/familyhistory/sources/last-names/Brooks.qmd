@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Brooks
 
 - [Joseph Brooks](./../people/Merrill-line/Grandey-line/Joseph_Brooks.html)

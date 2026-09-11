@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Barton
 
 - [A. Barton](./../people/Neel-line/A._Barton.html)

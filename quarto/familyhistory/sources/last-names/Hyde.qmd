@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hyde
 
 - [Mary Hyde](./../people/Merrill-line/White-line/Candace-Smith-line/Mary_Hyde.html)

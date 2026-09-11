@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # North
 
 - [Hannah Woodford](./../people/Merrill-line/Hannah_Woodford.html)

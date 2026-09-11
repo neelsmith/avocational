@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Page
 
 - [Phebe Page](./../people/Phebe_Page.html)

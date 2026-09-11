@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Gage
 
 - [Betsey Hawkins](./../people/Vermont/Betsey_Hawkins.html)

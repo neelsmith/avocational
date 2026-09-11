@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Odlin
 
 - [Hannah Odlin](./../people/Merrill-line/Dyers/Hannah_Odlin.html)

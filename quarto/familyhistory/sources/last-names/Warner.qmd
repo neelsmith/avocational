@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Warner
 
 - [Isaac Warner](./../people/Merrill-line/Grandey-line/Isaac_Warner.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Stewart
 
 - [Alixander Stewart](./../people/Henderson-line/Stewart-line/Alixander_Stewart.html)

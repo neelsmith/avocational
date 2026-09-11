@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Childers
 
 - [Abraham Childers Jr.](./../people/Smith-line/Abraham_Childers_Jr..html)

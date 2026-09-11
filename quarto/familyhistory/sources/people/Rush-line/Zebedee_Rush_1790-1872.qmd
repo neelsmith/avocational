@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Zebedee Rush 1790-1872

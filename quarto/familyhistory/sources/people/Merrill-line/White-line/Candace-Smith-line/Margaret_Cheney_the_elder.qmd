@@ -1,6 +1,3 @@
----
-engine: julia
----
 
 
 # Margaret Cheney the elder

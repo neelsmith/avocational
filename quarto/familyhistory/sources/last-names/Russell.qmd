@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Russell
 
 - [Millicent Russell](./../people/Vermont/Millicent_Russell.html)

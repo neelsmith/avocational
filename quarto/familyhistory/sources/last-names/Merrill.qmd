@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Merrill
 
 - [Aaron Merrill](./../people/Merrill-line/Aaron_Merrill.html)

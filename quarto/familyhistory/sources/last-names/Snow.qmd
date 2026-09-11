@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Snow
 
 - [Abigail Brigham](./../people/Henderson-line/Snow-line/Abigail_Brigham.html)

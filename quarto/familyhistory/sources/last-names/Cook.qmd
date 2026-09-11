@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Cook
 
 - [Catherine Cook](./../people/Gattis-line/Shofner-line/Catherine_Cook.html)

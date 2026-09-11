@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Allen
 
 - [Lucretia Putnam](./../people/Vermont/Lucretia_Putnam.html)

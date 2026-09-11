@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Wiliams
 
 - [David Williams](./../people/Gattis-line/Green-line/Williams-line/David_Williams.html)

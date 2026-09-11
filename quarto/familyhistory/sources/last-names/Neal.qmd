@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Neal
 
 ::: {.callout-caution}

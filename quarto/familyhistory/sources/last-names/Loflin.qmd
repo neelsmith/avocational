@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Loflin
 
 - [Cornelius Loflin](./../people/Randolph_county_lines/Loflin/Cornelius_Loflin.html)

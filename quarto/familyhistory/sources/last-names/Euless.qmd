@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Euless
 
 - [Adam Euless](./../people/Gattis-line/Euless-line/Adam_Euless.html)

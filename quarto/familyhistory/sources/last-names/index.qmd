@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Last names
 
 - [Adams](./Adams.html)

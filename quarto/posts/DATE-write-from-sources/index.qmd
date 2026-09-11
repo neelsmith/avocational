@@ -1,6 +1,5 @@
 ---
 title: "Writing from sources"
-engine: julia
 description: "Writing from sources means publishing transcribed and documented sources first."
 author:
   - name: Neel Smith

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Johnson
 
 - [Franklin L. Johnson](./../people/Randolph_county_lines/Franklin_L._Johnson.html)

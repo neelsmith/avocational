@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Neel
 
 - [Abner Duncan Neel](./../people/Neel-line/Abner_Duncan_Neel.html)

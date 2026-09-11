@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Stagg
 
 - [Elizabeth Stagg](./../people/Merrill-line/White-line/Elizabeth_Stagg.html)

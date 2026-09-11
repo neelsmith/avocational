@@ -1,6 +1,5 @@
 ---
 title: "Introducing the White letters project"
-engine: julia
 description: "I'm starting to study a collection of unpublished letters from the nineteenth century."
 author:
   - name: Neel Smith

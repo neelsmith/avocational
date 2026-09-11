@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hodge
 
 - [Mary Polly Hodge](./../people/Neel-line/Blanton-line/Saudek-line/Northern-line/Mary_Polly_Hodge.html)

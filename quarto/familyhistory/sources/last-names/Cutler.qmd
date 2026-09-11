@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Cutler
 
 - [James Cutler](./../people/Henderson-line/James_Cutler.html)

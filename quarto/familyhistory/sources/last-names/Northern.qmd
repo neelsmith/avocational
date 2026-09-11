@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Northern
 
 - [Joseph Saudek](./../people/Neel-line/Blanton-line/Saudek-line/Joseph_Saudek.html)

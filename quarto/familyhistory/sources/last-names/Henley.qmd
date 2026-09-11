@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Henley
 
 - [Arsa Luella Rush](./../people/Rush-line/Arsa_Luella_Rush.html)

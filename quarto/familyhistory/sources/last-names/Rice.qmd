@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Rice
 
 - [Anne Rice](./../people/Merrill-line/White-line/Candace-Smith-line/Anne_Rice.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Bailey
 
 - [Benjamin Bailey](./../people/Smith-line/Benjamin_Bailey.html)

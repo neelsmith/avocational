@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Ward
 
 - [Bethia Ward](./../people/Merrill-line/White-line/Candace-Smith-line/Bethia_Ward.html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Blakely
 
 - [Elizabeth Blakely](./../people/Neel-line/Elizabeth_Blakely.html)

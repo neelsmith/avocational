@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Dyer
 
 - [Agnes Reed](./../people/Merrill-line/Dyers/Agnes_Reed.html)

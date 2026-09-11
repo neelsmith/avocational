@@ -1,8 +1,5 @@
----
-engine: julia
----
 
-# Neel Smith: personal site
+# Neel Smith: some hobby projects
 
 
 ## What's here

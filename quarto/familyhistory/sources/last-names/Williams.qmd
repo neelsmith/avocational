@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Williams
 
 - [David Williams Jr.](./../people/Gattis-line/Green-line/Williams-line/David_Williams_Jr..html)

@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Bledsoe
 
 - [Sarah Bledsoe](./../people/Randolph_county_lines/Sarah_Bledsoe.html)

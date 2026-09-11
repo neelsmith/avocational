@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Fuller
 
 - [Archibald Fuller](./../people/Smith-line/Archibald_Fuller.html)

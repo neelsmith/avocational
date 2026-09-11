@@ -1,6 +1,5 @@
 ---
 title: "Taking genealogical notes with Obsidian"
-engine: julia
 description: "Obsidian is where I'm doing it!"
 author:
   - name: Neel Smith

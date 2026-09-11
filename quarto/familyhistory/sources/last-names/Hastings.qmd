@@ -1,7 +1,3 @@
----
-engine: julia
----
-
 # Hastings
 
 - [Joseph Hastings](./../people/Merrill-line/White-line/Candace-Smith-line/Joseph_Hastings.html)
