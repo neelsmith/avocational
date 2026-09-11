@@ -1,6 +1,4 @@
-/.quarto/
-_site/
-_freeze/
+/quarto/quarto-build/
 .DS_Store
 scratch/
 **/*.quarto_ipynb

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: quarto-build
+bibliography: "biblio.bib"
+
+date: last-modified 
+website:
+  site-url: "https://neelsmith.github.io/avocational/"
+  title: "neelsmith"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home  
+      - text: "Posts"
+        file: posts.qmd        
+      - text: "Family history"
+        file: familyhistory/index.qmd    
+      - text: "Sources"
+        file: familyhistory/sources/index.qmd 
+     
+    
+    right:
+      - icon: person-circle
+        menu:
+          - text: "My professional work"
+            href: https://neelsmith.github.io
+        aria-label: Home
+
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
