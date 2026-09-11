@@ -1,0 +1,12 @@
+{
+  "hash": "efacce585f01c3a9d8d3f92bb5756685",
+  "result": {
+    "engine": "julia",
+    "markdown": "---\ntitle: \"Introducing Ebenezer White\"\nengine: julia\ndescription: \"The collection of White family letters starts with Ebenezer.\"\nauthor:\n  - name: Neel Smith\ndate: 2025-04-02\ncategories: [White letters] # self-defined categories\ncitation: \n  url: https://neelsmith.quarto.pub/posts/2025-03-02-ebenezer-white/ \nimage: Ebenezer-tombstone.png\ndraft: true\n---\n\n\n## Ebenezer White\n\nBackground before the letters.\n\n\n- death of father\n- marriage to Candace (where is he resident?)\n- residence in VT: always in Burlington? or in Orleans?\n- birth of children: dates and places (HN birhtplace?)\n- trouble in court\n- debts to Englesby and lease?\n\n- Letters in AAS\n- he is patriarch if that's the right term\n-\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

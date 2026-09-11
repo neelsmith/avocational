@@ -1,0 +1,12 @@
+{
+  "hash": "2705209a45519df714474b3bae292089",
+  "result": {
+    "engine": "julia",
+    "markdown": "---\ntitle: \"Writing from sources\"\nengine: julia\ndescription: \"Writing from sources means publishing transcribed and documented sources first.\"\nauthor:\n  - name: Neel Smith\ndate: 2025-02-22\ncategories: [] # self-defined categories\ncitation: \n  url: https://neelsmith.quarto.pub/posts/2025-02-22-write-from-sources/ \nimage: ../imgs/filled-w-grief.png\ndraft: true\n---\n\n## Writing *from* sources, not *with* sources\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

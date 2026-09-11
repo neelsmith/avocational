@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>neelsmith</title>
+<link>https://neelsmith.github.io/avocational/posts.html</link>
+<atom:link href="https://neelsmith.github.io/avocational/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.33</generator>
+<lastBuildDate>Thu, 20 Mar 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Panton, Vermont: background to reading the White letters</title>
+  <dc:creator>Neel Smith</dc:creator>
+  <link>https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/Gaius.png" class="img-fluid figure-img"></p>
+<figcaption>First household in Gaius A. Collum’s 1850 census records for Panton, Vermont.</figcaption>
+</figure>
+</div>
+<section id="finding-census-locations-on-maps" class="level2">
+<h2 class="anchored" data-anchor-id="finding-census-locations-on-maps">Finding census locations on maps</h2>
+<p>On a mid-October day in 1850, Gaius A. Collum, Assistant Marshall for the U.S. Census, made his way from Panton Village towards Lake Champlain, then headed south along a series of farms bordering the lake. He numbered each residence he visited on that day from 1 to 39 as he recorded their answers to the questions for the 1850 census. Collum followed a path that would be mapped in the mid-1850s by the entrepeneurial cartographer Henry Francis Walling as part of a larger commercial project to produce detailed cadastral maps covering the entire state of Vermont. I have been able to identify locations for about half of the houses where Collum stopped. We can situate these nineteenth-century locations with some confidence thanks to publicly available data sets from the U.S. National Archives<sup>1</sup>, and from digital archives of nineteenth-century maps.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/Oct15-1850.png" class="img-fluid figure-img"></p>
+<figcaption>Gaius Collums’ route on Oct.&nbsp;15, 1850.</figcaption>
+</figure>
+</div>
+<p>Walling’s printed wall maps of Vermont counties were luxe products. His 1857 map of Addison County (where the census district of Panton is located) spanned more than four feet in each dimension, was printed on four sheets that were then mounted on linen backing, and cost $5 per copy, an exorbitant expenditure at the time. There are two printings of the map with slightly different bordering illustrations, both dated to 1857.<sup>2</sup> Both the Library of Congress and the Boston Public Library have digitized copies of the second printing.<sup>3</sup> For this post, I worked with a copy of the BPL’s digitization.<sup>4</sup></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://neelsmith.quarto.pub/personal/familyhistory/sources/images/maps/Addison_County_VT_1857.html"><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/addison-co-1857.png" class="img-fluid figure-img"></a></p>
+<figcaption>Henry Francis Walling, map of Addison County, Vermont, published 1857.</figcaption>
+</figure>
+</div>
+<p>I georeferenced the map to create a version I could work with using longitude-latitude coordinates.<sup>5</sup> Walling’s map includes the surveyed boundary lines of each town in Addison county, most of which are unchanged today. Their clear corners and crossing points provide easy targets to align with modern GIS data from the state of Vermont’s <a href="https://geodata.vermont.gov/search?tags=isothemeboundary%2Cisothemegeodetic%2Cisothemecadastral">Open Geodata Portal</a>, and are ideally spread across the area of Addison county to yield reasonable results from georeferencing. One inescapabale limit to the accuracy that can be achieved, however, are gaps between the four original printed sheets. Unfortunately the village of Panton falls right on the crossing where all four sheets touch.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/route22A.png" class="img-fluid figure-img"></p>
+<figcaption>Overlay of Wallis’ map on modern dataset showing close alignment of georeferenced nineteenth-century road with modern Route 22A.</figcaption>
+</figure>
+</div>
+<p>Nevertheless, the resulting alignment is very usable. In the illustration above, for example, we can see how closely a modern map of Vermont Route 22A aligns with the same road in the georeferenced version of Wallis’ map. We can also see the detailed plotting with labels of every major house and structure Wallis observed. It was appealing to potential buyers to see their own house on the map – and a gold mine for historians more than a century and a half later. With the georeferenced map in place, I followed Collum’s census listings, and matched names in the census record with labels on Walling’s map.</p>
+</section>
+<section id="reading-the-white-letters" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="reading-the-white-letters">Reading the White letters</h2>
+<p>We can now trace Gaius Collum’s route on October 15, 1850, house by house. Here, points are labelled with the number Collum assigned to each house, and the name of the head of household in his census record.</p>
+<div class="page-columns page-full">
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p class="page-columns page-full"><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/map-overlay.png" class="img-fluid figure-img column-page"></p>
+<figcaption>From houses 24 (David Adams) to 31 (Horatio N. White), census taker Collum traveled south alongside the east shore of Lake Champlain.</figcaption>
+</figure>
+</div>
+</div>
+<p>The property at house 31 must have been pleasant: Collum recorded its value as $7,000, a figure exceeded by only 10 of the 56 properties listed with recorded values in the 1850 census for Panton. Collum identified the farmer who lived there as 47-year-old Horatio N. White. This corresponds perfectly with the location of two adjacent buildings that Walling labels “H.N. White Res” and “H.N. White.”</p>
+<p>This is also the same Horatio Nelson White who kept a series of family letters that were passed along by five generations of his descendants until they were donated to the <a href="https://www.americanantiquarian.org">American Antiquarian Society</a> (AAS) in 2024.<sup>6</sup> In a town with a total population of 559 in the 1850 census, Walling’s “H.N. White” identifies him unambiguously, and “H.N. White, Panton, Vermont,” was in fact the normal address his family used in writing to him, as illustrated in this detail of a letter dated to March of 1857, at exactly the time Walling was surveying and publishing his map of Addison county.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/address.png" class="img-fluid figure-img"></p>
+<figcaption>Detail of <a href="https://neelsmith.quarto.pub/personal/familyhistory/sources/images/White_letters-images/IMG_3295.html">this full image</a>: address on the cover of a letter from Henry George White, Buffalo, New York, to his brother, Horatio Nelson White in Panton, Vermont.</figcaption>
+</figure>
+</div>
+<p>Connecting information in documentary sources like census records with geographic information can illuminate many aspects of the White letters. For a very simple first example, I will mention the marriage of Horatio Nelson’s son, William E. White, to Ellen Grandey.<sup>7</sup> The Vermont state archives <a href="https://neelsmith.quarto.pub/personal/familyhistory/sources/transcriptions/marriages/William_White_-_Ellen_Grandey_marriage.html">records their marriage on November 19, 1859</a>, and helpfully gives us the names of the bride’s parents, Truman and Polly Grandey.</p>
+<p>The US Census of 1850 was the first to list individuals by name (rather than just counts of individuals in various categories), so we can follow changes in the makeup of households from decade to decade. In 1850, 14-year-old William White was living with his parents and five siblings. One Truman Grandy and his wife Polly have a daughter Ellen, then age 8. Ten years later, we find William and Ellen together, and a check in the final column illustrated here indicates “Married within the year”.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/newlywed.png" class="img-fluid figure-img"></p>
+<figcaption>1860 census entries for William E. and Ellen White checking their status as newlyweds.</figcaption>
+</figure>
+</div>
+<p>Like the Whites, the Grandys also lived in Panton: Horatio Nelson and his family were house 31 on Collum’s itinerary, the Grandys were house 44. Only when we find them both on H.F. Walling’s map is it obvious that Collum’s route from house 31 to house 44 twisted and turned through a cluster of residences at a small crossroads. Despite the large separation in numbering from 31 to 44, the Grandys and Whites were in fact separated only by the distance of a couple of farms. We’ll never know exactly how William and Ellen met, but we’re now free to imagine all the possibilities of two neighboring farming families in a small town in nineteenth-century Vermont.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/White-Grandy.png" class="img-fluid figure-img"></p>
+<figcaption>Relative location of White and Grandy families, houses 31 and 44 in the 1850 census for Panton.</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>The National Archives curates the original census sheets, and oversees a digitization program in collaboration with commercial partners. See the National Archives’ guide to working with <a href="https://www.archives.gov/research/census/online-resources">census records online</a>.↩︎</p></li>
+<li id="fn2"><p><a href="https://www.old-maps.com/blog/mapping-vermont-in-the-1850s/">This post</a> (attribued only to “admin”) from old-maps.com, provides helpful background on Walling’s mapping of Vermont: “Mapping Vermont in the 1850s”, February 19. 2014, https://www.old-maps.com/blog/mapping-vermont-in-the-1850s/, accessed March 20, 2025. A PDF on the same site has more detail including a discussion of the two printings of the Addison County map: Dave Allen, “<a href="https://www.old-maps.com/vermont/00_VT_WALLMAPSoptimized.pdf">Preliminary Notes on the Vermont County Maps</a>”, Feb.&nbsp;15 2006/May 2007, https://www.old-maps.com/vermont/00_VT_WALLMAPSoptimized.pdf, accessed March 20, 2025.↩︎</p></li>
+<li id="fn3"><p>Digitizations of the second version of Walling’s map of Addison county:</p>
+<ul>
+<li>at <a href="https://www.loc.gov/resource/g3753a.la001181a/">the Library of Congress</a></li>
+<li>at <a href="https://collections.leventhalmap.org/search/commonwealth:wd376466z">the Boston Public Library</a></li>
+</ul>
+↩︎</li>
+<li id="fn4"><p>Walling, Henry Francis. “Map of Addison County, Vermont.” Map. Boston: Baker &amp; Tilden, 1857.&nbsp;<em>Norman B. Leventhal Map &amp; Education Center</em>, <a href="https://collections.leventhalmap.org/search/commonwealth:wd376466z">https://collections.leventhalmap.org/search/commonwealth:wd376466z</a> (accessed March 20, 2025).↩︎</p></li>
+<li id="fn5"><p>I may add a DIY post later on how I did this, but you can download the resulting file in GeoTIFF format <a href="https://dl.dropbox.com/scl/fi/4uhisdr9iwp1bg9aywfk9/commonwealth_wd376466z_image_primary_wgs84ll.tif?rlkey=iy7erqstmygtnm52kn39zr8ik&amp;st=l169peps&amp;dl=1">here</a> if you want to use Walling’s map in a GIS now.↩︎</p></li>
+<li id="fn6"><p>The collection of 38 letters is available for research use in the AAS in Worcester, identified as catalog record <code>617483</code>. I’m tagging posts on this site that discuss the letters with the tag <a href="https://neelsmith.quarto.pub/personal/posts.html#category=White%20letters"><code>White letters</code></a>.↩︎</p></li>
+<li id="fn7"><p>I’ll look at what we can learn from the full set of documents contextualizing their marriage in a later note.↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{smith2025,
+  author = {Smith, Neel},
+  title = {Panton, {Vermont:} Background to Reading the {White} Letters},
+  date = {2025-03-20},
+  url = {https://neelsmith.quarto.pub/posts/2025-03-20-panton-vermont/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-smith2025" class="csl-entry quarto-appendix-citeas">
+Smith, Neel. 2025. <span>“Panton, Vermont: Background to Reading the
+White Letters.”</span> March 20. <a href="https://neelsmith.quarto.pub/posts/2025-03-20-panton-vermont/">https://neelsmith.quarto.pub/posts/2025-03-20-panton-vermont/</a>.
+</div></div></section></div> ]]></description>
+  <category>White letters</category>
+  <category>Panton VT</category>
+  <guid>https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/</guid>
+  <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://neelsmith.github.io/avocational/posts/2025-03-20-panton-vermont/Panton-map.png" medium="image" type="image/png" height="90" width="144"/>
+</item>
+<item>
+  <title>A cheatsheet for reading the White family letters</title>
+  <dc:creator>Neel Smith</dc:creator>
+  <link>https://neelsmith.github.io/avocational/posts/2025-03-06-white-letters-cheatsheet/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="white-letters-whos-who" class="level2">
+<h2 class="anchored" data-anchor-id="white-letters-whos-who">White letters: who’s who</h2>
+<p>I’m about halfway through initial transcriptions of the <a href="https://neelsmith.quarto.pub/personal/familyhistory/whiteletters/">White letters</a>, and so far have encountered references to twenty-four different members of the White family spread across three generations. Nicknames, preference for middle or first names and accompanying free variation in the order of names, and generosity in honoring other family members with repeated names can make these difficult to keep straight. James Herbert White appears in census records as “James H.” but can be “Bertie” in letters. I have not seen any instance of Candace Myra White’s full name: she can be Candace M., Myra C., or just Myra (or Mira). Hirams, Georges and Henrys all proliferate across many generations of the White family.</p>
+<p>I’ve put together this summary chart to help me or anyone else who dips into the letters. It is (intentionally) <em>not</em> a complete family tree: it shows the family relations only of names I have found in the letters, all of which fall between 1842 and 1860. Other family members (whether previously deceased, not yet born or married into the family, or simply not mentioned in the letters) do not appear here.</p>
+<p><strong>Color key</strong>:</p>
+<ul>
+<li>orange background: recipients of letters</li>
+<li>yellow background: writers of letters</li>
+</ul>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">graph LR
+
+Ebenezer(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Ebenezer_White.html'&gt;Ebenezer White&lt;/a&gt;&lt;br/&gt;1779-1843"]) --&gt; m1{{"m. 1802"}}
+Candace(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Candace-Smith-line/Candace_Smith.html'&gt;Candace Smith&lt;/a&gt;&lt;br/&gt;1783-1850"]) --&gt; m1
+
+Syrena(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Syrena_Adams.html'&gt;Syrena Adams&lt;/a&gt;&lt;br/&gt;1808-1876"]) --&gt; m2{{" "}}
+m1 --&gt; Horatio(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Horatio_Nelson_White.html'&gt;Horatio Nelson White&lt;/a&gt;&lt;br/&gt;1802-1886"])
+Horatio --&gt; m2
+
+
+m2 --&gt; Friend(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Friend_Adams_White.html'&gt;Friend Adams White&lt;/a&gt;&lt;br/&gt;1833-1895"])
+m2 --&gt; FrancesE(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Frances_E._White.html'&gt;Frances E. White&lt;/a&gt;&lt;br/&gt;1834-1911"])
+m2 --&gt; WilliamE(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/William_E._White.html'&gt;William E. White&lt;/a&gt;&lt;br/&gt;1837-1902"])
+m2 --&gt; GeorgeA(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Henry_George_White_2.html'&gt;Henry George White&lt;/a&gt;&lt;br/&gt;1838-1862"])
+m2 --&gt; CandaceWhite(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Candace_White.html'&gt;Candace White&lt;/a&gt;&lt;br/&gt;1842-1930"])
+
+
+
+
+
+
+
+m1 --&gt; Adaline(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Adaline_White.html'&gt;Adaline White&lt;/a&gt;&lt;br/&gt;1806-1890"])
+
+m1 --&gt; Artemas(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Artemas_White.html'&gt;Artemas White&lt;/a&gt;&lt;br/&gt;1810-1888"])
+
+Lydia(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Adaline_White.html'&gt;Lydia Brumley&lt;/a&gt;&lt;br/&gt;1811-1882"]) --&gt; m3{{" "}}
+Artemas --&gt; m3
+
+
+
+m3 --&gt; MaryElla(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Mary_Ella_White.html'&gt;Mary Ella White&lt;/a&gt;&lt;br/&gt;1834 - ?"])
+m3 --&gt; CandaceM(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Candace_Myra_White.html'&gt;Candace Myra White&lt;/a&gt;&lt;br/&gt;1845 - ?"])
+m3 --&gt; Frederick(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Frederick_D._White.html'&gt;Frederick D. White&lt;/a&gt;&lt;br/&gt;1851-1938"])
+m3 --&gt; HiramWhite(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Hiram_White.html'&gt;Hiram White&lt;/a&gt;&lt;br/&gt;d. 1851"])
+
+
+AnnQ(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Ann_Quayle.html'&gt;Ann Quayle&lt;/a&gt;&lt;br/&gt; - 1860"]) --&gt; m4{{"m. 1840"}}
+m1 --&gt; HG(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Henry_George_White.html'&gt;Henry George White&lt;/a&gt;&lt;br/&gt;1814-1902"])
+HG --&gt; m4
+
+m4 --&gt; GeorgeW(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/George_W._White.html'&gt;George W. White&lt;/a&gt;&lt;br/&gt;1841-1914"])
+m4 --&gt; CharlesH(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Charles_H._White.html'&gt;Charles H. White&lt;/a&gt;&lt;br/&gt;1844-1915"])
+
+m4 --&gt; JamesH(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/James_Herbert_White.html'&gt;James H. White&lt;/a&gt;&lt;br/&gt;1855-1929"])
+
+
+m1 --&gt; Hiram(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Hiram_Smith_White.html'&gt;Hiram Smith White&lt;/a&gt;&lt;br/&gt;1817-1893"])
+
+
+Hiram --&gt; m5{{" "}}
+Cynthia(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Cynthia_Sawyer.html'&gt;Cynthia Sawyer&lt;/a&gt;&lt;br/&gt;1820-1889"]) --&gt; m5
+
+
+
+m5 --&gt; HenryS(["&lt;a href='https://neelsmith.quarto.pub/personal/familyhistory/sources/people/Merrill-line/White-line/Henry_Sawyer_White.html'&gt;Henry Sawyer White&lt;/a&gt;&lt;br/&gt;1841-1917"])
+
+
+
+classDef marriage font-style: italic
+class m1,m2,m3,m4,m5 marriage
+
+classDef recipient fill: #FFDBBB
+class Horatio,Frederick recipient
+
+classDef sender fill: lightyellow
+class Artemas,HG,Ebenezer,Hiram sender
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="linked-information" class="level2">
+<h2 class="anchored" data-anchor-id="linked-information">Linked information</h2>
+<p>The links on each name lead to automatically generated pages. These pages list source material that I have both transcribed (including material outside the White letters) and indexed to the individual, and summarize conclusions about the chronology and family relations of the individual that can be derived from the transcribed sources. Transcribing and indexing each source is slow work, but it means that automated summaries for each person cannot present conclusions without some underlying documentary evidence. As I continue to work on documenting the individuals listed here, I hope that the automated aggregation of source material will be increasingly useful to readers of the White letters or others interested in topics of family or local history involving members of the White family.</p>
+</section>
+<section id="follow-the-projects-progress" class="level2">
+<h2 class="anchored" data-anchor-id="follow-the-projects-progress">Follow the project’s progress</h2>
+<p>I’m using the tag <code>White letters</code> as I post new content about the White family letters project. You can either look for the tag on <a href="../../posts.html">the list of posts</a>, or follow a direct link to <a href="../../posts.html#category=White letters"><code>White letters</code></a>.</p>
+<p>If you’re interested in how I manage the information to generate this web site, I’ll use the tag <a href="../../posts.html#category=DIY history"><code>DIY history</code></a> for posts on that topic.</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{smith2025,
+  author = {Smith, Neel},
+  title = {A Cheatsheet for Reading the {White} Family Letters},
+  date = {2025-03-06},
+  url = {https://neelsmith.quarto.pub/posts/2025-03-06-white-letters-cheatsheet/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-smith2025" class="csl-entry quarto-appendix-citeas">
+Smith, Neel. 2025. <span>“A Cheatsheet for Reading the White Family
+Letters.”</span> March 6. <a href="https://neelsmith.quarto.pub/posts/2025-03-06-white-letters-cheatsheet/">https://neelsmith.quarto.pub/posts/2025-03-06-white-letters-cheatsheet/</a>.
+</div></div></section></div> ]]></description>
+  <category>White letters</category>
+  <guid>https://neelsmith.github.io/avocational/posts/2025-03-06-white-letters-cheatsheet/</guid>
+  <pubDate>Thu, 06 Mar 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://neelsmith.github.io/avocational/posts/2025-03-06-white-letters-cheatsheet/white-tree.png" medium="image" type="image/png" height="134" width="144"/>
+</item>
+<item>
+  <title>Introducing the White letters project</title>
+  <dc:creator>Neel Smith</dc:creator>
+  <link>https://neelsmith.github.io/avocational/posts/2025-03-04-intro-white-letters/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="documenting-life-in-nineteenth-century-new-england" class="level2">
+<h2 class="anchored" data-anchor-id="documenting-life-in-nineteenth-century-new-england">Documenting life in nineteenth-century New England</h2>
+<p><img src="https://neelsmith.github.io/avocational/posts/imgs/filled-w-grief.png" class="img-fluid"></p>
+<p>I’m beginning the blog section of this personal website with a project that promises to keep me busy for a while. The focus is a collection of unpublished letters now in the American Antiquarian Society in Worcester (AAS) to and from members of the family of Ebenezer White (1779-1853) in the mid-nineteenth century.<sup>1</sup> The letter writers include farmers, grocers, a former ferry pilot, and failed forty-niners. Although Ebenezer’s eldest son Horatio Nelson White achieved some local prominence as a civic leader in the town of Panton and his younger brother Henry George White earned recognition for his work in the stained glass industry in Buffalo, New York, the Whites were not famous or always prosperous: much of the correspondence in fact centers on Ebenezer’s constant challenges trying to scratch out a living in Vermont, and of his sons’ attempts to find a better life somewhere else.</p>
+<p>These very ordinary people are documented in a treasure of sources I could only fantasize about when I was working professionally as a scholar of the ancient Mediterranean world. The Vermont Historical Society in Burlington holds a collection of the business papers of Ebenezer and his son Hiram. The complete inventory of Ebenezer’s possesions when he died intestate was an accounting nightmare (and a source of tension in letters among Ebenezer’s sons), but the archival records of the court proceedings offer us a rich trove of material. Nineteenth-century newspapers fill in and confirm details of their lives. To those existing sources, I’m contributing transcriptions of the letters, and will post notes about them here as I work through the sources.</p>
+<p>For starters, I’ve put together a <a href="../../familyhistory/whiteletters/">brief overview with a checklist of the letters</a>. Links in those notes lead to automatically assembled pages pulling together other documentary sources I have transcribed and indexed to individuals appearing in the White letters. If the clusters of documents sometime seem haphazard, I hope they will make more sense as the body of transcribed material grows.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>aas↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{smith2025,
+  author = {Smith, Neel},
+  title = {Introducing the {White} Letters Project},
+  date = {2025-03-04},
+  url = {https://neelsmith.quarto.pub/posts/2025-03-04-intro-white-letters/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-smith2025" class="csl-entry quarto-appendix-citeas">
+Smith, Neel. 2025. <span>“Introducing the White Letters Project.”</span>
+March 4. <a href="https://neelsmith.quarto.pub/posts/2025-03-04-intro-white-letters/">https://neelsmith.quarto.pub/posts/2025-03-04-intro-white-letters/</a>.
+</div></div></section></div> ]]></description>
+  <category>White letters</category>
+  <category>DIY history</category>
+  <guid>https://neelsmith.github.io/avocational/posts/2025-03-04-intro-white-letters/</guid>
+  <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://neelsmith.github.io/avocational/posts/imgs/filled-w-grief.png" medium="image" type="image/png" height="67" width="144"/>
+</item>
+</channel>
+</rss>

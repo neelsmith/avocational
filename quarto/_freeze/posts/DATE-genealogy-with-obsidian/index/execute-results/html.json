@@ -1,0 +1,12 @@
+{
+  "hash": "3ce4b455fd25a8bf6b9332f37fc5812d",
+  "result": {
+    "engine": "julia",
+    "markdown": "---\ntitle: \"Taking genealogical notes with Obsidian\"\nengine: julia\ndescription: \"Obsidian is where I'm doing it!\"\nauthor:\n  - name: Neel Smith\ndate: 2025-03-08\ncategories: [DIY history, Obsidian] # self-defined categories\ncitation: \n  url: https://neelsmith.quarto.pub/posts/DATE-genealogy-with-obsidian/ \nimage: ../imgs/filled-w-grief.png\ndraft: true\n---\n\n\n- use many sources like ancestry.com to identify source material\n- do the work in Obsidian\n\nObsidian contents:\n\n- transcriptions (many kinds)\n- working pages on individuals\n- images\n\nNavigational aid:\n\nlast-names directory\n\nIndexing and tagging:\n\n- cataloged-claims\n- tagging conclusions\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

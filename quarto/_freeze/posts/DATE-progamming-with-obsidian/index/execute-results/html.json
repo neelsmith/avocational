@@ -1,0 +1,12 @@
+{
+  "hash": "5669b27e912a56bf25a6ac0eec30e604",
+  "result": {
+    "engine": "julia",
+    "markdown": "---\ntitle: \"Reading an Obsidian vault with code\"\nengine: julia\ndescription: \"Two Julia packages make it easy to validate and publish my genealogical data sets.\"\nauthor:\n  - name: Neel Smith\ndate: 2025-03-08\ncategories: [DIY history, Obsidian, Julia] # self-defined categories\ncitation: \n  url: https://neelsmith.quarto.pub/posts/DATE-genealogy-with-obsidian/ \nimage: ../imgs/filled-w-grief.png\ndraft: true\n---\n\n- Published package for Obsidian vaults generally:\n- Unpublished package built on it and tailored to the idiosyncracies of my genealogical note taking\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
