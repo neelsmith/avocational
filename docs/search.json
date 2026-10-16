@@ -26779,7 +26779,7 @@
     "href": "code/index.html",
     "title": "Code",
     "section": "",
-    "text": "Some coding projects (mostly written by Claude):\n\nimageviewer: light-table and image browsing apps in self-contained HTML files"
+    "text": "Some coding projects (mostly written by Claude):\n\nimageviewer: light-table and image browsing apps in self-contained HTML files\naudioplayer: a self-contained HTML file to browse and play audio files in a local file system"
   },
   {
     "objectID": "index.html",
