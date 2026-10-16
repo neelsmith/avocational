@@ -1,0 +1,7 @@
+---
+title: "Code"
+---
+
+Some coding projects (mostly written by Claude):
+
+- [imageviewer](https://github.com/neelsmith/imageviewer): light-table and image browsing apps in self-contained HTML files
