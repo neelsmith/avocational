@@ -19,7 +19,9 @@ website:
         file: familyhistory/index.qmd    
       - text: "Sources"
         file: familyhistory/sources/index.qmd 
-     
+      - text: "Code"
+        file: code/index.qmd 
+          
     
     right:
       - icon: person-circle
