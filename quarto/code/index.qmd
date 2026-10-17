@@ -2,7 +2,17 @@
 title: "Code"
 ---
 
-Some coding projects (mostly written by Claude):
+## Some recent coding projects
+
+(Most of this code was written by Claude.)
+
+Annotate media files:
 
 - [imageviewer](https://github.com/neelsmith/imageviewer): light-table and image browsing apps in self-contained HTML files
 - [audioplayer](https://github.com/neelsmith/audioplayer): a self-contained HTML file to browse and play audio files in a local file system
+
+
+Calendrically scheduled readings:
+
+- [rcl](https://github.com/neelsmith/rcl): data resources and a web app for reading in the Revised Common Lectionary.
+- [parshah](https://github.com/neelsmith/parshah):  data resources and a web app for the weekly parshah and haftarah readings.
