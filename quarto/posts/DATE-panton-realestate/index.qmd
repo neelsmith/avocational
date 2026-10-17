@@ -6,7 +6,7 @@ author:
 date: 2025-03-20
 categories: [White letters, Panton VT] 
 citation: 
-  url: https://neelsmith.quarto.pub/posts/DATE-panton-realestate/
+  url: https://neelsmith.github.io/posts/DATE-panton-realestate/
 image: Panton-map.png
 draft: true
 ---
